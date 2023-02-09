@@ -1,0 +1,67 @@
+---
+tags: transcript
+aliases:
+youtube_id: zpGrU99fAA8
+---
+
+<div class="yt-container"><iframe src="https://www.youtube.com/embed/zpGrU99fAA8"></iframe></div>
+
+what about darien eggs and other animal products you know i grew up on a heavy meat diet and loved animals and didn't recognize those were incongruent and then i saw a slaughter truck and i saw animals in the most terrible conditions and it was really horrifying for me i was 9 ask my parents about it and they said that's where hamburgers came from and that was the beginning of my animal rights journey in the last time i ate [26](https://www.youtube.com/watch?v=zpGrU99fAA8&t=26.06s)
+
+meat and i found john robbins book diet for a new america and got into it and got into pitas working but i still ate dairy and eggs for some years wasn't oz 15 that i became vegan because in my mind was like well i'm not hurting the animal right and but not right there's a couple things that are important to note here on the dairy topic first if we look at factory farms all animals and factory [52](https://www.youtube.com/watch?v=zpGrU99fAA8&t=52.579s)
+
+farms whether we're consuming their body or byproducts from their body are seen as a commodity where we're trying to maximize the output of the sellable commodity for the least amount of money in which means the least amount of care space etc and there's just really grotesque cruelty throughout the whole process if you want to have a look at what dairy cows lives are like the [71](https://www.youtube.com/watch?v=zpGrU99fAA8&t=71.84s)
+
+hormones that they're pumped full of to produce extra milk the way their babies are taken from them early i mean on and on have youtube videos on what the life of industrial dairy looks like it's nothing like the small farms that people imagine but then let's even go to that small farm model rate here's the fundamental challenge with dairy even if it's done as well as it can be done is [95](https://www.youtube.com/watch?v=zpGrU99fAA8&t=95.24s)
+
+in order for a cow to be producing milk it has to have a baby and the milk is intended for the baby if the baby gets to drink the milk and we aren't getting the commodity from it that we can sell and yet we still have to pay for the feed to support that cow and so we take the cows with a goat or whatever it is away from the mom either at the very beginning or prematurely and they get [118](https://www.youtube.com/watch?v=zpGrU99fAA8&t=118.76s)
+
+raised on formula so that we can get the milk and that's all of all of the developmental problems for the baby cow all the emotional issues you know that would develop between the two of them that's a fundamental unavoidable kind of ethics issue right there and then the second thing is that half of those babies are going to be male cow and that means that even if this is a [138](https://www.youtube.com/watch?v=zpGrU99fAA8&t=138.41s)
+
+dairy where the female cows could grow up and become part of this dairy the male cows can't be part of this dairy and again there's a cost to support their life and that cost can't be justified if there's no return on investment there so they all get sold to slaughter whether they're slaughtered they're slaughtered somewhere else so there really is no dairy without [155](https://www.youtube.com/watch?v=zpGrU99fAA8&t=155.39s)
+
+slaughter right the fact that the milk requires babies and that the babies you know half are going to be male guarantees slaughtered in the process in the modern industrial version most of that looks like veal and some of the most terrible kinds of animal cruelty but even in the kindest versions of it slaughter is intimately tied with it and so i don't see any way to do dairy that [177](https://www.youtube.com/watch?v=zpGrU99fAA8&t=177.5s)
+
+doesn't support things that again have that same fundamental ethic of you have to make their life matter so much less for something relatively trivial for us when we look at eggs again commercial egg farming is as atrocious as every other form of commercial animal husbandry but let's imagine that we're talking about a local little farm and first i do want to state that if [204](https://www.youtube.com/watch?v=zpGrU99fAA8&t=204.92s)
+
+something says farm-fresh eggs or cage free eggs that doesn't mean that it's not industrial farming you can have cage free meaning they're not in battery cages but they're still packed into the tiniest environment you know etc so if you're thinking that you're doing eggs that come from a healthy little farm you've really got to double-check what the sourcing on that is if someone is in [224](https://www.youtube.com/watch?v=zpGrU99fAA8&t=224.96s)
+
+the graduation process of eating less animal products they're kind of having a wake up on that and yet they don't feel totally ready for whatever reason is nutrition or otherwise to be a hundred percent vegan yet eggs are the thing that i would i would be happiest with them to eat you know as a transitional food eggs from a local small sustainable kind of farm and here's kind of the [247](https://www.youtube.com/watch?v=zpGrU99fAA8&t=247.25s)
+
+whole breakdown with regard to that if chickens or whatever animal you're getting eggs from but most commonly chickens if they're allowed to have a natural life where we're not constraining it too much then they're gonna be mating and those are all gonna be fertilized and they're gonna want to protect those eggs to not get away from them you're gonna be taking animals too [269](https://www.youtube.com/watch?v=zpGrU99fAA8&t=269.21s)
+
+you know would otherwise taking eggs that would become animals otherwise and so there's the ethic kill thing in that and that's you know that's a an ethical problem on the same kind of order as the previous ones if you keep the rooster away from the chickens then it's unfertilized eggs and there's not a huge kind of ethical harm to it intrinsically but i'll tell you where kind of the [295](https://www.youtube.com/watch?v=zpGrU99fAA8&t=295.4s)
+
+boundary issues are here we have to constrain that animal's life where we don't ever give it the opportunity to mate or to interact in what would really be a natural way for it and even if we're doing that and what looks like a pretty kind environment we still ask that that would i trade places with them kind of thing if you were kept in an environment that where you were fed and [318](https://www.youtube.com/watch?v=zpGrU99fAA8&t=318.02s)
+
+you were well taken care of but you were never allowed around the opposite gender allowed to mate like you wouldn't consider that a good deal it would be a better deal than a torturous one and so anytime we relate with animals where we are modifying what their nature is to make them fulfill a purpose for us there's ethical questions that come up and honestly these even extend them to [336](https://www.youtube.com/watch?v=zpGrU99fAA8&t=336.76s)
+
+how we relate to what we call pets horses dogs cats when you start to get into issues like hey if they keep breeding and we're killing in shelters this is a real problem but neutering would you want to be in a position where that had to happen and these are really the boundary zone questions right these are well hey is that animal getting some enhancement in its life experience [356](https://www.youtube.com/watch?v=zpGrU99fAA8&t=356.57s)
+
+because of us or because it's been so domesticated and hybridized that it couldn't live in nature anymore it's just now just something we have to deal with and i'm gonna say these are things to just feel into but the bottom line here is that if you commodify an animal where the animal or its byproducts becomes a commodity for us then you are going to constrain the way that it lives [375](https://www.youtube.com/watch?v=zpGrU99fAA8&t=375.56s)
+
+alter it in ways that it doesn't like that you wouldn't like to trade places with and there are going to be some ethical considerations around that so you know this is why i choose veganism don't need eggs if i was going to eat some animal product it would be eggs and i'd be really cautious about where they came from and i think one point on this that's worth noting is that when someone [395](https://www.youtube.com/watch?v=zpGrU99fAA8&t=395.78s)
+
+says you know what for me the ethics of eating an egg from a small farm like i can live with that it's important to then hold from a small farm and not just say oh i eat eggs because there's one way of doing it that's okay so that means when i'm out in the restaurant i well even though in a restaurant it's coming from you know a battery cage or even if you say you know [416](https://www.youtube.com/watch?v=zpGrU99fAA8&t=416.66s)
+
+what i could hunt i'm okay with that but i'm really not okay with factory farms and really own what that means when you go to a restaurant or a friend's house right and what your supply and demand means and that to where if you're gonna draw lines that aren't all the way at veganism make sure you really hold to your own ethical lines what about eating honey i think that honey is an animal [436](https://www.youtube.com/watch?v=zpGrU99fAA8&t=436.55s)
+
+by-product that's the easiest for people that don't eat animal products for ethical reasons to still continue to eat because of all the issues with these in terms of calm colony collapse and their inability to survive currently with gmos and pesticides why is it still important for people to consider how and when they eat honey you know i think with honey there's a few reasons why some people [463](https://www.youtube.com/watch?v=zpGrU99fAA8&t=463.4s)
+
+might think of it differently one is the more different another creature is than us the harder it is for us to extend our empathy because the harder it is for us to recognize that it might experience anything like we experienced and so empathy is a process of progressive widening to be able to recognize our interconnectedness and our sameness with more things right so extending all the [485](https://www.youtube.com/watch?v=zpGrU99fAA8&t=485.75s)
+
+way down to insects insects don't necessarily elicit the same emotional responses and most people that mammals do but it also doesn't mean that their life doesn't matter and obviously we know that for the pollinators our life depends on their life continuing in terms of maintaining the ecosystem and plant life with regard to honey the way that we relate to the bees and [509](https://www.youtube.com/watch?v=zpGrU99fAA8&t=509.84s)
+
+the way that we relate to their hive and the way that we gather the honey is what really determines the ethics of it in my eyes because i don't have an ethic around not interacting with animal products i mean if an animal died of natural causes and if someone wanted to eat it at no ethical issue whether it's a good idea or good for them or not no suffering was caused for doing that i [533](https://www.youtube.com/watch?v=zpGrU99fAA8&t=533.7s)
+
+have an ethic around causing unnecessary harm right and so in the process of creating honey very often times there's the animal the the bees are commodified in a way where the colony is damaged bees are killed there's no real respect for their life process and that's through how the antibiotics are pumped into them it's through the process of smoking them out to get them to move [560](https://www.youtube.com/watch?v=zpGrU99fAA8&t=560.49s)
+
+from one hive to gather the honey but there are beekeeping practices that recognize that bees are surplus creators they're one of the few things in nature that creates surplus and that even if they have more honey than they're gonna use for a long time they just keep doing it that's what they do and that we can take from that surplus without really bothering their life without harming [577](https://www.youtube.com/watch?v=zpGrU99fAA8&t=577.649s)
+
+them if that's the beekeeping practice i have no problem with it and if that's really supports people to support bees it happens me that those practices also go along with what will help bees resist colony collapse disorder much of the colony collapse disorder has to do a very hybridized species of bees that have less robust immune systems because [599](https://www.youtube.com/watch?v=zpGrU99fAA8&t=599.79s)
+
+we've hybridized them for being able to pollinate very productively specific kinds of plants and like that obviously it has most to do with the neonicotinoid pesticides and other factors that have affected them so the organic farming of bees that both keeps them off of pesticide crops that has a diverse variety of bee species or less hybridized bee species and the harvest [625](https://www.youtube.com/watch?v=zpGrU99fAA8&t=625.709s)
+
+the honey and a more considerate way to them i don't have an ethics issue with and i actually think is a good example of human-animal symbiosis where we get to mutually benefit each other but again if a human is going to choose to consume honey they they need to stand the line and be certain that they're only eating honey that yes from these that that were treated fairly and that's usually going [646](https://www.youtube.com/watch?v=zpGrU99fAA8&t=646.72s)
+
+to say raw it's gonna say organic and typically if you can find locally produced honey you've got a lot of nutritional benefits that come in terms of pollen inoculation and like that for many people with locally produced honeys but if you can even go check out how they do it that's a great thing

@@ -1,0 +1,117 @@
+---
+tags: transcript
+aliases:
+youtube_id: Fl8pGMjM9kM
+---
+
+<div class="yt-container"><iframe src="https://www.youtube.com/embed/Fl8pGMjM9kM"></iframe></div>
+
+we'll go back to the gerard zing and we'll come back here why are we neonus why are we embryonic for so long because are we did we just move from the savannah to the arctic and we need to learn new stuff if we came genetically programmed we would not be able to do that are we throwing spears or are we fishing or are we running an industrial [[supply chain]] or are we texting what is the adaptive behavior horses today in the wild and horses 10 000 years ago are doing pretty much the same stuff and so since we make tools and we evolve our tools and then change our environments so quickly and other animals are largely [38](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=38.559s)
+
+the result of their environment but we're environment modifying so rapidly we need to come without too much programming so we can learn the environment we're in learn the language right which is going to be very important learn the tool making learn the um and so we have a very long period of relative helpless [58](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=58.239s)
+
+of helplessness because we aren't coded how to behave yet because we're imprinting a lot of software on how to behave that is useful to that particular time so our mimesis is not it's not unique to humans but the total amount of it is really unique and this is also where the uniqueness can go up right is because we are less just the result of the genetics and [76](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=76.88s)
+
+that means the kind of learning through history that they got coded in genetics and more the result of it's almost like our hardware selected for software right like if evolution is kind of doing these think of as a hardware selection i have problems with computer metaphors for biology but i'll use this one here um that [96](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=96.24s)
+
+we have not had hardware changes since the beginning of sapiens but our world is really really different and that's all changes in software right changes in on the same fundamental genetic substrate what we're doing with these brains and minds and bodies and social groups and like that and so um [118](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=118.0s)
+
+now gerard specifically was looking at when we watch other people talking so we learn language you and i would have a hard time learning mandarin today or it would take a lot of work we'd be learning how to conjugate verbs and stuff but a baby learns it instantly without anyone even really trying to teach it just through mimesis so it's a it's a powerful thing they're obviously [139](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=139.599s)
+
+more neuroplastic than we are when they're doing that and all their attentions allocated that but they're also learning how to move their bodies and they're learning all kinds of stuff through mimesis one of the things that gerard says is they're also learning what to want and they learn what to want they learn desire by watching what other people [156](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=156.959s)
+
+want and so intrinsic to this people end up wanting what other people want and if we can't have what other people have without taking it away from them then that becomes a source of conflict so the mimesis of desire is the fundamental generator of conflict and that then the conflict energy within a group of [177](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=177.2s)
+
+people will build over time this is a very very crude interpretation of the theory can we just pause on that for people who are not familiar and for me who hasn't i'm loosely familiar but i haven't internalized it but every time i think about it it's a very compelling view of the world whether it's true or not [195](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=195.28s)
+
+it's quite it's like when you take everything freud says as truth is a very interesting way to think about the world in the same way thinking about the memetic theory of desire that everything we want is imitation of other people's wants we don't have any original wants we're constantly imitating others and so and not just others but you know others [226](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=226.4s)
+
+were exposed to so there's these like little local pockets however defined local of people like imitating each other and uh one that's super empowering because then you can pick which group you can join like what what do you want to imitate it's it's uh it's the old like uh you know whoever [245](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=245.68s)
+
+your friends are that's what your life is going to be like that's really powerful i mean it's depressing that we're so unoriginal but it's also liberating in that if this holds true that we can choose our life by choosing the people we hang out with so okay thoughts that are very compelling that seem like they're more absolute than they [268](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=268.0s)
+
+actually are end up also being dangerous communism um i'm gonna discuss here where i think we need to amend this particular theory but specifically you just said something that everyone who's paid attention knows is true experientially which is who you're around affects who you become and as as libertarian and [287](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=287.52s)
+
+self-determining and sovereign as we'd like to be um everybody i think knows that if you got put in a maximum security prison aspects of your personality would have to adapt or you wouldn't survive there right you would become different if you were if if you grew up in darfur versus finland you would be different with your [307](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=307.36s)
+
+same genetics like just there's no real question about that um and that even today if you hang out in a place with ultra marathoners as your roommates or all people who are obese as your roommates the statistical likelihood of what happens to your fitness is pretty clear right like the behavioral science of this is pretty clear [326](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=326.88s)
+
+so uh the whole saying we are the average of the five people we spend the most time around i think the more self-reflective someone is the more time they spend by themselves in self-reflection the less this is true but it's still true so one of the best things someone can do to become more self-determined is be self-determined about the environments [344](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=344.96s)
+
+they want to put themselves in because to the degree that there is some self-determination and some determination by the environment don't be fighting an environment that is predisposing you in bad directions try to put yourself in an environment that is predisposing the things that you want in turn try to affect the environment in [359](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=359.68s)
+
+ways that predispose positive things for those around you or perhaps also to there there's probably interesting ways to play with this you could probably put yourself like form connections that have this perfect tension in all directions to where you're actually free to decide whatever the heck you want because the set of wants within your circle of interactions is so conflicting that you're free to choose whichever one so if there's enough tension as opposed to everybody align like a flock of birds yeah you i mean you definitely want that all of the dialectics would be balanced [396](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=396.479s)
+
+um so if you have someone who is extremely oriented to self-empowerment and someone who is extremely oriented to kind of empathy and compassion both the dialectic of those is better than either of them on their own um if you have both of them inhabiting being inhabited better than you by the same person spending time around that [416](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=416.8s)
+
+person will probably do well for you i think the thing you just mentioned is super important when it comes to cognitive schools which is i think one of the fastest things people can do to improve their learning and they're not just cognitive learning but their meaningful problem-solving communication [436](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=436.8s)
+
+and civic capacity capacity to participate as a citizen with other people and making the world better is to be seeking dialectical synthesis all the time and so in the hegelian sense if you have a thesis you have an antithesis so maybe we have libertarianism on one side and marxist [455](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=455.919s)
+
+kind of communism on the other side and one is arguing that the individual is the unit of choice and so we want to uh increase the freedom and support of individual choice because as they make more agentic choices it'll produce a better hole for everybody the other side saying well the individuals are conditioned by their [475](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=475.039s)
+
+environment who would choose to be born into darfur rather than finland um so we actually need to collectively make environments that are good because that the environment conditions individuals so you have a thesis and an antithesis and then hegel's idea is you have a synthesis which is a kind of higher order truth that understands [494](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=494.24s)
+
+how those relate in a way that neither of them do and so it is actually at a higher order of complexity so the first part would be can i steal man each of these can i argue each one well enough that the proponents of it are like totally you got that and not just argue it rhetorically but can i inhabit it where i can [510](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=510.56s)
+
+try to see and feel the world the way someone seeing and fitting the world that way would because once i do then i don't want to screw those people because there's truth in it right and i'm not going to go back to war with them i'm going to go to finding solutions it could actually work at a higher order if i don't go to a higher order then there's more and but then the higher order thing would be well it seems like the individual does affect the commons and the collective and other people it also seems like the collective conditions individuals at least statistically [540](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=540.8s)
+
+and i can cherry pick out the one guy who got out of the ghetto um and pulled himself up by his bootstraps but i can also say statistically that most people born into the ghetto show up differently than most people born into the hamptons and so unless you want to argue that and have you take your child from the hamptons and put them in the ghetto then [557](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=557.839s)
+
+like come on be realistic about this thing so how do we make we don't want [[social system|social systems]] that make weak dependent individuals right so the welfare argument but we also don't want no [[social system]] that supports individuals to do better we want we don't want individuals where [575](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=575.44s)
+
+their self-expression and agency  __  the environment and everybody else and employs slave labor and whatever so can we make it to where individuals are creating holes that are better for conditioning other individuals can we make it to where we have holes that are conditioning increased agency and sovereignty right that would be the synthesis so the thing that i'm coming to here is if people have that as a frame and sometimes it's not just thesis and antithesis it's like eight different views right can i steal man each view this is not just can i take the perspective but am i seeking them am i [609](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=609.519s)
+
+actively trying to inhabit other people's perspective then can i really try to essentialize it and argue the best points of it both the [[sensemaking]] about reality and the values why these values actually matter then just like i want to seek those perspectives then i want to seek is there a higher order set of [630](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=630.16s)
+
+understandings that could fulfill the values of and synthesize the [[sensemaking]] of all of them simultaneously maybe i won't get it but i want to be seeking it and i want to be seeking progressively better ones so this is perspective seeking driving perspective taking and then seeking synthesis [647](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=647.6s)
+
+i think that that one cognitive disposition might be the most helpful thing would you put a title dialectic synthesis on that process because that seems to be such a part so like this rigorous empathy like like it's not just empathy it's empathy with rigor like you really want to understand and embody [673](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=673.36s)
+
+different world views and then try to find a higher order synthesis okay so i remember last night you told me when we first met uh you said that you looked in somebody's eyes and you felt that you had suffered in some ways that they had suffered and so you could trust them shared pathos right creates a certain [692](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=692.48s)
+
+sense of kind of shared bonding and shared intimacy so empathy is actually feeling the suffering of somebody else and feeling the the depth of their sentience i don't want to  __  them anymore i may not hurt them i don't want to behave and i don't want my proposition to go through when i go and inhabit the perspective of [709](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=709.76s)
+
+the other people if they feel that's really going to mess them up right and so the rigorous empathy it's different than just compassion which is i generally care like i have a generalized care but i don't know what it's like to be them i can never know what it's like to be them perfectly and that there's a humility you have to have which is [725](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=725.76s)
+
+my most rigorous attempt is still not it my most rigorous attempt mine to know what it's like to be a woman is still not it i have no question that if i was actually a woman it would be different than my best guesses i have no question if i was actually black it's be different than my best guesses so there's a humility in that which keeps me listening because i don't think that i know fully but i want to and i'm going to keep trying better too and then i want to across them and then i want to say is there a way we can forward together and not have to be in war it has to be something that could meet [756](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=756.639s)
+
+the values that everyone holds it could reconcile the partial sense-making that everyone holds and they could offer a way forward that is more agreeable than the partial perspectives at war with each other but the so the more you succeed at this empathy with humility the more you're carrying the burden of [774](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=774.32s)
+
+their of other people's pain essentially this goes back to the question of do i see us as one being or 7.8 billion i think the if i'm overwhelmed with my own pain i can't empathize that much because i don't have the bandwidth i don't have the capacity if i don't feel [796](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=796.8s)
+
+like i can do something about a particular problem in the world it's hard to feel it because it's just too devastating and so a lot of people go numb and even go nihilistic because they just don't feel the agency so as i actually become more empowered as an individual and have more sense of agency i also [812](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=812.88s)
+
+become more empowered to be more empathetic for others and be more connected to that shared burden and want to be able to make choices on behalf of and in in benefit of so this way of living seems like a way of living that would solve a lot of problems in society from a cellular automata perspective so [834](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=834.24s)
+
+if you have a bunch of little like little agents behaving in this way my intuition there will be interesting complexities that emerge but my intuition is it will create a society that's very different and recognizably better than the one we have today how much like oh wait hold that question because i want to come back to [856](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=856.959s)
+
+it but this brings us back to gerard which we didn't answer the [[conflict theory]] yes because about how to get past the [[conflict theory]] yes you know the robert frost poem about the two paths he never had time to turn back to the other we're gonna have to do that quite a lot we're gonna be uh living that poem over and over again [871](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=871.36s)
+
+but yes how how to uh let's return back okay so the rest of the argument goes you learn to want what other people want therefore fundamental conflict based in our desire because we want the thing that somebody else has and then people are conf they're in conflict over trying to get the same stuff power status attention physical stuff a mate whatever it is and then the we learn the conflict by watching and so then the conflict becomes medic so the and you know we become on the palestinian side of the israeli side or the communist capitalist side or the left or right politically or whatever it is and until [907](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=907.92s)
+
+eventually the conflict energy in the system builds up so much that some type of violence is needed to get the bad guy whoever it is that we're going to blame and you know george talks about why scapegoating was kind of a mechanism to minimize the amount of violence let's blame let's blame it a sec a scapegoat as [925](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=925.12s)
+
+being more relevant than they really were but if we all believe it then we can all kind of calm down with the conflict energy it's a really interesting concept by the way i mean you went you beautifully summarized it but the idea that there's a scapegoat that there's a this kind of thing naturally leads to a conflict and then they find the other some group that's the other that's either real artificial as the cause of the conflict well it's always artificial because the cause of the conflict in gerard is the mimesis of desire itself and how do we attack that how do we attack that it's our own desire so this now gets to something [957](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=957.759s)
+
+more like buddha said right which was desire as the cause of suffering um gerard and buddha would kind of agree in this way so and so but that's that explains i mean again it's a compelling description of human history that we do tend to come up with the other and uh okay kind [976](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=976.72s)
+
+of i just i just had such a funny experience with someone critiquing gerard the other day in such a um elegant and beautiful and simple way it's a a friend who's uh grew up aboriginal australian uh is a scholar of aboriginal social technologies [998](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=998.0s)
+
+and he's like nah man gerard just made  __  up about how tribes work like we come from a tribe we've got tens of thousands of years and we didn't have increasing conflict and then scapegoat and kill someone we'd have a little bit of conflict and then we would dance and then everybody'd be fine like we'd dance around the campfire everyone would like kind of physically get the energy [1018](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=1018.399s)
+
+out we'd look in each other's eyes we'd have positive bonding and then we're fine and nobody no scapegoats and i think that's called the joe rogan theory of desire which is uh he's like all all of human problems have to do with the fact that you don't do enough hard  __  in your day uh so maybe maybe you could just dance [1035](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=1035.12s)
+
+it because he says like doing exercise and running on the treadmill gets gets all the demons out maybe just dance and gets all the demons out so this is why i say we have to be careful with taking an idea that seems too explanatory and then taking it as a given and then saying well now that we're stuck with the fact [1051](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=1051.679s)
+
+that conflict is inexorable because human because memetic desire and therefore how do we deal with the inexorability of the conflict and how to sublimate violence well no the whole thing might be actually gibberish meaning it's only true in certain conditions and other conditions it's not [1066](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=1066.0s)
+
+true so the deeper question is under which conditions is that true under which conditions is it not true what do those other conditions make possible and look like and in general we should stay with really compelling models of reality because there's something about about our brains that these models become sticky [1083](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=1083.2s)
+
+and we can't even think outside of them so it's not that we stay away from them it's that we know that the model of reality is never reality that's the key thing humility again it goes back to just having the humility that you don't have a perfect model of reality there's an ep the model of reality could never be reality the process of modeling is [1100](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=1100.4s)
+
+inherently information reduction and i can never show that the unknown unknown set has been factored um it's back to the cellular automata you can't you can't uh put the uh the genie back in the bottle like when you realize it's unfortunately sadly impossible to um [1122](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=1122.4s)
+
+to create a model of cellular automata even if you know the basic rules that predict to even any degree of accuracy what uh um how that system will evolve which is fascinating mathematically sorry i i think about it quite a lot it's very annoying wolfram has this rule 30 like you should be able to predict it it's so simple but you can't predict what's going to be like there's a there's a problem he defines they try to predict some aspect of the middle middle column of the system just anything about it what's gonna happen in the future and you can't you can't it sucks because then we can't make sense of this world you know really in a reality in a definitive way it's always like in the striving like it we're always striving yeah i don't think this sucks that so that's a feature not a bug well that's assuming a designer um i would say i don't think it sucks [1190](https://www.youtube.com/watch?v=Fl8pGMjM9kM&t=1190.72s)
+
+i think it's not only beautiful but maybe necessary for beauty you

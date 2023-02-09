@@ -1,0 +1,411 @@
+---
+tags: transcript
+aliases:
+youtube_id: jUn7_85R0M4
+---
+
+<div class="yt-container"><iframe src="https://www.youtube.com/embed/jUn7_85R0M4"></iframe></div>
+
+music the stoa is a digital campfire where we cohere in dialogue about what matters most at the knife's edge of what's happening now so when you suggested uh you want to talk about stoicism your kind of take on it and what you see what's representing stoicism and maybe kind of have a metamodern or developmental lens [26](https://www.youtube.com/watch?v=jUn7_85R0M4&t=26.32s)
+
+what kind of sparked that i guess just maybe just rift or free associate on your thoughts in that that area i think i'd be curious if i could know a little bit more about um for this group of people that are assembling here at a place called the stoa what in terms of stoicism is [46](https://www.youtube.com/watch?v=jUn7_85R0M4&t=46.48s)
+
+familiar and kind of shared and also in terms of metamodernism so i can have a sense of how to relate um so i can kind of speak on the behalf of maybe the stoic group or the regulars but in the meantime there's a lot of faces i don't recognize here so you can drop them in the chat box i just say what your familiar familiarity with stoicism or [69](https://www.youtube.com/watch?v=jUn7_85R0M4&t=69.84s)
+
+metamodernism i would say that more people at least the regulars are more familiar with metamodernism there's book clubs on you know hanzi's book and stuff like that than they are with stoicism um because we hardly have any events on stoicism here it's sort of like a space that's stewarded by a stoic but we don't really talk [87](https://www.youtube.com/watch?v=jUn7_85R0M4&t=87.759s)
+
+about stoicism and i don't know how sophisticated uh the understanding is of metamodernism um as you can see from the chats there's a bunch of people already dropping down they're familiar with metamodernism um but i also imagine there's some people that are coming in that might have heard the terms but don't know much about it so you probably have [105](https://www.youtube.com/watch?v=jUn7_85R0M4&t=105.68s)
+
+a mixed bag of of understanding here yeah so i'm definitely not a scholar of ancient stoic philosophy there's a number of stoic philosophers that i have read and appreciated i actually read them later in life i grew up more on eastern philosophic traditions and got into the western traditions later [125](https://www.youtube.com/watch?v=jUn7_85R0M4&t=125.439s)
+
+but when you're studying vedanta or buddhism there are ideas that are very similar to stoic ideas there's some some things that are quite different but some things that are similar in terms of what is virtue how do you cultivate it how do you cultivate increased strength and resilience of character under adversity how do you [142](https://www.youtube.com/watch?v=jUn7_85R0M4&t=142.319s)
+
+become at peace with death and those types of things and uh the actual word stoic i didn't even know there was a greek tradition until i was a bit later and the way that i heard it was actually a very kind of simple cartoonish version that i think a lot of people have heard that just meant like have a stiff upper lip [162](https://www.youtube.com/watch?v=jUn7_85R0M4&t=162.4s)
+
+and don't show emotions there was um there was something as i got into psychotherapy in that community was actually completely rejected as this is a way to fragment yourself and spiritually bypass and repress emotionality and emotional intelligence and so i think it's very important in [182](https://www.youtube.com/watch?v=jUn7_85R0M4&t=182.0s)
+
+this way when we talk about meta-modern stoicism um uh if you read marcus aurelius or seneca or whatever they they're not just saying that simplistic keep a step flip there they're inquiring into um how do we relate with our emotions and our desires and our thoughts [203](https://www.youtube.com/watch?v=jUn7_85R0M4&t=203.28s)
+
+in a way that moves us in the direction of what is meaningful and what is fundamentally meaningful and so specifically the idea that there was this relationship between logic and virtue uh and so it was both epistemology how do we do better clear thinking about the nature of ourself and reality in the world [222](https://www.youtube.com/watch?v=jUn7_85R0M4&t=222.0s)
+
+and how do we cultivate the qualities of virtue in ourselves and the positive relationship between those so the idea that the true the good and the beautiful were actually facets of an integrated reality it was a emerging from an intuition of an integrated metaphysics and i think that's actually something distinctly different in the greek [241](https://www.youtube.com/watch?v=jUn7_85R0M4&t=241.76s)
+
+enlightenment than in the later european enlightenment is um in the later european enlightenment not as much early in the renaissance but later the epistemology section which got reified with the methods of science became very much about what is but in a way that was seen as fundamentally incommensurable with what [262](https://www.youtube.com/watch?v=jUn7_85R0M4&t=262.88s)
+
+ought and now of course lots of people had a sense of an ethics whether it was the founding fathers being deistic while being um you know focused on uh science but ultimately the the philosophy of science grounds itself in repeatable measurements we measure something we repeat the [283](https://www.youtube.com/watch?v=jUn7_85R0M4&t=283.36s)
+
+measurements we come up with a you know predictions based on the hypothesis and so science formally exists within to study the objective and the domain of the simultaneously measurable and repeatable and that gives is but oh it doesn't doesn't exist there you have to make some value statements about what if we okay a measure can show are we [304](https://www.youtube.com/watch?v=jUn7_85R0M4&t=304.24s)
+
+moving towards or away from but what should be which is why the uh the philosophy of science by itself tends to orient in a nihilistic direction um big bang happened because who knows why no particular reason random combinatorics you know et cetera um and i think we can actually see a lot of the problems in the world through the lens of the is odd distinction where science is a has become an incredibly powerful epistemology for studying what is objectively that can then be applied via technology to changing what is right and obviously [345](https://www.youtube.com/watch?v=jUn7_85R0M4&t=345.28s)
+
+if my uh if my choices are leveraged by intercontinental ballistic missiles as opposed to arrows it's a much more powerful leverage to be able to change reality but then there's this question of well what are we applying the technology towards what is the world that we [365](https://www.youtube.com/watch?v=jUn7_85R0M4&t=365.199s)
+
+actually want what is worth wanting and science's opinion is we formally have no opinion on that and any position on that is equally ungrounded because it's not emerging from something that the methods of science themselves can validate and so then well what ends up funding the research is what's going to have return on [383](https://www.youtube.com/watch?v=jUn7_85R0M4&t=383.759s)
+
+investment so basically capital returns and more generally [[game theory]] ends up being the thing so then the nihilism of social darwinism becomes the because good basically becomes what wins at [[game theory]] and that's a very not only superficial but eventually [[self-terminating]] definition of good so um so yeah when i think about [410](https://www.youtube.com/watch?v=jUn7_85R0M4&t=410.24s)
+
+stoicism i think about deep contemplation on what is actually good what is desirable what's worth desiring basically a reified ethics and a reified epistemology and is there a unified metaphysics from which those can both arise as a basis of how do we do choice making and ultimately that's the thing [434](https://www.youtube.com/watch?v=jUn7_85R0M4&t=434.639s)
+
+is how to inform human choice towards an effective life individually and collectively at different scales something that i'm focused on a lot right now is uh the collective scale since the beginning of what we call civilization like early egypt sumeria whatever a tiny percentage of all the people that [456](https://www.youtube.com/watch?v=jUn7_85R0M4&t=456.4s)
+
+have ever lived lived in democracies or republics lived in a system that had any kind of participatory governance almost everybody lived under feudalism or monarchy or some kind of autocratic control and the few times that democracies or republics occurred they occurred following a [473](https://www.youtube.com/watch?v=jUn7_85R0M4&t=473.44s)
+
+cultural enlightenment and it was a cultural enlightenment that had to do a couple things it had to do something in both is and ought and specifically in the is space it had to get objective and intersubjective so i'll say what i mean by that we see the athenian democracy coming out of kind of a greek enlightenment [493](https://www.youtube.com/watch?v=jUn7_85R0M4&t=493.039s)
+
+and the greek enlightenment was everybody should learn logic and learn history and learn math and learn rhetoric and learn the arts and if you have a high value on education where everyone can assess base reality on their own not just say what someone else said because you know the great authority in the past said it but everyone can actually assess [512](https://www.youtube.com/watch?v=jUn7_85R0M4&t=512.0s)
+
+space reality on their own then you have the unifying capab the unifying nature of reality itself and the other key part was the socratic method the socratic dialectic where everyone could take everyone else's perspective and position in the european enlightenment later it was the hegelian dialectic and the kind of methods of [529](https://www.youtube.com/watch?v=jUn7_85R0M4&t=529.68s)
+
+science but if everyone can assess base reality on their own and they can take each other's perspective they end up being like we don't need rulers we can actually have conversations and be able to bring about self-governance um but there also did have to be a shared culture they all emerged that cultural enlightenment valued those [548](https://www.youtube.com/watch?v=jUn7_85R0M4&t=548.24s)
+
+things right and it also had some other ideas of what is good that it values same with the founding of this country and notice i got some feedback all right um and so most everyone can sense that the u.s has been undergoing radical decay and it feels like it's kind of near the [570](https://www.youtube.com/watch?v=jUn7_85R0M4&t=570.72s)
+
+end of like being much of anything and democracy's never made it past 300 years we're 250 years currently i think it'd be good if everybody was unmute yeah i'm just going to force everyone on mute and then i'm gonna ask you to unmute yourself there you go all right um and so the the cultural enlightenment i i'm going a bit off topic but but it tells you how i'm thinking about it um george washington and the founding of this country said that the number one goal of government should be the comprehensive education of every citizen in what he called the science of government basically everyone needed educated about [620](https://www.youtube.com/watch?v=jUn7_85R0M4&t=620.32s)
+
+how humans work and how human coordination works well enough that they can really participate and jefferson said if i could have perfect news in a broken government or perfect government broken news i take perfect news because if people understand the world they live in they can overthrow the corrupt government and make sense of things and coordinate [637](https://www.youtube.com/watch?v=jUn7_85R0M4&t=637.04s)
+
+but i think the key thing there is that collective choice making requires collective [[sensemaking]] and collective perspective taking i have to be able to understand how other people are seeing things to then be able to work on strategies that are effective together so i think either kind of the decay that's happened in the us and [656](https://www.youtube.com/watch?v=jUn7_85R0M4&t=656.079s)
+
+other places continues and many areas of the world have already moved back to more autocratic governance we see that happening in brazil and venezuela and turkey and all over we see it's already happened largely in russia and china if we want something other than autocracy and autocracy is easier because it's easier for a small number [673](https://www.youtube.com/watch?v=jUn7_85R0M4&t=673.2s)
+
+of people at the top to coordinate than for a large number of people to coordinate and i actually don't think it's possible for a very large number of people to coordinate without something like an enlightenment at the basis where those people can all actually make sense of reality well they can regulate their emotions enough that they're not just being limbically [688](https://www.youtube.com/watch?v=jUn7_85R0M4&t=688.959s)
+
+hijacked and they can take each other's perspectives and do higher order synthesis and so music now when we come to the concept of metamodern so there was kind of the greek enlightenment could be thought of as a pre-modern enlightenment we could think of the european [707](https://www.youtube.com/watch?v=jUn7_85R0M4&t=707.04s)
+
+enlightenment as modernity and it was an epistemology of that allowed us to actually produce and build things better right newton's calculus caught on not because people aesthetically liked it but because it aimed canons much better than pendulum dowsing did so those who took took it on actually game theoretically [724](https://www.youtube.com/watch?v=jUn7_85R0M4&t=724.16s)
+
+won um so modernity brought the capacity to build the world but it also brought the ability to destroy environments and oppress the world more effectively so then post-modernism of course was a bunch of largely valid critiques of the problems of modernity but without it was deconstruction but without a new [747](https://www.youtube.com/watch?v=jUn7_85R0M4&t=747.04s)
+
+reconstruction for how to build so then basically the only thing it can do is critique building and which is a entropic direction so the meta-modern idea which i'm sure everyone's familiar with is is there an epistemology that can take the relevant critiques of post-modernism and actually factor them into a better better modernity or meta-modernity that [766](https://www.youtube.com/watch?v=jUn7_85R0M4&t=766.48s)
+
+is a in it has to be an integrated epistemology of how do we do production and building and towards what ends are actually meaningful and so when i think of metamodern stoicism i think of uh both it to be able to solve any of the [784](https://www.youtube.com/watch?v=jUn7_85R0M4&t=784.8s)
+
+problems of the world right now we need better participatory governance that can understand the problems and work on solutions at all and the basis of that will be people that can make sense of reality better make sense of each other's perspectives and actually coordinate those are some initial thoughts since we started from a random place [805](https://www.youtube.com/watch?v=jUn7_85R0M4&t=805.92s)
+
+so maybe maybe i'll start here and uh for people listening if you have questions start throwing them in the chat box have like a question uh so i can i can fish for them because a lot of the comments in the chat box um you mentioned something when we were chatting on whatsapp about uh what your current take was on how stoicism is being presented uh today [832](https://www.youtube.com/watch?v=jUn7_85R0M4&t=832.56s)
+
+in you know uh the popular culture and how it's being kind of repurposed by certain i guess maybe masculine or self-help help kind of gritted out type type folks so the question is do i have a critique of the modern presentation of stoicism either a critique on how modern socialism is presented or just what your [861](https://www.youtube.com/watch?v=jUn7_85R0M4&t=861.12s)
+
+thoughts on on how it's currently being presented i don't have that many um i i don't feel like i know the current modern stoic authors very well i know a few things that seem like they have some elements right and some fairly superficial um one thing i'll say is that the superficial understanding of stoicism that looks a little bit like logic over emotions and a kind of decrease of the value of emotion um or emotional intelligence um on one side and then the kind of let's call it trauma aware perspective that pays more attention to what the effect of unexpressed unfelt unintegrated [909](https://www.youtube.com/watch?v=jUn7_85R0M4&t=909.519s)
+
+feelings are shadow work gestalt work whatever i would say that's a fake dialectic or a fake dichotomy um i the two things that you don't ever want to do with emotions is immediately act out on them or repress them right and those are both dysfunctional activities you want to be able to [933](https://www.youtube.com/watch?v=jUn7_85R0M4&t=933.36s)
+
+notice them arising and recognize they're arising for a reason that has signal for you to understand there's there's actual intelligence and signal in every emotional response so i want to be able to see it and really be with it and look at it which i can't do if i'm shaming it or wishing it wasn't there but for my own internal inquiry into my [951](https://www.youtube.com/watch?v=jUn7_85R0M4&t=951.279s)
+
+own wholeness not immediately acting on it to then see what is the right response and sometimes the right response is to say that thing to that person sometimes the right response is to change the meaning i'm making cbt style sometimes it's to recognize that an old trauma keeps getting triggered and being projected on current [967](https://www.youtube.com/watch?v=jUn7_85R0M4&t=967.12s)
+
+events and i actually have to go work with that music so another part of how i think about the valuable thing that we can associate with stoicism is a philosophy that asks how can i relate to this in a way that increases my empowerment to relate to life with more agency [989](https://www.youtube.com/watch?v=jUn7_85R0M4&t=989.36s)
+
+um i think empowerment is we can think about ennoblement right what are my virtues and how do i if i wasn't just asking what's in it for me if i wasn't asking what is easy and i was asking how would someone that i respect the most behave what would that look like and why is it that i respect that so i'm mining my [1012](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1012.48s)
+
+own value system and then i'm noticing the delta between my value system and how i'm kind of conditioned to show up and i'm asking how do i close that delta that's a very deep interesting inquiry but as much as there is the kind of deepening virtue and enabling there's also the how do i relate to this in a [1028](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1028.16s)
+
+way that empowers me that i can continue to relate to life with more capacity to be in service to what i care about and uh i think it's a very important question when it comes to emotions and difficulty of um there's a there's a kind of intelligence that is different than cognitive intelligence which is kind of um [1051](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1051.039s)
+
+power intelligence or agentic intelligence and if those aren't bound together you can develop power that is not bound to virtue that ends up being quite destructive but if you develop virtue that isn't bound to power it's basically impotent um so how you have virtue wisdom power all co-developed [1067](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1067.52s)
+
+in so you're capable of service and know what you're in service to is the thing that i think is actually interesting and worth exploring cool um so we have a lot of questions now so i'll pivot to the chat box um and i'll give everyone the opportunity to unmute themselves so use this power with wisdom um pranab you had a question [1091](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1091.919s)
+
+if you can unread yourself and ask it to daniel yeah so uh thanks for this talk it's awesome so far you scroll up to the question um yeah so basically what are some ways that you think metamodernism or at least the epistemology um hymenomonarism can be taught [1114](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1114.16s)
+
+or kind of encouraged within oneself within dialogue with another person or within scale like at a community or society basis i'll share a few things but it'll be more like a couple random smatterings than a comprehensive addressing of the the pedagogy because how i would answer that for kindergartners versus high schoolers and for people with different levels of investment and existing familiarity is obviously going to be quite different but music a couple things in the academy there has been this major divide most of the time between the liberal arts and the sciences [1165](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1165.12s)
+
+between something that orients more towards uh interpersonal intelligence versus or inter-subjective versus objective empirical but to make sense of society you deeply need both working together you need to be able to understand what other people believe why they believe it and what's the actual signal in that [1185](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1185.28s)
+
+and what base reality regarding objective things are so to be oriented to both empiricism and being able to understand other people's narratives simultaneously is a key part so some processes for how to do that take anything in the world that you're trying to sense make or that someone's trying to sense me and trying to help [1207](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1207.12s)
+
+them with it and one thing i would have them do is say okay find all the narratives that make sense of this that are out there what are the primary narratives it's like the mimetic tribes or kind of narrative generating clusters right so if i'm trying to make sense of the india china war i'm trying to make sense of the [1224](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1224.4s)
+
+blm protests there's obviously um conspiracy narratives far right moderate right antifa whatever so i would try to generate the narrative landscape so i say what are the ways that different humans are making sense of this and then i would try to steal man all the arguments i would try to actually find the very strongest version of each [1246](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1246.24s)
+
+of those narratives and make it as reified as possible so that i really understand why they're understanding that and that i can look for the signal in it because there's never no signal then i would use some propositional logic and break the narrative into individual propositions right so a narrative is always that so [1265](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1265.76s)
+
+the bricks were put there by this for this purpose the cops did this whatever it is break down the propositions and then i would look for what evidence do those groups give to support each of the propositions and what can what sense can i make of that evidence and what additional evidence can i find and i would seek to both try to verify and falsify each proposition [1287](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1287.28s)
+
+and then stepping while acknowledging that i might not be able to verify or falsify i might just be able to say this is a proposition for which i i can't really ground it one way or the other at all and all i can do is sit in some uncertainty and ask questions around where the burden of proof should be so this is why peter was talking about [1309](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1309.039s)
+
+comfort with uncertainty earlier if i'm not comfortable with uncertainty then i'm going to rush to premature certainty and just be wrong about stuff i have to be comfortable with uncertainty to be able to do the epistemics necessary to come up with appropriate certainty but the comfort with uncertainty doesn't mean [1328](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1328.88s)
+
+that i don't want increasing certainty right it doesn't mean that there isn't curiosity in an epistemic drive that wants to figure  __  out it's that i don't want to believe  __  without having gone through the appropriate process to have the right calibrated confidence margin it also means i never [1342](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1342.0s)
+
+make what is most sacred to me attached to that belief system where now i can't change it right because the confidence margin will always be less than a hundred percent this is the way i interpret the the first verse of the tao dae ching saying the knowledge that's knowable is not the eternal knowledge the doubt that is speakable it's not the eternal doubt [1359](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1359.919s)
+
+your best i might have high confidence margin on something but there's some  __  that's in the unknown unknown that i'm not even aware i don't know about that could change the framing or the context of the whole thing and if i make what is most sacred to me or my identity based on believing this thing because i have high confidence i just became [1375](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1375.679s)
+
+biased in a way that keeps me from being connected to life or learning so i i might have a high enough confidence to inform action which i need but i also need that i can ongoingly be able to change my mind this is also how i take the judaic that shall have no false idols and that every model of reality is an idol right [1396](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1396.08s)
+
+every model of reality isn't actually reality so i'm going to construct a model that is a radical information compression and reduction on the actual reality that hopefully will be useful but is never actually true and when i know that i'm i i don't ever make my model sacred right so i can [1412](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1412.799s)
+
+always change and update my models and i don't ever become destroyed when that happens because i actually have a relationship beyond cognition with myself and reality right what is sacred what is the doubt um and a reverence for reality that if i'm ever wrong i  __  want to see it [1432](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1432.32s)
+
+right because i want to be in the intimacy of being with reality as much as possible um so teaching people how to uh make sense of the current world by being able to see how everyone else makes sense of it to really seek to take their perspectives and make their arguments [1453](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1453.279s)
+
+well and then to seek to do analysis on each of the parts to calibrate confidence appropriately to both to not pretend to have no bias in which case your bias will just be hiding from you but to take all the biases i'm going to try to falsify this now i'm going to try to verify it so i can do [1469](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1469.52s)
+
+both sides of a dialectic and then to step back after the analysis and be able to look at the whole thing and say what higher order perspectives are possible from looking at this whole thing and what additional information would we need to be able to go further this is one way of being able to help [1486](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1486.32s)
+
+people learn how to think better i could give lots and lots of examples like this becomes a very rich topic and we start to get into what should the future of education look like but also what should the future of a civilization imagine that we built a civilization where the goal of it was evolving the humans in it maximally [1506](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1506.72s)
+
+right and we had some congruent sense of what that was where the nature of how work happened and how information was shared how the algorithms on the internet were structured was towards that it would be very interesting nora bateson's warm data stuff is very good i know she's coming on for helping people be able to understand complexity in a relatively [1525](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1525.52s)
+
+simple way forests egp forest landers egp if that comes on is a very good system to get people to ask much much better questions including questions that they didn't even know were things thank you just to piggyback on that um i'm designing a session for rebel wisdom on friday on thursday about memetic [1549](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1549.279s)
+
+mediation and we're going to like play different videos of like trump aoc all these political medic tribes and then process it emotionally first before we inquire to the propositions do you think it's that the exercise that you mapped out about looking at the narratives do you think that could also [1565](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1565.36s)
+
+be repurposed for some kind of emotional integration work so there's a few ways that i would i mean pro noticing the emotions and giving some space to process them means that they won't be covertly hijacking your sense-making because you've made them overt so that's [1590](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1590.4s)
+
+awesome right um if i know that i'm angry or i know that i'm scared i can actually look for how that's affecting my [[sensemaking]] and in complex scenarios it's very rarely like a simple equation how anything works in all societal and ecology and psychology things are complex it's [1612](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1612.88s)
+
+usually that there's a hundred different causal factors that are changing and nexus causation enough stuff happens to move something across a threshold so what happens why two people who both have expertise in [[climate change]] and are earnestly trying to figure it out can come to such different senses or on immunity or anything complex is because they weight the variables differently intuitively without realizing they're doing it they recognize these are all variables but their life experience has them weight some of them more than others and so to notice our own waiting that's where bias usually shows up and the emotions are a very interesting way to start to be able to look at it [1650](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1650.32s)
+
+so if i'm looking at trump and aoc and whatever i might have emotion come up because of having adopted enough in-group out-group type of stuff that i'm just responding group out group group think triggered kind of stuff and i want to be able to and this is why you actually have to have a virtue the the stoicism kind of idea you have to have a virtue that has you not just think that's a good idea right because lots of people would be like yes i've accepted in groupout group because my site is right and the other sides are wrong and  __  them and like this is time to pick sides and be strong and be at war [1691](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1691.44s)
+
+so to be able to say hey before having high certainty in anything i want to actually make sure i'm taking all the biases and that i actually have clear understanding of the thing i'm willing to take a stand on  __  but i want to make sure that i'm actually thinking and seeing clearly first and i can't do that if i only have pejorative straw man versions of the [1708](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1708.559s)
+
+other people if i've never actually been able to sense why they would come to that in a way that isn't pejorative um so if you have a value around that around saint francis seek first to understand before seeking to be understood you then you will do the work towards it so i might be emotional because of those [1726](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1726.88s)
+
+reasons and i get to see oh wow i have bought into a particular chunk of rhetoric right actually there's a [[narrative warfare]] happening and it won and it captured me and made me a narrative soldier and i thought i was choosing a free will and not really uh where those people's perspective strikes me as existentially risky so [1748](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1748.399s)
+
+much that i can't listen to them right them them not being willing to wear masks means that they are science denying flat earth grandma killers and they're going to ruin everything and or whatever it is right them wanting to wear mask means that they've bought into the pedo deep state and want to rfid chip my kids and so i can't actually hear anything outside of that narrative frame that i've already accepted so that's one thing the emotions might give me another thing they might give me that's even deeper is okay so i'm looking at homelessness or amazon destruction or whatever and i feel really  __  sad [1785](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1785.36s)
+
+because the sadness is showing me something that's actually sacred to me or i'm angry or i'm afraid any of the negative emotions are actually showing me something sacred to me the anger is i'm seeing something sacred and i'm looking at who's who's violating it i'm focused on the blame side but what the basis of it is is there something i [1804](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1804.799s)
+
+love and care about that if i didn't there would be no emotional energy of anything i wanted to protect or that i cared was being harmed i'd just be like yeah  __  i cut the amazon i don't give a  __  i'm only angry because there's something i actually really care about so if i trace the fear or the anger or the sadness back to [1823](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1823.44s)
+
+what is it that is actually sacred to me that i'm trying to be in service of that's a helpful piece of intelligence then i can say okay so i know what is sacred to me i want to be in best service to it do i understand what is harming it or could harm it well enough that i can come up with solutions if not can i seek to understand better [1842](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1842.48s)
+
+that i can actually be effective and what way of relating to these emotions helps me be in most service so if i hold the sadness in a way that decreases my agency i just get overwhelmed and depressed and crippled i'm actually not in service to what i care about and so the stoic what is it that empowers me is to say if i actually care about that i have the care can't be impotent right the love can't be impotent it has to actually be able to act and be in service to what's cared about so how can i relate to this that most empowers me to be an effective service towards what is sacred to me yeah yeah that's really good i think that okay um oh man so many questions benita roy you sent me a question privately uh if you're going to mute yourself ask it to daniel uh hey bonnie hi see you um so thank you for for being you my question is where does this kind of analysis [1921](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1921.36s)
+
+and epistemic precision where does does where what is the boundary of that does that fit it obviously it fits in this world situation but does it fit in your personal life like like like and how does that meld through because most of us don't have the kind of mind the kind of capacity you have and we want to take that part of what you're offering and meld that into our personal lives i i is that is that a question that you can understand so far yeah that's a great question actually i think it's most important for most people there and actually easiest because our personal live situations don't have the same level of complexity as all the things connected to [[climate change]] fortunately so we don't have to have expert level skills in 24 different fields to understand why our partner feels the thing they feel um yeah so my personal life [1988](https://www.youtube.com/watch?v=jUn7_85R0M4&t=1988.84s)
+
+seek first to understand before seeking to be understood is as deep a piece of wisdom as anything i've ever heard and it's not complicated it's simple it's only hard when the ego gets hijacked and really  __  wants to say what it wants to say and so there has to be a value around i actually don't want that hijacked ego place to get to run me [2018](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2018.159s)
+
+now i'm not going to in order to be effective towards it there are certain ways of repressing it that just make it worse i want to actually be able to understand how it arises why it arises what its hooks are how i work with those so that i can actually become more empowered but ultimately that's the place that [2035](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2035.6s)
+
+when it talks i feel regret and shame afterwards and need to apologize there are other places that i feel the deepest kind of pride afterwards because i feel that i lived aligned with my own deepest values and there's more integration i want to pay attention to which of those places is actually [2050](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2050.32s)
+
+um growing in its empowerment which ones i'm feeding and so uh like my wife and i have a few guidelines that are very helpful one is um both people are never upset at the same time and if so we take a break so that if if she's upset i don't go into my own [2075](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2075.599s)
+
+emotional reaction on her emotional reaction where we're just spiraling and no one is actually clear to be able to bring it up where then i'm not able to hear her i'm just hearing how what she says is wrongly blaming me and what it means for me and whatever there's no capacity in the relationship in that moment for [2095](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2095.599s)
+
+good things to happen so if she brings something up i want to be able to come from enough wholeness that i don't instantly have to make it about me and i can actually hear her experience and then i can help find out what does she need to be able to feel better to feel heard to return to center and then if i have something i'd like to process afterwards when she's clear and has capacity i say hey can we talk about this she's like yeah so um and often times the thing that i wanted to say before seeking to understand after i seek to understand i don't even want to say it was wrong or i understand where they were coming from enough that i have a different [2129](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2129.68s)
+
+perspective on the thing um music being able to notice the place that wants to speak when out of center and like the addiction that it is to want to do that and to be able to just witness it like you know when you meditate and your nose itches and you don't itch it [2152](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2152.64s)
+
+there's this very helpful thing of just being able to say i don't have to act on every sensation that arises i can witness it and i don't have to act on the sensation of i need to  __  be right and tell them why i'm right and whatever right now i can just if if the thing i'm going to say is really true it'll still be true tomorrow [2171](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2171.52s)
+
+if it is emotionality that uh will kind of blow over well then i can say but only when i'm angry do i have the courage well just choose to have more courage so that in a centered place you'll still say the thing that is true so for me i'm wondering i mean actually just came up now it's like i wonder if we could take what you just [2199](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2199.359s)
+
+said which was beautiful see the pattern in it and say that's the same pattern practically at this larger scale because it has it has deep feeling in that pattern i have no idea what i'm saying right now but like like instead of like over here i'm like this and over here i'm like that [2230](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2230.16s)
+
+does this pattern somehow i don't know yeah no i like it because there's a question of is the thing that i'm describing at the macro scale kind of dry and sterile because in my relationship it's not dry and sterile it's very yeah i wouldn't say dry and sterile i would say is hyperinformed so so i'm not trying to be [2252](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2252.359s)
+
+for pejorative it's hyperinformed that's that's important that's important we we need that and i'm wondering where like the dances between like because in you it's coherent we know it's coherent because it's coherent in daniel schmartenberger there's the evidence [2277](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2277.839s)
+
+you see what i'm well saying think in terms of the significantly informed like one way that i i'll i'll tell you an epistemic tool that i use to calculate confidence margins where it really matters i and this is like a a set of formal systems from information theory um so i look at a situation and try to say how [2304](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2304.88s)
+
+many orders of magnitude of interactions in the network diagram are occurring um if it's an ecosystem maybe you know we have some basis of being able to say at what level of action this is always hard because the question is where is the boundary because i could say it's the whole  __  universe for everything which is [2320](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2320.72s)
+
+ultimately true but i have to say at which nexus causation is being very significantly informed i'm looking at what 10 to the 12 orders of magnitude of complexity in this situation or whatever then i want to look at the various hypotheses narrative as a set of hypotheses and [2337](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2337.28s)
+
+look at the various hypotheses and be able to say what data do i have that supports it what do i have that either supports a mutually exclusive hypothesis or directly refutes it and i want to take that down i want to use information compression to say what is the least number of bits in which i can [2354](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2354.0s)
+
+represent that so then i get to see the total unique pieces of the unique bits of information supporting the hypothesis the unique bits of information refuting it but also the total number of bits of information i have relative to the complexity of the scenario so even if i have 10x more [2370](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2370.0s)
+
+supporting than refuting but the total amount of info i have is tiny relative to the complexity my confidence will be low so this this sounds like a very logical process which isn't necessarily what it feels like and if i'm talking with my wife right um but that's because the total amount of complexity in the situation with my [2391](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2391.04s)
+
+wife is just not [[climate change]] right like it's it's uh i actually want to be hyper informed there it's just easier right i want to understand what is she thinking why is she feeling that way what brought it you know what brought it about what needs feel unmet for her what would [2411](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2411.28s)
+
+actually feel meaningful and so i'm seeking to be hyperinformed there and it's not hyperinformed i'm seeking to be adequately informed that i'm in touch with reality um and then once i'm like oh i get it i get where she's coming from and i guess why she feels the way she is and why she's [2429](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2429.04s)
+
+expressing that then i feel like i can start to navigate but i can't navigate when i don't have the map at all yet yeah so just so we're on the same page hyperinformed is not a pejorative like i think i think that's like well it could be but for you you're like hyperinformed you put that book aside and then you [2449](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2449.28s)
+
+like act in a feeling sense so um i'm gonna say something really crazy like i don't even i don't even i don't even like what i'm gonna say okay so um what if we take that kind of action logics with your wife and put it to like ecology in the earth and have the ace and the hole [2477](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2477.599s)
+
+are hyper-informed reality which i actually think you do like there's a kind of loving of the earth in the in the life force that's more like the actual logics you have with your wife and then you have this hyperinformed what if we could communicate that i think i think that's the point right yeah so i see that all in you well i mean in all of us when we were talking about binding wisdom virtue and power we can that's almost like uh three chakras depending upon how you want to define it right and you could take the chakra system or any ancient system that was trying to explore this as like if i [2532](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2532.56s)
+
+think about the piece of hindu artwork if i think about uh the hindu chakra system as each of them representing a different type of intelligence the growth of the person was to develop all of them and all of them in relationship with each other so the whole being could be in a full [2554](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2554.72s)
+
+relationship with the whole of reality and so there's a different kind of intelligence like the and whether they actually have any relationship to parts of the body because of endocrine glands or nerves doesn't matter to at least have it be a metaphorical system um but the the will or the power there's a kind of intelligence to say what way [2573](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2573.839s)
+
+of me relating to this most increases my capacity to serve what i care about right there's a kind of intelligence that's asking that that is different than asking what is what am i able to falsify or verify about objective reality which is also different than the kind of intelligence [2592](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2592.56s)
+
+of asking or hear how would i communicate this in a way that would land for someone and in order to have it land for them i have to actually be them right there's a kind of empathy built in that i have to be them to know how to lend or try to which is different than what is most sacred to me and so i think what we're what we're interested [2609](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2609.52s)
+
+in is how do we develop whole people that have all of their intelligences online and all of them working together analysis and synthesis logic and intuition and then that are in relationship with all of reality there aren't race issues and environmental issues and economic issues there's reality issues [2628](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2628.079s)
+
+where all of those things are inextricably interconnected and interconnected to the being of all the other people and when we have increasingly whole people in an increasingly integris relationship with the wholeness of reality we start getting much better processes i think that's related to what [2644](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2644.24s)
+
+you're saying thank you very much thank you ronnie it was really fun thank you benita as always um david you had a question that got up lots of plus ones if you can unmute yourself and ask it music hi peter hi daniel [2666](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2666.079s)
+
+um i wanted to keep this question kind of a little bit broad and vague and that is just around so daniel you had an experience being psychological uh guide and support and you saw these people presenting their view of their small world and the big world uh and that sounded like that informed your own [2687](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2687.359s)
+
+growing awareness and investigations at the time and i'm curious if the murder of burdens that you would have seen in your patients or just in friends um informed you in any way and if you could speak to that the neurodivergence in particular as opposed to yeah so so in in the sense that i imagine someone can come across stoicism at an early age and develop with that framework in mind and then someone might be further along the spectrum and that might also influence their their information uptake or whatever you want to call it [2725](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2725.839s)
+
+so are you asking how much people were able to grow and change and develop based on uh what types of previous experience yes to that but also more to the point of in the case of say autism or something like that where we have this this awareness of a spectrum um how much [2756](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2756.56s)
+
+did you see that impact their awareness of this reality that you personally also see and then also their ability to latch on to different information as well yeah clearly not everyone is equally capable of every kind of process and there is development that everyone can do and everyone's not even [2784](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2784.56s)
+
+equally capable of every type of development right like down syndrome is a real thing that affects uh capability in in certain ways autism is kind of interesting because autism is not the spectrum that we have now where such a high percentage of people are considered somewhere on the spectrum as [2800](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2800.079s)
+
+a relatively new evolutionary phenomena i don't think it's evolutionary i think it's cultural and environmental um and in some ways it just represents lack of development like not having a like we can look at all the physiologic dynamics right we can look at ubiquitous sugar and um psych meds [2822](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2822.8s)
+
+starting early and things that damage the microbiome and glyphosate and ubiquitous mold toxins and whatever that are the result of you know post-industrialized life and say uh there's actual physiologic elements that have happened but there's no one-for-one thing it is basically a much more complex set of dysregulations of homeodynamics that [2842](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2842.48s)
+
+express in a dysregulated nervous system that's true there's also music let's say it's people growing up as digital natives with a lot of screen time where they're getting much faster dopaminergic hits from activities that are decoupled from the movement of their body and decoupled [2863](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2863.04s)
+
+from accomplishing things in an evolutionary sense it starts to actually mess up the nature of the dominance and process of neurotransmission there's a lot of things that go in there's also like that's actually an example of things that would develop certain capacities just being underdeveloped [2879](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2879.119s)
+
+because we're they're not actually having a a culture or an upbringing that develops some of those things um so for instance if i have like this is a common understanding but if i have toys that do  __  everything and i'm not making a stick into certain toys and i rock into certain toys there's certain kinds of creativity that [2897](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2897.44s)
+
+don't develop because i don't actually have i have so much external other market creativity that is just creating dopaminergic response i don't have to do curiosity creativity and exploration to find my own so there's a lot of places where the world structure is simply not developing  __  in people that [2914](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2914.16s)
+
+it needs to um i also think that there's you know we can think about development from an individual perspective and also from a group selection perspective and the idea that everyone is going to evolve to the highest stages of development on all lines of development [2936](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2936.079s)
+
+is silly this is not going to happen and in the same way that not everyone is going to be come masterful at every language and every scientific discipline and every musical instrument and so um music there's also a question around like what [2952](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2952.4s)
+
+is the minimum competence of certain kinds of capacities that are needed to engage as a citizen where then i can be part of a [[collective intelligence]] that orients that the people who are best at different things are able to differentially contribute to those things i don't know if that addressed the [2976](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2976.0s)
+
+question because the question as you said was kind of broad i'm happy to take another step at it if you want i think that did it address the question i mistakenly forgot to include um how something like uh stoicism might impact um the path that these people might take and your own thoughts around that and [2997](https://www.youtube.com/watch?v=jUn7_85R0M4&t=2997.359s)
+
+maybe if you could speak to your own experiences in i can't remember if it was counseling or more clinical psychology the people that are obviously clearly functional and just define themselves as mildly on the spectrum or mildly aspie which is it's basically an increasingly large identifier for [3022](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3022.64s)
+
+things that really should not be considered a disease diagnosis it's just people who kind of suck at certain things or who never learn something or who just are introverted or whatever but the the patterns that we think of as kind of mildly aspie one way you could think of them is music low low capacity for nuance [3044](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3044.72s)
+
+we can talk about it as low empathy and interpersonal recognition but a major part of it is for nuance so they usually end up becoming very good at things that are black and white like whether it's computer programming or mechanical engineering or things like that and so stoicism implemented without nuance uh [3067](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3067.04s)
+
+can can be pretty clunky and messed up just like any like any because the the eternal dao cannot be spoken the version that i speak will be wrong and so uh i can write down here here are the virtues and here's the code of behavior and then someone else who doesn't really get the spirit of it they're getting the [3091](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3091.119s)
+
+letter of the law without the spirit of it will implement it in a fundamentalist righteous kind of way with without being able to understand in ecclesiastes when it said there's a time to kill and a time to heal and to sow and to reap and for every purpose under heaven well how do i know which time it is for which of the things well there is no [3106](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3106.72s)
+
+absolute algorithm for that that's being able to use all of those types of intelligence with full presence and discernment to a set of values that can't be formally explicated there's a girdle's theorem here where what is meaningful is beyond formal explication but there if i have a formal explication [3122](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3122.48s)
+
+it'll work lots of times but then there'll be a place at which i'm like no that's actually wrong what is it in me that can recognize when the code is wrong that's the thing we want to be developing in people which is their actual capacity for discernment and where people don't have that as much we want to be developing it where [3143](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3143.52s)
+
+there's upper bounds for physiologic reasons then we would want a good society that puts them in roles they get to or supports them to be in roles they get to utilize the capacities they do have well without being damaged by the ones they don't thank you daniel that that fit with my [3162](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3162.8s)
+
+my my thoughts around that is as well thanks all right uh hannah you had a follow question i will paste it again in the chat box yeah um so i wanted to look at this topic from another angle i am an anxious person and i have panic attacks so hearing a lot of language that i [3191](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3191.119s)
+
+think has developed from looking at things like triggered and limbic states and so on makes me wonder will it be more challenging for me to learn these sorts of skills or maybe will my familiarity with things like panic attacks actually be helpful here and you know what is going to be a good [3214](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3214.4s)
+
+way for people like me to approach this beautiful question uh i used to have panic attacks um i had a period where that was quite debilitating and didn't sleep for quite a long time and um so so i i understand um early i had a completely debilitating fear of public speaking where i just [3240](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3240.559s)
+
+couldn't like i would pass out if i tried music um i only found one thing that actually really worked for panic attacks um and by worked i mean actually changed the underlying reality fundamentally as opposed to managed it [3264](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3264.4s)
+
+music i didn't find that cbt did or dbt or hitting pillows or emotional release therapy or gestalt or hypnotherapy like those were all cool but i or breath work or meditation or the only thing that i found worked was a there are different ways of doing it but they're ways that go into the panic attack as opposed to away from it [3292](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3292.72s)
+
+and so i'll explain the mechanism here briefly a panic attack is different than just generalized anxiety right it's generalized anxiety that turns into a feedback loop and so let's say that i'm anxious about some  __  everybody's anxious like that fear is a natural part of life and we'll feel some [3315](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3315.2s)
+
+adrenaline happen and we know that that's because in evolutionary environments the fear usually needed a physiologic response so some adrenaline would come so i could run or fight or something now most of the things i'm afraid of don't actually need adrenaline because i'm not going to have a physical response to if the teacher [3330](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3330.88s)
+
+likes my um report or if the person on the date wants to respond or not and as a result i don't use up that adrenaline there isn't a kind of adaptation it just feels shitty right and so maybe i'm in a situation where i have a relationship that's going bad and i'm not sure if it's going to work [3351](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3351.04s)
+
+or not and i'm not sure if they're being honest to me and then finances are also tight and something else i start to have more base anxiety so my base anxiety gets higher than us and then maybe at a certain point something happens and my base anxiety is high enough that the sensation of it inside of me the the [3365](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3365.68s)
+
+fluttering in my stomach or the like hotness in my ears or in my face all of a sudden is a sensation that i'm unfamiliar with like it's at a higher level and all of a sudden i get scared of that sensation because i'm like what's happening am i dying what's like am i going crazy what the  __  happening now when i get afraid of my [3385](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3385.2s)
+
+own experience of fear now i'm in a feedback loop because i'm not afraid of reality i'm afraid of my own experience of fear so my body produces adrenaline to the symptoms of adrenaline and that tight feedback loop is a  __  because sometimes it'll just produce adrenaline to the symptoms of adrenaline so then [3405](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3405.04s)
+
+the symptoms get worse so then you get more scared and it does that until you just run out of adrenaline and eventually pass out or you go get a benzo or an alcohol or something if i try to do breath work to comment which of course to some degree i can't because i can take breaths and stimulate my [3421](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3421.2s)
+
+parasympathetic nervous system and in our inverse to a sympathetic drive and if i try to distract myself with bunny videos or whatever i would do to try to create a different response i'm still affirming that i'm scared of that sensation and that i don't want it to happen and that if it comes i'll be scared of it so [3439](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3439.44s)
+
+my my sympathetic adrenal complex is still oriented to produce adrenaline to my symptoms of adrenaline so i'm always scared of that thing happening so there are processes where you get facilitated to go into the panic attack fully and so you start to think about things [3459](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3459.44s)
+
+you're anxious of you start to feel the symptoms and then you start to say it's important to know that it can't kill you even if you feel like you can't breathe that worse you pass out the panic attack is gone when your conscious mind isn't there you start breathing again so you know this is just sensations and as uncomfortable as they are they can't [3474](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3474.48s)
+
+actually hurt me they're just  __  up feeling but sensations you're like ultimately i want to understand myself i want to understand what's arising enough that i can actually be with myself and and have more wholeness so then you start to go into a process where you say all [3490](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3490.88s)
+
+right and typically i would say this should be facilitated and i can recommend processes that do that so you go into a process where the you're being facilitated to notice the symptoms the rapid heart the flushing face and rather than want them to go away welcome them [3512](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3512.48s)
+
+say i welcome all of this i want to feel it in fact i want to feel the fullness of it i want to understand all of it and be with all of it so not only do i want to feel it i want it to get as intense as it can so you actually welcome it to let the heart racing get more intense the difficulty breathing getting more intense and you can't say it while actually really wishing it goes away you have to really lean in as an explorer as a curious explorer to be like what is this when that happens there is a clear signal to your adrenals that you're not afraid of the thing you're leaning into and it stops producing adrenaline in response to the symptoms of adrenaline you're there is a kind of hpa access [3548](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3548.72s)
+
+neurological reset psychological reset as well and then once you've done that several times you start to be like actually i'm not afraid of this thing i can lean into it i'm not going to die i'm not going to go crazy i can and and the feelings are actually whatever right they're not that terrible and then the key becomes well you'll be [3572](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3572.079s)
+
+afraid for it to come on at certain times like i okay i don't want it to come on when i'm having to give my talk or with my work or whatever it is so then you actually have to welcome that it can come anytime because otherwise the time that it isn't welcome is when you'll still be in that response [3589](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3589.28s)
+
+and be like okay if it comes at that time i'll be with it i'll go into it i'll be with it because what the  __  else am i gonna do like i don't really have much any other good choices and this is the process of leaning in and actually befriending the fear so fear stops being a self-reinforcing loop anyone who goes through that and [3608](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3608.799s)
+
+actually goes through it will have both a level of compassion and humility plus a level of strength that is not really available if people haven't gone through it any follow-up question hannah uh many follow-up thoughts uh that i will process slowly over time uh thank you daniel that was really useful hammockaway.com is a site that has some good information on a process like this and that they may even have a list of uh practitioners and this is a big part of stoicism of wanting to really be with reality and lean into it so contemplating death leaning into anxiety [3661](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3661.2s)
+
+but it's not to just feel shitty all the time it's that you actually stop feeling shitty when you stop running away from parts of yourself one good way to talk about healing is increasing wholeness and the dis any the dysfunctional ways that some people interpret stoicism are things that makes them actually fragment less whole they're ashamed of a part of themselves without knowing why that part's arising no i shouldn't feel angry i shouldn't feel jealous repress that and so as a result they're actually stuffing  __  into the shadows and they're becoming more fragmented and less whole a healthy relationship stoically is to say i want to understand [3702](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3702.319s)
+
+why that's arising what it is so that i can incorporate it into a wholeness of self all right um we're approaching the allotted 75 minutes um do you have time for one more question daniel or yeah cool um so who was that one that got a lot of plus ones alex uh you had a really good [3726](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3726.64s)
+
+question uh if you're gonna mute yourself and ask it to daniel uh yeah hey everyone um so the question is daniel i've heard you speak about how those with the greatest depths of care often are not good at or are not interested in impacting the world at scale or sort of doing what's needed [3745](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3745.76s)
+
+to accumulate power could you paint a vision for how a wise empathic person might orient to accumulating power in the world when i'll share how this first occurred to me was when i was a kid i was engaged in part of the homeschooling thing was i kind of got to do the things i was interested in i was [3782](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3782.319s)
+
+interested in all types of activism so i was doing animal rights stuff with peta and environmental stuff with greenpeace and human rights stuff at amnesty international because it seemed like a meaningful life was in service to all other life was pretty straightforward as i was trying to figure the philosophy out that part seemed clear [3798](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3798.64s)
+
+and so all of the different types of suffering bothered me and injustices and whatever but i was also studying the sciences because i wanted to understand reality better and so i would have conversations with scientists who would work at military industrial complex type places and i would get a sense of the types of technology and sophistication they were [3820](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3820.88s)
+
+working with but then advancing what types of agendas and then be with the protesters who were willing to undergo great harm to themselves to stand up for what they cared about whether they were handcuffing themselves to old redwood to not have it cut down or whatever but i got to see that like picket signs and handcuffs were the extent of the [3840](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3840.64s)
+
+strategic capacity that they had compared to nsa being the largest employer of mathematicians and super computing technology and whatever and i was like 10 or something when i'm like this is the head heart divide at the level of humanity and we go extinct as long as those who care the most have shitty tools for actuation and those who have the best tools for actuation are doing it for narrow and divisive ends and then a little bit later i started to think of it as at least three things that it was kind of mind heart will and that any two of them didn't really matter that there was the development of will and i feel like i can do something [3881](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3881.2s)
+
+and i'm willing to work hard to do it and uh values or care or compassion together that led to an activist who really cared about stuff and was totally willing to work effectively but didn't have good strategy and would just basically fail at scale every time then there were people who had development of mind and heart more but with less well where they felt like they understood the problems they really cared but they were kind of like overwhelmed crippled academics or at best could be advisors to powerful people that would never actually take their advice um and then there was kind of will in mind together but without development of [3920](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3920.799s)
+
+compassion and virtue and those were the very effective sociopathically oriented people that ran the world and it was clear to me that you had to have at least all three of those well-developed plus the interpersonal capacity to find other people that had those developed and coordinate together [3939](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3939.2s)
+
+to really be able to change the trajectory of the world and so this comes down to this whole thing of not being willing to suck at being in service to what i care about if i really if i see the amazon burning or north northern california burning and i see the redwoods burning and that really [3959](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3959.839s)
+
+bothers me and i am willing to continue to be useless towards it then i have to be like does it really bother me do i really care what is the fragmentation inside of myself what does my care mean if it doesn't predispose my the behavior of my life what is my life in service to if not what i care about [3978](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3978.079s)
+
+oh distraction or money or whatever else i don't actually even care about what i care about i'm just full of  __  okay that's the internal fragmentation what does it mean to care about what i care about it means that my dollars and minutes will express what i care about then i'm acting on it but i keep failing well then i need to look at my strategy [3998](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3998.319s)
+
+and say why do i keep failing and unfortunately a lot of times people will work hard fail and just assess that goliath is too big or there aren't enough people helping or whatever and are happy to come up with excuses why they aren't effective rather than really say what would it take to be effective [4018](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4018.96s)
+
+because neither the ccp nor the cia nor the kremlin just give up and say oh i guess we're not effective the other guys are bigger they like keep figuring out how to be more effective towards their ends and so and they can move trillions of dollars in standing armies in the mindsets of people and technology as a whole if we want a better world we have to be able to affect the world at that level aligned with a different value system so what i would say is we aren't in like [[game b]] isn't a thing really yet it's that most kind of an idea we live in a world that is dominated by power and the transition from this world to a [4062](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4062.88s)
+
+different kind of world system that might have a very different culture and governance is only going to happen if some people who are authentically oriented to a different world system learn how to effectively move this one and move in this one effectively uh thank you and and i realize we're [4084](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4084.48s)
+
+past time so you could either not answer this or be brief with it i think a follow-on question that occurs to me as i i read your piece about the sort of the polymath bodhisattva world creator as sort of archetypes that represent mind heart will um and i feel like i have a sense of sort of characters or developmental pathways that correspond with becoming a polymath becoming a bodhisattva but i think what's less clear and what's kind of relevant to this question is this notion of the archetype of a world creator what what does that mean and what kinds of developmental pathways or traditions are relevant to that [4127](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4127.12s)
+
+so look at people who were not born into great wealth or power and became very powerful and study their biographies specifically the biographies of their psychology and the steps they took and what will be interesting is you'll be studying genghis khan and alexander the great napoleon and carnegie and elon musk and [4144](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4144.64s)
+
+whoever and you'll be like how the  __  would i apply some of those actually kind of dreadful game theoretic tactics to something better but that's just a kind of a very superficial assessment as you go deeper you're like how did they empower themselves not coming from it what were the things that did that and what would it look like to [4165](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4165.12s)
+
+be able to do that towards a different set of goals um there's a whole big conversation here but uh yeah look look at people who increased their agency radically and then look at the commonalities of what is involved in increasing agency thank you cool um [4188](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4188.96s)
+
+so we're going to end it here that was a really awesome session someone wrote in the chat that the session really feels like the stoa and i i totally agree um so yeah thank you daniel for coming out today talk about metamodern stoicism um any kind of uh thoughts you'd like to share before i do [4210](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4210.4s)
+
+some announcements i just love that there's a space where these uh conversations are happening and i'm glad to have got to be here and i know we have another one coming up soon yeah yeah so uh well we'll start plugging the the upcoming events so the one uh next monday the same time 7 30 p.m eastern [4228](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4228.56s)
+
+time is uh daniel's coming back to do a session on dharma inquiry so he had these like freaking awesome questions uh i was like what is this and then all these people that i know are doing the questions like you know by themselves i'm like you know what maybe danny would like to do a session so would you like to maybe speak on that a little bit to get people yeah i have a sense of it i wrote the questions because they're questions that come up when i'm talking to people all the time where people have a desire to have to figure out what their path is what a more [4263](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4263.6s)
+
+meaningful life for them is and so there is no again algorithm for it but these are questions that help me kind of get a sense of that for people um and so anyone can just look at that and do it on their own but what we're going to talk about is unpacking like when i look at those questions what am [4280](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4280.64s)
+
+why those questions what is the [[generator function]] that leads to the questions to be able to have a sense of other questions and like what am i looking for and interpreting to get a sense of um the uniqueness of someone's path very cool um so people are asking where they can find these questions uh if you go to the website the store.ca and you [4302](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4302.0s)
+
+go rsvp to that event uh the questions are linked in that uh and i think you know there might be sessions that come from these uh these questions because they're so rich and it takes some time to get through them um okay so tomorrow we have some cool events uh jeremy johnson is coming in tomorrow uh to do a session [4318](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4318.159s)
+
+critiquing let me read it for you transcending the cancel culture critique an integral left response so i released this this this piece on the cancel god and uh some integral leftists we're critiquing it so inviting jeremy johnson in for a good faith critique on that that's 12 pm eastern time and then travis macy um an ultra marathon endurance athlete [4340](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4340.56s)
+
+he's coming in to talk about the ultra mindset think of like david goggins but like a more indie version so that's gonna be pretty cool that's uh 6 30 p.m eastern time um you know we have some facilitators here uh benita bonita's back uh do you want to plug your the hollow uh since making a residence uh series that you have coming up in [4361](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4361.44s)
+
+october maybe shooting here okay i'm maybe putting on your spot um benitez can you can you hear uh i was asking you to uh plug the your hollow [[sensemaking]] uh sense maker in residence okay sorry i was i was out and i just came back um so the holo the holo is the word hollow like the [4394](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4394.719s)
+
+legend of sleepy hollow is a like a riverine place where people gathered in secret to talk about changing the world and for me it's also about hollow in the sense that uh the zojan or the buddhist notion of emptiness like we're hollow we're participatory in hollow [4425](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4425.239s)
+
+and also halloween uh and the the other worlds we can we can access so yeah i don't know i i really like that notion of holo um and uh yeah the sense of moving from campfire like which is kind of jovial to the hollow which is secretive and dark and riverine [4456](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4456.159s)
+
+uh that's kind of like what we wanna we wanna launch and you're talking to nora bateson and arya back to on this thursday uh i think yeah we're going to talk about um i think the energy there is like can people stop like stop thinking in terms of linear cause and effect [4483](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4483.44s)
+
+like and then how does that percolate into personal life like like no if than thinking and how how can that inform uh emergence and yeah so music uh that should be really exciting yeah yeah it's going to be earth energy a lot of energetics yeah and so that the hollow series uh benitez [4515](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4515.44s)
+
+is a sense maker in residence at the stowa for october we have uh john robb uh dave snowden zack stein peter wang uh daniel gertz is coming in as well to be a sense maker for residents for the months of september october those are four sessions throughout a month uh so you can go on the website our speaker there uh rachel haywire maybe [4533](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4533.12s)
+
+we'll let you plug the last event you got the philosopher queens maybe you and raven can both plug it if you guys are here rachel haywire raven connolly yeah yeah hi everybody you did you go first rachel you wanna go for it talk about philosopher grains [4559](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4559.6s)
+
+yeah okay so philosopher queens are the dark powerful feminine force that is resurfacing as a new current i felt a little bit of that energy just from what the nato was saying when she was talking about the depth and the hollow and the expansion i definitely felt a little bit of that energy there so raven and i are hosting a series here [4581](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4581.76s)
+
+at the stoa and in which we engage with one another and the people that come to the panel and we talk about this current we talk about other women other philosopher queens of history and of the present and we bring in people to talk with them so we're unifying the dark goddesses cool and raven you want to plug your [4608](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4608.96s)
+
+socratic speed dating real brief sure so uh yeah so psychology speed dating happens every friday at the stoa it's a tradition that uh peter and i started way early back in the beginning of the pandemic where people can come from all aspects of the kind of stoa ecosystem and talk in breakup rooms that go for about 15 minutes [4630](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4630.96s)
+
+and it's all spurred by a [[collective intelligence]] of question generation that we do as a group so that's um yeah every friday come join if you want to have some personal conversation with all the stoa faces thank you very very cool thank you um so if you want to continue this conversation we we finally have a [4647](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4647.679s)
+
+discord you can go there that's the invite uh the postsensemaking session that's the channel to do it and if you'd like to support what the stowe is doing we've done about over 300 events uh since the the pandemic to address a mental health crisis the the [[metacrisis]] the meaning crisis so you can do that on the patreon page [4664](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4664.0s)
+
+right there um that being said we're going to stop recording uh we'll have a moment of bio break and then our boy tyson wagner is going to get some freestyling on so if you're interested in that you can just stay on this link so thanks everyone and thank you daniel

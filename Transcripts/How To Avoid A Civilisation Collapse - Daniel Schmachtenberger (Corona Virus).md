@@ -1,0 +1,71 @@
+---
+tags: transcript
+aliases:
+youtube_id: aNj8UiPgqqQ
+---
+
+<div class="yt-container"><iframe src="https://www.youtube.com/embed/aNj8UiPgqqQ"></iframe></div>
+
+one very obvious thing that we notice is that all the early civilizations don't still exist whether we look at the mayas the aztecs the egyptians the roman empire the greek empire the they they all collapsed and so the precedent is actually that civilization collapses not that it maintains the real difference is that this is the first time we have a completely global civilization there really is no such thing as usa or china [25](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=25.68s)
+
+separate from each other when you understand globalized [[materials economy|materials economies]] technology economics where there's actually no country in the world that can make its own consumer electronics right without the mining and manufacturing and you know technology that happens from around the world so our process of civilization is one that has inherently [[self-terminating]] dynamics built into it when that happens at a fully global scale it is a basically the catastrophe is just unbounded where it has always been bounded as big as the roman empire was when it fell it wasn't everything and limited by not only its total geographical size but the level of technology it had it caused desertification throughout the noble agriculture but it wasn't able to [72](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=72.659s)
+
+destabilize the biosphere writ large in a hundred years of industrialized fishing we've removed most of the large fish species from a water planet right at 3/4 water planet took three and a half billion years to get those fish species and so you recognize that we're operating the same way that has always led to war and environmental destruction and collapse of civilization just [92](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=92.97s)
+
+factoring exponential technology and so when you start to think about exponential rivalry rivalry dynamics that lead to polarization that ends up leading to war but now exponential warfare it becomes larger than a finite biosphere can handle and it becomes existential when you think about exponential extraction and exponential pollution which means depletion and [114](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=114.899s)
+
+accumulation from open loops in a network diagram you go to an ecosystem there are no open loops every thing is the food for something else there is no unknowable resource no waste our civilization is characterized by a [[materials economy]] that's linear not circular so toxicity is depletion on one side elation on the other whether we're [133](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=133.86s)
+
+talking about on the depletion side whether we're talking about species extinction or biodiversity loss or any of the issues that we look at there and on the accumulation side whether we're talking about co2 levels in the air or in the water or nitrogen runoff or degraded uranium or whatever else it is those are all specific instantiations of open loops in the way we do civilization [156](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=156.99s)
+
+in relationship to the closed loop dynamics of the ecosystem that both have a civilization that is increasingly fragile and that is making an increasingly fragile underlying ecosystem is basically debasing the substrate upon which it depends and so when you think about exponential extraction exponential pollution that obviously gets larger than the playing [179](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=179.01s)
+
+field can handle when you try and think about exponential expansion of the monetary supply that has to be based in goods and services that can't keep happening when you think about we compete using narrative and information when you start to think about exponential information tech used for disinformation and for population control you get to a place where the [198](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=198.15s)
+
+information ecology is so broken that what's actually happening with north korea or not are we going to have nuclear war what's actually happening with syria what's actually happening with putin's relationship to the trump administration how long do we really have before all the coral die-off like all the most important questions as to whether we make it or not as a species [217](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=217.23s)
+
+nobody really knows how to make sense of and so when you have a situation where you've actually got an exponentially decreasing sense-making capacity right an information ecology that is increasingly more broken with an exponentially increasing capacity to make big choices right technology is basically a lever of our choice making so a fist has one level of harm and i [239](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=239.07s)
+
+extend that to a stone tool it's a bigger harm to a bronze tool to a gun at the level of an icbm it's just a really big extension of that type of choice-making capacity but when i have exponentially increased choice-making capacity with exponentially worse sense-making that always runs into a cliff and so the underlying dynamics that are leading to [258](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=258.209s)
+
+the self determination that people feel and sense right now are not different in kind than the ones that we've been facing since the what we call civilization they're different in magnitude and in the speed of process factoring the exponential curves involved and what is because some people talk about the shift being we can talk about intermit irreal terms or we [281](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=281.67s)
+
+can talk about it in terms of an evolution in in consciousness or the way that we operate what you sense is that leap that we need to make in terms of how we operate you actually have to think about it on all of those levels to be able to make sense of it in a meaningful way otherwise it's kind of like asking when we are talking about the health of a person whether that [303](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=303.03s)
+
+means the health of their liver or their kidneys or their blood it's like that doesn't even make sense you can't separate those things from each other so when i think about what economics is economics is our value system codified as value equations that determines how much we value one thing relative to another thing that determines what we're incentivized to do and what we confer [323](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=323.01s)
+
+power to so if a dead whale is worth a million dollars on a fishing boat and a live whale in the ocean is worth nothing that's a value system codified in a value equation that then incentivizes behavior but it also incentivizes psychopathology right psychopathy actually i have to shut empathy down because leaving the whale in the ocean it i hope she isn't even gonna stay in [341](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=341.96s)
+
+the ocean another guy's got a hunter it out right so i've got a tragedy of the commons so i have to kind of deaden to be able to do the thing that is incentivized by the system or somebody else does and i'm just not effective in the system so you can't think about the evolution of human consciousness in the evolution of economics differently but if you look at the way economics then [360](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=360.75s)
+
+needs to protect its own profit stream in the way it will learn how to influence media to control people's [[sensemaking]] frameworks in the way it will influence governance again this is getting to consciousness or the way it will influence legislation on the nature of what happens in education to prepare people for the workforce and so the paradigm shift is basically everything [380](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=380.64s)
+
+we need new systems of governance if we just i mean we think about how much we love the word democracy and we love the word democracy because it's better than tyranny and it's better than the other like really horrible systems that we've experienced at any scale but when winston churchill said democracy is the single worst form of governance ever created save for all the [406](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=406.51s)
+
+other forms what he was saying that was really insightful was that getting lots of humans to agree on anything is just a hard thing to do and we suck at it and we've never actually done a good job at it and this is a really flawed system now we like it because like we said it's overcoming things that were even more problematic if you think about democracy for a moment and whether we're talking [425](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=425.95s)
+
+representative democracy or [[liquid democracy]] using a voting currency or binary vote fundamentally of a process of saying ok we can't get everybody to agree beyond a very small number of people [[dunbar number]] tribe you can get everybody degree because they can all be in a conversation together beyond the level of which you can have a conversation together you can have a few [443](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=443.92s)
+
+people control everything and they can be in a conversation together some type of oligarchy or meritocracy but then you're like no we want most of the people to agree at least right that seems like a good idea but somebody puts forward a proposition to do something that they think is important based on their limited [[sensemaking]] that is never everything that proposition because it [461](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=461.29s)
+
+wasn't informed by comprehensive [[sensemaking]] will always in the process of benefiting something also damaged something else and so some people love that based on if what it's benefiting is directly relevant to them and other people hate it based on if what it's damaging is relevant to them you just created inexorable polarization because you made shitty propositions and then [481](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=481.54s)
+
+ask people to vote yes or no by an arri on a shitty proposition so you notice people actually don't all get to contribute to the [[sensemaking]] of what a good proposition would be there's no kind of collective input there there isn't even a generation of what would good mean here and they so really even their choice making is just yes or no on a frame that was already controlled and [502](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=502.72s)
+
+typically who's going to be able to even put forward a proposition as someone who has vested interests and so you're stuck with polarization in that particular system right so we need new systems of governance that are not any system of governance the world has ever done so far there are systems of how do we individually and collectively make sense of what's going on make sense of what we [526](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=526.6s)
+
+actually value and how those values can be synergistically satisfied rather than a theory trade offs with each other progressively better and how do we create design that are optimal synergistic satisfiers so that's totally new thing governance wise we need totally new systems of economics we need totally new systems of education healthcare all the way down to at an [547](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=547.75s)
+
+individual level a new basis for identity values our own individual [[sensemaking]] choice making as long as i think that i'm an individual that is fundamentally separate from you and the biosphere and everything else i can think about optimizing my own quality of life independent of and maybe even at the expense of your quality of life for the biosphere or anything else as soon [569](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=569.08s)
+
+as i get that i start to say okay well i'm not that tree but what would i be without trees why would not exist right well there would be no atmosphere if they weren't plants photosynthesizing so i fundamentally am not even a meaningful concept without plants so if i think of myself as me that is not fundamentally interdependent with plants i'm actually just not even thinking clearly right [593](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=593.14s)
+
+it's just a bad ontology it's a bad semiotic s-- and then i start to run that and say well what about soil microbiota and what about and it turns out that my life depends on the whole thing right so i am really i can be better thought of as an [[emergent property]] of this whole thing right not just a biosphere because what would it be without the sun and so as long as i [614](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=614.8s)
+
+have a sense of ai that is separate and maybe even rival ris'n rival risk competition for some scarce status resource attention partner or whatever it is then we have a fundamental basis for war and in a world of exponentially increasing technology which means that the warfare gets to be more and more consequential that will self terminate so rival risk dynamics multiplied by [638](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=638.8s)
+
+[[exponential tech]] self-terminate [[exponential tech]] is inexorable we cannot put it away so we either figure out anti rivalry or we go extinct human experiment comes to a completion that's like that's the core thing figuring out anti rivalry is a psycho-spiritual process inside of ourselves can we actually even get along with our family members can we pay attention to our [661](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=661.9s)
+
+emotions and triggers that hijack us from sovereignty because the moment i'm getting pissed in my value system is not be an angry person i'm actually hijacked right can i pay attention to that and actually have some sovereignty over my own interstate and how i show up in the world and can we figure out how to do that a collective as well [683](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=683.8s)
+
+you music you

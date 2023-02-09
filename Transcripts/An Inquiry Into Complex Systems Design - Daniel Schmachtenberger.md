@@ -1,0 +1,197 @@
+---
+tags: transcript
+aliases:
+youtube_id: vfKR0Nyp--Q
+---
+
+<div class="yt-container"><iframe src="https://www.youtube.com/embed/vfKR0Nyp--Q"></iframe></div>
+
+before talking about uh what i think good goals would be i think the question you're actually asking about is is a goal-oriented framework actually a adequate or good framework or there are other frameworks we want to take and so obviously western culture has been and particularly post-industrial post-scientific technological uh and even computational culture has [23](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=23.439s)
+
+been very oriented to goals kind of process and we can attribute both lots of successes and most of the failures of the world or many of the failures of the world to that process because if i define a goal and it doesn't include everything that will be affected by the nature of what i do to get there [43](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=43.84s)
+
+then whatever is affected that i didn't define as part of my goal is the space where externalities can happen and even in the you know very well intentioned non-profit uh you know whatever kinds of sectors we see all the time having things like okay so we have a goal to [64](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=64.239s)
+
+end extreme poverty and childhood hunger globally or within a particular area that seems like a pretty awesome goal especially if you've ever seen a child who's hungry or a mother watching her child be hungry the tricky thing is if my only goal is to end hunger i can do it through unrenewable agricultural methods that [82](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=82.24s)
+
+dump nitrogen into river deltas moving dead zones in the ocean even faster moving us towards actually extinction as a species and collapse of the biosphere writ large which is okay so we prevented some people from dying over the very short term and made it more likely that everyone dies with a medium [102](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=102.32s)
+
+term um so at minimum when we think about goals we could at least just start by this hand wavy kind of thing of saying our goal is x whatever x is right stop uh extreme poverty and just add this little caveat which is our goal is to do that and not [119](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=119.439s)
+
+externalize harm to anything else that matters and now when you start exploring how do i know what else might be affected that could have harm externalize that isn't obvious in very complex systems and with um technology that has lots of different causal dynamics that are associated and then the question of [142](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=142.959s)
+
+what are other things that matter and what is my ethical and existential framework for assessing that then you start to realize that that kind of hand wave leads way to a much deeper process of what we might call omni consideration yeah let me pause you for a second actually there because i think that [163](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=163.76s)
+
+there's a lot of good juicy stuff um a as you said we're kind of so used to thinking of this goal framework um and it's almost it's hard to get out of it in some ways and like you say i super agree with you say once we create a goal whatever that goal is x and you also have to say what are all the externalities of x and how can we [179](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=179.44s)
+
+make sure that we're you know minimizing the negative externalities and upping the positive externalities of that x um is there i guess to go a little bit deeper on that this kind of goals perspective and you kind of start to allude to this to some extent it's like there are there are people in the world so i i [195](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=195.519s)
+
+would say i'm like a relative kind of effective altruist maximalist um in terms of i i agree with you know generally agree with like consequentialism and kind of outcome focused ends focused mindsets and those are all kind of goal they have kind of goals as a part of them so how do you think about something like effective altruism as kind of a mostly a [212](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=212.959s)
+
+goal focused or kind of an outcome-focused mindset is that going to be is that good for shaping the world positively effective altruism is a valuable step in the consideration process of saying if we really care about having actions that have a positive impact on life writ large how do we go about [238](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=238.56s)
+
+influencing our choice making basis of what will be effective and how can we use very effective tools like rationality to inform better choice so in so far as it's asking what are the right epistemic frameworks to inform good choice that's a great step now of course i'm going to say that it is a limited step and the limits are [263](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=263.12s)
+
+actually fatal in the direction of informing good choice have to happen so here's a couple examples when we talk about the limits of goals because the goal is always embedded within a larger context and so you have to factor it's in the embedding functions and that's where the topic of externality comes and how we even think through externality we're mostly only going to forecast within domains that we already know a lot so as we're getting into exponential technology where there are faster rates of change more complicated more complex systems um etc then [301](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=301.199s)
+
+there's more stuff that's going to happen that we don't forecast well and faster coupling from the micro context to the macro context it used to be that whatever happened in a microwave it wasn't going to affect the biosphere or human civilization writ large because stone tools just don't have as big a consequence as ai or nanotech or biotech dude [321](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=321.919s)
+
+and so because of the larger scale and faster timeline coupling coefficients of microaction to macro dynamics externality is that much bigger of a topic right and it's an exponentially bigger topic so let's just take small cases and then look at what happens when you put that on an exponential curve so say we take medicine because in [342](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=342.0s)
+
+medicine we're talking about what is health and but in a body that's a complex system but we take a complicated approach of trying to define health in terms of a finite number of metrics so we're going to look at your low density lipoprotein and your high density lipoprotein and a couple different cholesterol metrics [360](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=360.96s)
+
+and blood pressure and blood sugar and whatever right and as time goes on we look at more and more metrics but then the idea is that there is a range in which we want to see those metrics and so then the goal is at first we can just say okay your cholesterol is too high our goal is to lower cholesterol [376](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=376.24s)
+
+that seems like a reasonable thing if i have a reason to think that high cholesterol increases the probability for certain diseases but now i have to dig a little bit deeper and this first step is obvious the second step is more important the first step says okay when i say cholesterol is high so i want to lower it [393](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=393.759s)
+
+giving a statin drug actually works and makes sense i'm going to lower low density lipoprotein i did not ask why the cholesterol was high in the first place is that possibly a protective mechanism to the arterial system from some type of oxidative damage or toxicological damage or whatever that that's arising from [411](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=411.759s)
+
+is it a sign of other systems homeodynamic systems being out of balance where just addressing that symptom means underlying other pathoidiology will continue is there a side effect on metrics other than ldl and maybe ones that we haven't even measured and done longer term analysis on of the method that we're using etc so [430](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=430.96s)
+
+then we can say well the statin works for that but not now the system is more dependent on it its own ability cholesterol is less good why it was off we still don't know and the side effects of the statin might be things like liver toxicity and brain toxicity so we say okay well that's not the best method but that is still our method right that's how we do [449](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=449.919s)
+
+medicine and it's why if you think about medicine we have really amazing acute medicine and really terrible chronic medicine so in acute medicine meaning if we know the acute onset of the illness like you just got shot and the problem is a bullet that went in we can take the bullet out sew it up and [470](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=470.0s)
+
+there isn't deeper underlying more complex causation that's pretty straightforward and we're really good at that you just got an acute infection you just got an acute poisoning we can deal with those things pretty well but when we talk about psychiatric disease or autoimmune disease or neurodegenerative [486](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=486.24s)
+
+disease or cancer or anything that doesn't have one obvious immediate cause you'll notice that for the most part we don't have anything that actually looks like a real cure or prevention we have symptomatic treatment and we might have things at slow rates of progression and the reason we don't and so cancer is [504](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=504.319s)
+
+a classic example we can cut a cancer out we can radiate it out we can poison it out but we're not that good at saying why is it growing in a way that it wasn't when the person was younger and that it doesn't in other people and how do we actually address that because it doesn't have one cause it has a whole [520](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=520.24s)
+
+bunch of different causes and they're not even the same set of causes in different people so now we have to actually not do a generalized bell curve approach but do a let's understand this complex system uniquely factoring multifactorial causation delayed causation causal cascades [538](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=538.0s)
+
+that we are epistemically not that good at we do the same thing for the world when we're saying we want to feed kids in this area and we're not saying what is wrong with a macro economy that actually creates poverty and what uh you know etc like what are the actual causes of [558](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=558.32s)
+
+this problem and then of a particular solution that we're going to come up with that doesn't address the causal dynamics well uh what are the side effects of that solution going to be is this agricultural method going to lead to more nitrogen runoff leading to larger dead zones in the ocean that is actually worse for everyone long-term and writ [575](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=575.36s)
+
+large and so what we find is then we look at the ldl and say okay so we want to look at ldl and these liver enzymes and a few other things and then we try and put more metrics and run optimization on those metrics which then we say big data and [592](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=592.399s)
+
+um and machine learning will help us do but this is the kind of the key thing no matter how many metrics there's a couple things here when we say that goals are limited we also are saying that optimization theory is limited um for a couple critical reasons so now i go from two metrics to 200 or 2 000 metrics but there's still other things that are happening that are outside of the metrics that i'm seeking to optimize that are mostly in either the beyond factorable within this model or the actual unknown unknowns but that might be critical to the whole system and so when i'm running optimization on these n metrics [634](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=634.32s)
+
+i'm also affecting a lot of other stuff that i'm not paying attention to optimize which is this places where i'll probably externalize harm as i'm driving a system where all those things are interconnected without actually acknowledging they're incorrect they're connected in other words our model of a complex system is not how the complex system actually [650](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=650.56s)
+
+works so when we treat the actual reality as the model and we try and optimize for the model the place in which the reality is not the model gets  up and so when you define a complex system as something that has an [[emergent property]] beyond how you model it when you model it you get certain system dynamics awesome [669](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=669.04s)
+
+complicated system complex system is the predicted dynamics of the model don't explain all of the dynamics then you have to say is there a different epistemology other than n-dimensional metrics and optimization theory to account for what is actually going on so pause for a second so i agree with a lot of that and i want to talk about that in a sec [688](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=688.399s)
+
+but so you talked about the i agree there's a bad forecasting piece where we live in this world where we have black swan style events and we're hyper interconnected lots of power dynamics lots of power lots of external or lots of sorry exponentials happening and when all that happens if we set our goals and then don't uh [706](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=706.079s)
+
+account for the externalities or actions then um the sad externalities can turn out to be really big because everything's so interconnected and powerful now um and i agree with what you're saying when you think about any of these actions and this gets into how kind of to think about this stuff is like when you think about taking an [721](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=721.6s)
+
+action before you do it think hey why is there this problem in the first place to try to go to that root cause level and then b what are the externalities of that action um so and then this final piece what you're getting to here is this map is not the territory thing here and it's especially true for [736](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=736.959s)
+
+complex systems um and so i just kind of want to recap all that stuff for our listener and then have you go and say okay so if we can't use this if i can't just keep adding metrics to my space um is there an what is the new epistemology that i should be thinking about that will actually allow me to allow us to to succeed in this new world [753](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=753.279s)
+
+right so i want to share another framework that will help the consideration here and this is um not a happy thought at first but it's a necessary thought which leads us to be more effective in considering how to have happy thoughts uh around this so it is that it is a lot easier to break [774](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=774.88s)
+
+than it is to actually protect or build stuff um and there is a entropic preference that we have to consider and just to have a very simple kind of prima facie of that the house that i'm in probably took a year to build and a wrecker ball could take it down in minutes [798](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=798.0s)
+
+and if you think about an old growth forest and the thousands of years it takes to get the biodiversity and complexity of that forest and how long it takes with a fire or a d9 to take it down you really get a sense of the orders of magnitude of the timelines for construction versus destruction of complicated or [815](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=815.2s)
+
+complex systems and everything from from things like that how long does it take to build a globalized infrastructure and how quickly could we actually break it um all the way to how long does it take to build trust and how easy is it to break it and so when you factor that you realize [833](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=833.12s)
+
+that there's a couple orders of magnitude more ways to break stuff than to build it and faster time processes on that so when i'm factoring externalities and i'm thinking about some new technological capacity and i don't unders i can't actually forecast the possible externalities well because [851](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=851.36s)
+
+i don't even know that space i'm opening up a new epistemic space with new types of causal dynamics and feedback loops and couplings that are very hard to think about and there is an orientation that there will be more total ways of having destructive effects than constructive and that they will be faster this is [868](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=868.0s)
+
+something we have to consider very deeply and when you can imagine like when we first got stone tools down we killed a lot of things faster than we ever had before and we started the beginning process of species extinction um human new species extinction when we first started [888](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=888.32s)
+
+kind of figuring out fire we burned a lot of down before we got good at containing fire um but when you move up to ai and nanotech and biotech and things that are pattern replicating tech meaning that the failure of the thing is not just that it caused a problem but that it causes a cascading problem that once [908](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=908.88s)
+
+initiated might not be stoppable you really have to change the epistemic framework of good things are mostly good progress at all costs history is written by the winners we kind of ignore the ugly parts and let's keep pushing and focusing on the good side of technology for some very limited definition of good because [928](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=928.48s)
+
+the destructive applications at that scale are large enough to actually destroy the entire playing field where the positive applications just don't actually get to matter anymore so there's an increasing kind of at exponential scale exponential constructive and destructive forces both the destructive forces become larger than the playing field can handle in the [951](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=951.68s)
+
+game in so with [[exponential tech]] you either figure out how to prevent and internalize externalities or the game eventually self self terminates and so the type of process that we've used for all of history until now is itself [[self-terminating]] yeah so could i even pause you for saying there because i think that's a lot of [972](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=972.079s)
+
+juicy stuff there i'm reminded of uh talibs and yanir baryam's precautionary principle here which is the idea that even if something has you think it's gonna be really good with a 99 chance of being really good but it has a very very small percentage chance of like um actual ruin or like [[existential risk]] then it's like well then you shouldn't do it you know and when we live in this world where everything is interconnected and where everything is becoming more powerful then that that loose side that destructive side can become yeah it becomes we have to change kind of our ways given our [[exponential tech]] so let me follow up on that for a quick second here which is if we're trying to change our ways here and we're trying to be kind of taking all the externalities into account um how yeah how can we begin to start to do that so great question again i'll say one other thing that i think leads some of [1027](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1027.919s)
+
+the context great one of the important things to consider when we think about the topic of negative externalities that so one thing we just said is the kind of entropic gradient right so we have to factor that another key thing is the topic of weaponization uh if i create a new technology and it [1045](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1045.6s)
+
+is the capacity to affect change through the causal lever on choice right i'm going to make a choice my technological understanding of some mechanism allowed me to make a technology that's a big lever on my choice so my choice has a bigger effect than it did before well that same technological capacity [1064](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1064.64s)
+
+can be a lever on lots of kinds of choices right and so one of the things we have to understand is that the moment we actually deploy a type of asymmetric technology then it gets reverse engineered iterated upon and utilized for all purposes that are incentivized by all agents and [1088](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1088.24s)
+
+so i just had some guys talk with me the other day about an ai project they were working on of how they could use some ai information technology that was novel they just developed to get out some type of um what they thought were positive political agendas to solve some current near-term problems and i'm like and you don't think that the other sides [1110](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1110.32s)
+
+that have as much incentive and pretty good intel will pay attention to the new technology you have reverse engineer it and utilize it for the other purposes and simply and then and they thought about me like like i guess that will happen and i said now take all of the sides in this multi-agent dynamic that all have rivalrous incentive to [1128](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1128.16s)
+
+weaponize the technology against each other for their agendas and all you do is up the ante of the playing field and so nukes didn't actually make us safer it seemed like they made a safer but we actually have increased risk of [[existential risk]] from nuclear warfare relative to a world that had just never developed nukes right [1147](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1147.52s)
+
+and so this is the [[multipolar trap]] where each agent doing the thing that seems like it provides and whether the agent is a person or a country or a company or whatever each agent doing the thing that seems like it's best for what they care about in the near term actually leads to a system disposition that is worse for the system as a whole over the [1166](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1166.72s)
+
+long term and this is what we call a [[multipolar trap]] or a [[race to the bottom]] right a tragedy of the commons and [[arms race]] are all examples of this and with [[exponential tech]] we have an exponential raise to the bottom type scenario so one thing you can say is in terms of goals or necessary criteria of system [1186](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1186.96s)
+
+design design constraints is that we have to solve not just for some [[multipolar trap]] but categorically for the class of [[multipolar trap|multipolar traps]] as long as you have a rivalrous incentive to utilize technology in a way that will directly or indirectly cause harm you have a near-term incentive to do that and you have [[exponential tech]] and anytime anyone deploys it everyone will be using it for rivalrous purposes we we are actually completely yeah yep so can i pause you for a second there on that great and uh so i agree with this and this is this is something that you call like the [[generator function|generator functions]] of x-risk and these are these these multiple traps and you can look at it when you think about the [[existential risk|existential risks]] that exist today there are things like uh nuclear security and that's an [[arms race]] it's like yo couldn't we have stopped at like i mean maybe like three nukes or something but no we have thousands of nukes [1237](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1237.2s)
+
+um and you think about biotech again it's like people doing things they're in these win-lose game dynamics where if they stop and if they don't if they don't go quicker and same with like [[artificial intelligence]] alignment it's like ooh maybe google and baidu and you know chinese governments and whoever are going to be nice around and be and try to be safe but actually [1254](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1254.48s)
+
+they're going to be in this win-lose game dynamic where if they're the first ones to get agi then um they will have lots of rewards and so there's a disincentive to kind of chill and wait for uh the safety things um and something like [[climate change]] obviously is a an example of the that's like a perfect [1269](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1269.84s)
+
+example the tragedy the commons where you have it didn't matter that much at the beginning when we start the industrial revolution that we are pushing stuff into the atmosphere but as you say once it gets exponential then uh and we ignore that externality then we're in one of these multiple traps where no one's caring about the [1284](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1284.4s)
+
+the earth and then everybody gets screwed um so i agree with all that i also agree with you and saying this weaponization piece is a very interesting one it's and it takes this weird mindset that we talked about a little bit before with this weird kind of omni-considerate mindset where you have to kind of this is both powerful from an individual perspective he tried like uh steal man the other person but it's also very powerful from this kind of systems perspective where you say hey if i do something and well maybe it's good for me but what happens if everybody does that you know then is it still good and is the thing that i'm using the tool [1315](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1315.28s)
+
+and i just did a podcast on new power um these kinds of new power are those tools and those kinds of powerful things how are they going to be used by quote unquote the other side you need to think about that in terms of this weaponization piece um so i agree with all of you here one thing that i might be worried about just as a [1332](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1332.96s)
+
+heads up is like this to some extent i think that people might get stuck in a trap right now which is what i'd call make maybe like a post-modernist trap where it's like you we had been in the the world of modernism we were excited by the world we said hey we're going to be nationalists we're going to go go and [1347](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1347.76s)
+
+then post-modernism came around and we we rejected those myths and we said no nothing can be real and like everything is kind of uh kind of gradients or whatever and it feels like maybe a similar thing here where you're like you see like oh man reese we need to think about all the externalities all the time or like have omni consideration [1364](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1364.559s)
+
+all the time or like how how can we how can we then make choices if we have to be worried about the externalities kind of of everything yeah great question um and as you can guess what i'm going to advocate is an adequate epidemic and ethical framework is not postmodernism a couple more parts that we need to [1388](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1388.24s)
+
+construct in here is so one thing regarding weaponization and just a very simple practical thought for people who are wanting to do good i was having this conversation with tom chi the other day and you know he's a really uh brilliant prototyper inventor roboticist technologist [1409](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1409.76s)
+
+working on good things for the world and we were talking about this problem of um weaponization and cognizant of that his approach and i think this is a approach that bucky fuller laid out very clearly and and others have is let's take technology that already exists for weaponized purposes and start to popularize how to use it [1430](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1430.159s)
+
+for actually positive purposes so we're not increasing the technological power landscape we're repurposing the shitty power to better power and so we aren't actually going to be driving a [[multipolar trap]] and a [[race to the bottom]] we are within the current landscape of not having solved [1446](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1446.799s)
+
+for multiple traps categorically yet we're at least driving a race to the top and i think this is a really key idea so when he's looking at how do we take drone tech that already exists for military purposes and sucks we're not going to make fundamentally better weaponizable drone tech but we're going to use it to plant a bunch of trees to pull [1464](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1464.559s)
+
+a bunch of co2 out and stabilize topsoil and other things you have a much lower risk of weaponization in that approach and so uh i just want to offer that as one very simple kind of strategy that people can think about now that still doesn't mean that a particular approach won't have [1483](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1483.76s)
+
+externalities and doesn't need thought about of course if i take a desertified area and plant trees for the goal of sequester co2 and so i take whatever genetically engineered plant sequester co2 the fastest and just plant a ton of it i might get all kinds of ecological problems as a [1502](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1502.559s)
+
+result of anything from monocropping to invasive species to whatever else right so i still have to think about complexity but i don't think about weaponization increasing the potential of the power landscape as much that's one um consideration next i want to go on to something about [[multipolar trap|multipolar traps]] but do you want to say anything on that part first uh no no no go to multiple traps thank you for checking them so um for people who aren't familiar with this topic well yet uh there's a article on slate star codex called meditations on moloch that is of the best articles on that whole site i think [1541](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1541.6s)
+
+and one of the better introductions to the concept of [[multipolar trap|multipolar traps]] um i will share and whether we get to it on this podcast or another time a different set of insights about a categorical solution to [[multipolar trap|multipolar traps]] but just so that people understand them a little bit and why they are so hard to [1560](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1560.159s)
+
+get out of if we you mentioned a couple examples but i want to highlight the system dynamics a little bit more explicitly because as you said this is actually not the source of one x-risk this is a [[generator function]] for all x-risks there's one way of thinking about it [1578](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1578.88s)
+
+and so if we don't resolve it categorically then we just kind of move the time scales a tiny bit um so let's take a tragedy of the commons it started a long time ago and we just say okay we got a number of tribes that are all seeking to increase their own well-being they are in an implicit competition with each other for [1596](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1596.559s)
+
+the same scarce resources at a certain point that implicit competition of economic resource extraction wise can become so problematic that they move into an explicit militaristic competition which we can see how it happened but let's just even start to take first okay i don't want to cut all the trees down [1615](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1615.76s)
+
+because i actually really like the forest i have a whole spirituality about our connection with nature and we need the forest to live because that's where the animals live that we hunt and etc and i actually don't need that many trees i just need a few trees so i'm only going to cut down those few trees except the population of these [1631](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1631.52s)
+
+other tribes and the total number of tribes has been increasing and they're all cutting down trees and so i know that if i don't cut down the trees it still doesn't ensure that there's a forest because the other guy is going to cut down the trees so there's not going to be a forest anyways but he's actually my competitor because he's going to use those for weapons [1647](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1647.6s)
+
+weapon making that if i don't also do so he will actually end up killing my people or he will be able to outlive us through a famine because of total amount of economic accumulation or whatever it is so since i can't actually keep the forest because of those guys and even if i tried to make a truce with this one tribe there's [1666](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1666.88s)
+
+this other tribe that we just can't even talk to and so if anybody does the up thing of cutting down a bunch of trees then we are in a race to all get them first to keep the other guy from having them because there is no incentive in leaving them and because then it's best for us to have [1682](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1682.32s)
+
+them so now we cut down a lot more trees than we need and so but they only do that because they're thinking the same thing about us we're the up other tribe to them right and so now we all realize that we have to increase how good our axes and saws are and how many people are cutting down for [1700](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1700.48s)
+
+us to cut it down faster because we're all racing to get that wood or the pigs or the whales or the farmland or whatever it is right and so now we are not just destroying the world upon which we depend we are in a race to destroy it as fast as possible and if we don't we assume it will still [1718](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1718.64s)
+
+get destroyed and it will be worse for us and we have no chance of winning right so this is a scenario where anyone does the up thing and it sets a precedent for everyone else to actually be better off near term if they do the up thing even though it leads to everyone being [1735](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1735.6s)
+
+worse off over the long term so we have a decoupling of the incentive of each agent from the well-being of the other agents and the commons and as a result because of the interdependency of the commons we have a decoupling of our own short-term advantage with our own long-term well-being if i take the case of tragedy of the [1753](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1753.44s)
+
+commons we can see how recalcitrant and tricky those are if we take the case of an [[arms race]] we see the same thing and the tricky part here is we say okay we haven't succeeded with nuclear de-proliferation all that well all that we have is more and more countries having existential level power so we can't even have something like [[mutually assured destruction]] anymore and so and obviously [[exponential tech]] can make that non-state level actors and not even traceable types of dynamics but now let's take a current example let's take ai weapons right weaponized drones etc there is no general in the world that wants to live in the world where those [1794](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1794.24s)
+
+weapons are ubiquitous there's no military contractor military hawk whatever who thinks that's actually a nicer world to live in everybody knows that our chance of all being killed by ai drones goes up if any of us build the things and so it is a comprehensive the worst world for all of us and our kids and our [1811](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1811.039s)
+
+grandkids and yet we're all going to build them as fast as we can because the other guy's going to build them and we say well okay no no we need to create an agreement there are efforts being made to do this but all that has to happen is one guy doesn't one group doesn't join the agreement and now we don't want them to [1826](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1826.72s)
+
+get the weaponized drones first so we got to do it or everybody joins the agreement but we're pretty sure they're going to be defecting on it in secret right because they would have all of the incentive to do so so they keep the agreement and then in a black project they defect on the agreement while continuing to [1841](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1841.44s)
+
+disinform us that they're keeping it and because we think they're doing that we're also defecting on it we're trying to disinform them while trying to spy on the way they're disinforming us and now all of our resources are going to both making the world as bad as we can as fast as we can while disinforming each other and ruining the information ecology maximally right we will go extinct because of [[multipolar trap|multipolar traps]] on our current trajectory if we do not figure out how to solve them these have been the dynamics that have led to the collapse of societies for as long as we've had societies [1875](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1875.6s)
+
+and it's just when the roman empire fell as big as it was it wasn't the whole world when the incan or the mayan or the egyptian or the mesopotamian or the aztec empire fell which they all fell it wasn't everything as soon as we have a fully interconnected global [[supply chain]] where there's not a country in the world that could actually build the computer that [1895](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1895.919s)
+
+we're speaking on from scratch the mining refinement hardware tech software tech et cetera is happening across the whole world then we realize that the civilization that we only know how to build civilization to collapse and that the collapse of a fully globalized civilization and where the environmental damage that's happening is at the level of the whole biosphere not just a particular ecosystem we say oh the way that we have always been multiple traps are old the way we have always been that has always caused wars and environmental destruction and etc is at a level of magnitude that we don't actually get to make it [1930](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1930.32s)
+
+through so it's not that the problems are different in kind they're just different in magnitude and speed where that ends up being different in kind because you don't actually get to keep going through the boom and bust cycles associated so we either solve for [[multipolar trap|multipolar traps]] which means agency misalignment or the human [1948](https://www.youtube.com/watch?v=vfKR0Nyp--Q&t=1948.0s)
+
+experiment completes
