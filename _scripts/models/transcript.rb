@@ -24,7 +24,7 @@ class Transcript < MarkdownRecord
         title = CGI.unescapeHTML(r.body.match(%r{<title>(.+)</title>})[1]).force_encoding('UTF-8').gsub('|', '–').gsub('/', ' ').gsub('#', '').gsub(' - YouTube', '')
         puts "fetched #{title}"
       end
-
+    
       next unless !TITLE_REQUIREMENTS || TITLE_REQUIREMENTS.any? { |word| title.match(/#{word}/i) }
 
       if File.exist?("_transcripts/#{youtube_id}.xml")
