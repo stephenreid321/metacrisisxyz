@@ -4,7 +4,7 @@ require 'nokogiri'
 require 'yaml'
 require 'json'
 require 'active_support/all'
-require_relative 'project'
+require_relative 'project_constants'
 require_relative 'markdown_record'
 Dir["#{File.dirname(__FILE__)}/models/*.rb"].each do |path|
   require_relative path

@@ -25,7 +25,7 @@ class Transcript < MarkdownRecord
         puts "fetched #{title}"
       end
 
-      next unless TITLE_REQUIREMENTS.any? { |word| title.match(/#{word}/i) }
+      next unless !TITLE_REQUIREMENTS || TITLE_REQUIREMENTS.any? { |word| title.match(/#{word}/i) }
 
       if File.exist?("_transcripts/#{youtube_id}.xml")
         xml = File.read("_transcripts/#{youtube_id}.xml")
