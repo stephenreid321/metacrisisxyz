@@ -7,6 +7,7 @@ You can find definitions of metacrisis-related terms with links to where they ar
 * `Diagnosis`: diagnosing the metacrisis
 * `Responses`: broad ways in which we could usefully respond to the metacrisis
 * `Tech`: specific technologies that could be relevant
+
 Please note definitions are currently AI-generated and not always accurate.
 
 Find transcripts of relevant podcasts including timestamped links under `Transcripts`.
