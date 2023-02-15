@@ -13,6 +13,7 @@ app/assets/stylesheets/*.css
 app/assets/stylesheets/*.css.map
 *.code-workspace
 workspace.json
+.obsidian/plugins
 
 *.gem
 *.rbc

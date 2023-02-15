@@ -1,0 +1,49 @@
+-   Write and publish an updateable, web-based risk report under our own banner that provides a high-level overview of the metacrisis and what the needs of global coordination are. Then go into detail of the various verticals of crisis (E.g. catastrophic risk, planetary boundaries, exponential tech, war and conflict, and failure of human systems: electrical grid, financial systems, food and water security, supply chains, etc).
+-   Our report will not focus on any in-depth qualitative details of a specific risk, but we will reference many groups and tech applications that are working on different risks and will reference them throughout.
+-   If we take all of these pending catastrophes as must-avoids, what will it take in terms of an integrated set of activities?
+-   Include the fundamental analysis work that Daniel has done: We can't have an exponential monetary system with an embedded growth obligation per exponentiation tied to a linear materials economy.
+-   Educate people about web3 and share an analysis of its risks and rewards
+-   Other points/topics to cover:
+    -   Paint broad brushstrokes of what needs to be done in a triage fashion. Not just how do we avoid near term risks that are currently pending (transitional risks), but how do we appeal to existing system logics and make systems that are more competent and smarter and that work in the right direction?
+    -   Where is victory in the right direction, but its still insufficient and we have to make fundamentally new systems?
+    -   You can have an issue in one vertical that may not be a catastrophe in all verticals, but the catastrophe in one can begin a cascade into all the others
+    -   Share examples of the types of cascades that can happen and why they can’t be forecasted ahead of time
+    -   What overlying catastrophic risks do the verticals have in common? E.g. multipolar traps, principal agent issues and coordination failures of various kinds, perverse incentive and systemic choice architectures that are inadequate, and externalities and choice making processes…
+    -   Explain why these coordination failures need to be addressed in a more holistic manner than rather addressing problems in one vertical at a time.
+    -   What is inadequate in our approach to risk? Eg Solving a problem that causes other problems, uncheckable control structures, etc.
+    -   We must not hit the tipping points of irreversibility
+    -   How do we appeal to existing systems and system logics?
+    -   Where is vectoring in the right direction still not efficient and changes need to be made across infrastructure, political economies, tech, long-term renewable energy sources, and so on?
+    -   To the degree that you get progress in one vertical —you can get progress everywhere.
+    -   Discuss what is wrong with our or inadequate about our approach to catastrophic risks, what the generator function is, how solving one problem in a certain way can cause other problems. Or the conundrum of solving *a problem whose solution polarizes part of the population against it.
+    -   Identifying upstream from a catastrophe happening, what points actually do have to be avoided and – when there is a range of possible timelines and forecasts — why it's important to err on the conservative side of a timeline
+    -   Why is there a range of timelines and possible forecasts?
+    -   What is the relationship between web3 and other forms of tech?
+        -   E.g let's say we're doing open science using decentralized web3 and people are publishing information that were information hazards, like gene sequences, gain of function, pandemic, weapons, or pandemic gene sequences, but now because of the decentralized nature of it, we can't realize that it's a risk leader and take it down?
+    -   What kind of regulatory landscape needs to be established and implemented to avoid crises?
+    -   Explore emerging tech and the risks of how some tech could be intentionally weaponized. How could that be avoided?
+    -   How does the web3 world add new risk and how do we think about navigating what needs doing? On the other side, what types of risks that currently exist could be solved, prevented, or ameliorated with that tech? (e.g. incorruptible ledger, which means better accountability for law, financial accounting, and government provenance on supply chains, etc)
+    -   Philosophic questions like the facilitation of network state governance, solving risks of the fragility of states, making war more likely rather than less likely, or supply chain failures
+    -   Give an overarching analysis of all the risks that our technology can solve for and what new risks that portends
+    -   How do we deal with those risks as a community and think about them?
+    -   How do we get the beneficial applications and avoid the negative applications?
+    -   How does governance need to change (governmental, cultural, and so on) in order to prevent catastrophes?
+    -   Provide a comprehensive, incisive, and fair overview of the web3 space: The core concepts, the things that are clear and the areas of disagreement. Can include:
+        -   What are the various fundamental types of technology that are involved?
+        -   What are the kinds of novel capacities and affordances that they offer?
+        -   What are the core kinds of concepts that are involved?
+        -   What are the various real-world problems that are trying to be addressed?
+        -   Within the web3 community what do key thinkers really disagree on?
+            -   And not just disagreements among two people in two camps in the web3 space, but web3 and other spaces such as the fields of political theory or political economy
+            -   E.g. the Vitalik/Ezra Klein conversation around “will transparency actually increase trust in institutions or make trust in institutions worse”
+        -   Establish that imperfect ideas or structures do not mean they are invaluable or should be disregarded as a whole (e.g. quadratic voting or DAOs)
+        -   Where the current state of prototype is and what is minimally viable for solving the problem and can we indicate that the current prototype is simply an experimental place not proposed as sufficient (E.g. quadratic voting, quadratic funding, DAOs).
+            -   Of course, early experimenting can lead us to new possibilities and new solutions
+            -   E.g. it would be silly for someone to think the very best thing that could ever be done to address the 1p1v or the financial meritocracy issue is quadratic voting and as a result, we have to stick to it with more enthusiasm than was warranted. It would also be dumb to say because that idea has problems that there's no merit in the entire field of work.
+        -   How can we get people that currently are on one side of a disagreement or have partial knowledge or partial information to a clearer, balanced, fair, nuanced, application-focused perspective on the web3 space?
+        -   What are the open questions, how to address them, etc.
+        -   Is anyone in this group already doing that?
+-   Publishing:
+    -   Self-publish instead of under the WEF/Davos banner, but use our existing relationships to share the report with WEF, UN, Council of Foreign Relations, G20, etc. They will have the opportunity to engage in the various ways that they want to.
+    -   Include videos throughout and/or make a video explainer version that can be more widely uptaken and digested.
+-   Deadline: No longer a hard January deadline. No real deadline determined at this time.
