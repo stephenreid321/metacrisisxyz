@@ -1,36 +1,42 @@
 GEM
+  remote: https://rubygems.org/
   specs:
     ast (2.4.2)
-    json (2.6.2)
+    dotenv (2.8.1)
+    json (2.6.3)
     parallel (1.22.1)
-    parser (3.1.2.1)
+    parser (3.2.1.0)
       ast (~> 2.4.1)
     rainbow (3.1.1)
-    regexp_parser (2.6.0)
+    regexp_parser (2.7.0)
     rexml (3.2.5)
-    rubocop (1.38.0)
+    rubocop (1.45.1)
       json (~> 2.3)
       parallel (~> 1.10)
-      parser (>= 3.1.2.1)
+      parser (>= 3.2.0.0)
       rainbow (>= 2.2.2, < 4.0)
       regexp_parser (>= 1.8, < 3.0)
       rexml (>= 3.2.5, < 4.0)
-      rubocop-ast (>= 1.23.0, < 2.0)
+      rubocop-ast (>= 1.24.1, < 2.0)
       ruby-progressbar (~> 1.7)
-      unicode-display_width (>= 1.4.0, < 3.0)
-    rubocop-ast (1.23.0)
-      parser (>= 3.1.1.0)
+      unicode-display_width (>= 2.4.0, < 3.0)
+    rubocop-ast (1.26.0)
+      parser (>= 3.2.1.0)
     rubocop-daemon (0.3.2)
       rubocop
     ruby-progressbar (1.11.0)
-    unicode-display_width (2.3.0)
+    unicode-display_width (2.4.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  dotenv
   rubocop
   rubocop-daemon
 
+RUBY VERSION
+   ruby 2.7.7p221
+
 BUNDLED WITH
-   2.2.16
+   2.4.6

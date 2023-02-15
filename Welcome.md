@@ -14,7 +14,7 @@ Github repo for this knowledgebase (PRs welcome): https://github.com/stephenreid
 
 * [[The Metacrisis with Daniel Schmachtenberger – Part 1 – Green Pill 26]]
 * [[Superstructures with Daniel Schmachtenberger – Green Pill 32]]
-* [MetacrisisDAO with Daniel Schmachtenberger – Green Pill 84](https://www.youtube.com/watch?v=hv_xBK_XZjw)
+* [[MetacrisisDAO with Daniel Schmachtenberger – Green Pill 84]]
 
 ## Other great resources
 

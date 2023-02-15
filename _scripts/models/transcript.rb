@@ -9,7 +9,7 @@ class Transcript < MarkdownRecord
     all.map { |t| t[:youtube_id] }
   end
 
-  def self.populate
+  def self.populate(skip_existing: true)
     concepts_with_aliases = Concept.all.map { |c| [c[:title], [c[:title]] + (c[:aliases] ? c[:aliases].split(', ') : [])] }.to_h
 
     YOUTUBE_IDS.each_with_index do |youtube_id, i|
@@ -28,6 +28,7 @@ class Transcript < MarkdownRecord
       next unless !TITLE_REQUIREMENTS || TITLE_REQUIREMENTS.any? { |word| title.match(/#{word}/i) }
 
       if File.exist?("_transcripts/#{youtube_id}.xml")
+        next if skip_existing
         xml = File.read("_transcripts/#{youtube_id}.xml")
       else
         r = Faraday.get("https://youtubetranscript.com/?server_vid=#{youtube_id}")
