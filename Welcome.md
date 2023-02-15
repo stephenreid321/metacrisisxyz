@@ -1,12 +1,15 @@
 This is a Ruby/OpenAI-enhanced Obsidian knowledgebase for [MetacrisisDAO](https://www.metacrisisdao.com/).
 
-Telegram group: https://t.me/+gyNXeGLnh71kYmMx
-Github repo for this knowledgebase (PRs welcome): https://github.com/stephenreid321/metacrisisdao
+💬 Telegram group: https://t.me/+gyNXeGLnh71kYmMx
+👾 Github repo for this knowledgebase (PRs welcome): https://github.com/stephenreid321/metacrisisdao
 
+You can find definitions of metacrisis-related terms with links to where they are used in podcasts under:
 * `Diagnosis`: diagnosing the metacrisis
 * `Responses`: broad ways in which we could usefully respond to the metacrisis
 * `Tech`: specific technologies that could be relevant
-* `Transcripts`: transcripts of relevant podcasts
+Please note definitions are currently AI-generated and not always accurate.
+
+Find transcripts of relevant podcasts including timestamped links under `Transcripts`.
 
 ## Daniel's appearances on the GreenPill podcast
 
