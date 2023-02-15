@@ -11,4 +11,4 @@ Epistemic commons is the shared access to knowledge and information for the purp
 > [!info] Podcasts mentioning this term most frequently
 > * [[Addressing the Sensemaking Crisis: The Consilience Project w  Daniel Schmachtenberger @ Dent]] (9)
 > * [[How To STEER Civilization Away From CATASTROPHE with Daniel Schmachtenberger – Aubrey Marcus Podcast]] (9)
-> * [[Currents 030: Daniel Schmachtenberger on The Consilience Project]] (7)
+> * [[Saving Civilization: Healthcare, Tech, Democracy (w Daniel Schmachtenberger)]] (7)

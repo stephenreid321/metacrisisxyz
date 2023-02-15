@@ -9,6 +9,6 @@ Web3 is an umbrella term that refers to an evolving set of technologies, protoco
 > [[network dynamics]], [[collective intelligence]], [[open source]], [[complexity science]], [[network theory]]
 
 > [!info] Podcasts mentioning this term most frequently
+> * [[MetacrisisDAO with Daniel Schmachtenberger – Green Pill 84]] (17)
 > * [[Superstructures with Daniel Schmachtenberger – Green Pill 32]] (8)
 > * [[The Metacrisis with Daniel Schmachtenberger – Part 1 – Green Pill 26]] (3)
-> * [[Norrsken Sessions l Daniel Schmachtenberger]] (1)

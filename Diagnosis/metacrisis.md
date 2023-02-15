@@ -9,6 +9,6 @@ Metacrisis is a term often used to describe a complex problem or situation that 
 > [[collective intelligence]], [[systems thinking]], [[emergent property]], [[existential risk]], [[decision making]]
 
 > [!info] Podcasts mentioning this term most frequently
+> * [[MetacrisisDAO with Daniel Schmachtenberger – Green Pill 84]] (41)
 > * [[The Metacrisis with Daniel Schmachtenberger – Part 1 – Green Pill 26]] (41)
 > * [[Superstructures with Daniel Schmachtenberger – Green Pill 32]] (28)
-> * [["Learning to be in the world" Dinner&Talk @NAV with Nora Bateson & Daniel Schmachtenberger  HD1080p]] (13)

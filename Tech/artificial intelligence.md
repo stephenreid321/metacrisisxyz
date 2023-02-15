@@ -11,4 +11,4 @@ Artificial Intelligence (AI) is an interdisciplinary field of study that seeks t
 > [!info] Podcasts mentioning this term most frequently
 > * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 1)]] (10)
 > * [[Civilization as a Paperclip Maximizer - Daniel Schmachtenberger]] (9)
-> * [[Civilization as a Paperclip Maximizer   Daniel Schmachtenberger]] (9)
+> * [[The Power of Gods with Daniel Schmachtenberger S2 [Ep 16]]] (6)

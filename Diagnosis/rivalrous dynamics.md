@@ -10,5 +10,5 @@ Rivalrous dynamics refer to behaviors, interactions, or relationships that are c
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[Civilization as a Paperclip Maximizer - Daniel Schmachtenberger]] (6)
-> * [[Civilization as a Paperclip Maximizer   Daniel Schmachtenberger]] (6)
-> * [[Utopia or Bust: Designing a Non Self-Terminating Civilization - Daniel Schmachtenberger]] (6)
+> * [[Utopia or Bust Designing a Non Self Terminating Civilization   Daniel Schmachtenberger - on Emerge.]] (5)
+> * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 1)]] (1)

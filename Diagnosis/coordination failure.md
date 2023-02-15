@@ -10,5 +10,5 @@ Coordination failure is a term used to describe a situation where the interdepen
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[The Metacrisis with Daniel Schmachtenberger – Part 1 – Green Pill 26]] (19)
+> * [[MetacrisisDAO with Daniel Schmachtenberger – Green Pill 84]] (7)
 > * [[Superstructures with Daniel Schmachtenberger – Green Pill 32]] (6)
-> * [[Markets, Exponential Technology & Transitionary Systems - Daniel Schmachtenberger]] (2)

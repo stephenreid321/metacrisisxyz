@@ -9,6 +9,6 @@ Complexity Science is the interdisciplinary study of complex adaptive systems, e
 > [[network dynamics]], [[systems thinking]], [[sensemaking]], [[emergent property]], [[nonlinear dynamics]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * [[Markets, Exponential Technology & Transitionary Systems - Daniel Schmachtenberger]] (2)
 > * [[EXPONENTIAL TECHNOLOGY, TRANSITIONARY SYSTEMS, AND GAME B WITH DANIEL SCHMACHTENBERGER]] (2)
+> * [[Markets, Exponential Technology & Transitionary Systems - Daniel Schmachtenberger]] (2)
 > * [[The Future of Medicine - Daniel Schmachtenberger]] (2)

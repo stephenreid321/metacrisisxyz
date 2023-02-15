@@ -9,6 +9,6 @@ Paperclip maximizers are a concept developed in the field of Artificial General 
 > [[exponential tech]], [[network dynamics]], [[game theory]], [[decision making]], [[mistake theory]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * [[Civilization as a Paperclip Maximizer   Daniel Schmachtenberger]] (18)
 > * [[Civilization as a Paperclip Maximizer - Daniel Schmachtenberger]] (14)
 > * [[Daniel Schmachtenberger on The Portal (with host Eric Weinstein), Ep. 027 - On Avoiding Apocalypses]] (4)
+> * [[Converting Moloch from Sith to Jedi w  Daniel Schmachtenberger]] (4)

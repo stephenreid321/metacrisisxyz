@@ -11,4 +11,4 @@ An emergent property is an attribute or behavior of a complex system that is con
 > [!info] Podcasts mentioning this term most frequently
 > * [[Daniel Schmachtenberger’s talk at Emergence]] (10)
 > * [[46: Daniel Schmachtenberger - Winning Humanity's Existential Game]] (9)
-> * [[Civilization as a Paperclip Maximizer   Daniel Schmachtenberger]] (7)
+> * [[Civilization as a Paperclip Maximizer - Daniel Schmachtenberger]] (7)
