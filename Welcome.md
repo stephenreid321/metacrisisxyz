@@ -20,6 +20,8 @@ Find transcripts of relevant podcasts including timestamped links under `Transcr
 * [[Superstructures with Daniel Schmachtenberger – Green Pill 32]]
 * [[MetacrisisDAO with Daniel Schmachtenberger – Green Pill 84]]
 
+The initial work of the DAO is likely to be oriented around [[Daniel's prompts from GreenPill 84]].
+
 ## Other great resources
 
 * [🤯 Meta-Crisis Meta-Resource](https://metacrisis.org/) by [Kyle Kowalski](https://metacrisis.org/META-CRISIS/02.+%F0%9F%91%A4+People/Kyle+Kowalski), founder of [Sloww](https://metacrisis.org/META-CRISIS/03.+%F0%9F%8C%8E+Projects/Sloww)

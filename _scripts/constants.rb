@@ -32,13 +32,21 @@ SPACED_TERMS_TO_UNSPACE = [
   'sense making',
   'hyper normal',
   'psycho technology',
+  'psycho technologies',  
   'green pill',
   'solar punk',
   'lunar punk',
   'terra punk',
   'git coin',
   'hyper cert',
-  'hyper certs'
+  'hyper certs',
+  'micro solidarity',
+  'trans contextual',
+  'breath work',
+  'micro dose',
+  'micro dosing',
+  'corona virus',
+  'cosmo vision'  
 ]
 
 SPACED_TERMS_TO_DASH = [
