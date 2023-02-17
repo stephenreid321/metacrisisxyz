@@ -178,9 +178,9 @@ hypotheses okay and we can all do this kind of process of saying is there anothe
 
 will yield interesting results so when einstein was thinking as a young person like so galileo talked about being on a train going at a fixed speed and things that happened whatever what if the train was going at the speed of light what if it was a galileo talked about going on a train not at the speed of light but yeah he talked about [1857](https://www.youtube.com/watch?v=0dYoSctj3C8&t=1857.84s)
 
-inertial reference frames but not train right uh galileo talked about an inertial reference frame okay okay and so einstein was thinking about inertial reference frames and then he's like well what would an inertia what would the as a thought experiment what would the perspective be like if [1878](https://www.youtube.com/watch?v=0dYoSctj3C8&t=1878.88s)
+inertial reference frames but not train right uh galileo talked about an inertial reference frame okay okay and so einstein was thinking about inertial reference frames and then he's like well what would an inertia what would the as a [[thought experiment]] what would the perspective be like if [1878](https://www.youtube.com/watch?v=0dYoSctj3C8&t=1878.88s)
 
-i'm writing on a light beam if to see requires light hitting my eyes could i actually see something if the light could never catch up to me so he's doing this thought experiment but he's thinking about a reasonable thing right he's just taking the perspective of a light being so when you say where does creative [1895](https://www.youtube.com/watch?v=0dYoSctj3C8&t=1895.679s)
+i'm writing on a light beam if to see requires light hitting my eyes could i actually see something if the light could never catch up to me so he's doing this [[thought experiment]] but he's thinking about a reasonable thing right he's just taking the perspective of a light being so when you say where does creative [1895](https://www.youtube.com/watch?v=0dYoSctj3C8&t=1895.679s)
 
 thinking come from one place it comes from is taking other perspectives okay and so taking the perspective of the sun could help copernicus get good insights taking the perspective of a light beam could help einstein get good insights right so that's one kind of creative tool you'll notice that taking the [1917](https://www.youtube.com/watch?v=0dYoSctj3C8&t=1917.44s)
 

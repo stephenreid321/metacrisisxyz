@@ -626,9 +626,9 @@ to begin with but you don't actually achieve anything like meaningful happiness 
 
 what you keep getting is more of that sense of self which means no matter how much shit that you get whether it's achievement or recognition or whatever that same kind of sense is there which is very different than the kind of desire that comes from a place of wholeness and and then connectedness to the world [7412](https://www.youtube.com/watch?v=hV9PJhhqw5w&t=7412.0s)
 
-and then a recognition of the intrinsic meaningfulness of others lives not because supporting them will make your life better but just because their life actually matters to you because you actually give a shit for no selfish reason and like you can do this thought experiment okay let's say that it was true that [7431](https://www.youtube.com/watch?v=hV9PJhhqw5w&t=7431.76s)
+and then a recognition of the intrinsic meaningfulness of others lives not because supporting them will make your life better but just because their life actually matters to you because you actually give a shit for no selfish reason and like you can do this [[thought experiment]] okay let's say that it was true that [7431](https://www.youtube.com/watch?v=hV9PJhhqw5w&t=7431.76s)
 
-when i die i became a guardian angel or i had that possibility right i'm not saying that's true it's a thought experiment so let's say i had that and i don't have to do anything if i want to just chill in heaven and listen to music i can do that but i have the opportunity to affect people's lives in a positive way [7455](https://www.youtube.com/watch?v=hV9PJhhqw5w&t=7455.28s)
+when i die i became a guardian angel or i had that possibility right i'm not saying that's true it's a [[thought experiment]] so let's say i had that and i don't have to do anything if i want to just chill in heaven and listen to music i can do that but i have the opportunity to affect people's lives in a positive way [7455](https://www.youtube.com/watch?v=hV9PJhhqw5w&t=7455.28s)
 
 sometimes but they'll never know it i can divert the the ball in the road where the kid doesn't get hit by the car this question comes do i ever do that do i ever bother having the kid not get hit by the car because i'm not going to get shit from it right well no i will get something i'll get feeling better about myself [7475](https://www.youtube.com/watch?v=hV9PJhhqw5w&t=7475.36s)
 

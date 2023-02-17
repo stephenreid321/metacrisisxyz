@@ -22,7 +22,7 @@ obscure you from paying attention to reality beyond in the models it sounds a lo
 
 cellular automata you can only watch in awe i apologize i'm distracting your train of thought horribly and miserably making it by the way something robots aren't good at in uh dealing with the uncertainty of uneven ground you've been okay so far you've been doing wonderfully so what's your [167](https://www.youtube.com/watch?v=_Oflv3u0HEA&t=167.04s)
 
-favorite metrics okay so i know you're not wrong so i have a fascinatory test so one metric and there are problems with this but one metric that i like to just as a thought experiment to consider is because you're actually asking work i mean i know you ask your guests about the meaning of life because ultimately when you're design when [187](https://www.youtube.com/watch?v=_Oflv3u0HEA&t=187.36s)
+favorite metrics okay so i know you're not wrong so i have a fascinatory test so one metric and there are problems with this but one metric that i like to just as a [[thought experiment]] to consider is because you're actually asking work i mean i know you ask your guests about the meaning of life because ultimately when you're design when [187](https://www.youtube.com/watch?v=_Oflv3u0HEA&t=187.36s)
 
 you're saying what is a desirable civilization you can't answer that without answering what is a meaningful human life and to say what is a good civilization because it's going to be in relationship to that right um and then you have whatever your answer is how do you know what is the what is the epistemic basis for for [207](https://www.youtube.com/watch?v=_Oflv3u0HEA&t=207.92s)
 

@@ -420,7 +420,7 @@ so then we all race to build the ai weapon it just increases the risk of existen
 
 the fermi paradoxes uh when they get to this level of tech they pretty much self extinct everywhere they their rivalry within the planet has them used the powerful tech that would be necessary to go interplanetary against each other before they actually get successfully interplanetary maybe that's true maybe it's not true [4907](https://www.youtube.com/watch?v=XQpoGL0yIFE&t=4907.52s)
 
-it's a it's a fun thought experiment i would say if we want to make it through that great filter then we have to say how do we have the level of technological power we're developing and be good stewards of it adequately good stewards because if we look at any previous civilization be like they did a lot of [4926](https://www.youtube.com/watch?v=XQpoGL0yIFE&t=4926.48s)
+it's a it's a fun [[thought experiment]] i would say if we want to make it through that great filter then we have to say how do we have the level of technological power we're developing and be good stewards of it adequately good stewards because if we look at any previous civilization be like they did a lot of [4926](https://www.youtube.com/watch?v=XQpoGL0yIFE&t=4926.48s)
 
 up things with the power they had in any of them could if we multiply those up things by exponentially more power is that viable what would it take for us to be um to hold the power and so like i'll say it mythopoetically and i'm not i'm not saying it literally i'm not going to train jesus smuggle and just [4947](https://www.youtube.com/watch?v=XQpoGL0yIFE&t=4947.84s)
 

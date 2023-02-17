@@ -686,7 +686,7 @@ corruption because they increase transparency and so you have more you know effi
 
 share this with me and so i asked you know that's cute and all as a country that has eu backing which fundamentally has nato backing um you know indirectly and that is not at the head of an [[arms race]] uh do you think something like that could work for say the united states his take was yes actually could work for [8781](https://www.youtube.com/watch?v=8XCXvzQdcug&t=8781.359s)
 
-the united states because the amount of capacity uplift that would occur and this didn't mean he thought it was inactive the the vested interest against enacting it would be ridiculous but just hypothetically as a thought experiment if that kind of transparency did happen the amount of duplication that's occurring is huge the amount of [8805](https://www.youtube.com/watch?v=8XCXvzQdcug&t=8805.28s)
+the united states because the amount of capacity uplift that would occur and this didn't mean he thought it was inactive the the vested interest against enacting it would be ridiculous but just hypothetically as a [[thought experiment]] if that kind of transparency did happen the amount of duplication that's occurring is huge the amount of [8805](https://www.youtube.com/watch?v=8XCXvzQdcug&t=8805.28s)
 
 corruption and waste that's occurring is huge the um ineffectiveness of coordination that could be lifted would be huge the ability to start getting increased trust in government and as a result having the uh the democratic and government sector be [8824](https://www.youtube.com/watch?v=8XCXvzQdcug&t=8824.0s)
 

@@ -66,7 +66,7 @@ prima facie real right so their model is be was reductionist in the opposite dir
 
 when we're studying consciousness via objective methods in brain science but correct if i'm wrong but you know old school you know early pali buddhists wouldn't consider consciousness a phenomena outside of momentary experience i mean i nietzsche impermanence the nature of reality is transient so even consciousness the i always even [752](https://www.youtube.com/watch?v=1rj9NtQafb8&t=752.16s)
 
-fall back to the metaphor classic metaphor ship of theseus you know a thought experiment here's a model ship if i replace one plank is it the same ship how about two how about three at what point is this capital i self the same if every seven or eight years all the molecules my body are completely different and have been replaced you [774](https://www.youtube.com/watch?v=1rj9NtQafb8&t=774.54s)
+fall back to the metaphor classic metaphor ship of theseus you know a [[thought experiment]] here's a model ship if i replace one plank is it the same ship how about two how about three at what point is this capital i self the same if every seven or eight years all the molecules my body are completely different and have been replaced you [774](https://www.youtube.com/watch?v=1rj9NtQafb8&t=774.54s)
 
 know this is where it fundamentally breaks down for me personally in terms of consciousness but would the you know the vedanta approach say that there is a cohesive sense of consciousness or is it [[emergent property]] of just you know having a meatsuit so sanskrit has a lot more words that have a lot more specificity in their definition than just consciousness [800](https://www.youtube.com/watch?v=1rj9NtQafb8&t=800.91s)
 

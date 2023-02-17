@@ -400,7 +400,7 @@ what elon musk is doing getting ready to colonize   mars uh because he i don't
 or believes that we will be able to uh develop   our consciousness to the point where we will be 
 able to implement uh the social engineering that   you are just uh if not we will probably export 
 the same social failures to that system so the   thing about the mars colony that's actually 
-great it's not the mars colony itself it's   the thought experiment why it's a good thought 
+great it's not the mars colony itself it's   the [[thought experiment]] why it's a good thought 
 experiment is because import is really hard and so   if i'm trying to build a civilization on mars 
 it has to do everything without import and so   [1983](https://www.youtube.com/watch?v=zQ0l56vjTss&t=1983.36s)
 
@@ -418,7 +418,7 @@ it how would we do law would we import the same   [2034](https://www.youtube.c
 
 system of law or would we do law fundamentally 
 differently would we even have the values that   are the basis of it be rethought through 
-so the mars colony is interesting for earth   if we take the thought experiment seriously 
+so the mars colony is interesting for earth   if we take the [[thought experiment]] seriously 
 enough that we start thinking about oh wow   we're powerful enough now that designing 
 civilization from scratch is a possible thing   well let's design this one from scratch 
 differently what would that look like so how do we how do we and then you know 
