@@ -1,5 +1,3 @@
-require_relative '../constants'
-
 class Transcript < MarkdownRecord
   def self.fields
     %w[tags aliases youtube_id]

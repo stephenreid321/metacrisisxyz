@@ -1,5 +1,3 @@
-require_relative '../constants'
-
 # a convenience class which combines diagnoses, responses and tech
 class Concept
   def self.all
