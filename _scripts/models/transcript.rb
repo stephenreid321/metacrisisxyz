@@ -59,16 +59,16 @@ class Transcript < MarkdownRecord
   def self.tidy(transcript)
     body = transcript[:body]
     DASHED_TERMS_TO_UNDASH.each do |term|
-      body = body.gsub(/#{term}/i, term.gsub('-', ''))
+      body.gsub!(/#{term}/i, term.gsub('-', ''))
     end
     SPACED_TERMS_TO_UNSPACE.each do |term|
-      body = body.gsub(/#{term}/i, term.gsub(' ', ''))
+      body.gsub!(/#{term}/i, term.gsub(' ', ''))
     end
     SPACED_TERMS_TO_DASH.each do |term|
-      body = body.gsub(/#{term}/i, term.gsub(' ', '-'))
+      body.gsub!(/#{term}/i, term.gsub(' ', '-'))
     end
     CORRECTIONS.each do |term, correction|
-      body = body.gsub(/#{term}/i, correction)
+      body.gsub!(/#{term}/i, correction)
     end
     Transcript.update(title: transcript[:title], body: body)
   end
