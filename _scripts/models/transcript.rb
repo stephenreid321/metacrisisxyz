@@ -79,9 +79,8 @@ class Transcript < MarkdownRecord
       terms.each do |term|
         body.gsub!(/(?<!\[\[)\b#{term}\b(?!\]\])/, primary == term ? "[[#{primary}]]" : "[[#{primary}|#{term}]]")
       end
-      transcript = Transcript.update(title: transcript[:title], body: body)
     end
-    transcript
+    Transcript.update(title: transcript[:title], body: body)
   end
 
   def self.mentions(attributes)

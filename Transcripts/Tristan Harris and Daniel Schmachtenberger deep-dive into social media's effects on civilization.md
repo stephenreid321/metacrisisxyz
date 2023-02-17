@@ -306,7 +306,7 @@ would affect and bind their life if i'm going to be bound by law i need to under
 
 to flipping back and forth every four years in internal divisiveness if we really want it to be a democracy an effective [[fourth estate]] and education are prerequisites at the level that is needed for people to understand the issues well enough to participate now we have to say using ai and attention tech and all of the modern technologies could we make [3309](https://www.youtube.com/watch?v=VPAOzlqcGIQ&t=3309.119s)
 
-new better educational systems and better participatory governance systems where everybody can't fit in the town hall but everybody can give input that now these ais can semantically parse and help create propositions that are not vested interest group propositions but that are saying what would the best proposition that fulfills the interests of everyone look like and [3328](https://www.youtube.com/watch?v=VPAOzlqcGIQ&t=3328.0s)
+new better educational systems and better [[participatory governance]] systems where everybody can't fit in the town hall but everybody can give input that now these ais can semantically parse and help create propositions that are not vested interest group propositions but that are saying what would the best proposition that fulfills the interests of everyone look like and [3328](https://www.youtube.com/watch?v=VPAOzlqcGIQ&t=3328.0s)
 
 now we get to work on proposition crafting we could use these same technologies that are destroying [[open society|open societies]] to build better ones that though has to become the central imperative of the time and it does require a new cultural enlightenment it does require an educational rise to understand the issues well [3345](https://www.youtube.com/watch?v=VPAOzlqcGIQ&t=3345.92s)
 

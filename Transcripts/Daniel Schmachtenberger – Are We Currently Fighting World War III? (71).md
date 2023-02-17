@@ -365,7 +365,7 @@ so i'm interested in a new attractor   and given that only those who are direc
 [[exponential tech]] will have the power to   have a say in the future but we want to have 
 [[exponential tech]] not be used dumbly in a way that   causes [[catastrophic risk]] but also not create a 
 type of civilization that is undesirable for the   majority of the people right that is not aligned 
-with uh participatory governance and high civil   liberties and things like that then we get a very 
+with uh [[participatory governance]] and high civil   liberties and things like that then we get a very 
 clear design constraint the design constraint is   [1799](https://www.youtube.com/watch?v=zQ0l56vjTss&t=1799.12s)
 
 that the number one imperative of the world of 
@@ -790,7 +790,7 @@ evolved into a way where they've all been captured   by vested interests econo
 interests and then attention optimizing uh   [[social media]] technologies that 
 deliver it to people micro target   the things that appeal to their biases 
 the most they're in group by a system   so without a good [[fourth estate]] you cannot have 
-participatory governance you need to be ruled   but the type of [[fourth estate]] that has ever been 
+[[participatory governance]] you need to be ruled   but the type of [[fourth estate]] that has ever been 
 possible before is not possible in a post-facebook   world so what are the criteria for a [[fourth estate]] 
 that is adequate where people for an information   commons and an [[epistemic commons]] that is adequate 
 that people can participate in collective choice   making because they have good enough collective 

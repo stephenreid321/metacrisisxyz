@@ -48,7 +48,7 @@ stoicism i think about deep contemplation on what is actually good what is desir
 
 is how to inform human choice towards an effective life individually and collectively at different scales something that i'm focused on a lot right now is uh the collective scale since the beginning of what we call civilization like early egypt sumeria whatever a tiny percentage of all the people that [456](https://www.youtube.com/watch?v=jUn7_85R0M4&t=456.4s)
 
-have ever lived lived in democracies or republics lived in a system that had any kind of participatory governance almost everybody lived under feudalism or monarchy or some kind of autocratic control and the few times that democracies or republics occurred they occurred following a [473](https://www.youtube.com/watch?v=jUn7_85R0M4&t=473.44s)
+have ever lived lived in democracies or republics lived in a system that had any kind of [[participatory governance]] almost everybody lived under feudalism or monarchy or some kind of autocratic control and the few times that democracies or republics occurred they occurred following a [473](https://www.youtube.com/watch?v=jUn7_85R0M4&t=473.44s)
 
 cultural enlightenment and it was a cultural enlightenment that had to do a couple things it had to do something in both is and ought and specifically in the is space it had to get objective and intersubjective so i'll say what i mean by that we see the athenian democracy coming out of kind of a greek enlightenment [493](https://www.youtube.com/watch?v=jUn7_85R0M4&t=493.039s)
 
@@ -80,7 +80,7 @@ reconstruction for how to build so then basically the only thing it can do is cr
 
 is a in it has to be an integrated epistemology of how do we do production and building and towards what ends are actually meaningful and so when i think of metamodern stoicism i think of uh both it to be able to solve any of the [784](https://www.youtube.com/watch?v=jUn7_85R0M4&t=784.8s)
 
-problems of the world right now we need better participatory governance that can understand the problems and work on solutions at all and the basis of that will be people that can make sense of reality better make sense of each other's perspectives and actually coordinate those are some initial thoughts since we started from a random place [805](https://www.youtube.com/watch?v=jUn7_85R0M4&t=805.92s)
+problems of the world right now we need better [[participatory governance]] that can understand the problems and work on solutions at all and the basis of that will be people that can make sense of reality better make sense of each other's perspectives and actually coordinate those are some initial thoughts since we started from a random place [805](https://www.youtube.com/watch?v=jUn7_85R0M4&t=805.92s)
 
 so maybe maybe i'll start here and uh for people listening if you have questions start throwing them in the chat box have like a question uh so i can i can fish for them because a lot of the comments in the chat box um you mentioned something when we were chatting on whatsapp about uh what your current take was on how stoicism is being presented uh today [832](https://www.youtube.com/watch?v=jUn7_85R0M4&t=832.56s)
 
@@ -292,7 +292,7 @@ way for people like me to approach this beautiful question uh i used to have pan
 
 couldn't like i would pass out if i tried music um i only found one thing that actually really worked for panic attacks um and by worked i mean actually changed the underlying reality fundamentally as opposed to managed it [3264](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3264.4s)
 
-music i didn't find that cbt did or dbt or hitting pillows or emotional release therapy or gestalt or hypnotherapy like those were all cool but i or breath work or meditation or the only thing that i found worked was a there are different ways of doing it but they're ways that go into the panic attack as opposed to away from it [3292](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3292.72s)
+music i didn't find that cbt did or dbt or hitting pillows or emotional release therapy or gestalt or hypnotherapy like those were all cool but i or breathwork or meditation or the only thing that i found worked was a there are different ways of doing it but they're ways that go into the panic attack as opposed to away from it [3292](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3292.72s)
 
 and so i'll explain the mechanism here briefly a panic attack is different than just generalized anxiety right it's generalized anxiety that turns into a feedback loop and so let's say that i'm anxious about some  __  everybody's anxious like that fear is a natural part of life and we'll feel some [3315](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3315.2s)
 
@@ -306,7 +306,7 @@ fluttering in my stomach or the like hotness in my ears or in my face all of a s
 
 own experience of fear now i'm in a feedback loop because i'm not afraid of reality i'm afraid of my own experience of fear so my body produces adrenaline to the symptoms of adrenaline and that tight feedback loop is a  __  because sometimes it'll just produce adrenaline to the symptoms of adrenaline so then [3405](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3405.04s)
 
-the symptoms get worse so then you get more scared and it does that until you just run out of adrenaline and eventually pass out or you go get a benzo or an alcohol or something if i try to do breath work to comment which of course to some degree i can't because i can take breaths and stimulate my [3421](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3421.2s)
+the symptoms get worse so then you get more scared and it does that until you just run out of adrenaline and eventually pass out or you go get a benzo or an alcohol or something if i try to do breathwork to comment which of course to some degree i can't because i can take breaths and stimulate my [3421](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3421.2s)
 
 parasympathetic nervous system and in our inverse to a sympathetic drive and if i try to distract myself with bunny videos or whatever i would do to try to create a different response i'm still affirming that i'm scared of that sensation and that i don't want it to happen and that if it comes i'll be scared of it so [3439](https://www.youtube.com/watch?v=jUn7_85R0M4&t=3439.44s)
 

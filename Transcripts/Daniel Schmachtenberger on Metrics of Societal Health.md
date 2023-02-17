@@ -6,9 +6,7 @@ youtube_id: vPbOyjtv5PU
 
 <div class="yt-container"><iframe src="https://www.youtube.com/embed/vPbOyjtv5PU"></iframe></div>
 
-do you have ideas of how we practically build systems that create a resilient society could we actually condition more social virtue more civic virtue more orientation towards dialectical synthesis more empathy more rationality widely yes would that lead to better capacity for something like participatory governance [25](https://www.youtube.com/watch?v=vPbOyjtv5PU&t=25.359s)
-
-democracy or republic or some kind of participatory governance yes is it necessary for it actually yes let's not take gdp or gdp per capita as the metric we want to optimize for because gdp goes up during war and it goes up with more health care spending from sicker people and various things that we wouldn't say correlate to quality of life what would the metrics [46](https://www.youtube.com/watch?v=vPbOyjtv5PU&t=46.16s)
+do you have ideas of how we practically build systems that create a resilient society could we actually condition more social virtue more civic virtue more orientation towards dialectical synthesis more empathy more rationality widely yes would that lead to better capacity for something like [[participatory governance]] democracy or republic or some kind of [[participatory governance]] yes is it necessary for it actually yes let's not take gdp or gdp per capita as the metric we want to optimize for because gdp goes up during war and it goes up with more health care spending from sicker people and various things that we wouldn't say correlate to quality of life what would the metrics [46](https://www.youtube.com/watch?v=vPbOyjtv5PU&t=46.16s)
 
 for a good civilization be if i had to pick a set of metrics what would the best ones be if i was going to optimize for those and then really try to run the thought experiment more deeply and say okay so what happens if we optimize for that try to think through the first and second and third order effects of what [66](https://www.youtube.com/watch?v=vPbOyjtv5PU&t=66.24s)
 

@@ -70,7 +70,7 @@ wuhan we weren't in dc or portland when the process happened all of our beliefs 
 
 conversations and they don't have any shared base reality and so we can see that in the u.s there is no real kind of sense of a who are our countrymen where we feel some fealty across for instance a left-right divide at this moment that creates national unity and the ability to have something like a [704](https://www.youtube.com/watch?v=3lil4invvSI&t=704.48s)
 
-democracy or republic or participatory governance we have instead so much internal enmity and in-group out-group dynamics that for the most part more enmity than we have towards any external forces that that's of course driving the breakdown and lack of coherence of that system as a whole and so when we look at [723](https://www.youtube.com/watch?v=3lil4invvSI&t=723.519s)
+democracy or republic or [[participatory governance]] we have instead so much internal enmity and in-group out-group dynamics that for the most part more enmity than we have towards any external forces that that's of course driving the breakdown and lack of coherence of that system as a whole and so when we look at [723](https://www.youtube.com/watch?v=3lil4invvSI&t=723.519s)
 
 the movement from broadcast to internet and one of the things we see is like you were there you remember well there was this kind of libertarian idea that that would be awesome because it would remove the ability of a few people who held the monopoly on broadcast to control the message everyone could put out their own stuff [741](https://www.youtube.com/watch?v=3lil4invvSI&t=741.6s)
 
@@ -216,7 +216,7 @@ arbiter of what is actually true and how do i know what someone else's actual in
 
 especially when the actors are hidden behind several layers of sock puppets so so now we have to say okay well is it about a judge or some kind of centralized authority that should be able to tell if something's bad faith or not or is it about increasing the [[collective intelligence]] that is aware of and sensitive to these things where everyone is doing it and those things simply don't trend in the same way and this starts to get into the the kind of answer and theory of change that i'm particularly focused on these days is we have this system you know a republic or a democratic type system of [2316](https://www.youtube.com/watch?v=3lil4invvSI&t=2316.72s)
 
-participatory governance that wants everyone to be able to participate in governance rather than just be ruled by one or a few people and if we look from the beginning of what we call civilization we exclude [[dunbar number]] tribes because it's a very different phenomena very few civilizations since the beginning of civilization until now have [2338](https://www.youtube.com/watch?v=3lil4invvSI&t=2338.24s)
+[[participatory governance]] that wants everyone to be able to participate in governance rather than just be ruled by one or a few people and if we look from the beginning of what we call civilization we exclude [[dunbar number]] tribes because it's a very different phenomena very few civilizations since the beginning of civilization until now have [2338](https://www.youtube.com/watch?v=3lil4invvSI&t=2338.24s)
 
 been republics or democracies they've almost all been feudalistic or autocratic of some kind and that actually makes sense because one guy ruling everything or some very small number of people that can talk coming up with a consensus and then being able to rule is way easier than getting a huge number of people mostly who are anonymous to each other to all actually be able to make sense of the world and coordinate like a large number of people coordinating is actually a very expensive tricky thing and from the way i see it throughout history the few times democracies emerged they emerged following cultural enlightenments that [2375](https://www.youtube.com/watch?v=3lil4invvSI&t=2375.52s)
 
@@ -228,7 +228,7 @@ they have emotional regulation so they are not as susceptible to emotional and c
 
 time being able to communicate really effectively towards governance that requires looking at a lot of those things but the idea that we could become renaissance people that we could all have empirical capacity the scientific method and the hegelian dialectic that we could hear a view and then seek the antithesis to that c [2485](https://www.youtube.com/watch?v=3lil4invvSI&t=2485.76s)
 
-thesis and then seek a synthesis some higher order reconciliation that again gives rise to the possibility of participatory governance and you can see when you read the documents and the letters of the founding fathers and of course there was a lot wrong with the athenian democracy and a lot wrong with our country that had [2503](https://www.youtube.com/watch?v=3lil4invvSI&t=2503.839s)
+thesis and then seek a synthesis some higher order reconciliation that again gives rise to the possibility of [[participatory governance]] and you can see when you read the documents and the letters of the founding fathers and of course there was a lot wrong with the athenian democracy and a lot wrong with our country that had [2503](https://www.youtube.com/watch?v=3lil4invvSI&t=2503.839s)
 
 genocide and slavery as parts of its origin but the whole world had genocide and slavery as parts of what were going on at the time and it was at least moving in the direction of increasing participatory uh style governance the thing that the founding fathers talk about so much is the need for very high quality universal public [2522](https://www.youtube.com/watch?v=3lil4invvSI&t=2522.16s)
 
@@ -364,7 +364,7 @@ that system can do a lot of things whereas the system where all the companies ar
 
 decrease in relevance probably china's continues to grow and we see that not just china but like turkey and venezuela and brazil and a lot of places have moved to less participatory more autocratic style of governance i think we lose the 21st century to that and while that is because it's more [3965](https://www.youtube.com/watch?v=3lil4invvSI&t=3965.76s)
 
-effective in a bunch of ways and i think the only way to be able to have something like a republic or a participatory governance be more effective is if the many coordinating with each other actually produces higher quality results than just a few being able to control the thing and that's only going to [3983](https://www.youtube.com/watch?v=3lil4invvSI&t=3983.039s)
+effective in a bunch of ways and i think the only way to be able to have something like a republic or a [[participatory governance]] be more effective is if the many coordinating with each other actually produces higher quality results than just a few being able to control the thing and that's only going to [3983](https://www.youtube.com/watch?v=3lil4invvSI&t=3983.039s)
 
 happen if it can harvest the [[collective intelligence]] and there actually really is some high [[collective intelligence]] and now this comes back to your metamodern question do i think that we can get the hierarchical complexity or the ability of people to process information up yes even before that if i can start [3998](https://www.youtube.com/watch?v=3lil4invvSI&t=3998.48s)
 
@@ -388,9 +388,9 @@ hold now that i can say that i'm probably wrong about even though statistically 
 
 confidence margin and where do i believe things more fervently because it's a good story and i get to sound smart or i get to be part of a group or because it gives me security and how can i start to have a psychology that is more independent of those things so my belief system is not bolstering me [4207](https://www.youtube.com/watch?v=3lil4invvSI&t=4207.92s)
 
-identity wise or existentially so that's a kind of psychological emotional mimetic social immune process that has to be part of the enlightenment we're talking about and so basically i'm saying participatory governance is hard autocracy is just easier for a bunch of reasons either we should start designing the [4231](https://www.youtube.com/watch?v=3lil4invvSI&t=4231.28s)
+identity wise or existentially so that's a kind of psychological emotional mimetic social immune process that has to be part of the enlightenment we're talking about and so basically i'm saying [[participatory governance]] is hard autocracy is just easier for a bunch of reasons either we should start designing the [4231](https://www.youtube.com/watch?v=3lil4invvSI&t=4231.28s)
 
-monarchies we want to be part of or participatory governance only ever emerged out of and was successful as long as there was a cultural enlightenment that made it possible so we either have to re-drive a cultural enlightenment to be able to revivify participatory governance or we should start steering the kind of [4250](https://www.youtube.com/watch?v=3lil4invvSI&t=4250.0s)
+monarchies we want to be part of or [[participatory governance]] only ever emerged out of and was successful as long as there was a cultural enlightenment that made it possible so we either have to re-drive a cultural enlightenment to be able to revivify [[participatory governance]] or we should start steering the kind of [4250](https://www.youtube.com/watch?v=3lil4invvSI&t=4250.0s)
 
 autocracy we want and that might the enlightenment we want to drive is not just a cognitive enlightenment it is the susceptibility to [[hypernormal stimuli]] it is a value system around uh respectful engagement with other people and seeking their points of view it's it's all those things together yep let [4270](https://www.youtube.com/watch?v=3lil4invvSI&t=4270.159s)
 
@@ -432,7 +432,7 @@ the glyphosate or ubiquitous environmental toxins or stress those are actually c
 
 position because the the other view is so bad and dangerous we have to fight it ends up being the tribalism [[confirmation bias]] and so and then people only have a pejorative straw man or even worse a villainized version of the other they they can't even imagine how anyone could be that stupid or bad as to [4678](https://www.youtube.com/watch?v=3lil4invvSI&t=4678.48s)
 
-believe that thing and of course you can't have participatory governance when that's how you think about the other people you're supposedly part of a republic with um or part of a civilization at all with so where people start to doubt the institutional authority there's something good in that but then oftentimes what happens is rather than [4697](https://www.youtube.com/watch?v=3lil4invvSI&t=4697.6s)
+believe that thing and of course you can't have [[participatory governance]] when that's how you think about the other people you're supposedly part of a republic with um or part of a civilization at all with so where people start to doubt the institutional authority there's something good in that but then oftentimes what happens is rather than [4697](https://www.youtube.com/watch?v=3lil4invvSI&t=4697.6s)
 
 really learn the epistemology needed to make sense of it they just jump to the new authority and usually the new authority is whoever it is that's telling them to doubt the other one and so that's inadequate they're not actually moving up vertically into more hierarchical complexity they're just shifting [4713](https://www.youtube.com/watch?v=3lil4invvSI&t=4713.76s)
 

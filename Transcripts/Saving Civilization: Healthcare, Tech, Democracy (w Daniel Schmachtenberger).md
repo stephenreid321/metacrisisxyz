@@ -1137,7 +1137,7 @@ they are also not bound to it. this is in the world, but not of it, right?
 people can be post-cynical, and then you have to be able to know how, what is a legitimate basis of
 trust, and how do i know that? how do i sense that? and so, what i would say is post-cynical good faith communication [3595](https://www.youtube.com/watch?v=_7aIgHoydP8&t=3595.355s)
 
-is necessary for something like the continuation of anything that's at all democratic, or republic. anything that has participatory governance and is not just the people
+is necessary for something like the continuation of anything that's at all democratic, or republic. anything that has [[participatory governance]] and is not just the people
 being ruled requires the people being able to develop that. so that has to become the center
 of the values of a culture that then develops that in people and checks it and reinforces it. - zubin so does a post-cynical,
 this is fascinating. [3618](https://www.youtube.com/watch?v=_7aIgHoydP8&t=3618.91s)

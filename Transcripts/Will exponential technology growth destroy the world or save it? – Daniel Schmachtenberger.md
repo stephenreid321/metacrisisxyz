@@ -54,7 +54,7 @@ system and then new [[social system|social systems]] have to emerge they can dea
 
 so i guess what i'm saying is that the solution is not [[exponential tech]] following the current path of what the market incentivizes [[exponential tech]] to do market being a previous [[social tech]] i would say that [[exponential tech]] if we look at different types of [[social tech]] so let's just briefly look at that democracy tried to do the emergent order thing right at least that's the story and which is and this is why if you look this important um part to build first it's kind of doing it it's just doing it poorly you're saying i mean that's it is emergent order in some sense i mean [577](https://www.youtube.com/watch?v=LtbMps1PDFc&t=577.04s)
 
-that's the hope of democracy versus other forms of government correct i mean i i said at least the story because obviously it didn't do it for women and slaves early on it doesn't do it for all classes equally et cetera but the the idea of democracy is that is participatory governance and so you notice that the modern democracies [596](https://www.youtube.com/watch?v=LtbMps1PDFc&t=596.32s)
+that's the hope of democracy versus other forms of government correct i mean i i said at least the story because obviously it didn't do it for women and slaves early on it doesn't do it for all classes equally et cetera but the the idea of democracy is that is [[participatory governance]] and so you notice that the modern democracies [596](https://www.youtube.com/watch?v=LtbMps1PDFc&t=596.32s)
 
 emerged out of the european enlightenment and specifically because the idea that a lot of people some huge number not a tribal number huge number of anonymous people who don't know each other are not bonded to each other who believe different things who grew up in different ways can all work together to [612](https://www.youtube.com/watch?v=LtbMps1PDFc&t=612.64s)
 
@@ -70,7 +70,7 @@ world right if you think that systemic racism is rampant everywhere one of the w
 
 thing so can we take all the values and try to come up with a proposition that benefits all of them better than the proposition i created just to benefit these ones it harms the ones that you care about which is why you're opposing my proposition yeah we don't even try in the process of crafting a proposition currently to see and this is a reason that the proposition when we vote on it gets half the votes almost all the time it almost never gets 90 of the votes is because it benefits some things and harms other things we can say oh theory of trade-offs but we didn't even try to say could we see what everybody cares about and see if there is a better solution [749](https://www.youtube.com/watch?v=LtbMps1PDFc&t=749.12s)
 
-so how do we fix that try i i wonder is it is it as simple as the social technology of education well no it's that the proposition crafting and refinement process has to be key to a democracy or participatory governance and it's not currently but it's this isn't that the humans creating that situation [769](https://www.youtube.com/watch?v=LtbMps1PDFc&t=769.68s)
+so how do we fix that try i i wonder is it is it as simple as the social technology of education well no it's that the proposition crafting and refinement process has to be key to a democracy or [[participatory governance]] and it's not currently but it's this isn't that the humans creating that situation [769](https://www.youtube.com/watch?v=LtbMps1PDFc&t=769.68s)
 
 so so one way there's two ways to fix this one is to fix the individual humans which is the education early in life and the second is to create somehow systems that yeah both so i understand the education part but creating systems that's why that's why i mentioned the technologies is creating social networks essentially [789](https://www.youtube.com/watch?v=LtbMps1PDFc&t=789.36s)
 
@@ -226,7 +226,7 @@ all the way up to global we want emergent order where our choices have more alig
 
 in our choice making requires us being able to have related [[sensemaking]] and related meaning making processes can we apply digital technologies and [[exponential tech]] in general to try to increase the capacity to do that where the technology called a town hall the [[social tech]] that we all get together and talk obviously is very [2501](https://www.youtube.com/watch?v=LtbMps1PDFc&t=2501.28s)
 
-scale limited and it's also oriented to geography rather than networks of aligned interest can we build new better versions of those types of things and going back to the idea that a democracy or participatory governance depends upon comprehensive education in the science of government which includes being able to understand [2520](https://www.youtube.com/watch?v=LtbMps1PDFc&t=2520.96s)
+scale limited and it's also oriented to geography rather than networks of aligned interest can we build new better versions of those types of things and going back to the idea that a democracy or [[participatory governance]] depends upon comprehensive education in the science of government which includes being able to understand [2520](https://www.youtube.com/watch?v=LtbMps1PDFc&t=2520.96s)
 
 things like asymmetric information warfare on the side of governments and how the people can organize adequately can you utilize some of the technologies now to be able to support increased comprehensive education of the people and maybe comprehensive informedness so both fixing the decay in both [2538](https://www.youtube.com/watch?v=LtbMps1PDFc&t=2538.56s)
 
@@ -242,6 +242,6 @@ better at being able to internalize externality solve the problems on the right 
 
 renaissance that has to happen where people start understanding the new power that [[exponential tech]] offers the way that it is actually damaging current governance structures that we care about and creating an x-risk landscape but could also be redirected towards more protopic purposes and then [2682](https://www.youtube.com/watch?v=LtbMps1PDFc&t=2682.56s)
 
-saying how do we rebuild new social institutions what are adequate social institutions where we can do participatory governance at scale and time and how can the people actually participate to build those things i the the solution that i see working requires a process like that and the result maximizes love so [2704](https://www.youtube.com/watch?v=LtbMps1PDFc&t=2704.8s)
+saying how do we rebuild new social institutions what are adequate social institutions where we can do [[participatory governance]] at scale and time and how can the people actually participate to build those things i the the solution that i see working requires a process like that and the result maximizes love so [2704](https://www.youtube.com/watch?v=LtbMps1PDFc&t=2704.8s)
 
 again elon must be right that love is the answer you

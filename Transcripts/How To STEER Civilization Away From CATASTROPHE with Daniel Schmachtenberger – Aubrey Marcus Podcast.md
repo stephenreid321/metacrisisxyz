@@ -694,7 +694,7 @@ a gross positive impact and i think the net gross positive impact is going to be
 
 turns the tide a little faster because it feels like time is bearing down on us and something needs to happen quicker and to me this is the thing that in my assessment again which i need to have humility and saying i don't know the assessment of how much time we have and what is actually going on but in my assessment it feels like [7580](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=7580.239s)
 
-there's a sense of urgency and that urgency is there's something that needs to move masses more quickly and to me this is the thing that can move the masses more quickly and there's many many different ways i mean i love breath work i love ecstatic dance i love sensory deprivation tanks i love vision quests i love all of these things and [7598](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=7598.159s)
+there's a sense of urgency and that urgency is there's something that needs to move masses more quickly and to me this is the thing that can move the masses more quickly and there's many many different ways i mean i love breathwork i love ecstatic dance i love sensory deprivation tanks i love vision quests i love all of these things and [7598](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=7598.159s)
 
 these methods i think are also incredibly important it just feels like the thing that's going to actually move the masses to the greatest degree the is going to be that mdma assisted psychotherapy in particular i agree that it has really significant meaningful potential and [7619](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=7619.44s)
 

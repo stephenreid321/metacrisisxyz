@@ -526,7 +526,7 @@ had experiences in nature... [2578](https://www.youtube.com/watch?v=kTFqnPEyweE&
 
 psychedelics are one way to access non-ordinary
 states of consciousness. you can do it with deep time in nature, with
-fasting, with meditation, with breath work, with lots of things. i think psychedelics can be profound tools,
+fasting, with meditation, with breathwork, with lots of things. i think psychedelics can be profound tools,
 but i also think they can be one-marshmallows to spirituality, where you get the high state
 hit without any of the work of really communing with nature or learning to calm the mind. getting a false sense of knowingness independent
 of some of the other important parts. so, the depth of time in nature i generally

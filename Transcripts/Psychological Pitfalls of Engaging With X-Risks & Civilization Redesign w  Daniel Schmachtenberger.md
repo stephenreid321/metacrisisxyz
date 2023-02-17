@@ -356,7 +356,7 @@ preface it evan and i have been talking a lot about the medic crisis and how kin
 
 all this kind of shadow work and stuff here um so yeah i'll let evan ask this question because it's related yeah thanks peter and thanks daniel for coming on today this has been great so far um yeah just briefly uh peter outlined the beginning of it quite nicely but the stoa is in quite a unique position [4127](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=4127.6s)
 
-um given those three modalities to be i think quite impactful here and and it's been experiment experimenting with quite uh a lot of different psychotechnologies as well as sort of developing its own sort of ecology of practice and various psycho technologies and so i'm wondering if there's anything that [4146](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=4146.319s)
+um given those three modalities to be i think quite impactful here and and it's been experiment experimenting with quite uh a lot of different psychotechnologies as well as sort of developing its own sort of ecology of practice and various psychotechnologies and so i'm wondering if there's anything that [4146](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=4146.319s)
 
 stands out to you in terms of how the stoa could be best deployed to culture a ecology of practices or develop a sort of psychotechnology toolkit in the space that would assist individuals who are working on x-risk very interesting question i mean i think the first thing i can say [4171](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=4171.679s)
 

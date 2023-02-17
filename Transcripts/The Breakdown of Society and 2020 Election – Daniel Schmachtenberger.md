@@ -28,13 +28,13 @@ they're really doing is paying attention to what feels true which largely has to
 
 humans have been here for a long time but the thing that we call civilization which was much larger than tribal scale starting to organize early egypt or sumeria or whatever since the beginning of that larger scale coordination a tiny percentage of the people that ever lived lived in something like a republic or [226](https://www.youtube.com/watch?v=QZ9iRByzUJs&t=226.08s)
 
-democracy they almost all lived in a feudalism or monarchy or some kind of much more top-down autocratic system which is actually quite easy to understand because the proposition of a republic or democracy a participatory governance is actually a wild proposition which is that a huge number of people [245](https://www.youtube.com/watch?v=QZ9iRByzUJs&t=245.76s)
+democracy they almost all lived in a feudalism or monarchy or some kind of much more top-down autocratic system which is actually quite easy to understand because the proposition of a republic or democracy a [[participatory governance]] is actually a wild proposition which is that a huge number of people [245](https://www.youtube.com/watch?v=QZ9iRByzUJs&t=245.76s)
 
 who don't know each other who want different things can sublimate their desire and difference to coordinate with each other it's like that's actually kind of oh it's understandable that's a hard thing right this is why corporations aren't run that way corporations are autocracies and so the few times throughout history [260](https://www.youtube.com/watch?v=QZ9iRByzUJs&t=260.959s)
 
 that a republic or a democracy emerged they're actually really kind of worth studying and i'm going to simplify here but it's a fair simplification they emerged following a period of a cultural enlightenment for that culture and the cultural enlightenments always had at least a couple things in common so if we look at the [279](https://www.youtube.com/watch?v=QZ9iRByzUJs&t=279.04s)
 
-kind of early greek democracies the athenian democracy of course we can criticize that there's a lot that wasn't perfect about it but it was a movement in the direction of more participatory governance it was following the kind of greek enlightenment that both had a very high value on classical education for everyone [296](https://www.youtube.com/watch?v=QZ9iRByzUJs&t=296.4s)
+kind of early greek democracies the athenian democracy of course we can criticize that there's a lot that wasn't perfect about it but it was a movement in the direction of more [[participatory governance]] it was following the kind of greek enlightenment that both had a very high value on classical education for everyone [296](https://www.youtube.com/watch?v=QZ9iRByzUJs&t=296.4s)
 
 let's have everybody learn history let's have them all learn philosophy let's have them all learn formal logic and rhetoric and the arts and these types of things so that everyone can have a sense of how to know the true plus the good and the beautiful right like all of an integrated sense of those understand what types of systems worked [313](https://www.youtube.com/watch?v=QZ9iRByzUJs&t=313.52s)
 
@@ -44,7 +44,7 @@ is being trained to be able to take every perspective i can argue this side then
 
 right well if you have a bunch of people who can all understand reality on their own well and they can have high quality conversations and take each other's perspective not just go into tribalism and otherness and make a villain or a straw man of the other [362](https://www.youtube.com/watch?v=QZ9iRByzUJs&t=362.72s)
 
-those people can start to have the kinds of conversations to share [[sensemaking]] that leads to being able to make collective choices and then they don't need rulers and they can say like we can throw the rulers off and do a participatory governance system the european enlightenment which led to the foundation of the u.s and a reformation of a lot of kind of [380](https://www.youtube.com/watch?v=QZ9iRByzUJs&t=380.56s)
+those people can start to have the kinds of conversations to share [[sensemaking]] that leads to being able to make collective choices and then they don't need rulers and they can say like we can throw the rulers off and do a [[participatory governance]] system the european enlightenment which led to the foundation of the u.s and a reformation of a lot of kind of [380](https://www.youtube.com/watch?v=QZ9iRByzUJs&t=380.56s)
 
 european and other [[global governance]] the kind of modern era similarly was the renaissance right the idea that people would be renaissance men or renaissance people who actually train in lots of disciplines not just be specialists because it's very hard if someone's just a specialist to make sense of the world right and or for them to talk to each [399](https://www.youtube.com/watch?v=QZ9iRByzUJs&t=399.039s)
 
