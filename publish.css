@@ -1,3 +1,11 @@
+.markdown-preview-view:not(.show-frontmatter) .frontmatter {
+  display: block
+}
+
+.markdown-rendered {
+  font-size: 16px
+}
+
 .yt-container {
   position: relative;
   width: 100%;
