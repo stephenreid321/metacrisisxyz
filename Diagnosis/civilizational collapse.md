@@ -11,4 +11,4 @@ Civilizational collapse is the systemic breakdown or retreat of a complex societ
 > [!info] Podcasts mentioning this term most frequently
 > * [[Historical & Situational Assessment - Daniel Schmachtenberger, Wade Davis @ Virtual Burning Man 2020]] (6)
 > * [[Daniel Schmachtenberger on The Portal (with host Eric Weinstein), Ep. 027 - On Avoiding Apocalypses]] (3)
-> * [[A Republic, If You Can Keep It w  Daniel Schmachtenberger @ Zion 2.0]] (2)
+> * [[Confronting The Meta-Crisis: Criteria for Turning The Titanic – Terry Patten – Talks at Google]] (2)
