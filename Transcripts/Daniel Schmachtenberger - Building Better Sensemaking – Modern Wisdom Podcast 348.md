@@ -500,7 +500,7 @@ so that we get increased effective coordination and order without it being a kin
 
 to super dangerous ai if i could slow it down i'd yes yes i would like that um because right now our growth in doing it rightly and wisdom is not good relative to our growth of getting the technology more powerful if i could get like how powerful crispr technology is becoming as cheaply as it's becoming to slow down [5954](https://www.youtube.com/watch?v=R2sIG6l4uU0&t=5954.88s)
 
-so that it wasn't so easy to have very small groups at bioweapons capacity like yes i i would like that to slow the  __  down it's not going to because there is no world authority that can stop it everywhere and anyone that does it is advancing so that nobody really wants to stop it so what we have to do is get the [5973](https://www.youtube.com/watch?v=R2sIG6l4uU0&t=5973.44s)
+so that it wasn't so easy to have very small groups at [[bioweapon|bioweapons]] capacity like yes i i would like that to slow the  __  down it's not going to because there is no world authority that can stop it everywhere and anyone that does it is advancing so that nobody really wants to stop it so what we have to do is get the [5973](https://www.youtube.com/watch?v=R2sIG6l4uU0&t=5973.44s)
 
 utilization of those technologies to a better attractor that can guide them to happen even faster the consideration of what sort of a world we would be in if facebook optimized for well-being or happiness or insight or whatever we think about how powerful it is and some of the changes that we've seen in [5992](https://www.youtube.com/watch?v=R2sIG6l4uU0&t=5992.32s)
 

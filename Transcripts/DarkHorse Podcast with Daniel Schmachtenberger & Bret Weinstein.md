@@ -126,7 +126,7 @@ that it was a major [[catastrophic risk]] and on the time scales that you think 
 
 they can all have more because the pie keeps getting bigger but that starts running up against [[planetary boundary|planetary boundaries]] and interconnecting the world so much it gets so fragile that you know a virus and wuhan shuts the whole world down because of [[supply chain]] you know interconnected [[supply chain]] issues so that thing can't run forever [1439](https://www.youtube.com/watch?v=YPJug0s2u4w&t=1439.6s)
 
-and the [[mutually assured destruction]] was one [[catastrophe weapon]] and two superpowers so [[mutually assured destruction]] works the [[game theory]] of it works well as soon as you start to add to that the bio weapons and the chemical weapons the the fact that bioweapons can be made very very cheaply now with crisper gene drives and things [1458](https://www.youtube.com/watch?v=YPJug0s2u4w&t=1458.32s)
+and the [[mutually assured destruction]] was one [[catastrophe weapon]] and two superpowers so [[mutually assured destruction]] works the [[game theory]] of it works well as soon as you start to add to that the bio weapons and the chemical weapons the the fact that [[bioweapon|bioweapons]] can be made very very cheaply now with crisper gene drives and things [1458](https://www.youtube.com/watch?v=YPJug0s2u4w&t=1458.32s)
 
 like that grown weapons we have dozens of [[catastrophe weapon|catastrophe weapons]] held by many dozens of actors including non-state actors and that just keeps getting easier [[mutually assured destruction]] can't be put on that situation it doesn't actually have a stable equilibria so now we have to say how do we deal [1477](https://www.youtube.com/watch?v=YPJug0s2u4w&t=1477.279s)
 

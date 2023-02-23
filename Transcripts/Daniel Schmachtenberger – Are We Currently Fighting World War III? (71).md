@@ -137,9 +137,7 @@ type of actions that we were doing more nonprofit   projects more impact inves
 more laws being made and more tech solutions   because the whole body of all of that was not 
 converging towards adequate because the pro   every year we were getting more total catastrophic 
 risks and higher probability on each of them   when crispr comes along we have way more chance 
-of all dying from bioweapons with development   [641](https://www.youtube.com/watch?v=zQ0l56vjTss&t=641.36s)
-
-of agi we have way more chance of dying from 
+of all dying from [[bioweapon|bioweapons]] with development   of agi we have way more chance of dying from 
 agi-based risks with the development of drones   and the weaponization of drones their ability 
 to take out infrastructure so it's like okay the   the total probability space of catastrophe is it 
 rapidly expanding and if you look at the un world   we haven't solved any of the sdgs they were 
