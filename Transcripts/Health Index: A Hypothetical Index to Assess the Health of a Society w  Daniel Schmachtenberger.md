@@ -12,7 +12,7 @@ then we'll have a conversation at the stoa so if you have any questions throw th
 
 thank you it's good to see everybody shall we just dive right in yeah did you want me to prompt you with uh the question or um um either way we can just dive right in i just hand this though to you when you're here so i'm happy to do whatever you like thanks man um yeah this is uh there's a topic that i've been thinking [103](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=103.36s)
 
-about that i thought would be interesting to share this definitely was the environment i wanted to share it because it's very much at the intersection of personal development relational development and societal betterment and it's also a topic i haven't talked about publicly before so it's just kind of [124](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=124.24s)
+about that i thought would be interesting to share this definitely was the environment i wanted to share it because it's very much at the intersection of [[personal development]] relational development and societal betterment and it's also a topic i haven't talked about publicly before so it's just kind of [124](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=124.24s)
 
 uh exploring a [[thought experiment]] together it seemed like a good place to do it um and we're introducing it as if we were going to think of a better metric than gdp or whatever the other proposed metrics are for the health of a society or civilization it's a very deep question actually to [144](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=144.72s)
 
@@ -122,7 +122,7 @@ is quite destructive we can also see that unfortunately most people feel that wa
 
 you notice that the buddhists because of this idea of modita are cultivating compassion and compulsion mudita right for all sentient beings in the universe how do i bind myself with the self of all sentient beings and that is really thinking about them wow some kids are in sex slavery right now some [1329](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=1329.52s)
 
-animals are in factory farms some like how do i think about the greater world how do i bind myself to it and it's from there that the valve the bodhisattva arises how do i become of greatest use to all sentient beings not just myself because myself what is best for me and what's best for all sentient beings is the same when i bind myself to all of [1349](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=1349.44s)
+animals are in [[factory farm|factory farms]] some like how do i think about the greater world how do i bind myself to it and it's from there that the valve the bodhisattva arises how do i become of greatest use to all sentient beings not just myself because myself what is best for me and what's best for all sentient beings is the same when i bind myself to all of [1349](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=1349.44s)
 
 them um in the same way that what's best for me and what's best for the tribe evolutionarily is the same we just extend the tribe to all sentient beings because the sanskrit saying the world is my family right it's that kind of idea okay so now what about anti-coupling reverse coupling my positive emotions are coupled to your [1370](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=1370.559s)
 
@@ -254,7 +254,7 @@ you can be the most whole vessel for service to the world and invest in it um an
 
 i have a lot of jealousy that's a thing that's in there because it's not the thing i respect i want to work to shift it but i'm not going to have the i'm going to have the type of shame around it that says i don't want to indulge it but i'm not going to have the type of shame that makes me pretend it isn't there so i can't work on it because i ultimately recognize i didn't [2810](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=2810.88s)
 
-program it in myself right had i been raised in a buddhist culture i would be different um so i don't really have any shame in the fact that it was programmed but i also have have a value system that it doesn't align with and so i don't want to let it stay in me so i want to work to shift it but in order [2830](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=2830.4s)
+program it in myself right had i been raised in a buddhist culture i would be different um so i don't really have any shame in the fact that it was programmed but i also have have a [[value system]] that it doesn't align with and so i don't want to let it stay in me so i want to work to shift it but in order [2830](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=2830.4s)
 
 to work to shift it i have to be honest about it be willing to look at it and do the work on it right so there's a kind of shame that empowers us there's a kind that doesn't right there's a kind that says oh i actually value something else in the and i want to be more aligned with my own values so it empowers the agency to [2847](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=2847.119s)
 
@@ -294,7 +294,7 @@ for as another health index of society is the ratio of intrinsic motivation that
 
 goodall didn't and the things that we find most beautiful in people is an intrinsic arising now the labor force forever has been a situation where civilization has needed most people to do shitty jobs for lots of hours to make civilization work so how do we get people to do that well if the jobs need the people then [3263](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=3263.119s)
 
-either the state has to force the the people and we would think of that as totalitarianism or we have this liberal democracy idea that will let the market force them by creating a a cemetery where the jobs need the people so let's make it to where the people need the jobs and so we think of ins that decentralized system of incentive [3281](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=3281.68s)
+either the state has to force the the people and we would think of that as totalitarianism or we have this [[liberal democracy]] idea that will let the market force them by creating a a cemetery where the jobs need the people so let's make it to where the people need the jobs and so we think of ins that decentralized system of incentive [3281](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=3281.68s)
 
 is a good thing because it gets all the stuff done and seems a little bit more free robotic automation is about to overturn that whole thing robotic and ai automation and either it's going to create a world where those robots are owned by a few people all the wealth is concentrated and it's a way more world in terms of wealth inequality with [3297](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=3297.76s)
 
@@ -400,7 +400,7 @@ we realize that it's effective to um up regulate certain types of capacities wha
 
 talking about is a very primitive set of emotions the fight energy out of fight flight freeze the fight energy is the up regulation of certain kind of neural endocrinology that activates fast twitch muscle fibers and activates glycolysis and stuff right so if i'm literally talking about hitting and running [4528](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=4528.719s)
 
-that thing works but that same sympathetic nervous system activation and adrenalization decreases prefrontal cortical activity decreases the capacity for most rationality design empathy so you don't see einstein doing the conor mcgregor energy because it wouldn't work it would actually make him suck at the thing he [4554](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=4554.239s)
+that thing works but that same sympathetic [[nervous system]] activation and adrenalization decreases prefrontal cortical activity decreases the capacity for most rationality design empathy so you don't see einstein doing the conor mcgregor energy because it wouldn't work it would actually make him suck at the thing he [4554](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=4554.239s)
 
 was doing um and so it's important to get that that thing works for activating a evolutionary fight process in the body to increase muscle activity and now there's a lot of other emotions that go along with those hormones but they aren't those emotions don't actually [4573](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=4573.679s)
 
@@ -420,7 +420,7 @@ addiction and i now keep needing the heroin relative to anything else and my and
 
 process on any addiction whereas with healthy process if i work out or i eat some healthy food i don't get anywhere near as big a spike instantly as i do from the chocolate cake or the heroin or the gambling or whatever it is in fact it might even be kind of not that fun in the moment but then i have increased health [4776](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=4776.08s)
 
-endurance capacity whatever as i keep doing it and so my baseline increases over time and i actually start to get a reward circuit associated with noticing progress and so i'll get a reward but it's a different nature of reward it doesn't have the same nature of crashes and it has a uh a difference in the change of baseline so this is the two marshmallow experiment right the kids that didn't do well of the two marshmallow experiment didn't do well at the most of the rest of life and so there's a question of do we have the ability to do impulse control over short-term and be more focused on long-term [4813](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=4813.04s)
+endurance capacity whatever as i keep doing it and so my baseline increases over time and i actually start to get a [[reward circuit]] associated with noticing progress and so i'll get a reward but it's a different nature of reward it doesn't have the same nature of crashes and it has a uh a difference in the change of baseline so this is the two marshmallow experiment right the kids that didn't do well of the two marshmallow experiment didn't do well at the most of the rest of life and so there's a question of do we have the ability to do impulse control over short-term and be more focused on long-term [4813](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=4813.04s)
 
 advantage all environmental harm is short-term focus at long-term expense almost all war is it seems in the short-term best interest while not recognizing that we're driving [[arms race|arms races]] that make worse wars that will kill way more people worse in the future uh we get so focused on how do i make [4835](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=4835.12s)
 
@@ -432,9 +432,7 @@ two marshmallow kid if i'm a one marshmallow kid meditation where you don't scra
 
 and you hold the mantra and your mind wanders and when it wanders you bring it back to the mountain and it wonders you bring it back to the mantra what are you doing you're developing increased agency over your own self and increased impulse control to not have to itch the thing to not have to move you take cold showers [4917](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=4917.44s)
 
-and even though you don't want to get in the cold shower you do it anyways and then you consciously relax your shoulders when they want to tense up and you take those impulsive processes and develop more agency over them you work out when you don't feel like working out and you develop positive reward circuits on it [4934](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=4934.4s)
-
-more than anything hang out with other people that are too marshmallow people rather than hang out with other people that are one marshmallow people because as social creatures the people were around condition us the fastest and until you have conditioned yourself to be too marshmallow you can't help other people be so you might as well be around people [4950](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=4950.56s)
+and even though you don't want to get in the cold shower you do it anyways and then you consciously relax your shoulders when they want to tense up and you take those impulsive processes and develop more agency over them you work out when you don't feel like working out and you develop positive [[reward circuit|reward circuits]] on it more than anything hang out with other people that are too marshmallow people rather than hang out with other people that are one marshmallow people because as social creatures the people were around condition us the fastest and until you have conditioned yourself to be too marshmallow you can't help other people be so you might as well be around people [4950](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=4950.56s)
 
 that can help you until you stabilize it then you can help other people but there is a place and this is where i said the healthy shame comes in that's where i said like i get you know when i read the demelo i got so disgusted with myself thinking about like he had these inquiries into what is love he's like [4973](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=4973.6s)
 

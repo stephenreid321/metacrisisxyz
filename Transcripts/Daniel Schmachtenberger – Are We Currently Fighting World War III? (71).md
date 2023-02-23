@@ -34,13 +34,13 @@ questions um and i got into activism very young   [145](https://www.youtube.co
 that was one of the other big areas and it got 
 to be home school curriculum time so i got to do   a lot more like frontline activism stuff and 
 research younger than a lot of people would   and it it started with animal rights stuff and 
-started with factory farming and then went to   whaling and overfishing and species extinction 
+started with factory farming and then went to   whaling and overfishing and [[species extinction]] 
 and with peta and greenpeace and all those types   of organizations and that was the beginning of 
 kind of existential devastation for me of how much   human induced unnecessary suffering and just 
 rolling atrocity there is on the planet and then   how can i consider my life a success while that's 
 happening like there has to be something wrong   with me that i can disconnect from that and just 
 be happy to to party and so i remember the very   first thing when i was like nine years old that 
-i had this feeling around with factory farms was   if they still exist when i die then i failed at 
+i had this feeling around with [[factory farm|factory farms]] was   if they still exist when i die then i failed at 
 anything worth living for because hey i i can't   [206](https://www.youtube.com/watch?v=zQ0l56vjTss&t=206.72s)
 
 have a world that i feel good about where that 
@@ -73,7 +73,7 @@ was with a world food program director where   they were looking at a solution
 hunger which was great but their solution involved   commercial agriculture going into areas where it 
 doesn't currently exist to be able to feed the   people in a way that doesn't depend upon shipping 
 food from other countries which made sense except   it was bringing more nitrogen-based fertilizers 
-to more river deltas which will increase the   rate of dead zones in the ocean which is 
+to more river deltas which will increase the   rate of [[dead zone|dead zones]] in the ocean which is 
 an [[existential risk]] for the whole planet   when i brought that up to them i'm like 
 okay well you're going to feed more people   per year for a few years and then speed 
 up the death of the oceans and everybody   they're like yeah we never thought of that and 
@@ -84,7 +84,7 @@ kids metrics i'm like are you  __  kidding me   and then i saw that everywhere
 of the work was not only not adequate to succeed   but it was causing other problems and other 
 areas worse problems because we were defining   the problems too narrowly and the world was more 
 interconnected than that and so this just led to having to continue to step back and say okay 
-maybe we just need to do an assessment of the   whole problem space well enough to know what 
+maybe we just need to do an assessment of the   whole [[problem space]] well enough to know what 
 adequate solutions would take so that was   that was kind of the central thrust of my life 
 focus and all the various areas of study were what   do i need to understand to be able to look at that 
 uh so we were mentioning economics obviously we   can see that if i have a metric of optimizing gdp 
@@ -95,7 +95,7 @@ medicine is good that there's a lot of perverse 
 incentive that addiction is quite profitable   and so it's like okay well that's a 
 dreadful metric and yet we can see that   underlying so many of the issues like bad 
 medical systems and bad food systems and   driving addiction from supply side through 
-manufactured demand is a economic system   that has [[perverse incentive]] writ large and 
+manufactured demand is a [[economic system]]   that has [[perverse incentive]] writ large and 
 there's something like 70 trillion dollars it   trades hands every day and i'm like if we got 70 
 trillion dollars of decentralized human incentive   almost all of which is causing harm 
 along a [[supply chain]] of action somewhere even if i had a billion dollars a day to spend 
@@ -107,10 +107,10 @@ can i can destroy a house much faster than i can 
 build one i'm so many orders of magnitude off of   being adequate so i'm like anything that does not 
 change [[perverse incentive]] is not even worth doing   so how do we change 70 trillion dollars a day 
 worth of human activity to not have perverse   incentive built in well it doesn't look like 
-our current economic system it looks like   a fundamentally new economic system so how 
-do we how do we make projects that succeed   within this economic system and externalize 
+our current [[economic system]] it looks like   a fundamentally new [[economic system]] so how 
+do we how do we make projects that succeed   within this [[economic system]] and externalize 
 a bunch of harm was never interesting to me   how do we make a fundamentally how do we make 
-an economic system where the success of that   economic system and the thriving of life are 
+an [[economic system]] where the success of that   [[economic system]] and the thriving of life are 
 aligned with each other is a different question   and uh so yeah then one of the things i saw 
 was as i was looking at all these different   problems and how they were looking at 
 how they were interconnected to see how   [526](https://www.youtube.com/watch?v=zQ0l56vjTss&t=526.08s)
@@ -206,7 +206,7 @@ so the whole world before world war ii and the   world after fundamentally dif
 that we weren't powerful enough to ruin everything   and so world war ii is the beginning of 
 technologically induced [[catastrophic risk]]   so we had to make so we had to be able to 
 do something we'd never done which have the   superpowers not war so we had to make an entire 
-new world system a globalized world system for   the first time ever and it bought us like 75 years 
+new [[world system]] a globalized [[world system]] for   the first time ever and it bought us like 75 years 
 of no superpower war there was a cold war there   [1014](https://www.youtube.com/watch?v=zQ0l56vjTss&t=1014.88s)
 
 were proxy wars or other things and that involved 
@@ -275,9 +275,7 @@ what is happening and what is going to happen   just we can say that world war
 ways of looking at it this isn't the only way   but it's a useful way world war ii is a 
 few competing social ideologies competing   over a chunk of new tech that was all made 
 possible by a level of science so you've got   communism you've got fascism and you've got 
-capitalism liberal democracies something like   [1357](https://www.youtube.com/watch?v=zQ0l56vjTss&t=1357.68s)
-
-that and basically physical chemistry right atomic 
+capitalism [[liberal democracy|liberal democracies]] something like   that and basically physical chemistry right atomic 
 physics physical chemistry got to a place where   the bomb the v2 rocket the computer and chemistry 
 all basically came on board at the same time   and germany was way further ahead than the soviets 
 or the us for different reasons and we realized   that was existential and had to catch up and so 
@@ -460,9 +458,9 @@ same result and there was an inherently unifying   property to the nature of o
 we could make sense of the same world because   what we're trying to coordinate is the choices 
 we make well what's the basis of our choices   [2283](https://www.youtube.com/watch?v=zQ0l56vjTss&t=2283.04s)
 
-our [[sensemaking]] and our meaning making inform our 
+our [[sensemaking]] and our [[meaning making]] inform our 
 choice making our [[sensemaking]] is what do we think   is going on and what do we think an action would 
-be that would move us towards the thing we want   what do we want is our meaning making our values 
+be that would move us towards the thing we want   what do we want is our [[meaning making]] our values 
 generation right so ultimately our ability to   figure out what we value and what's going on and 
 how we think we can advance the values how we do   choice making so the idea that we need to if we 
 want to have coordinated choice making we need   to coordinate our [[sensemaking]] can we all come to 
@@ -506,7 +504,7 @@ solution that will meet everybody's values as   best as possible maybe not per
 as possible factoring the physical constraints   that our [[sensemaking]] shows us that's the right 
 kind of direction to be able to get emergent order   well we can see that since the modern democracies 
 have emerged the world has gotten much more   complex technologically ecologically etc and 
-our capacity for shared [[sensemaking]] and shared   meaning making meaning our training in civic 
+our capacity for shared [[sensemaking]] and shared   [[meaning making]] meaning our training in civic 
 virtue to listen to each other well with good   faith and our training in the relevant areas to 
 understand the world has gotten worse right and so social engineering the kind of social engineering 
 that brings about order through imposition   we're not interested in what we want is 
@@ -604,7 +602,7 @@ so they were not trying to solve the problems we   need to solve today with th
 people who created the idea of markets and   the scottish enlightenment von mises and hayek 
 and rand were not trying to solve these problems   and neither was marx neither was 
 any of the social theorists so we   need fundamentally new social theory that 
-starts with understanding our problem space and so the problem space requires new institutions 
+starts with understanding our [[problem space]] and so the [[problem space]] requires new institutions 
 and new problem solving capacities those have to   emerge from people popularly starting to want 
 them care about them be willing to empower   [3049](https://www.youtube.com/watch?v=zQ0l56vjTss&t=3049.92s)
 
@@ -614,7 +612,7 @@ which is its own [[dystopia]] wonderful would you   like to dive into the cons
 contribution to achieving that goal of creating   developing a new social theory and education 
 system to um to implement that to inform   the public space and avoid um you know ai and 
 what google and twitter and facebook are doing yeah so everything we're talking 
-about is the problem space that   the consultants project is focused on and um i'll take one more tangent first just because i 
+about is the [[problem space]] that   the consultants project is focused on and um i'll take one more tangent first just because i 
 think some of what i'm referencing might not be   grounded an example for 
 people it might be helpful um i'm guessing that most of the people 
 who are listening to this are aware   [3119](https://www.youtube.com/watch?v=zQ0l56vjTss&t=3119.92s)
@@ -743,7 +741,7 @@ rather let the market force well we just changed   one of the underlying bases
 communist area everything which is you need a   labor force you don't need a labor force you have 
 to rethink all of economics from scratch now okay   well now maybe we don't need a system of extrinsic 
 incentive to force people to do shitty labor jobs   and you can make a whole education system and an 
-economic system that is oriented towards intrinsic   incentive what is it that what what meaningful 
+[[economic system]] that is oriented towards intrinsic   incentive what is it that what what meaningful 
 things could humans do with a life that they   [3746](https://www.youtube.com/watch?v=zQ0l56vjTss&t=3746.08s)
 
 would have intrinsic incentive for i don't have 
@@ -947,7 +945,7 @@ than it is in the domain of software but that's   the  __  the world actually 
 be profitable it can even be super profitable   because it can solve major world problems 
 so larger investments that are longer term   we didn't get railroads with short investments 
 like the railroad wasn't worth anything until   it went all the way across the country and so the 
-industrial revolution required long-term planning   how long did notre dame take to build right 
+[[industrial revolution]] required long-term planning   how long did notre dame take to build right 
 like the the short-term return focus is   fundamentally destructive to life so 
 one of the first things i can say is   have a term focus and then in the 
 thing that you're investing in   is it solving a critical must solve problem 

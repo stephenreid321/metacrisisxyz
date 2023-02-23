@@ -28,7 +28,7 @@ empty jargon thrown around by people larping as deep thinkers with big ideas wor
 
 localized this one will not continue to actually be able to help influence the rest of the world in a positive direction it just won't it is in kind of a decay process the question is whether it decays into just less and less function and irrelevance or whether it decays and [234](https://www.youtube.com/watch?v=9LquQ4GgY5Y&t=234.48s)
 
-reboots and in order to do that a cultural enlightenment as a prerequisite is necessary so leaving aside questions of how we define fully globalized schmacktenberger asserts that we're witnessing the breakdown of a fully globalized system which means that it will not continue to [254](https://www.youtube.com/watch?v=9LquQ4GgY5Y&t=254.319s)
+reboots and in order to do that a [[cultural enlightenment]] as a prerequisite is necessary so leaving aside questions of how we define fully globalized schmacktenberger asserts that we're witnessing the breakdown of a fully globalized system which means that it will not continue to [254](https://www.youtube.com/watch?v=9LquQ4GgY5Y&t=254.319s)
 
 actually be able to help influence the rest of the world in a positive direction which seems like an odd assertion to make about a fully globalized system after all if it's fully globalized why are we talking about the rest of the world as if it's something separate are we actually discussing something other than [273](https://www.youtube.com/watch?v=9LquQ4GgY5Y&t=273.04s)
 
@@ -38,7 +38,7 @@ we can find gaping holes in schmacktenberger's assertion that this fully globali
 
 if he means american hegemony then we have to examine the militarism and endless wars undergirding that to claim that we're witnessing the decay of a functional system is to deny or at least ignore all of the coercion violence and ecocide that this globalized system is predicated upon to proclaim that this globalized system [332](https://www.youtube.com/watch?v=9LquQ4GgY5Y&t=332.56s)
 
-requires a cultural enlightenment in order to reboot raises more questions than it answers what does it mean to reboot how can a global system actually function in a non-coercive or remotely sustainable manner whose culture is schmacktenberger really discussing when speaking in global terms whose values and or epistemological [353](https://www.youtube.com/watch?v=9LquQ4GgY5Y&t=353.6s)
+requires a [[cultural enlightenment]] in order to reboot raises more questions than it answers what does it mean to reboot how can a global system actually function in a non-coercive or remotely sustainable manner whose culture is schmacktenberger really discussing when speaking in global terms whose values and or epistemological [353](https://www.youtube.com/watch?v=9LquQ4GgY5Y&t=353.6s)
 
 positions is he prioritizing we don't know because he doesn't tell us is everyone recognizing that collective choice making has to be based on collective [[sensemaking]] and are we starting to really invest not in doubling down on our own bias but in the capacity to make sense of things well the capacity to understand why other people are thinking the things that they do and the capacity to communicate well so we can coordinate look i'll just come out and share my own biases for the sake of transparent discussion talking about everyone and collective choice making and sense-making strikes me as a vague lowest common denominator [392](https://www.youtube.com/watch?v=9LquQ4GgY5Y&t=392.88s)
 

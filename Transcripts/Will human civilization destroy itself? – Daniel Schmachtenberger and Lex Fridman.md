@@ -146,7 +146,7 @@ building when facebook was building a dating app and then building a social app 
 
 which is usually them being limbically hijacked more than something else which ends up appealing to people's cognitive biases and group identities and creates no sense of shared reality they weren't trying to do that but it was a second order effect and it's a pretty powerful second order effect and a pretty fast one because the rate [1653](https://www.youtube.com/watch?v=01rVKtbqtnA&t=1653.039s)
 
-of tech is obviously able to get distributed to much larger scale much faster and with a bigger jump in terms of total vertical capacity then that's what it means to get to the verticalizing part of an exponential curve so um just like we can see that oil had these second order environmental effects and also social [1672](https://www.youtube.com/watch?v=01rVKtbqtnA&t=1672.72s)
+of tech is obviously able to get distributed to much larger scale much faster and with a bigger jump in terms of total vertical capacity then that's what it means to get to the verticalizing part of an [[exponential curve]] so um just like we can see that oil had these second order environmental effects and also social [1672](https://www.youtube.com/watch?v=01rVKtbqtnA&t=1672.72s)
 
 and political effects war and so much of the whole like the total amount of oil used is has a proportionality to total global gdp and that's why we have this you know the petrodollar and um and so the the oil thing also had the externalities of a major aspect of what happened with military industrial [1695](https://www.youtube.com/watch?v=01rVKtbqtnA&t=1695.039s)
 
@@ -154,11 +154,11 @@ complex and things like that so but we can see the same thing with with more cur
 
 three things maybe it's one thing right we we're doing the oil thing because we want to make cars because it's a better method of individual transportation we're building the facebook thing because we're going to connect people socially in a personal sphere but it it intersects with it interacts with [1729](https://www.youtube.com/watch?v=01rVKtbqtnA&t=1729.6s)
 
-complex systems with ecologies economies psychologies cultures and so it has effects on other than the thing we're intending some of those effects can end up being negative effects but because this technology if if we make it to solve a problem it has to overcome the problem the problem's been around for a while it's [1750](https://www.youtube.com/watch?v=01rVKtbqtnA&t=1750.48s)
+[[complex system|complex systems]] with ecologies economies psychologies cultures and so it has effects on other than the thing we're intending some of those effects can end up being negative effects but because this technology if if we make it to solve a problem it has to overcome the problem the problem's been around for a while it's [1750](https://www.youtube.com/watch?v=01rVKtbqtnA&t=1750.48s)
 
 going to overcome in a short period of time so it usually has greater scale greater rate of magnitude in some way that also means that the externalities that it creates might be bigger problems and you can say well but then that's the new problem humanity will innovate its way out of that well i don't think that's paying [1766](https://www.youtube.com/watch?v=01rVKtbqtnA&t=1766.24s)
 
-attention to the fact that we can't keep up with exponential curves like that nor do finite spaces allow exponential externalities forever and this is why a lot of the smartest people thinking about this are thinking well no i think we're totally screwed and unless we can make a benevolent ai singleton that rules all of us [1786](https://www.youtube.com/watch?v=01rVKtbqtnA&t=1786.159s)
+attention to the fact that we can't keep up with [[exponential curve|exponential curves]] like that nor do finite spaces allow exponential externalities forever and this is why a lot of the smartest people thinking about this are thinking well no i think we're totally screwed and unless we can make a benevolent ai singleton that rules all of us [1786](https://www.youtube.com/watch?v=01rVKtbqtnA&t=1786.159s)
 
 um you know guys like bostrom and and others uh thinking in those directions because they're like how do humans try to do multipolarity and make it work and i i have a different answer of what i think it looks like that does have more to do with the love but some applied social tackle line [1804](https://www.youtube.com/watch?v=01rVKtbqtnA&t=1804.799s)
 

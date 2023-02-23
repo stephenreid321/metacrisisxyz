@@ -72,7 +72,7 @@ things like that. i'll briefly recap my component of the first
 two, which is that humans are a social species [353](https://www.youtube.com/watch?v=kTFqnPEyweE&t=353.58s)
 
 that has arrived here in 2022 as a self-organized
-economic system. that, as individuals, as small businesses,
+[[economic system]]. that, as individuals, as small businesses,
 as corporations, as [[nation state|nation states]], we are optimizing financial surplus that's tethered
 to energy, which is highly tethered to fossil energy, which we're drawing down 10 million
 times faster than it was sequestered. and there's waste that is not included in
@@ -82,7 +82,7 @@ finding a bolus of fossil sunlight that has boosted our goods and services and e
 output for a brief time in history. [417](https://www.youtube.com/watch?v=kTFqnPEyweE&t=417.56s)
 
 and embedded in there... i expect we'll get into this... is everything
-in our economic system requires energy, materials, and technology. and so how those three things combine to create
+in our [[economic system]] requires energy, materials, and technology. and so how those three things combine to create
 productivity and wealth has been the driver of our system. nate hagens:
 my view is we have two possible pathways forward. actually, only one, but they will converge
 at some point. the first pathway is that we continue to innovate
@@ -128,8 +128,8 @@ violent and radically more peaceful over fairly [683](https://www.youtube.com/wa
 long periods of time in large populations
 and also ones that had much higher value on the quality of education ubiquitously. the jewish culture is a very interesting example
 because even in it, the embedding environments, the education level and the pogroms, low economic
-status, low access to public education, whatever, was still very high relative to the embedding
-environment, in which case things like the capacity for... the value system on attention and nuance and
+status, low access to [[public education]], whatever, was still very high relative to the embedding
+environment, in which case things like the capacity for... the [[value system]] on attention and nuance and
 whatever can be developed. daniel schmachtenberger:
 fortunately, i don't hold that [[human nature]] is inexorable part of our problems, but a
 lot of human conditioning to develop the capacities that nature makes possible, but not a given
@@ -174,12 +174,12 @@ the thing that you really get the insights of what the many different causes are
 not a singular cause. and what solutions- nate hagens:
 is that a skill like meditation? how does someone develop that? daniel schmachtenberger:
 when we're talking about the [[social media]] thing, and obviously this is not only social
-media, there are different kinds of reward circuits. this is also why it's interesting to think
-about it in terms of brain and evolutionary biology versus conditioning. there are one-marshmallow reward circuits
-and there are two-marshmallow reward circuits. i'll assume people know the two-marshmallow
-experiment. the one-marshmallow reward circuits, when
+media, there are different kinds of [[reward circuit|reward circuits]]. this is also why it's interesting to think
+about it in terms of brain and evolutionary biology versus conditioning. there are one-marshmallow [[reward circuit|reward circuits]]
+and there are two-marshmallow [[reward circuit|reward circuits]]. i'll assume people know the two-marshmallow
+experiment. the one-marshmallow [[reward circuit|reward circuits]], when
 you have an economy that makes a lot of those available... which evolution didn't make a
-lot of one-marshmallow reward circuits available. daniel schmachtenberger:
+lot of one-marshmallow [[reward circuit|reward circuits]] available. daniel schmachtenberger:
 typically, you had to actually perform evolutionarily relevant work to get rewards of various kinds. [957](https://www.youtube.com/watch?v=kTFqnPEyweE&t=957.149s)
 
 one of the things that we've been able to
@@ -235,12 +235,10 @@ but keep going, my friend. daniel schmachtenberger:
 there's actually something that you said about the must be processed in a single human mind
 that's important and i want to come back to. but just to make sense of the detour and why
 i was mentioning the thing in food and online relationships and all those areas... there's a hypernormal stimulus that is separated
-from the rest of what made it evolutionarily relevant. that's the one-marshmallow reward circuit
-rather than the two-marshmallow reward circuit that involves some self-application for some
+from the rest of what made it evolutionarily relevant. that's the one-marshmallow [[reward circuit]]
+rather than the two-marshmallow [[reward circuit]] that involves some self-application for some
 kind of delayed and healthier gratification. that obviously is also the case with the kind
-of reward circuits associated with sense-making [1237](https://www.youtube.com/watch?v=kTFqnPEyweE&t=1237.799s)
-
-and understanding. the one-marshmallow reward circuits are to
+of [[reward circuit|reward circuits]] associated with sense-making and understanding. the one-marshmallow [[reward circuit|reward circuits]] are to
 get certainty very quickly without the work of actually trying to study and understand
 the situation and just- nate hagens:
 ah. so, that certainty is a one-marshmallow. that makes sense. daniel schmachtenberger:
@@ -324,7 +322,7 @@ actually have cures. [1621](https://www.youtube.com/watch?v=kTFqnPEyweE&t=1621.7
 
 because we don't understand them because you
 have things that start in the gut and then affect the immune system and then affect the
-nervous system. you have to understand those complex causations. daniel schmachtenberger:
+[[nervous system]]. you have to understand those complex causations. daniel schmachtenberger:
 the same is true with... can you fix the environment without understanding
 industry and infrastructure and economics and human political theory? it's all deeply connected. when you decompose it and you try to solve
 the problems in isolation, you end up just moving the problem somewhere else. and so the need for... [1652](https://www.youtube.com/watch?v=kTFqnPEyweE&t=1652.33s)
@@ -348,7 +346,7 @@ understood this and how long they've worked [1767](https://www.youtube.com/watch
 on it and that it's not making progress. it by itself seems like an overwhelmingly
 large and bordering on impossible task. and so critical. existential. why would anyone move any attention to anything
 other than just move this thing forward, right? daniel schmachtenberger:
-similarly, let's say that you witnessed firsthand what happens inside of a factory farm or the
+similarly, let's say that you witnessed firsthand what happens inside of a [[factory farm]] or the
 clear cutting of rainforests in an area. the idea that anyone else wants to go up to
 some higher, highfalutin, abstraction place that seems kind of academic when these orangutans
 are burning to death as the indonesian forests are getting cut down to make fucking paper
@@ -508,7 +506,7 @@ psychedelics. mushrooms. some of my most mystical experiences in life
 are seeing the vibrant green in the trees [2495](https://www.youtube.com/watch?v=kTFqnPEyweE&t=2495.92s)
 
 and the birds and the insects. i felt the connection then and i felt my heartbreak
-all along because i think some of the costs of our economic system are back loaded. as we bend and hopefully not break, some of
+all along because i think some of the costs of our [[economic system]] are back loaded. as we bend and hopefully not break, some of
 these things are going to get worse before they get better. i live with that... you could call it trauma
 or grief or something... every day, but that also motivates my work and the things that
 we're discussing. daniel schmachtenberger:
@@ -554,7 +552,7 @@ byproduct of that same thing. of a very local, small scale love of these
 animals and then the heartbreak at what happened. love of these environments, a sense of sacredness
 of life, and then that it was being harmed. i just wanted to solve that local issue. and then i started to understand that local
 issue wasn't just local. and then i got to start to understand, fuck,
-it's not just factory farms on cows, it's factory farms on lots of animals, which also
+it's not just [[factory farm|factory farms]] on cows, it's [[factory farm|factory farms]] on lots of animals, which also
 goes along with clear cutting and then overfishing of the oceans. and then it just kept expanding. so, then... all right. [2738](https://www.youtube.com/watch?v=kTFqnPEyweE&t=2738.78s)
 
 man. what other great horrors are there that need
@@ -770,12 +768,12 @@ so random. my family was in a gas station in iowa and
 a... actually, in texas. we were on a trip. [3713](https://www.youtube.com/watch?v=kTFqnPEyweE&t=3713.119s)
 
 a tractor trailer pulled in and it was a cattle
-truck. it was a taking cows from a factory farm to
+truck. it was a taking cows from a [[factory farm]] to
 slaughterhouse. the ones with the holes in the side for air. the ventilation holes. i went up and i looked in the holes and the
 cow right near me was missing an eye. there was blood and abcess coming from it. it was a terrible stench. all the cows were obviously terrified. there was feces all over them. it was just like an auschwitz scene, you know? [3743](https://www.youtube.com/watch?v=kTFqnPEyweE&t=3743.07s)
 
 daniel schmachtenberger:
-i grew up eating meat, including from factory farms. mcdonald's, whatever. just no cognizance. i just didn't put it together. but i also grew up loving animals. that cognitive dissonance that so many people
+i grew up eating meat, including from [[factory farm|factory farms]]. mcdonald's, whatever. just no cognizance. i just didn't put it together. but i also grew up loving animals. that cognitive dissonance that so many people
 have where they don't get, wait, dog, cow, not that different. i asked my parents why those animals were
 in that condition. they said, "that's where the hamburgers come
 from," and my world just broke. [3772](https://www.youtube.com/watch?v=kTFqnPEyweE&t=3772.339s)
@@ -792,7 +790,7 @@ that was the beginning of feeling very suicidal about these things for me. becau
 and then i'm like, well, that doesn't help
 any of the animals and so i can't do that. and then i'm like, but i also can't just feel
 like my life is a success with that being the case. i can't kill myself, but for my life to succeed,
-theirs has to be better. so, how do we fix factory farms? of course, that was the first one. then, it went from factory farms to also whaling
+theirs has to be better. so, how do we fix [[factory farm|factory farms]]? of course, that was the first one. then, it went from [[factory farm|factory farms]] to also whaling
 and then overfishing and then clear cutting of the forest. and then it started to look at extreme poverty
 of people. it just grew. [3859](https://www.youtube.com/watch?v=kTFqnPEyweE&t=3859.38s)
 
@@ -834,7 +832,7 @@ tragedy and cognizant of all the reason to [4039](https://www.youtube.com/watch?
 be cynical and holding that, we're still going
 to look for solutions and still also operate with the sacredness of life at the center. i think that's the task. daniel schmachtenberger:
 it's so interesting because you and i both know we could solve all of these things, make
-an economic system that doesn't have an [[embedded growth obligation]] and closed-loop materials
+an [[economic system]] that doesn't have an [[embedded growth obligation]] and closed-loop materials
 economy powered by regenerative energy and overcome war and bind ai and biotech, and
 then a solar flare just takes us all out in a way that we can't control for shit. and so there is something about just sitting
 also with the fragility and the impermanence of the whole thing that we just have to hold. [4085](https://www.youtube.com/watch?v=kTFqnPEyweE&t=4085.309s)
@@ -891,8 +889,8 @@ and so a couple things i want to say in terms [4323](https://www.youtube.com/wat
 of where we go next time when we're sharing
 cognitive models about what about the relationship between our infrastructure and our social
 structures and our cultures and worldview or [[superstructure]] and the biosphere and the
-nature of the exponential curves and technology... what about those things causes which kinds
-of problems and what would necessary and sufficient design criteria of a better economic system
+nature of the [[exponential curve|exponential curves]] and technology... what about those things causes which kinds
+of problems and what would necessary and sufficient design criteria of a better [[economic system]]
 or a better [[supply chain]] or a better culture, educational system, or legal system look like? we have to figure that stuff out. daniel schmachtenberger:
 everything that we've talked about today that we didn't intend to talk about is from where
 we approach figuring those things out. where it's not against the bad guys. [4365](https://www.youtube.com/watch?v=kTFqnPEyweE&t=4365.1s)
@@ -918,7 +916,7 @@ to a boat or whatever, but they don't know [4457](https://www.youtube.com/watch?
 
 how to think through strategy at the scope
 of what has to change. you put will and mind together but without
-heart where there's narrow value systems and you get the kind of sociopathic rule that
+heart where there's narrow [[value system|value systems]] and you get the kind of sociopathic rule that
 currently runs the world. that knows how to be highly strategic, knows
 how to be highly agentic, but to serve some narrow interest at the expense of somebody
 else. it takes all three of those together. and so what we're going to be talking about

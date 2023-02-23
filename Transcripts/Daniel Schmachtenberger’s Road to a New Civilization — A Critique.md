@@ -21,7 +21,7 @@ but one perspective on it. other notable thinkers working under the game
 b umbrella are jim rutt, bret weinstein, jordan greenhall, forrest landry, and ben goertzel. in my critique i will draw heavily from existing
 criticisms of technology, in particular that of ted kaczynski. it’s because schmachtenberger and kaczynski
 have a lot in common in their thinking about technology — they rely on [[game theory]] and
-complex systems theory in their analyses. of course, they depart in major ways, especially
+[[complex system|complex systems]] theory in their analyses. of course, they depart in major ways, especially
 when we’re talking about solutions. i will also use some criticisms by other anti-technology
 philosophers: jacques ellul and john zerzan. who is daniel schmachtenberger? daniel was home taught, meaning he was free
 to pursue and explore his own interests without being confined in a rigid curriculum. he gained a lot of understanding of complex
@@ -188,7 +188,7 @@ and when these groups have access to exponential
 technology, such as ai, biotechnology, nanotechnology, we get back to the starting point, where we
 are at great risk of those technologies being catastrophically misused. unpredictability of complex dynamical social
 systems ted kaczynski introduced a concept of self-propagating
-systems, based on our knowledge of [[game theory]] and complex systems. a self-propagating system is any system that
+systems, based on our knowledge of [[game theory]] and [[complex system|complex systems]]. a self-propagating system is any system that
 can maintain itself and preserve itself, such as an organism, an institution, a corporation. it seems that in any institution a self-propagating
 system can arise that has goals not aligned with the goals of the containing system. [1137](https://www.youtube.com/watch?v=9TQHtaRXntQ&t=1137.53s)
 
@@ -208,21 +208,19 @@ of the world, making it unsuitable for complex life. daniel schmachtenberger dis
 is inevitable. according to him, it is possible to design
 a [[social system]], where there would be no incentives for short-term gains or that short-term gains
 would not be greater than focusing on long-term stability and ecology. but can this be actually true? because socio-economical global civilization
-is a complex system of complex systems, it’s [1228](https://www.youtube.com/watch?v=9TQHtaRXntQ&t=1228.93s)
-
-more plausible to think that there will always
+is a [[complex system]] of [[complex system|complex systems]], it’s more plausible to think that there will always
 be various loopholes and backdoors we couldn’t account for, such that they can and will be
 exploited by greedy self-propagating systems for gaining power at the cost of the common
 long-term health of the entire humanity. it’s difficult to believe that a system
 without those problems is possible. if it is, i think we would need a much stronger,
 formalized argument to show that this is indeed possible. this is connected with another point kaczynski
-makes. complex systems, such as a society, climate,
+makes. [[complex system|complex systems]], such as a society, climate,
 ecosystem, are systems of interconnected elements. they behave in a nonlinear fashion, that is
 an increase in some parameter (e.g. temperature) may lead to disproportionately huge results. [1286](https://www.youtube.com/watch?v=9TQHtaRXntQ&t=1286.86s)
 
-the characteristics of a complex system tell
+the characteristics of a [[complex system]] tell
 us very little that could help us in guessing what the system will do. we often observe novel behaviors on the scale
-of the entire systems — so called emergent behaviors. many complex systems function in chaotic ways. this means that their behavior is unpredictable,
+of the entire systems — so called emergent behaviors. many [[complex system|complex systems]] function in chaotic ways. this means that their behavior is unpredictable,
 even in principle. just a tiny difference in the model of such
 a system will lead to completely different results and conclusions. the farther we go into the future with our
 predictions, the worse they are. if we can’t predict how the society will

@@ -48,7 +48,7 @@ the binding energy exceeds the cleaving energy that civilization will last and s
 
 people having migrated enough that when you started to get resource wars it you couldn't just migrate away easily and so tribal warfare became more obligated it involved the plow in the beginning of real economic surplus there were so there were a few different kind of um forcing functions but we're talking about what size should [485](https://www.youtube.com/watch?v=MYCvaVqZebA&t=485.039s)
 
-it be right what size should a society be and i think the idea like if we think about your body for a moment as a self-organizing complex system that is multi-scaled we think about bodies of wonderland our body is a wonderland yeah uh you have that's a john mayer song i apologize [506](https://www.youtube.com/watch?v=MYCvaVqZebA&t=506.319s)
+it be right what size should a society be and i think the idea like if we think about your body for a moment as a self-organizing [[complex system]] that is multi-scaled we think about bodies of wonderland our body is a wonderland yeah uh you have that's a john mayer song i apologize [506](https://www.youtube.com/watch?v=MYCvaVqZebA&t=506.319s)
 
 but yes so uh if you think about our our body and the billions of cells that are in it well you don't have like think about how ridiculous it would be to try to have all the tens of trillions of cells in it with no internal organization structure right just like a sea of protoplasm your democracy and so you have cells and tissues [525](https://www.youtube.com/watch?v=MYCvaVqZebA&t=525.36s)
 

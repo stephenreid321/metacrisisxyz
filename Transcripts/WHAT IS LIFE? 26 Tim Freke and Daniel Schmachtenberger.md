@@ -84,7 +84,7 @@ that oneness with the word that that i would use for is what exists being in rel
 
 which is describing uh the qualities of being and that therefore there is no subject and object separately there's only the objects subjectively perceived and that subject and object relationship goes right down into the actually i think it goes into numbers but it certainly goes into um the quantum particles and physics and [934](https://www.youtube.com/watch?v=ammJN0yCCbs&t=934.079s)
 
-all that and then right the way up to you and me where the world i perceive is the world i perceive because of my nature and that everything has that interconnected subject object and that the evolutionary process isn't an objective one it's a relational one yeah and that's what's been going on for [956](https://www.youtube.com/watch?v=ammJN0yCCbs&t=956.48s)
+all that and then right the way up to you and me where the world i perceive is the world i perceive because of my nature and that everything has that interconnected subject object and that the [[evolutionary process]] isn't an objective one it's a relational one yeah and that's what's been going on for [956](https://www.youtube.com/watch?v=ammJN0yCCbs&t=956.48s)
 
 14 billion years whenever we say something like um vedic philosophy or even worse eastern philosophy and so specifically at minimum six primary schools of vedic philosophy yes absolutely right this school called karma which comes right before vedanta in the set of six actually put forward a my understanding [987](https://www.youtube.com/watch?v=ammJN0yCCbs&t=987.279s)
 
@@ -206,7 +206,7 @@ um and that that is kind of a emergent domain that didn't exist before it obviou
 
 the kind of tear du chardon idea that evolution was increasing the orderly complexity of things in and basically selecting for [[emergent property|emergent properties]] what natural selection would be selecting for was something that had some adaptive capacity that was things that came together in a [2501](https://www.youtube.com/watch?v=ammJN0yCCbs&t=2501.2s)
 
-particular way that had [[emergent property]] and that with humans you have a the level of complexity to have abstraction as an [[emergent property]] that can then contemplate evolution and so we are the evolutionary process wake to itself and then can consciously implement it that kind of our marks hubbard [2524](https://www.youtube.com/watch?v=ammJN0yCCbs&t=2524.88s)
+particular way that had [[emergent property]] and that with humans you have a the level of complexity to have abstraction as an [[emergent property]] that can then contemplate evolution and so we are the [[evolutionary process]] wake to itself and then can consciously implement it that kind of our marks hubbard [2524](https://www.youtube.com/watch?v=ammJN0yCCbs&t=2524.88s)
 
 and friends idea uh i think they're i'm not going to say that is true i will say there is truth and there is beauty in that idea music that's very different than saying sentience or consciousness is an epiphenomenon of biology or of neural networks that's very very different um [2548](https://www.youtube.com/watch?v=ammJN0yCCbs&t=2548.839s)
 
@@ -278,7 +278,7 @@ i love that that's really really insightful and i i'm not quite sure about the l
 
 elegant yeah i think um so for if if we define a metaphysics as something that would ground a physics right um than a a physics as per tarsky's theorem which is defining the laws within a domain a physics isn't going to be able to [3514](https://www.youtube.com/watch?v=ammJN0yCCbs&t=3514.96s)
 
-define its own axioms and if it's consistent it won't be complete right so then the metaphysics is what is the basis by which we are assessing the adequacy of one phys one set of axioms over another relative to the base reality there's something that isn't within that set of physics that's giving us the ability to assess the effectiveness of the [3536](https://www.youtube.com/watch?v=ammJN0yCCbs&t=3536.48s)
+define its own axioms and if it's consistent it won't be complete right so then the metaphysics is what is the basis by which we are assessing the adequacy of one phys one set of axioms over another relative to the [[base reality]] there's something that isn't within that set of physics that's giving us the ability to assess the effectiveness of the [3536](https://www.youtube.com/watch?v=ammJN0yCCbs&t=3536.48s)
 
 physics right this is what you were pointing to earlier yeah yeah yeah okay and so um so um while a physics is grounded in the metaphysics in western system that'll be things like formal logic and mathematics and positivism and stuff like that um music a metaphysics can't be grounded in something outside of itself to be a metaphysics if it's supposed to have a kind of closure so it needs to explain reality explain itself and explain the process by which it explained the other two so that no concepts are imported into the explanation process [3576](https://www.youtube.com/watch?v=ammJN0yCCbs&t=3576.88s)
 

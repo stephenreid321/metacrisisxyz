@@ -399,7 +399,7 @@ are compelled to continue to grow so that they don't get behind. what about indi
 behaviors and plans? daniel schmachtenberger:
 yeah, it's an interesting one. can individuals change their behaviors in
 certain ways that are important to do regarding their consideration of, did this meat come
-from a factory farm? did this product come from a sweat shop? how much total shit do i actually need? [2030](https://www.youtube.com/watch?v=tQkQrc3Ant4&t=2030.52s)
+from a [[factory farm]]? did this product come from a sweat shop? how much total shit do i actually need? [2030](https://www.youtube.com/watch?v=tQkQrc3Ant4&t=2030.52s)
 
 is this packaging ever going to break down
 in the environment? can they start to be considerate of those
@@ -445,12 +445,10 @@ try to be perfect about it because if they try to be perfect, they will be in th
 using- nate hagens:
 you can never be perfect. daniel schmachtenberger:
 nothing. yeah. but i think one of the things that's important
-is to get... i am complicit with the world system every
-time i use my phone. i'm complicit with the world system every
-time i use money itself as an exchange for [2238](https://www.youtube.com/watch?v=tQkQrc3Ant4&t=2238.9s)
-
-anything. every time i drive on a road i'm complicit
-with the world system. as such, i can't think of myself as an individual
+is to get... i am complicit with the [[world system]] every
+time i use my phone. i'm complicit with the [[world system]] every
+time i use money itself as an exchange for anything. every time i drive on a road i'm complicit
+with the [[world system]]. as such, i can't think of myself as an individual
 separate from the whole. there is this ubuntu, i am because we are
 and this is the way the human world is right now and so i can't make myself in perfect
 ethical alignment, independent of helping the species as a whole to move. and there's something actually more humble
@@ -519,7 +517,7 @@ humans relative to the rest of the species [2560](https://www.youtube.com/watch?
 
 as best we can observe. and when i say humans right now, i mean homosapien
 relative to everything else, but it probably started with earlier hominids that had early
-tool making. so somewhere between australopithecus and
+[[tool making]]. so somewhere between australopithecus and
 homo habiles... obviously all those other hominids are not
 with us. but that's important for the early part of
 this story because we're talking about a curve that's maybe 2 million years old rather than
@@ -551,7 +549,7 @@ destroy all of nature in a way that nothing else in nature can. [2713](https://w
 therefore, we have to be stewards or we don't
 continue to exist. and the key distinction is that the adaptive
 advantage that every other animal has is the result of genetics that result from evolutionary
-process. and the evolutionary process is, genetic mutation
+process. and the [[evolutionary process]] is, genetic mutation
 occurs, most of those mutations are not adaptive. some tiny set of them are adaptive and that
 increases survival and reproduction and if it increases survival and/or reproduction,
 it gets selected for. the process by which a genetic mutation occurs
@@ -581,7 +579,7 @@ of systemic upregulation [2855](https://www.youtube.com/watch?v=tQkQrc3Ant4&t=28
 of the whole. with humans and like i said, this started
 with earlier humans, we started with being able to increase our adaptive capacity not
 through genetic mutation. we started by being able to increase our adaptive
-capacity through abstraction, through tool making and through abstract 
+capacity through abstraction, through [[tool making]] and through abstract 
 coordination mechanisms. people start to get into, yeah, but animals
 make tools. you can see even crows will use tools to break
 things open and chimpanzees will use tools and the beaver will make a dam and the birds
@@ -612,20 +610,16 @@ thing, but then how do we attach it to a bow and arrow. go ahead. nate hagens:
 so i and my colleagues, like john gowdy, attribute the origin of the [[superorganism]] to around
 10,000 years when we found agriculture and started to optimize for surplus. and you're saying that the origins of the
 [[superorganism]] was much earlier than that? daniel schmachtenberger:
-yeah. when you look at an exponential curve that
-can be fairly flat for a long time and then [3017](https://www.youtube.com/watch?v=tQkQrc3Ant4&t=3017.1s)
-
-start to verticalize, roughly 10,000 years
+yeah. when you look at an [[exponential curve]] that
+can be fairly flat for a long time and then start to verticalize, roughly 10,000 years
 ago, agrarian revolution was a major jump, but i am going to go back and look much earlier. because already before that happened, you
 had humans behaving as [[apex predator|apex predators]] in almost every single environment in the world 10,000
 years ago. and there's no other animal at all that is
 like that. and that's already a critical thing to understand. it goes along with your extincting of the
 other hominids. so as amazingly well adapted as the cheetah
 is to the savannah or the polar bear is to the arctic, neither of them survived in the
-other environment. and yet we were able to because of tool making
-put on clothes, create shelters and go become [3062](https://www.youtube.com/watch?v=tQkQrc3Ant4&t=3062.76s)
-
-the [[apex predator]] of every single environment. that was already really different because
+other environment. and yet we were able to because of [[tool making]]
+put on clothes, create shelters and go become the [[apex predator]] of every single environment. that was already really different because
 it wasn't just that we could over-optimize a single environment and then come back into
 check. we had the ability to go become not only adaptive
 but [[apex predator|apex predators]] in every environment. after we over hunted an environment- nate hagens:
@@ -734,7 +728,7 @@ says we're not going to use the plow, we think that's fucked. we don't want to y
 all day long because the spirit of the animal, we're going to keep our animistic ideas and
 live in harmony with nature, then they're not going to grow their population. the one who does yolk it and beat it will
 grow their population. they'll win in tribal warfare, wipe the other
-ones out. and so the memes, the value systems, man's
+ones out. and so the memes, the [[value system|value systems]], man's
 dominion over whatever, that corresponds with the tool used, will be the ones that proliferate. [3603](https://www.youtube.com/watch?v=tQkQrc3Ant4&t=3603.84s)
 
 and that means nothing about them being more
@@ -790,7 +784,7 @@ during that time that have from obviously the water wheels being used to the on 
 on. [3853](https://www.youtube.com/watch?v=tQkQrc3Ant4&t=3853.08s)
 
 but we do get a pretty massive jump at oil
-and people talk about the fourth industrial revolution that we're in now. the first industrial revolution being oil,
+and people talk about the fourth [[industrial revolution]] that we're in now. the first [[industrial revolution]] being oil,
 the second being electricity, the third being computation, the fourth, now being ai and
 all the kurzweil [[exponential tech]]. that's a roughly good model. we could, some people talk about six industrial
 revolutions but basically we can look at that. there's like a step function in tech and then
@@ -804,14 +798,14 @@ single year other than the 1930s, 2020, 2009. and at some point the depletion pa
 story for coal oil and natural gas, of which we get a hundred billion barrel of oil equivalents
 per year, which is 500 billion human labor equivalent worth. although you once told me that was a gibberish
 number, but plus or minus, even if it's a hundred billion, it's a lot what happens with
-those revolutions. the tech revolutions, the industrial revolutions
+those revolutions. the tech revolutions, the [[industrial revolution|industrial revolutions]]
 as we have fewer of those exogenous laborers, fossil laborers added to our economy is a
 question i think about a lot. daniel schmachtenberger:
 yeah. when you demonstrate, in the animation you
 made the carbon pulse, and how significant [3954](https://www.youtube.com/watch?v=tQkQrc3Ant4&t=3954.06s)
 
 the step function that was 
-and it really corresponds  to population well, right, from the agricultural revolution until the industrial revolution,
+and it really corresponds  to population well, right, from the agricultural revolution until the [[industrial revolution]],
 the population stayed under a half a billion give or take. and to go from a half a billion to eight billion
 in 300 years, given 10,000 years under a half a billion, you're like, "whoa, that's huge." and we hit the first billion at 1815 and that
 the other technologies that sit on top of that, the electrification, the computer-ification
@@ -1013,11 +1007,9 @@ got here. i want to come back to the argument we had
 at the beginning of what is unique about homo sapiens, to say let's have some percentage
 of homo sapiens understand what is unique about them that then also says what must become
 true of them, factoring that because we haven't said that quite clearly enough. we were obviously the result of evolutionary
-process but we were the result of evolutionary process that gave us the ability to increase
+process but we were the result of [[evolutionary process]] that gave us the ability to increase
 our adaptive capacity relative to everything else in a way that is different than the rest
-of evolutionary process. [4971](https://www.youtube.com/watch?v=tQkQrc3Ant4&t=4971.6s)
-
-it is no longer genetic mutation   that is determining
+of [[evolutionary process]]. it is no longer genetic mutation   that is determining
 our adaptive capacity. so if you want to understand the adaptive
 capacity of humans first it wasn't individual humans that were selected for. there were very few places where they were
 individual, solo humans, it was groups of humans and it was groups of humans with their
@@ -1112,7 +1104,7 @@ on economic and political lever pullers. so do you need a popular zeitgeist to c
 to change their understanding? also yes. [5444](https://www.youtube.com/watch?v=tQkQrc3Ant4&t=5444.34s)
 
 those inter-inform each other. both. and it's... what we're talking about is definitely
-a cultural enlightenment of a particular type, a cultural enlightenment, meaning distributively,
+a [[cultural enlightenment]] of a particular type, a [[cultural enlightenment]], meaning distributively,
 everyone coming to understand the nature of the world they live in differently and better,
 more clearly in a way that leads to different types of coordination and where the default
 is, if i don't they're going to, therefore i have to. if that remains the default, we don't make
@@ -1220,7 +1212,7 @@ could already be thought of as innovations [5988](https://www.youtube.com/watch?
 
 in energy and atoms intersecting each other. that language was this recursive abstraction
 applied to information processing. and so right now we can see that with, what
-some people call, the third industrial revolution computation, there's been this radical growth
+some people call, the third [[industrial revolution]] computation, there's been this radical growth
 and information processing and a lot of new types of services and value and change in
 the manufacturer of goods that come from that. and a lot of people have this hope that the
 information processing gives us the ability to produce more value per unit of energy and
@@ -1231,7 +1223,7 @@ the value of software. and i think you and i- [6044](https://www.youtube.com/wat
 nate hagens:
 which will require materials and atoms. daniel schmachtenberger:
 ... you and i would both say yes and no. yes, software might have less energy and material
-demand per dollar worth of output, but that's not an exponential curve, it's another s-curve. where eventually, you have a limit on human
+demand per dollar worth of output, but that's not an [[exponential curve]], it's another s-curve. where eventually, you have a limit on human
 attention and it doesn't matter how many movies there are or how much new software there is,
 you get diminishing return on the value of the digital stuff limited to human attention
 seconds. and then when what you're competing for, is
@@ -1265,7 +1257,7 @@ everything. and that doesn't work long term viability
 wise so we do end up having to get something that is not just incentives but deterrents. the only reason you can have a national park
 is because the incentive for logging is stopped by a deterrent called the rule of law that
 says, we're not going to cut these trees down. and yet the problem is, if we're trying to
-prevent dead zones in oceans from where no one country's putting all of the nitrogen
+prevent [[dead zone|dead zones]] in oceans from where no one country's putting all of the nitrogen
 there, it's coming from lots of areas or putting [6236](https://www.youtube.com/watch?v=tQkQrc3Ant4&t=6236.16s)
 
 all of the trash or forever chemicals or whatever
@@ -1284,7 +1276,7 @@ that is both enforceable and non dystopic? i think that's some of the tee up of 
 we go next. nate hagens:
 and the other constraint that i will just add there is, the biosphere limits as severe
 as they are, are not what's going to get us first because your concept of the third or
-fourth industrial revolution using technology or in the modern 2020s case ai, what that
+fourth [[industrial revolution]] using technology or in the modern 2020s case ai, what that
 does do, is it allows us to increase enough [6324](https://www.youtube.com/watch?v=tQkQrc3Ant4&t=6324.78s)
 
 productivity to pay back prior financial claims. the moment we're not able to service existing
@@ -1310,7 +1302,7 @@ that. and so that's a place where we've already
 passed a planetary tipping point, not in terms of the habitability of the planet biosphere
 wise, but the habitability of some areas for short periods of time that are enough to cause
 migrations of people that cause resource pressures that cause wars, that cause [[supply chain]] issues. there's a lot of very near term things that
-can start to cause breakdown of the world systems that meet people's needs that happen
+can start to cause breakdown of the [[world system|world systems]] that meet people's needs that happen
 at the interface of a lot of these areas, not just one of them going catastrophic on
 its own. nate hagens:
 how would you like to lay some breadcrumbs and a teaser for our next episode? [6475](https://www.youtube.com/watch?v=tQkQrc3Ant4&t=6475.98s)
@@ -1349,7 +1341,7 @@ earlier, that some people, for environmental concerns, want to one world governm
 they don't think anything else will be able to address the environmental issues in time. but they might be under factoring how bad
 a one world government would be from any type of government we've ever had so far, as far
 as class system dynamics and oppression goes. most people are much more aware of the parts
-of the world system that they look at than the other parts and so they're able to see
+of the [[world system]] that they look at than the other parts and so they're able to see
 something that looks like a win within that [6671](https://www.youtube.com/watch?v=tQkQrc3Ant4&t=6671.58s)
 
 domain without factoring how much that can
@@ -1378,7 +1370,7 @@ their local needs. and because the complexity of the overall  tech stack did no
 that level of specialization, obviously today, that's utter nonsense. [6796](https://www.youtube.com/watch?v=tQkQrc3Ant4&t=6796.62s)
 
 you couldn't have a representative understand  the issues of nuclear 
-deterrents and the electrical grid and dead zones in the ocean and manufacturing
+deterrents and the electrical grid and [[dead zone|dead zones]] in the ocean and manufacturing
 chemicals and all those things. so you're supposed to have subcommittees that
 figure that out. but we could identify lengthily the problems
 in that system, but there is a place where the total complexity of the [[decision making]]
@@ -1459,9 +1451,7 @@ had always been good for science, but open publishing of the pandemic viral gene
 that are found through gain of function equals increasing everybody's 
 ability to make decentralized  [[catastrophe weapon|catastrophe weapons]], in the 
 age of gene synthesizers, we have to rethink info sharing. there's a lot of places where it's like, the
-problem space of the world and the affordances [7148](https://www.youtube.com/watch?v=tQkQrc3Ant4&t=7148.46s)
-
-of the new tech mean that we have to rethink
+[[problem space]] of the world and the affordances of the new tech mean that we have to rethink
 long term governance from scratch. and so triage transition and long term are
 three time horizons in which i think about moving forward. that's one model. i'll just add this before you comment because
 i'll put these two together and then i think ... and then the infrastructure, the social

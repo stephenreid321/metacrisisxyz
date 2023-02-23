@@ -44,7 +44,7 @@ that up because looking at your background i mean you have a very diverse kind o
 
 whole systems and so taking a system science approach to activism i saw okay here's an area where we're trying to say protect an animal from poaching and the answer is say it was an elephant we're gonna put bigger fences around the preserves and create harsher sentencing for poachers [423](https://www.youtube.com/watch?v=BIKDNStlnL4&t=423.44s)
 
-but we're not addressing the underlying poverty of the people that can't meet their needs any other way adequately other than poaching we're not addressing the value system and why it's conditioned that way towards animals not addressing macroeconomics that leads to poverty we're not addressed like there's so many things [439](https://www.youtube.com/watch?v=BIKDNStlnL4&t=439.919s)
+but we're not addressing the underlying poverty of the people that can't meet their needs any other way adequately other than poaching we're not addressing the [[value system]] and why it's conditioned that way towards animals not addressing macroeconomics that leads to poverty we're not addressed like there's so many things [439](https://www.youtube.com/watch?v=BIKDNStlnL4&t=439.919s)
 
 that aren't being addressed that if we succeed at getting the fences up then the poachers move to some other animal somewhere else or you know some other problem and so starting to look at what would it take to actually meaningfully address all of the things that need addressed from a system's point of view what would a whole [455](https://www.youtube.com/watch?v=BIKDNStlnL4&t=455.84s)
 
@@ -60,7 +60,7 @@ that could produce highest quality of life for the highest potential quality of 
 
 large ngos and companies and trying to implement some of the ideas through there through those vehicles until realizing that those vehicles really couldn't do the things that were necessary the groups that were working on hunger were quite happy to address starvation in areas of [562](https://www.youtube.com/watch?v=BIKDNStlnL4&t=562.08s)
 
-extreme poverty by bringing industrial agriculture to the area to be able to create more food production there even if that meant more nitrogen runoff leading to faster dead zones in the ocean because those weren't the metrics they were tasked with and it doesn't mean they were really [579](https://www.youtube.com/watch?v=BIKDNStlnL4&t=579.279s)
+extreme poverty by bringing industrial agriculture to the area to be able to create more food production there even if that meant more nitrogen runoff leading to faster [[dead zone|dead zones]] in the ocean because those weren't the metrics they were tasked with and it doesn't mean they were really [579](https://www.youtube.com/watch?v=BIKDNStlnL4&t=579.279s)
 
 happy it just means that the nature of here's the metrics you're tasked with and they are they are inter connected with other things but that's not they're the focus of how that interconnectivity is addressed is just outside of the macro systems that uh you know those structures are part of and so eventually said all right well let's just actually [598](https://www.youtube.com/watch?v=BIKDNStlnL4&t=598.399s)
 
@@ -72,11 +72,11 @@ think take process and here's here's what i'm leading to is the the creation of 
 
 and they'll see the quality of product and they'll think oh they're a supplement company but that's far from even close to what neurohacker collective is two things one is you said the approach that we're describing for civilization design and the approach that you advocate for medicine are very related they are very related [676](https://www.youtube.com/watch?v=BIKDNStlnL4&t=676.48s)
 
-because the human body and the human mind body environment system is a complex system and so if you try and do you know reductionist parts based approach it just it works for acute things it doesn't work for complex things and so all right there is too much ldl [695](https://www.youtube.com/watch?v=BIKDNStlnL4&t=695.2s)
+because the human body and the human mind body environment system is a [[complex system]] and so if you try and do you know reductionist parts based approach it just it works for acute things it doesn't work for complex things and so all right there is too much ldl [695](https://www.youtube.com/watch?v=BIKDNStlnL4&t=695.2s)
 
 so we're going to give a statin but we didn't really ask why there's too much ldl and what the externalities side effects of the statin are going to be and you know that approach just doesn't work for complex illness and it doesn't work for comprehensive wellness optimization so you have to say across all of the different body systems [713](https://www.youtube.com/watch?v=BIKDNStlnL4&t=713.279s)
 
-are there ways that the gut affects the brain yes through the entire nervous system through uh the microbiota through you know so the division between neurology and gastroenterology we just can't you can't maintain specialism across those boundaries you can't maintain specialism across the genetic bottom-up organization and [734](https://www.youtube.com/watch?v=BIKDNStlnL4&t=734.24s)
+are there ways that the gut affects the brain yes through the entire [[nervous system]] through uh the microbiota through you know so the division between neurology and gastroenterology we just can't you can't maintain specialism across those boundaries you can't maintain specialism across the genetic bottom-up organization and [734](https://www.youtube.com/watch?v=BIKDNStlnL4&t=734.24s)
 
 the connectomic top-down organization because they're influencing each other in real time and so you look at the body as a whole complex adaptive system regulatory system and then you say our goal is to increase the resilience of the entire system the homeostatic capacity of the whole system how do we go about doing that and to see [755](https://www.youtube.com/watch?v=BIKDNStlnL4&t=755.12s)
 
@@ -86,9 +86,7 @@ complex adaptive systems where the goal similarly the economics and the environm
 
 the incentives are misaligned with the goals and so you say well what would a really resilient system look like and so very like why humanitarian aid why all of our approaches to peace and security and global problem solving haven't been working is the exact same reason allopathic medicine doesn't work for complex issues [833](https://www.youtube.com/watch?v=BIKDNStlnL4&t=833.279s)
 
-is i mean we very much have an allopathic system of governance that is dealing with symptoms rather than causes dealing with things as separate issues that really are interconnected issues so you know we apply the same systems for looking at medicine in the body because they are complex systems [850](https://www.youtube.com/watch?v=BIKDNStlnL4&t=850.639s)
-
-optimization now why we started focusing on bringing forward solutions for future of well-being science which would include what we've called medicine in the past how to move from disease states to wellness states but also how to maintain and optimize and continuously evolve states of higher and [870](https://www.youtube.com/watch?v=BIKDNStlnL4&t=870.72s)
+is i mean we very much have an allopathic system of governance that is dealing with symptoms rather than causes dealing with things as separate issues that really are interconnected issues so you know we apply the same systems for looking at medicine in the body because they are [[complex system|complex systems]] optimization now why we started focusing on bringing forward solutions for future of well-being science which would include what we've called medicine in the past how to move from disease states to wellness states but also how to maintain and optimize and continuously evolve states of higher and [870](https://www.youtube.com/watch?v=BIKDNStlnL4&t=870.72s)
 
 higher well-being higher and higher system resilience and we're starting not in the medicine space but in the optimization space with neural hypercollective and specifically in the mind brain space how do we optimize the mind brain interface for optimally sovereign humans humans whose agency whose intelligence [888](https://www.youtube.com/watch?v=BIKDNStlnL4&t=888.0s)
 
@@ -96,9 +94,7 @@ whose sentience are all you know evolving and interconnectedly evolving the reas
 
 about violence you know at a crime level or violence at a war level or violence against nature at a biodiversity loss level or like all of those issues that we're trying to address are caused by human behavior and all of the solutions we want to bring about have to come from human behavior [923](https://www.youtube.com/watch?v=BIKDNStlnL4&t=923.36s)
 
-so then the question becomes what are all the things that influence human behavior and that can influence it in destructive or constructive directions and obviously economics influences human behavior if if you create an economic system where war is profitable or an economic system where a whale [941](https://www.youtube.com/watch?v=BIKDNStlnL4&t=941.04s)
-
-is worth a million dollars dead on a fishing boat but is worth nothing alive that economic system predisposes destructive behavior so you need to change economics to incentivize for any agent that which is also positive for all other agents in the commons that is a radically different system of macroeconomics so economics and [[social system|social systems]] as a whole influence behavior environment influences behavior our psychology and our definition of success and self-influence behavior so does our physiology and everyone who has ever felt shitty when they were sick or had a hangover or hormones or neurotransmitters were [980](https://www.youtube.com/watch?v=BIKDNStlnL4&t=980.32s)
+so then the question becomes what are all the things that influence human behavior and that can influence it in destructive or constructive directions and obviously economics influences human behavior if if you create an [[economic system]] where war is profitable or an [[economic system]] where a whale is worth a million dollars dead on a fishing boat but is worth nothing alive that [[economic system]] predisposes destructive behavior so you need to change economics to incentivize for any agent that which is also positive for all other agents in the commons that is a radically different system of macroeconomics so economics and [[social system|social systems]] as a whole influence behavior environment influences behavior our psychology and our definition of success and self-influence behavior so does our physiology and everyone who has ever felt shitty when they were sick or had a hangover or hormones or neurotransmitters were [980](https://www.youtube.com/watch?v=BIKDNStlnL4&t=980.32s)
 
 out of balance or just had a headache knows that there are certain states of consciousness that are just unaccessible when your physiology is off and other ones that are almost unavoidable that affect your experience and your behavior and the same is true when your system is more in tune and so realizing that [996](https://www.youtube.com/watch?v=BIKDNStlnL4&t=996.0s)
 
@@ -124,7 +120,7 @@ the system's own self-organization that is what makes the person better it's jus
 
 we can do that in pretty formal ways that are useful so we can come back to that okay the goal qualia specifically was it's the first product that we brought to the market as a kind of well-being enhancement support and specifically well-being enhancement in the direction of increasing quality [1216](https://www.youtube.com/watch?v=BIKDNStlnL4&t=1216.0s)
 
-of subjective experience and certain aspects of performance capability that are aligned with what people would traditionally think of associated with cognitive enhancement but take it a step up we think of what we call sovereignty enhancement we define sovereignty in a bigger way than i think most people are used to thinking of it [1234](https://www.youtube.com/watch?v=BIKDNStlnL4&t=1234.159s)
+of [[subjective experience]] and certain aspects of performance capability that are aligned with what people would traditionally think of associated with cognitive enhancement but take it a step up we think of what we call sovereignty enhancement we define sovereignty in a bigger way than i think most people are used to thinking of it [1234](https://www.youtube.com/watch?v=BIKDNStlnL4&t=1234.159s)
 
 we define sovereignty as the product of three orthonormal vectors x y z axis so one of them is intelligence one is sentience one is agency so intelligence is one's ability to process all kinds of information so critical thinking and systemic thinking and total body of knowledge and memory focus information [1258](https://www.youtube.com/watch?v=BIKDNStlnL4&t=1258.64s)
 
@@ -186,7 +182,7 @@ is that the neuroplasticity and the bdnf increases that you get with the holy ba
 
 goes to the brain and boosts bdnf which is the main purpose that we typically focus in on with the with the holy basil but i love this this whole approach that you have with looking at enhancing existing systems without supplanting the system and i think that's that's where [1845](https://www.youtube.com/watch?v=BIKDNStlnL4&t=1845.679s)
 
-a lot of medicine has gone awry is that in medicine we focus and even in in wellness in general i mean we focus on trying to supplant the body's a beautiful system the body is an amazingly complex system that for us to even have the concept that we can micromanage it is is just mind-blowing and [1865](https://www.youtube.com/watch?v=BIKDNStlnL4&t=1865.039s)
+a lot of medicine has gone awry is that in medicine we focus and even in in wellness in general i mean we focus on trying to supplant the body's a beautiful system the body is an amazingly [[complex system]] that for us to even have the concept that we can micromanage it is is just mind-blowing and [1865](https://www.youtube.com/watch?v=BIKDNStlnL4&t=1865.039s)
 
 so even with with like all these antioxidants that people take i mean come on we're we're producing uh what one times 10 to the 24th free radicals a day and you think that taking vitamin c and these high doses is going to make that big of a difference in that system is just ludicrous i mean you look at it and you say well it's not that the [1885](https://www.youtube.com/watch?v=BIKDNStlnL4&t=1885.12s)
 
@@ -206,7 +202,7 @@ you know trying different things uh the n equals one approach and i don't actual
 
 universe and so we would not throw out hedonism we would include and transcend it right and i think when you said eudemonia that's a good word for include and transcend that people's own experience their experiential tone being optimized is absolutely useful for then optimizing their capability and [2112](https://www.youtube.com/watch?v=BIKDNStlnL4&t=2112.64s)
 
-predisposition for serving meaningfully and vice versa without deep meaningful service their qualities of personal subjective experience that just don't happen and so i just i just wanted to mention that real quick the interview i did just uh just two weeks ago with steve cole who is a psychoneuroimmunologist at ucla [2135](https://www.youtube.com/watch?v=BIKDNStlnL4&t=2135.48s)
+predisposition for serving meaningfully and vice versa without deep meaningful service their qualities of personal [[subjective experience]] that just don't happen and so i just i just wanted to mention that real quick the interview i did just uh just two weeks ago with steve cole who is a psychoneuroimmunologist at ucla [2135](https://www.youtube.com/watch?v=BIKDNStlnL4&t=2135.48s)
 
 he did a study on hedonism versus eudemonic well-being and it blew me away they went into the study him and barbara friedrichson went into the study thinking you know they're going to see similar outcomes of positive physiological responses and they found that the on the psychological scales the hedonics [2158](https://www.youtube.com/watch?v=BIKDNStlnL4&t=2158.64s)
 
@@ -288,7 +284,7 @@ do lab work in your basement i mean that's how simple this technology is but it'
 
 time i mean you're going to be looking at computer ai bioinformatics systems you're going to be looking at that can compute much greater amounts of details than the human brain can process as a clinician so you're going to have them running the show for these things and and i think it's going to be an exciting [2985](https://www.youtube.com/watch?v=BIKDNStlnL4&t=2985.76s)
 
-time yeah so when we think about exponential technology and medicine so thing technology that enables more technology of its kind on exponential curves so we think of nanotechnology synthetic biology crispr genome editing ai et cetera one of the interesting things is of course you're getting so much more rate of change right so much more change per [3007](https://www.youtube.com/watch?v=BIKDNStlnL4&t=3007.119s)
+time yeah so when we think about exponential technology and medicine so thing technology that enables more technology of its kind on [[exponential curve|exponential curves]] so we think of nanotechnology synthetic biology crispr genome editing ai et cetera one of the interesting things is of course you're getting so much more rate of change right so much more change per [3007](https://www.youtube.com/watch?v=BIKDNStlnL4&t=3007.119s)
 
 unit time and continuously so that we can't have the same adaptive time periods we've had in the past and our intuitions from the past are less and less adequate at the same at the same time our chance of things up increases exponentially too because any increased power and we've seen this [3026](https://www.youtube.com/watch?v=BIKDNStlnL4&t=3026.319s)
 
@@ -298,7 +294,7 @@ to have positive and destructive applications and mostly destructive not intenti
 
 you know from the genome let's say we take apoe4 but then we're starting to get indication of the role of apoe4 and parasitic immune function and it doesn't automatically lead to alzheimer's it leads to increased predisposition if environmentally triggered in some way so i it's not that i'm not you know fascinated by crispr we we [3085](https://www.youtube.com/watch?v=BIKDNStlnL4&t=3085.04s)
 
-spend a lot of time with it but i think that it is critical that we come to understand complex systems dynamics much much better than we are even currently close to before we think we understand them well enough to edit the self-organizing code itself and so in as we are working towards that affecting genetic expression through epigenetic switches and through neutrogenomics is awesome and genome editing requires us increasing our level of understanding tremendously well and i think even when we get to the point of the genome editing you're still going to be having to deal with this whole biospherical system [3123](https://www.youtube.com/watch?v=BIKDNStlnL4&t=3123.839s)
+spend a lot of time with it but i think that it is critical that we come to understand [[complex system|complex systems]] dynamics much much better than we are even currently close to before we think we understand them well enough to edit the self-organizing code itself and so in as we are working towards that affecting genetic expression through epigenetic switches and through neutrogenomics is awesome and genome editing requires us increasing our level of understanding tremendously well and i think even when we get to the point of the genome editing you're still going to be having to deal with this whole biospherical system [3123](https://www.youtube.com/watch?v=BIKDNStlnL4&t=3123.839s)
 
 of the body interacting i mean you know it's the expression of 23 000 genes to make over a million proteins there's a lot going on between the code itself and the outcome and and i think that you know the epigenetics is not going to be going away we may get better at it but it's still going to be a [3144](https://www.youtube.com/watch?v=BIKDNStlnL4&t=3144.48s)
 
@@ -324,9 +320,9 @@ overarching behavior of the system means exercise posture sleep you know lifesty
 
 causes and we say all right well we want to be able to optimize human wellness we actually want to make sure we're addressing things at that level right the homeostatic resilience the whole system and also decreasing the tier 1 dynamics since so many of those are the interface with the environment where we have ubiquitous [3347](https://www.youtube.com/watch?v=BIKDNStlnL4&t=3347.119s)
 
-toxicity exposures whether we're talking about chlorine in the water to deficiency from not enough minerals in the water to not enough minerals or humic and fulvic acids or microbiome in the soil where the food is coming from to vocs in the paint inside we have modified our environment post-industrial revolution [3369](https://www.youtube.com/watch?v=BIKDNStlnL4&t=3369.44s)
+toxicity exposures whether we're talking about chlorine in the water to deficiency from not enough minerals in the water to not enough minerals or humic and fulvic acids or microbiome in the soil where the food is coming from to vocs in the paint inside we have modified our environment post-[[industrial revolution [3369](https://www.youtube.com/watch?v=BIKDNStlnL4&t=3369.44s)
 
-in a way that is not what our genetic code adapted to process that is a tier one cause of so much illness so in an environment that has a lot more nitric oxide in the air and more particulate emissions and higher co2 and you know etc and ubiquitous glyphosate and can [3386](https://www.youtube.com/watch?v=BIKDNStlnL4&t=3386.079s)
+]] in a way that is not what our genetic code adapted to process that is a tier one cause of so much illness so in an environment that has a lot more nitric oxide in the air and more particulate emissions and higher co2 and you know etc and ubiquitous glyphosate and can [3386](https://www.youtube.com/watch?v=BIKDNStlnL4&t=3386.079s)
 
 people be optimally healthy in that environment well no they can do things to support themselves to be healthier than they would be otherwise but this is where our health and the health of the environment that we're in an osmotic gradient relationship with is interlinked and this is where [3404](https://www.youtube.com/watch?v=BIKDNStlnL4&t=3404.4s)
 

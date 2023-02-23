@@ -20,7 +20,7 @@ radical eliminativism or it's an epiphenomena it's a you know secondary and they
 
 plasma and then particles and whatever it doesn't seem like there's anything we can call consciousness in there eventually planets at a certain point hydrological biological process protocells whatever it's very hard to think about consciousness before that so it seems like there was physical stuff before there was consciousness stuff so then [149](https://www.youtube.com/watch?v=-WQ7QbJGWRE&t=149.12s)
 
-consciousness must have emerged out of there and if people can describe their subjective experience well hooked up to an eeg or an fmri and we can look at their brain and we can see some type of statistical correlation between patterns of brain and their subjective experience then we can say there's a correlation between subjective and objective but we think that the [166](https://www.youtube.com/watch?v=-WQ7QbJGWRE&t=166.879s)
+consciousness must have emerged out of there and if people can describe their [[subjective experience]] well hooked up to an eeg or an fmri and we can look at their brain and we can see some type of statistical correlation between patterns of brain and their [[subjective experience]] then we can say there's a correlation between subjective and objective but we think that the [166](https://www.youtube.com/watch?v=-WQ7QbJGWRE&t=166.879s)
 
 objective is controlled by the objective i.e that physics is causally closed therefore your brain state this moment is the result of your brain state a moment ago and the particle physics that governs you know ion differentials of what's going to actually happen in the brain in relationship with the body and the environment so if [188](https://www.youtube.com/watch?v=-WQ7QbJGWRE&t=188.879s)
 

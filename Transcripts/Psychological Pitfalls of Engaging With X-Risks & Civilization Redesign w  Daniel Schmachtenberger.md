@@ -56,7 +56,7 @@ those are more established fields so that there is more kind of known in terms o
 
 we design a different future and both from the positive side of how do we participate in designing a better future but also from the negative side of it seems like there are really shitty futures that have high probability how do we prevent those and design a better future so insofar as people are paying attention to that and they're here rather than in [624](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=624.399s)
 
-some other forum because they're both interested in that and interested in their own personal development to be in better service to that and hopefully also relational development so that they can work together that's why it seemed relevant so with all that preface so if you just think about [646](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=646.64s)
+some other forum because they're both interested in that and interested in their own [[personal development]] to be in better service to that and hopefully also relational development so that they can work together that's why it seemed relevant so with all that preface so if you just think about [646](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=646.64s)
 
 what types of weird psychological dispositions that might be problematic could attract someone to the space of looking at [[existential risk]] and [[catastrophic risk]] in the first place you could probably just start to guess them if you haven't already even noticed them right uh so there's a bunch of things that have to do with fear [667](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=667.92s)
 
@@ -84,7 +84,7 @@ your cognitive abilities and your knowledge of the technological stack and your 
 
 just really don't think about catastrophes that much at all they're thinking about positive things um or if there's negative oh yeah i know [[climate change]] whatever it's a bummer but their mind doesn't keep gravitating their mind gravitates to what is near term or whatever there are some people whose mind gravitates to [927](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=927.68s)
 
-real negative things and gravitates to it so much they can't not try to think about it and figure it out and then if my mind gravitates towards those things so much that i don't just think about [[climate change]] or species extinction or nuclear risk but all of them and try to think about x-risk as a whole category [945](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=945.68s)
+real negative things and gravitates to it so much they can't not try to think about it and figure it out and then if my mind gravitates towards those things so much that i don't just think about [[climate change]] or [[species extinction]] or nuclear risk but all of them and try to think about x-risk as a whole category [945](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=945.68s)
 
 there might be a disposition to focusing on the catastrophic that is worth looking at in cbt cognitive behavioral therapy one of the main uh dispositions that messes people up psychologically that they tell you to look at is what's called catastrophizing right and in your own personal relationship he [966](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=966.399s)
 
@@ -188,9 +188,7 @@ observing is the combination of observation and narrative um the evaluation or n
 
 which is really hard so you can take that and then be able to say okay because four different people might be in a very similar circumstance and have very different emotional results one of them gets angry one of them gets sad one feels scared one feels ashamed one feels excited one feels proud based on the [2206](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=2206.96s)
 
-meaning making so the exploration of human meaning making narratizing events and then our emotions responding to the meaning making is huge uh it's like probably the area the the biggest lift you can get of any area to work on first has to do with noticing the patterns of meaning making [2226](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=2226.64s)
-
-and shifting them realizing that you actually have a genetic process over it i think byron katie's work is the work that kind of made that simplest pragmatically for people so wherever you're feeling stressed about something you're having mistrust in relationships with people you're [2244](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=2244.64s)
+[[meaning making]] so the exploration of human [[meaning making]] narratizing events and then our emotions responding to the [[meaning making]] is huge uh it's like probably the area the the biggest lift you can get of any area to work on first has to do with noticing the patterns of [[meaning making]] and shifting them realizing that you actually have a genetic process over it i think byron katie's work is the work that kind of made that simplest pragmatically for people so wherever you're feeling stressed about something you're having mistrust in relationships with people you're [2244](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=2244.64s)
 
 feeling overly pessimistic you're feeling overly concerned about all the things that exist in the unknown then you can just look at what are the core beliefs underneath that because the stress i'm having with this person feels a lot like a hundred situations i've had in the past like this right this concern about the unknown now [2262](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=2262.72s)
 
@@ -252,7 +250,7 @@ relationship between how i am seeking more certainty how that's actually feeding
 
 between the two why aren't they uh finding synthesis what is that how do i navigate that so there's a lot of beauty here i also see there's a lot of really good stuff in the chat so i'll learn to uh i'm 29. okay so i was still in what felt like flip-flopping between those things at 29 [2921](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=2921.52s)
 
-and it was somewhere in the 30s that it felt like they braided and the flip-flop for me was um like three things there was the personal development part which both looked like monastic impulses and monastic ventures at different times but also a lot of psychological work and though that was my primary focus at [2942](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=2942.88s)
+and it was somewhere in the 30s that it felt like they braided and the flip-flop for me was um like three things there was the [[personal development]] part which both looked like monastic impulses and monastic ventures at different times but also a lot of psychological work and though that was my primary focus at [2942](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=2942.88s)
 
 certain times there was the study of how do i understand what's going on in the world and that was science philosophy economics whatever to know how to work on it and then there was  i actually have to help stuff now there's really critical going on and so there was an activist impulse and the activist impulse was also critical [2961](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=2961.2s)
 
@@ -276,7 +274,7 @@ um there's something about the nonlinear ways of knowing that you know whether i
 
 master in his emissary and talk about the work he's done in deeper understanding of right hemisphere left hemisphere the functions they have the relationship between them uh it's directly related and and probably the best work on the topic i'm aware of can i just daniel let me just say it's so funny because i just wrote down right [3192](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=3192.24s)
 
-brain um reggie rey he talks about the somatic eye and he's calling the semitic eye is a combination of the heart the nervous system and right brain and i've read that book um but amazing your intuition was spot on right there i we could easily do um a holster a conversation around what is intuition how does one develop it what is its relationship with rationality is there a distinction between in intuition and instinct where can they be trusted where can they not like there's a whole lot here and i guess what i'll say briefly is that i [3243](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=3243.68s)
+brain um reggie rey he talks about the somatic eye and he's calling the semitic eye is a combination of the heart the [[nervous system]] and right brain and i've read that book um but amazing your intuition was spot on right there i we could easily do um a holster a conversation around what is intuition how does one develop it what is its relationship with rationality is there a distinction between in intuition and instinct where can they be trusted where can they not like there's a whole lot here and i guess what i'll say briefly is that i [3243](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=3243.68s)
 
 think of intuition mostly i'm not going to say 100 i think of it mostly as a epistemic capacity that can be developed um in the same way that i think of rationality as an epistemic capacity that can be developed and everyone does rationality but they don't all do it [3270](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=3270.24s)
 
@@ -390,7 +388,7 @@ that is their overwhelm their existential angst their devastation their fear of 
 
 practices that are really helpful i think things like death work where people actually create peace around the topic of death is pretty upstream from a lot of it actually peter i have a friend named anne-marie keppel who i think should come on and talk about that who does exceptionally good [4474](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=4474.8s)
 
-work in that space um i think getting something like byron katie's the work and there's a couple refinements on it that you can make i would be happy to suggest the refinements uh and being able to have a tool like that that becomes kind of a community well-known practice on how to be able to separate what's objectively happening from the meaning-making that's affecting how we're holding it and do a better job working with our own meaning making i think i think you guys had alania forsberg on she she developed a process she refined a process from the psychodrama tradition that she calls the golden bowl [4518](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=4518.4s)
+work in that space um i think getting something like byron katie's the work and there's a couple refinements on it that you can make i would be happy to suggest the refinements uh and being able to have a tool like that that becomes kind of a community well-known practice on how to be able to separate what's objectively happening from the meaning-making that's affecting how we're holding it and do a better job working with our own [[meaning making]] i think i think you guys had alania forsberg on she she developed a process she refined a process from the psychodrama tradition that she calls the golden bowl [4518](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=4518.4s)
 
 um that is maybe the most sophisticated nuanced process i've ever seen for giving people feedback about their blind spots in small groups in a way that they can actually really hear it's given in a way that is both very direct and also very loving and uh yeah i just think it's a really beautiful process [4541](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=4541.04s)
 
@@ -418,7 +416,7 @@ specifically the method that her husband developed is kind of like a more sophis
 
 belief but how do we raise them to have awareness and agency in their own belief formation process uh those would both be good interesting ones and given what you're doing jeff probably good friends to have um i i do think there's something about developmental appropriateness of what is someone exposed to relative to the capacities and agency that their [4797](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=4797.84s)
 
-nervous system has at the time um uh a little kid who if their parents weren't there wouldn't survive they would definitely die without their parents is not actually an autonomous being yet right it's not a agentic being it's a dependent thing and so exposing them to big issues in the world when they can't even take care [4818](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=4818.719s)
+[[nervous system]] has at the time um uh a little kid who if their parents weren't there wouldn't survive they would definitely die without their parents is not actually an autonomous being yet right it's not a agentic being it's a dependent thing and so exposing them to big issues in the world when they can't even take care [4818](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=4818.719s)
 
 of themselves probably just creates a kid that is mostly terrified and hyper vigilant forever rather than uh prepares them properly at the same time having them be in a complete bubble and then see the world where they have such a stark break is a challenging thing so there's a titration [4841](https://www.youtube.com/watch?v=SkItTnRJ_1M&t=4841.44s)
 

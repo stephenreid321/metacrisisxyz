@@ -56,7 +56,7 @@ being able to develop tech faster than the environment
 can become resilient to the way we use that tech, right? [174](https://www.youtube.com/watch?v=_7aIgHoydP8&t=174.202s)
 
 predators increase, there's
-a co-evolutionary process where predators increase
+a co-[[evolutionary process]] where predators increase
 their predatory capacity through mutation at the same rate that the prey is increasing its capacity to avoid the predators. the slower ones get eaten. the faster ones inbreed,
 that kind of thing. we were able to increase
 our predatory capacity way faster than any animal was able to increase their resilience to it. [190](https://www.youtube.com/watch?v=_7aIgHoydP8&t=190.601s)
@@ -98,10 +98,10 @@ abstract principle of sharpness, and can make a sharper thing, [270](https://www
 which is understanding what
 all these have in common, but it's actually not any of them. and then, so that process
 of what humans were doing that was different started with the beginning of stone tools. obviously, it took a major jump with the agricultural revolution, took a major jump with
-the industrial revolution, nuclear, and then obviously with digital. so we find ourselves in
+the [[industrial revolution]], nuclear, and then obviously with digital. so we find ourselves in
 the verticalizing part [288](https://www.youtube.com/watch?v=_7aIgHoydP8&t=288.8s)
 
-of a long exponential curve of power, and you can say now the power of gods, and yet, not necessarily
+of a long [[exponential curve]] of power, and you can say now the power of gods, and yet, not necessarily
 a corresponding degree of increase in wisdom for
 how to use that power, and all of the existential
 threats are because of that, because obviously stone
@@ -124,19 +124,15 @@ and over tens of thousands of years of homo sapiens evolution, it's now reaching
 maybe longer, right, it's now reaching a phase
 of [[exponential growth]], because the technology itself is allowing a recursive improvement
 in the technology, right? - daniel and so, you know, you were starting to talk about addiction, and kind of the hacking
-of dopamine circuits and reward circuits. [379](https://www.youtube.com/watch?v=_7aIgHoydP8&t=379.344s)
-
-and one way to think about
+of dopamine circuits and [[reward circuit|reward circuits]]. and one way to think about
 that is that homo sapiens are at least a few hundred thousand years old, and obviously, the hominid
-precursors to that are at least a few million years, and all of that genetic evolution was fit for hunter-gatherer environments, right? like we were evolving reward circuits that were relevant for
+precursors to that are at least a few million years, and all of that genetic evolution was fit for hunter-gatherer environments, right? like we were evolving [[reward circuit|reward circuits]] that were relevant for
 hunter-gatherer environments. - zubin like what, like sweet taste, or- - daniel yeah, so if we
-take the reward circuits [403](https://www.youtube.com/watch?v=_7aIgHoydP8&t=403.37s)
-
-on food, specifically,
+take the [[reward circuit|reward circuits]] on food, specifically,
 fat, salt, and sugar create stronger dopaminergic process
 than green cellulosic stuff, and whatever else, right? - zubin and dopamine's
 our reward chemical to make it very simple. - daniel feels good, do it again. dopamine-opioid axis, right? - zubin yeah.
-- daniel so in an evolutionary environment, you didn't have a lot of
+- daniel so in an [[evolutionary environment]], you didn't have a lot of
 salt, fat, or sugar, right? [425](https://www.youtube.com/watch?v=_7aIgHoydP8&t=425.267s)
 
 the sugar that you had was
@@ -149,7 +145,7 @@ of making it through a famine, [443](https://www.youtube.com/watch?v=_7aIgHoydP8
 and possibly being able
 to feed more people. the same was true with fats, and the same was true with
 when you'd find a salt source. and so, there was evolutionary
-selective advantage on getting all of those you could. so those who had more reward circuit on those actually did better. once we figured out how
+selective advantage on getting all of those you could. so those who had more [[reward circuit]] on those actually did better. once we figured out how
 to make all the salt, fat, sugar you want, and be
 able to combine them in the ways that maximized
 addiction, right, [463](https://www.youtube.com/watch?v=_7aIgHoydP8&t=463.753s)
@@ -161,7 +157,7 @@ kind of addictive process separated from all the micronutrients. you actually to
 was attached to a real thing. now, you have, of course, overweight and obesity being one of the
 main causes of health issues, [487](https://www.youtube.com/watch?v=_7aIgHoydP8&t=487.994s)
 
-and yet the reward circuit hasn't changed. and so, you were able to extract the active ingredient from the thing that it was bound to
+and yet the [[reward circuit]] hasn't changed. and so, you were able to extract the active ingredient from the thing that it was bound to
 that was actually useful. and the same is true with porn to sex. the same is true with social
 media to tribal friendships. the same is true with
 productivity to meaning, right? there's a whole bunch of places, where the sexual impulse historically would have been attached [510](https://www.youtube.com/watch?v=_7aIgHoydP8&t=510.494s)
@@ -177,7 +173,7 @@ but you have lots of positive
 feedback of certain types, which, of course, then is
 gonna give you the equivalent of overweight psychologically, which is like narcissism and emptiness. - zubin ooh.
 - daniel so you can see that society has been oriented
-to hijack reward circuits, be able to extract the active ingredient, double down on that separate from the actual evolutionary
+to hijack [[reward circuit|reward circuits]], be able to extract the active ingredient, double down on that separate from the actual evolutionary
 beneficial thing that it was originally for. [552](https://www.youtube.com/watch?v=_7aIgHoydP8&t=552.673s)
 
 and that's one of the things is we're not genetically
@@ -224,7 +220,7 @@ at dawn" talks about, [673](https://www.youtube.com/watch?v=_7aIgHoydP8&t=673.97
 
 the mosuo, or the canela
 people, or whatever, the modern interpretation of them, oftentimes, the people
-who are proponents for it are failing to recognize that they had a completely different [[social system]] that made that adaptive that also included a different economic system, right? so you have multi-male,
+who are proponents for it are failing to recognize that they had a completely different [[social system]] that made that adaptive that also included a different [[economic system]], right? so you have multi-male,
 multi-female mating, but the whole tribe raised all the kids. - zubin uh-huh.
 - daniel the woman wasn't [695](https://www.youtube.com/watch?v=_7aIgHoydP8&t=695.621s)
 
@@ -326,7 +322,7 @@ but her evolutionary
 biology hasn't changed. again, just like i can't eat
 all of the chocolate cake that i want and not get fat
 just cause i want to, right? the biology is the way that it is- - zubin the biology's still there- - daniel i don't get to just
-separate the reward circuit. - zubin right.
+separate the [[reward circuit]]. - zubin right.
 - daniel and so, then the idea that after that there was more of an evolutionary niche where assholes could get
 well-laid as a result of that, [985](https://www.youtube.com/watch?v=_7aIgHoydP8&t=985.63s)
 
@@ -438,16 +434,16 @@ possibility of it leads to the intention to some degree. [1340](https://www.yout
 - daniel okay, you
 just mentioned something that i think is real interesting, and we'll go back to
 where we were earlier, which is you said you get
-a bit of a dopamine hit from understanding the view of someone that you hadn't previously understood, where kind of the world opens up, something makes more sense. there's like a reward circuit on increased clarity, or insight. [1358](https://www.youtube.com/watch?v=_7aIgHoydP8&t=1358.239s)
+a bit of a dopamine hit from understanding the view of someone that you hadn't previously understood, where kind of the world opens up, something makes more sense. there's like a [[reward circuit]] on increased clarity, or insight. [1358](https://www.youtube.com/watch?v=_7aIgHoydP8&t=1358.239s)
 
-the thing i would bring up here is that not all reward circuits
-are equally healthy, right? there are hijacked reward circuits that are mostly entropic, and then there are reward circuits that are mostly healthier, syntropic. - zubin so entropic
+the thing i would bring up here is that not all [[reward circuit|reward circuits]]
+are equally healthy, right? there are hijacked [[reward circuit|reward circuits]] that are mostly entropic, and then there are [[reward circuit|reward circuits]] that are mostly healthier, syntropic. - zubin so entropic
 meaning leading to disorder- - daniel mostly degrade the system. - zubin degrade the system. - daniel and so, basically,
 everything in the direction [1376](https://www.youtube.com/watch?v=_7aIgHoydP8&t=1376.874s)
 
 of addiction is kind of
-entropic reward circuit, or a kind of downgrading reward circuit, and almost all of the
-upgrading reward circuits don't provide a easy spike of reward. they require some work,
+entropic [[reward circuit]], or a kind of downgrading [[reward circuit]], and almost all of the
+upgrading [[reward circuit|reward circuits]] don't provide a easy spike of reward. they require some work,
 and then reward occurs, and this is the one marshmallow,
 two marshmallow thing. - zubin mmm-hmm, explain that for folks. - daniel very, very,
 very famous, classic, many times repeated study. there's a lot of interesting
@@ -473,7 +469,7 @@ an assessment of capacity for long-term orientation.
 - zubin hmm. - daniel and intentionality. [1467](https://www.youtube.com/watch?v=_7aIgHoydP8&t=1467.088s)
 
 and so, there are two different
-reward circuits, right? there's two different relationships to the nature of that reward circuit. and so, as you were mentioning, you can hear a point of
+[[reward circuit|reward circuits]], right? there's two different relationships to the nature of that [[reward circuit]]. and so, as you were mentioning, you can hear a point of
 view that you disagree with, where at first, you might
 actually feel more uncomfortable. - zubin yeah.
 - daniel you might actually be squirming in your seat, like, "fuck, maybe i'm
@@ -481,7 +477,7 @@ wrong about everything." - zubin which is the worst
 feeling (laughs), right? [1486](https://www.youtube.com/watch?v=_7aIgHoydP8&t=1486.611s)
 
 - daniel and then you're like, "oh, wow, "i learned something,"
-and it's very much like the reward circuit of exercising. like at first, exercise
+and it's very much like the [[reward circuit]] of exercising. like at first, exercise
 doesn't give you the hit that just eating the chocolate
 cake in the moment does. i get an instant hit of increased pleasure from the chocolate cake-
 - zubin yeah. - daniel whereas with working out, like i'm sweating, and it's painful, and my muscles hurt, and whatever, [1505](https://www.youtube.com/watch?v=_7aIgHoydP8&t=1505.283s)
@@ -491,7 +487,7 @@ good i feel in my body as i keep doing that over time goes up. as i keep eating 
 chocolate cake regularly, my baseline goes down as i'm
 getting more inflammation, and obesity, and those
 types of things, right? so the chocolate cake
-reward circuit gives me an immediate spike and then a drop, and then the drop says now
+[[reward circuit]] gives me an immediate spike and then a drop, and then the drop says now
 that i'm low blood sugar, 'cause the insulin overcompensated, now i'm craving more sugar. [1524](https://www.youtube.com/watch?v=_7aIgHoydP8&t=1524.871s)
 
 as that keeps going, my baseline erodes. - zubin it's a downward
@@ -501,7 +497,7 @@ what you just said is when you listen to the point of view you disagree with lon
 that you understand it, you get a reward on the other side, but the reward actually
 increased the complexity and the accuracy of your thinking. [1542](https://www.youtube.com/watch?v=_7aIgHoydP8&t=1542.469s)
 
-there's a reward circuit
+there's a [[reward circuit]]
 on the chocolate cake side of this one, which is the reward
 circuit on quick certainty. - zubin being right.
 - daniel yeah. certainty and sanctimony, and obviously, this is what
@@ -537,7 +533,7 @@ everything for model purpose and speed purpose. obviously, it's not just dopamin
 adrenaline, and cortisol, but it is also gonna create a certain kind [1651](https://www.youtube.com/watch?v=_7aIgHoydP8&t=1651.354s)
 
 of motivational process. and so, when we say
-dopamine reward circuit, we're really simplifying some kind of quick motivational neurochemistry. - zubin 1,000%, and
+dopamine [[reward circuit]], we're really simplifying some kind of quick motivational neurochemistry. - zubin 1,000%, and
 even the neurochemistry, there's even epiphenomenon
 around neurochemicals, and glial cells, and all of that, yeah. so we're making, yeah, again,
 all the models are models. - daniel useful to start
@@ -569,7 +565,7 @@ yourself to more variance of temperature, the
 body actually regulates. it has an impetus to
 regulate its own temperature, which means more kind of
 metabolic flexibility. but hormesis in general, like the two-marshmallow
-reward circuits are usually more hormetic, right? [1748](https://www.youtube.com/watch?v=_7aIgHoydP8&t=1748.147s)
+[[reward circuit|reward circuits]] are usually more hormetic, right? [1748](https://www.youtube.com/watch?v=_7aIgHoydP8&t=1748.147s)
 
 they usually involve stressing
 your current capacity, and then you get a reward on new capacity. but obviously, the
@@ -594,14 +590,14 @@ through a discomfort, not to the point of failure,
 where we've injured the system, but to the point where the system goes, "wait, humans are anti-fragile," which we'll probably talk
 about, where that kind of stress actually does create that hormetic effect, where the system then responds
 by getting more capacity. - daniel and then there's
-a reward circuit on that that is fundamentally a
+a [[reward circuit]] on that that is fundamentally a
 healthier, more aligned one, [1833](https://www.youtube.com/watch?v=_7aIgHoydP8&t=1833.924s)
 
 both healthier for the being,
 and healthier for the way that being can relate with the world. - zubin exactly, so it's
 actually a virtuous reward system as opposed to the addictive reward system. so how then, now we have
 this human mind that's, you know, paleolithic, and
-it's now put in a world where we have a different technology that is relying on reward circuits that maybe are not as
+it's now put in a world where we have a different technology that is relying on [[reward circuit|reward circuits]] that maybe are not as
 virtuous as we would like. is that where we are now
 in this conversation? [1859](https://www.youtube.com/watch?v=_7aIgHoydP8&t=1859.063s)
 
@@ -615,7 +611,7 @@ friedman capitalism are not the same kinds of structures, so with and without a 
 of it are inadequate [1906](https://www.youtube.com/watch?v=_7aIgHoydP8&t=1906.124s)
 
 for a long-term viable system, but so are all versions
-of communism, socialism, and other economic systems
+of communism, socialism, and other [[economic system|economic systems]]
 as we've proposed them, so- - zubin perfect.
 - daniel there's a lot to learn from all of them. there's a lot about theory
 of markets that's important, but the long-term system, like what isn't, what do
@@ -624,7 +620,7 @@ for making it through all of the catastrophic
 risks the world faces? [1927](https://www.youtube.com/watch?v=_7aIgHoydP8&t=1927.911s)
 
 and if it's not obvious, briefly, what the [[catastrophic risk|catastrophic risks]] are, you have all the environmental risks that are the result of
-the cumulative effects of industrialization and globalization. and so, dead zones in oceans, overfishing, biodiversity law, species
+the cumulative effects of industrialization and globalization. and so, [[dead zone|dead zones]] in oceans, overfishing, biodiversity law, species
 extinction, topsoil erosion, [[climate change]], blah, blah,
 blah, all of those things, peak nitrogen, phosphorous, whatever, all of those are the result of being able [1951](https://www.youtube.com/watch?v=_7aIgHoydP8&t=1951.079s)
 
@@ -650,7 +646,7 @@ go out and fish the oceans, another country will, if i, like sort of tragedy of 
 and knock the top of that mountain off, and pollute the rivers, and so on. and it's all in the service of the particular economic model, that is, you're trying
 to generate revenue, and those things are rewarded
 in the current system. - daniel yeah, and you know,
-the economic system creates a discount rate on future value, one, 'cause you can't predict it fully, but two, the current value gives me [2039](https://www.youtube.com/watch?v=_7aIgHoydP8&t=2039.941s)
+the [[economic system]] creates a discount rate on future value, one, 'cause you can't predict it fully, but two, the current value gives me [2039](https://www.youtube.com/watch?v=_7aIgHoydP8&t=2039.941s)
 
 the ability to invest that capital, and make compounding interest, or other kinds of financial
 services investments with it. it also gives me increased optionality in a changing environment. and so, not knowing what
@@ -746,7 +742,7 @@ develop natural resilience to whatever that thing does. [2356](https://www.youtu
 it can really fuck up an environment. but what about if you
 release an invasive species that is more different
 than anything else was, 'cause it didn't even arise
-through evolutionary process? - zubin yeah. - daniel well, it might just die off, 'cause it's not that hardy, but if it has faster feedback loops, that could be destructive
+through [[evolutionary process]]? - zubin yeah. - daniel well, it might just die off, 'cause it's not that hardy, but if it has faster feedback loops, that could be destructive
 to everything very quickly. so biotech the soonest, but then nanotech [2373](https://www.youtube.com/watch?v=_7aIgHoydP8&t=2373.879s)
 
 and ai all have these kind of
@@ -944,7 +940,7 @@ they were coming from first. - zubin right, which is important, yeah. - daniel a
 like democracy requires this process. democracy, like modern
 democracies, the us, and other kind of modern
 european democracies, emerged out out of kind
-of european enlightenment, cultural enlightenment, and
+of european enlightenment, [[cultural enlightenment]], and
 this is why the founders in the us said, "this system only works "with a comprehensively
 educated citizenry." and george washington said, "it's the primary aim of the
 federal government to ensure "the comprehensive education
@@ -963,7 +959,7 @@ it won't be a democracy, 'cause democracy's very fragile, and requires that kind
 that everyone can make sense of third-person reality together, [3040](https://www.youtube.com/watch?v=_7aIgHoydP8&t=3040.597s)
 
 apply the philosophy of science, and kind of natural philosophy, but that they can make sense
-of each other's positions and value systems well, which
+of each other's positions and [[value system|value systems]] well, which
 is the good faith discourse, the empathy, the hegelian dialectic. can i really argue your position well? without that, democracy has no chance. and so, when people have
 made their fellow countrymen the primary enemy, they are
 actually, in the short-term, they think they're trying
@@ -1366,7 +1362,7 @@ personalize the world to me. - zubin right, but there's a challenge. [4345](http
 
 in other words, the ux
 on the [[social media]] app, you can personalize your
-world with a couple clicks. - daniel way easier. but so much to say tribal dynamic that was an evolutionary process was nature is not modifying itself, what eric weinstein calls
+world with a couple clicks. - daniel way easier. but so much to say tribal dynamic that was an [[evolutionary process]] was nature is not modifying itself, what eric weinstein calls
 contact with the unforgiving. it's not modifying itself to you at all. the rose is gonna fuckin'
 prick you if you touch it. so you have to modify yourself
 to work with the environment, [4366](https://www.youtube.com/watch?v=_7aIgHoydP8&t=4366.01s)
@@ -1382,7 +1378,7 @@ like those are really, so again, you take that humans are mold, [4391](https://w
 
 like all animals are molded
 by their environment. humans change their environment, so we're more moldable to be able to become fit to new environments. we're making environments that
-are more radically different than our evolutionary environments. then we are becoming
+are more radically different than our [[evolutionary environment|evolutionary environments]]. then we are becoming
 the psychological result of those things, and then are those the kinds of people we wanna be?
 - zubin okay. [4409](https://www.youtube.com/watch?v=_7aIgHoydP8&t=4409.11s)
 
@@ -1416,7 +1412,7 @@ between the ideal level and dying of scurvy. i would call that subclinical defic
 - daniel even though it's within the healthy range, meaning not yet the formal disease. and so, i would say there is [4506](https://www.youtube.com/watch?v=_7aIgHoydP8&t=4506.835s)
 
 a subclinical nutrient deficiency that's pretty ubiquitous
-across lots of things. there's an acute level of poisoning of a particular kind of petrol toxin, or heavy metal, or whatever, but then there's any level above the evolutionary environment's
+across lots of things. there's an acute level of poisoning of a particular kind of petrol toxin, or heavy metal, or whatever, but then there's any level above the [[evolutionary environment]]'s
 non-exposure to it that is causing some
 stress on the physiology that i would call subclinical toxicity. so the volatile organic compounds
 coming out of the paint, [4528](https://www.youtube.com/watch?v=_7aIgHoydP8&t=4528.59s)
@@ -1572,7 +1568,7 @@ hear multiple perspectives, hold them all in working memory, and try i to find a
 of their goals, right? like if i really wanna be able to do [[collective intelligence]]
 well, it requires that, which is why, you know,
 marshall mcluhan showed that not only did the
-printing press occur as, and the written word being
+[[printing press]] occur as, and the written word being
 accessible to everybody, everybody could get a newspaper, [5019](https://www.youtube.com/watch?v=_7aIgHoydP8&t=5019.076s)
 
 so you didn't need a
@@ -1629,7 +1625,7 @@ and logical process that they can process information well, and the newspaper me
 they're continuously informed. the idea that we can all get
 base facts on a situation in common, then we can
 disagree what to do with them, or how to interpret them, but we have some shared
-base reality to agree on was obviously requisite for
+[[base reality]] to agree on was obviously requisite for
 something like democratic process [5210](https://www.youtube.com/watch?v=_7aIgHoydP8&t=5210.443s)
 
 that we've thought about it. so you can think about the engagement-based personalized newsfeed as not just breaking the [[fourth estate]], but being an anti-[[fourth estate]]. it's really doing the
@@ -1758,7 +1754,7 @@ that decreases the capacity of governance, will make that governmental system lo
 have those problems going on that doesn't have all of its
 energy going to infighting, that doesn't have gridlock in its decision-making process, and- - zubin has a longer term outlook, too. - daniel it has a longer term outlook, because you don't think that in four years everything you did will get undone. [5672](https://www.youtube.com/watch?v=_7aIgHoydP8&t=5672.249s)
 
-- zubin yeah. - daniel and so, in the same way that the printing press
+- zubin yeah. - daniel and so, in the same way that the [[printing press]]
 kind of ended feudalism and started to make
 modern democracy possible, this tech is kind of ending
 democracy as we know it, and orienting towards authoritarianism, unless we start to redesign it in a fundamentally different way. - zubin okay. anybody who hears that, [5693](https://www.youtube.com/watch?v=_7aIgHoydP8&t=5693.437s)
@@ -1845,12 +1841,12 @@ we're obviously not adapted to, and that are designed for are
 mostly extractive purposes regarding you, rather than developing you in positive kind of ways. so if you think about the like, okay, okay, the first part is
 to say tech is affecting [6028](https://www.youtube.com/watch?v=_7aIgHoydP8&t=6028.402s)
 
-our value systems and our experience of what it means to be people
+our [[value system|value systems]] and our experience of what it means to be people
 individually and collectively. tech is not values agnostic. that's the first kind of construction, and i'll come back to this other part. tech is not values agnostic. if you read marvin harris,
 "cultural materialism," it's a, you know, a very empirical school of cultural anthropology
 that basically says the changes in our [[social system|social systems]], and even the changes in
 our religion, and culture, were usually proceeded by changes in tech that coded for certain
-patterns of behavior that coded for certain value systems that were associated, so- - zubin the plow, for example, yeah- - daniel you wanna give that one? - zubin so you know, people used to, this is a fascinating one,
+patterns of behavior that coded for certain [[value system|value systems]] that were associated, so- - zubin the plow, for example, yeah- - daniel you wanna give that one? - zubin so you know, people used to, this is a fascinating one,
 and god, this, you know, this is central to our
 experience as humans, [6068](https://www.youtube.com/watch?v=_7aIgHoydP8&t=6068.417s)
 
@@ -1912,11 +1908,11 @@ web of life," and everything. but i can't take the bison, [6248](https://www.you
 
 and hybridize it into an ox, yoke it, cut its balls off, and beat it all day long to pull the plow, and still believe in the
 spirit of the buffalo, right? and so, to use a plow require, like the plow codes a pattern of behavior, which is beating an ox all day long, and that requires a
-change of value system. and yet, the tribe that doesn't do that is just going to lose, because they have [6274](https://www.youtube.com/watch?v=_7aIgHoydP8&t=6274.654s)
+change of [[value system]]. and yet, the tribe that doesn't do that is just going to lose, because they have [6274](https://www.youtube.com/watch?v=_7aIgHoydP8&t=6274.654s)
 
 so much less caloric surplus and whatever than the
 tribe that does that. so this is an example
-of how the tools change the value systems. there are other examples where you can make value system changes independent of tools
+of how the tools change the [[value system|value systems]]. there are other examples where you can make [[value system]] changes independent of tools
 that will in turn change how we use the tools, like the sabbath was kind
 of a social technology for how do we not use the
 tools for some period of time, [6291](https://www.youtube.com/watch?v=_7aIgHoydP8&t=6291.545s)
@@ -2195,14 +2191,14 @@ and it's not like you- - zubin 'cause we've
 lost it to some degree. - daniel totally. it's necessary, but it's not sufficient if
 we were to still be making [7248](https://www.youtube.com/watch?v=_7aIgHoydP8&t=7248.644s)
 
-physical tech that is also
+[[physical tech]] that is also
 conditioning human psyche and values and conferring power
 that was doing the opposite, but with [[exponential tech]] influence scale- - zubin push and pull. - daniel so we have to be designing the tech differently on the physical side, designing the incentive systems and the deterrent systems differently, and working at the purely psychospiritual, cognitive culture level. [7276](https://www.youtube.com/watch?v=_7aIgHoydP8&t=7276.123s)
 
 and so, if you think about
 the way marvin harris talked about society, or any
 civilization being a function of three interacting things, you have an infrastructure,
-a [[social structure]], and a [[superstructure]]. the infrastructure is the physical tech that mediates our physical needs and relationship with the physical world, so water, food,
+a [[social structure]], and a [[superstructure]]. the infrastructure is the [[physical tech]] that mediates our physical needs and relationship with the physical world, so water, food,
 transportation, production, waste management, all that kind of stuff, [7299](https://www.youtube.com/watch?v=_7aIgHoydP8&t=7299.58s)
 
 and obviously, all of the technosphere. the [[social system]] is basically the collective agreement field, so government, law, economics. the [[superstructure]] is kind like culture. it's like what is the good life that we're ordinating towards? what is the existential
@@ -2537,7 +2533,7 @@ to patent endogenous molecules, and increasing the things
 that were there in youth anywhere near as easily, so
 it's synthetic molecules. what's the chance that a deficiency in the synthetic molecule
 was the causal reason that you got ill, that was not a part of your
-evolutionary environment, or healthy people? - zubin you don't have
+[[evolutionary environment]], or healthy people? - zubin you don't have
 a sertraline deficiency? [8461](https://www.youtube.com/watch?v=_7aIgHoydP8&t=8461.78s)
 
 (daniel laughs)
@@ -2646,7 +2642,7 @@ system that does that? - zubin yeah, how do you do that? [8749](https://www.yout
 
 - daniel well, in the face of the increasing technological
 automation of so many jobs, and yet the increasing wealth that is produced by those things, can you start to create new
-types of economic systems, and economic rewards to have
+types of [[economic system|economic systems]], and economic rewards to have
 a higher percentage of people doing these types of
 very, very high-touch, high-complexity things, and
 getting more rewarded to do so? - zubin yeah, intuitive,

@@ -44,7 +44,7 @@ have invented things writers so many people use this language of yes something c
 
 um thought about and explored and investigated a good bit so i have some thoughts to share with you on it and uh i'm not sure that my conclusions are right but they are my best but they're the best you've downloaded so far right um we'll get there leonard cohen's a great example [437](https://www.youtube.com/watch?v=0dYoSctj3C8&t=437.36s)
 
-because did he experience what felt like it came through to him yes did it feel other than the self that he normally identifies with yes but it came through the person the nervous system the vehicle that spent its whole life making and attuning itself to music and it does not similarly come through people who have not spent their whole [465](https://www.youtube.com/watch?v=0dYoSctj3C8&t=465.12s)
+because did he experience what felt like it came through to him yes did it feel other than the self that he normally identifies with yes but it came through the person the [[nervous system]] the vehicle that spent its whole life making and attuning itself to music and it does not similarly come through people who have not spent their whole [465](https://www.youtube.com/watch?v=0dYoSctj3C8&t=465.12s)
 
 life obtaining themselves to music and specifically it's different than what came through mozart who spent his life attending himself to a different kind of genre of music right and which is also different than what comes through einstein who spends himself his life attuning himself to mathematics [482](https://www.youtube.com/watch?v=0dYoSctj3C8&t=482.639s)
 
