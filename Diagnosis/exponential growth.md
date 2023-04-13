@@ -10,5 +10,5 @@ Exponential growth occurs when a population of something, such as a species or a
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 1)]] (7)
-> * [[Daniel Schmachtenberger: Bend not Break: Maximum Power & Hyper Agents – The Great Simplification 20]] (5)
 > * [[SURVIVING the God-Like Technology That Can Kill Us All – Daniel Schmachtenberger on AMP]] (5)
+> * [[Daniel Schmachtenberger: Bend not Break: Maximum Power & Hyper Agents – The Great Simplification 20]] (5)

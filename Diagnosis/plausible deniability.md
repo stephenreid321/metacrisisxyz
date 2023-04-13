@@ -9,6 +9,6 @@ Plausible deniability is a concept introduced in the fields of security, games t
 > [[perverse incentive]], [[mutually assured destruction]], [[decision making]], [[hypernormal stimuli]], [[race to the bottom]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * [[EXPONENTIAL TECHNOLOGY, TRANSITIONARY SYSTEMS, AND GAME B WITH DANIEL SCHMACHTENBERGER]] (5)
 > * [[Markets, Exponential Technology & Transitionary Systems - Daniel Schmachtenberger]] (5)
+> * [[EXPONENTIAL TECHNOLOGY, TRANSITIONARY SYSTEMS, AND GAME B WITH DANIEL SCHMACHTENBERGER]] (5)
 > * [[DarkHorse Podcast with Daniel Schmachtenberger & Bret Weinstein]] (4)

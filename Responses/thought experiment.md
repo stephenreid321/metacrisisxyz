@@ -9,6 +9,6 @@ A thought experiment is an abstract, hypothetical exercise used by philosophers,
 > [[thought experiment]], [[network dynamics]], [[systems thinking]], [[game theory]], [[decision making]], [[sensemaking]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * [[Daniel Schmachtenberger - Building Better Sensemaking – Modern Wisdom Podcast 348]] (4)
 > * [[Daniel Schmachtenberger - How we might assess the health of groups, even society.]] (4)
 > * [[Health Index: A Hypothetical Index to Assess the Health of a Society w  Daniel Schmachtenberger]] (4)
+> * [[Daniel Schmachtenberger - Building Better Sensemaking – Modern Wisdom Podcast 348]] (4)

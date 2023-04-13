@@ -9,6 +9,6 @@ Tool making is the process of constructing and using tools to aid in cognitive w
 > [[tool making]], [[artificial intelligence]], [[network dynamics]], [[decision making]], [[open source]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * [[The Portal Episode 027 - Daniel Schmachtenberger: Avoiding Apocalypses - Bike ride on June 21, 2022]] (8)
 > * [[Civilization as a Paperclip Maximizer - Daniel Schmachtenberger]] (7)
 > * [[Daniel Schmachtenberger on The Portal (with host Eric Weinstein), Ep. 027 - On Avoiding Apocalypses]] (6)
+> * [[How to Become an Agent for Evolution - Daniel Schmachtenberger @ Radical Brilliance Podcast]] (5)

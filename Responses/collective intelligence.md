@@ -10,5 +10,5 @@ Collective intelligence is an emergent phenomenon that occurs when multiple agen
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 1)]] (13)
-> * [[Making Sense of Sensemaking: Daniel Schmachtenberger, Jamie Wheal, Jordan Hall]] (12)
 > * [[Civilization as a Paperclip Maximizer - Daniel Schmachtenberger]] (12)
+> * [[Making Sense of Sensemaking: Daniel Schmachtenberger, Jamie Wheal, Jordan Hall]] (12)

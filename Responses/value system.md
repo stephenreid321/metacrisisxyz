@@ -10,5 +10,5 @@ A ‘value system’ is the myriad of beliefs, attitudes, and cultural norms whi
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[Superstructures with Daniel Schmachtenberger – Green Pill 32]] (8)
-> * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 2)]] (6)
 > * [[Saving Civilization: Healthcare, Tech, Democracy (w Daniel Schmachtenberger)]] (6)
+> * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 2)]] (6)

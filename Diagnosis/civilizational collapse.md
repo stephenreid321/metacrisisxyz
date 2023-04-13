@@ -10,5 +10,5 @@ Civilizational collapse is the systemic breakdown or retreat of a complex societ
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[Historical & Situational Assessment - Daniel Schmachtenberger, Wade Davis @ Virtual Burning Man 2020]] (6)
-> * [[The Portal Episode 027 - Daniel Schmachtenberger: Avoiding Apocalypses - Bike ride on June 21, 2022]] (3)
 > * [[Daniel Schmachtenberger on The Portal (with host Eric Weinstein), Ep. 027 - On Avoiding Apocalypses]] (3)
+> * [["Learning to be in the world" Dinner&Talk @NAV with Nora Bateson & Daniel Schmachtenberger  HD1080p]] (2)

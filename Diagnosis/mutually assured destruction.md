@@ -10,5 +10,5 @@ Mutually Assured Destruction (MAD) is a military strategy in which two opposing 
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[Daniel Schmachtenberger: Steering Civilization Away from Self-Destruction – Lex Fridman Podcast 191]] (5)
-> * [[SURVIVING the God-Like Technology That Can Kill Us All – Daniel Schmachtenberger on AMP]] (4)
 > * [[DarkHorse Podcast with Daniel Schmachtenberger & Bret Weinstein]] (4)
+> * [[SURVIVING the God-Like Technology That Can Kill Us All – Daniel Schmachtenberger on AMP]] (4)
