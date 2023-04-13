@@ -9,6 +9,6 @@ A planetary boundary is an ecological threshold that, if breached, can lead to d
 > [[climate change]], [[social system]], [[systems thinking]], [[network dynamics]], [[complexity science]]
 
 > [!info] Podcasts mentioning this term most frequently
+> * [[Misalignment, AI & Moloch – Daniel Schmachtenberger and Liv Boeree]] (9)
 > * [[Norrsken Sessions l Daniel Schmachtenberger]] (9)
 > * [[Daniel Schmachtenberger: "Modeling the Drivers of the Metacrisis” – The Great Simplification 42]] (6)
-> * [[The Metacrisis with Daniel Schmachtenberger – Part 1 – Green Pill 26]] (5)

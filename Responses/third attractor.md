@@ -10,5 +10,5 @@ A third attractor is a notion that attempts to explain the emergence of complexi
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[The Metacrisis with Daniel Schmachtenberger – Part 1 – Green Pill 26]] (16)
+> * [[Summary of the 'Third Attractor Framework' by Daniel Schmachtenberger]] (10)
 > * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 2)]] (9)
-> * [[Parallax: Deep Future - with Daniel Schmachtenberger and Alexander Bard]] (8)

@@ -1,6 +1,5 @@
 models_with_titles = {
   Response => %(
-    thought experiment
   ).strip.split("\n").map do |t|
                 t = t.strip
                 t == t.pluralize ? t : [t, t.pluralize]
@@ -32,6 +31,7 @@ models_with_titles.each do |model, titles|
     attributes = model.create(title: title, tags: model.to_s.downcase, aliases: aliases, body: definition)
     attributes = model.set_callout(attributes, 'example', 'See also', 'x, y, z')
     attributes = model.set_callout(attributes, 'info', 'Podcasts mentioning this term most frequently', "* x\n* y\n* z")
+    model.set_see_also(attributes, Concept.all.map { |c| c[:title] })
   end
 end
 

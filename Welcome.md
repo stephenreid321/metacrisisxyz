@@ -1,7 +1,7 @@
-This is a Ruby/OpenAI-enhanced Obsidian knowledgebase for [MetacrisisDAO](https://www.metacrisisdao.com/).
+This is a Ruby/OpenAI-enhanced Obsidian knowledgebase for [metacrisis.xyz](https://metacrisis.xyz/).
 
 💬 Telegram group: https://t.me/+gyNXeGLnh71kYmMx
-👾 Github repo for this knowledgebase (PRs welcome): https://github.com/stephenreid321/metacrisisdao
+👾 Github repo for this knowledgebase (PRs welcome): https://github.com/stephenreid321/metacrisisxyz
 
 You can find definitions of metacrisis-related terms with links to where they are used in podcasts under:
 * `Diagnosis`: diagnosing the metacrisis

@@ -9,6 +9,6 @@ Liberal democracy is a political system that is based on principles of freedom a
 > [[open society]], [[participatory governance]], [[collective action]], [[global governance]], [[decision making]]
 
 > [!info] Podcasts mentioning this term most frequently
+> * [[DarkHorse Podcast with Daniel Schmachtenberger & Bret Weinstein]] (3)
 > * [[Markets, Exponential Technology & Transitionary Systems - Daniel Schmachtenberger]] (3)
 > * [[Homegrown Humans - Daniel Schmachtenberger - Collective Intelligence - 10-11-22]] (3)
-> * [[EXPONENTIAL TECHNOLOGY, TRANSITIONARY SYSTEMS, AND GAME B WITH DANIEL SCHMACHTENBERGER]] (3)

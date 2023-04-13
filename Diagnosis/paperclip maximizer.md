@@ -10,5 +10,5 @@ Paperclip maximizers are a concept developed in the field of Artificial General 
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[Civilization as a Paperclip Maximizer - Daniel Schmachtenberger]] (14)
+> * [[Misalignment, AI & Moloch – Daniel Schmachtenberger and Liv Boeree]] (4)
 > * [[Daniel Schmachtenberger on The Portal (with host Eric Weinstein), Ep. 027 - On Avoiding Apocalypses]] (4)
-> * [[Converting Moloch from Sith to Jedi w  Daniel Schmachtenberger]] (4)

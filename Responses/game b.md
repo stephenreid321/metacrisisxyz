@@ -10,5 +10,5 @@ Game B is an approach to social and economic systems design that seeks to create
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[Game B Dialogos w  Jim Rutt, Jordan Hall, Tyson Yunkaporta, and Daniel Schmachtenberger]] (84)
+> * [[The Portal Episode 027 - Daniel Schmachtenberger: Avoiding Apocalypses - Bike ride on June 21, 2022]] (13)
 > * [[Daniel Schmachtenberger on The Portal (with host Eric Weinstein), Ep. 027 - On Avoiding Apocalypses]] (12)
-> * [[Daniel Schmachtenberger’s Road to a New Civilization — A Critique]] (12)

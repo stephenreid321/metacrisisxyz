@@ -10,5 +10,5 @@ Self-terminating refers to the process by which a civilization or society collap
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[Daniel Schmachtenberger on The Portal (with host Eric Weinstein), Ep. 027 - On Avoiding Apocalypses]] (11)
+> * [[The Portal Episode 027 - Daniel Schmachtenberger: Avoiding Apocalypses - Bike ride on June 21, 2022]] (11)
 > * [[Daniel Schmachtenberger: Steering Civilization Away from Self-Destruction – Lex Fridman Podcast 191]] (10)
-> * [[36: Daniel Schmachtenberger - Phase Shifting Humanity]] (9)

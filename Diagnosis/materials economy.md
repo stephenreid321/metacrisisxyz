@@ -10,5 +10,5 @@ The materials economy is a systems-level term that describes the management of r
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[36: Daniel Schmachtenberger - Phase Shifting Humanity]] (11)
+> * [[The Portal Episode 027 - Daniel Schmachtenberger: Avoiding Apocalypses - Bike ride on June 21, 2022]] (10)
 > * [[Daniel Schmachtenberger on The Portal (with host Eric Weinstein), Ep. 027 - On Avoiding Apocalypses]] (10)
-> * [[Daniel Schmachtenberger: Bend not Break: Maximum Power & Hyper Agents – The Great Simplification 20]] (7)

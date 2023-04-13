@@ -9,6 +9,6 @@ Species extinction is the complete and irreversible loss of an organism species 
 > [[climate change]], [[bioweapon]], [[mutually assured destruction]], [[planetary boundary]], [[existential risk]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * [[Norrsken Sessions l Daniel Schmachtenberger]] (3)
 > * [[EXPONENTIAL TECHNOLOGY, TRANSITIONARY SYSTEMS, AND GAME B WITH DANIEL SCHMACHTENBERGER]] (3)
 > * [[51 Daniel Schmachtenberger: Meta Existential Risk]] (3)
+> * [[57: Daniel Schmachtenberger - What Causes Existential Risks? Pt. 1]] (3)

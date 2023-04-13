@@ -11,4 +11,4 @@ A perverse incentive is an incentive system or policy that unintentionally or in
 > [!info] Podcasts mentioning this term most frequently
 > * [[Daniel Schmachtenberger: "Bend Not Break Part 5" – The Great Simplification 50]] (16)
 > * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 1)]] (9)
-> * [[Utopia or Bust Designing a Non Self Terminating Civilization   Daniel Schmachtenberger - on Emerge.]] (5)
+> * [[Markets, Exponential Technology & Transitionary Systems - Daniel Schmachtenberger]] (5)

@@ -11,4 +11,4 @@ An arms race is essentially a rapid increase in the development or acquisition o
 > [!info] Podcasts mentioning this term most frequently
 > * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 1)]] (15)
 > * [[How To STEER Civilization Away From CATASTROPHE with Daniel Schmachtenberger – Aubrey Marcus Podcast]] (10)
-> * [[Daniel Schmachtenberger – Existential Risk and Phase Shifting to a New World System]] (7)
+> * [[Misalignment, AI & Moloch – Daniel Schmachtenberger and Liv Boeree]] (9)

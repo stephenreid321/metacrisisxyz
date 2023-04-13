@@ -1,6 +1,8 @@
 ---
-url: https://www.sloww.co/meta-crisis-101/
+url: https://www.sloww.co/meta-crisis-101
 ---
+
+*Reposted from [sloww.co/meta-crisis-101](https://www.sloww.co/meta-crisis-101)*
 
 What does the term **_meta-crisis_** mean?
 

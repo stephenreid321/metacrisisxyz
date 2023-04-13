@@ -11,4 +11,4 @@ A dystopia is a fictional society characterized by the oppressive and degraded s
 > [!info] Podcasts mentioning this term most frequently
 > * [[The Metacrisis with Daniel Schmachtenberger – Part 1 – Green Pill 26]] (3)
 > * [[Norrsken Sessions l Daniel Schmachtenberger]] (2)
-> * [[Saving Civilization: Healthcare, Tech, Democracy (w Daniel Schmachtenberger)]] (2)
+> * [[Misalignment, AI & Moloch – Daniel Schmachtenberger and Liv Boeree]] (2)

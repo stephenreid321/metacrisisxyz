@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "path:-Transcripts",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:Response",
+      "color": {
+        "a": 1,
+        "rgb": 11424480
+      }
+    },
+    {
+      "query": "tag:Diagnosis",
+      "color": {
+        "a": 1,
+        "rgb": 6767319
+      }
+    },
+    {
+      "query": "tag:Tech",
+      "color": {
+        "a": 1,
+        "rgb": 4284114
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.8031133383799336,
+  "close": false
+}
