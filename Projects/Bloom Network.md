@@ -60,12 +60,7 @@ Local Bloom organizers are master community builders, local food system stewards
 ![Bloomers in action](https://hdkzuqwqcauhtqkrrzjx.supabase.co/storage/v1/object/sign/images/grantsHeader_small.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvZ3JhbnRzSGVhZGVyX3NtYWxsLnBuZyIsImlhdCI6MTY4MTg0NDk4MywiZXhwIjoxNzEzMzgwOTgzfQ.9Zlsi6c6NTLvHjvi-0Sz43wsNTYXhb2fPeu9HSfUgiA&t=2023-04-18T19%3A09%3A43.925Z)
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1673484173127
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:138
 > * website: https://bloomnetwork.earth
-> * bannerImg: bafybeiavpd5lwzfk2req2jpvz3c7fuewzgs7diaqgz2f4247fwghystbci
-> * logoImg: bafkreihe7f6mggku54yewycm4fmvypaodk32q6fkxwtb7zpkcrk6satshi
 > * userGithub: magentaceiba
 > * projectGithub: 
 > * projectTwitter: ourbloomnetwork

@@ -31,12 +31,7 @@ Team Members:
 - Joseph DeSimone, research advisor. Game designer, helped develop the economic mechanisms
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1681408019847
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:389
 > * website: https://zaratan.world/mirror
-> * bannerImg: bafybeidbksjxiw7qonio5udbri36j3vt7y3alizhzsmshhcrxqvmuggfj4
-> * logoImg: bafkreia4rrxdgfpjv4mk2lnjncb7mea7ny6qtl3pi7uvv3y3zsth5pif44
 > * userGithub: kronosapiens
 > * projectGithub: 
 > * projectTwitter: kronosapiens

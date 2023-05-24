@@ -93,12 +93,7 @@ Kokodaoxyz.eth
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1681590769240
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:423
 > * website: https://kokodao.xyz/
-> * bannerImg: bafybeihgiz5ewdsu5rhdhgnridasshkd3sqlq46ifh3isb3zwhmyo23zca
-> * logoImg: bafkreid6xcyupk2mcqqhdiaq2xklcrnu5tahqzyohy37qmv5vqpkrldngq
 > * userGithub: 
 > * projectGithub: 
 > * projectTwitter: kokodaoxyz

@@ -116,12 +116,7 @@ Today, there are over 12 core contributors and over 2000 community members acros
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1673600047808
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:175
 > * website: https://www.notion.so/atlantian/Atlantis-d22850ad241b469eb9c06d8d0c800ca4
-> * bannerImg: bafkreifgwjvdqag42d2djcpzy5amoh6sp5tdhqhn3hzt5kto3hqtpzzwa4
-> * logoImg: bafkreicxh6rkvpmtfdwifdqd2bbcz6zf6lisctz7dldk3f5vw5cex3foum
 > * userGithub: Atlantian001
 > * projectGithub: 
 > * projectTwitter: AtlantisDAO1

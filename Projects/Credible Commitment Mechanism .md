@@ -19,12 +19,7 @@ This suffers from the Oracle Problem so the MVP will be entirely about location-
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1681822205039
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:489
 > * website: https://noneyet.com
-> * bannerImg: 
-> * logoImg: 
 > * userGithub: 
 > * projectGithub: 
 > * projectTwitter: 

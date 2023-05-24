@@ -32,12 +32,7 @@ I would explore the elements listed below to see what, if any, opportunities and
 This research can be complete in about eight weeks and its findings will be shared with Kernel cohort members to inform possible user experiences and Web3 services.
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1681958991954
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:598
 > * website: https://metaphasemgt.com
-> * bannerImg: 
-> * logoImg: 
 > * userGithub: 
 > * projectGithub: Kernel Block 5 - 2022
 > * projectTwitter: 

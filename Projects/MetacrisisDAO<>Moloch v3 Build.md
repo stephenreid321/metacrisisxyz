@@ -175,12 +175,7 @@ We think of DAOs as an ongoing open source experiment in collective sense making
     - UX, testing, iteration, documentation
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682093339741
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:762
 > * website: https://bootleggers.wtf/
-> * bannerImg: bafkreidpuig2sjlcrei6wk4soabk2hki75vqry3amz2ea34xiv4o4uiuc4
-> * logoImg: bafkreierg6n3p5jaco4izsl2336egu2j7lyntyoxnnxo5q7nntqpja2qsy
 > * userGithub: 
 > * projectGithub: 0xBootleggers
 > * projectTwitter: 0xBootleggers

@@ -120,12 +120,7 @@ Contact us on social media of [MesoReefDAO](https://linktr.ee/mesoreefdao) if yo
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1681587180186
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:422
 > * website: https://linktr.ee/mesoreefdao
-> * bannerImg: bafybeicibfj6c53liplhld63osp3vgsx33mpyfti5rmxzggg2dqybzznai
-> * logoImg: bafybeih7ftimijmmaxvxggo55lsl4wr5b4twv6avf62rbylpu7fevj3kd4
 > * userGithub: robioreefeco
 > * projectGithub: MesoReefDAO
 > * projectTwitter: MesoReefDAO

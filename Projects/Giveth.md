@@ -65,12 +65,7 @@ Thank you for helping us Build the Future of Giving. We appreciate your support.
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1673886037208
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:224
 > * website: https://giveth.io/
-> * bannerImg: bafybeihndmwk6vxjrcxkd5a4dtsvcxauy3yhynji6jmnjh2e5owua5ruce
-> * logoImg: bafkreiczgblqaa53byteenslgvjskag4cd47kq5bgmepp3uepprnuwsa3i
 > * userGithub: laurenluz
 > * projectGithub: Giveth
 > * projectTwitter: Giveth

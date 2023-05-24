@@ -37,12 +37,7 @@ Danki
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682088420441
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:746
 > * website: https://www.kolab.cw/
-> * bannerImg: bafkreiac3fvnjqv6dfwph33a34lkrpqfw6ulorsqvk7ofku6zffgthqlzu
-> * logoImg: bafkreicdo4zqce6pwrlod6nrg3pl4tof54t4uod7rzpuws7u5fh6fh6ptq
 > * userGithub: 
 > * projectGithub: 
 > * projectTwitter: kolabcw

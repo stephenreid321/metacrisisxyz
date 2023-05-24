@@ -70,12 +70,7 @@ A decentralized knowledge graph can help us foster collective intelligence and a
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1673324860449
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:92
 > * website: https://tinyurl.com/Myseelia
-> * bannerImg: bafybeiaplfu4rglnf5eenpw52k6oy5ituuna2skib3qfxhxg5vo4tx7phm
-> * logoImg: bafkreiddtoumf52t3haqvrwtg3v3c3pubhnh4qvxahcgx57kl4aoxakt7u
 > * userGithub: DarrenZal
 > * projectGithub: DarrenZal/Myseelia
 > * projectTwitter: 

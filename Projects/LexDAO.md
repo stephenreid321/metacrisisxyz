@@ -121,12 +121,7 @@ Support codeslaw by [proudly wearing this designer hat](https://shop.metafactory
 [Our legacy cGrants page](https://gitcoin.co/grants/4811/lexdao-providing-legal-aid-to-impactdaos-funded-by). 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1673653679863
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:199
 > * website: https://lexdao.coop
-> * bannerImg: bafybeierh7worujpoelf2o5762growe55ptk5wbrj5fndrl25cntltnrh4
-> * logoImg: bafkreiewxqylj5oqtdsgpkrokydlxb67hk5hdf25msklw27govtzlc6wyu
 > * userGithub: bestape
 > * projectGithub: lexDAO
 > * projectTwitter: lex_DAO

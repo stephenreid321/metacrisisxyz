@@ -56,12 +56,7 @@ We invite you to follow our progress and join us in the world of Web3 by:
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1670846290475
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:23
 > * website: https://twitter.com/stiamee
-> * bannerImg: bafybeifl2bpvanab2p4s2w54gjronwlwtsse4hnftpym7tezseyr3wapve
-> * logoImg: bafkreidmpjepaxiahval75qmwtoaujppkytoita4klxyy6ifrdjslgxdsi
 > * userGithub: H1na
 > * projectGithub: 
 > * projectTwitter: stiamee

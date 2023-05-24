@@ -67,12 +67,7 @@ Thank you for your consideration.
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682053036831
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:697
 > * website: https://www.linkedin.com/company/refi-paramaribo/
-> * bannerImg: bafkreibilfdfc5ojshylry3aemiitswe4g5iraybzbhekzece7zsdhdbji
-> * logoImg: bafkreia36qarrvlhoit23livinlaj4bbd4i42czyumdjr5ps6z5kpw4jcq
 > * userGithub: 
 > * projectGithub: 
 > * projectTwitter: ReFiParamaribo

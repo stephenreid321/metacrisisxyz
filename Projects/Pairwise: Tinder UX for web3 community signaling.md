@@ -105,12 +105,7 @@ Twitter -[ https://twitter.com/generalmagicio](https://twitter.com/generalmagici
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1681233345182
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:351
 > * website: https://pairwise.generalmagic.io/
-> * bannerImg: bafybeia2n3ekeyj44vf73k5m7jvjmklyrupqefn3vng7nlr3vovkh2pzpy
-> * logoImg: bafkreiayeolt2nth6j6yr2r6wxqhif3zvfwksd5shfhl5rwjkjhd6u7jbe
 > * userGithub: zeptimus
 > * projectGithub: GeneralMagicio
 > * projectTwitter: Generalmagicio

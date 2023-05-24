@@ -87,12 +87,7 @@ Funding will help with the production of the podcast and children's book, the de
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1681979808702
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:619
 > * website: https://solarpunkgeneration.carrd.co/
-> * bannerImg: bafkreiabudfzu3rfhuwizbkrojfqaeeltb23qnxw6rx56badzy2yhsbihm
-> * logoImg: bafkreic6hnbksagvhk2jj2ut2bghuffadmax5hlpogtc5nyaspcf52qkhe
 > * userGithub: 
 > * projectGithub: 
 > * projectTwitter: SolarPunkGen

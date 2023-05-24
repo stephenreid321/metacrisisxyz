@@ -33,12 +33,7 @@ For more background on the project, please visit our previous Gitcoin applicatio
 [https://bounties.gitcoin.co/grants/4922/re-public-collect-and-control-all-your-personal-da](https://bounties.gitcoin.co/grants/4922/re-public-collect-and-control-all-your-personal-da)
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1681330295542
-> * id: 10:0x8e1bD5Da87C14dd8e08F7ecc2aBf9D1d558ea174:85
 > * website: https://re-public.io
-> * bannerImg: bafkreibcp5tm4zfplveuqwnq3v3knuttp654g52mjwbuirrlvqe2iecpfa
-> * logoImg: bafkreiegsk7pvtjy7vs77k6vildtszxrcu65qrik72pvyvkyuokfhuoure
 > * userGithub: kaxline
 > * projectGithub: Re-Public DAO
 > * projectTwitter: republicdao

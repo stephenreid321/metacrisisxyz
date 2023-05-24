@@ -125,12 +125,7 @@ Sergio Martel
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682117110678
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:848
 > * website: https://www.ReFiMiami.org
-> * bannerImg: bafkreih5f56wenoysqzh547qkxla6ccqdnimfy6gfowi5azwmukewdpfza
-> * logoImg: bafkreiftzmtbh6jgv3w7sjpgbd33og2y6gyjzrgdvgphn5dftx4kkznfmq
 > * userGithub: 
 > * projectGithub: 
 > * projectTwitter: ReFiMiami

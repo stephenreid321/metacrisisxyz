@@ -65,12 +65,7 @@ Now we have internet, blockchain, real-time data, COVID, climate emergency, fake
 # Humanity's phase shift
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682095772995
-> * id: 10:0x8e1bD5Da87C14dd8e08F7ecc2aBf9D1d558ea174:260
 > * website: https://planetarycouncil.org
-> * bannerImg: bafkreiacsk2mmi473n247mvlee7iklqh3dy5lk2fwdcwmg6ogrx7zakvtq
-> * logoImg: bafkreifc4fv7wehcoccvoicejmy3smup5ytbmenrfqeeqoi5w4264mp2hi
 > * userGithub: marsrobertson
 > * projectGithub: PlanetaryCouncil
 > * projectTwitter: planetcouncil

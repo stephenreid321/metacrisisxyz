@@ -73,12 +73,7 @@ Mauricio Acosta, with a background in fund management for social impact institut
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682037263530
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:677
 > * website: https://sendaverde.org/adopt
-> * bannerImg: bafkreibf2qn5znymfswbo3nnwgq66mjvrykgggwbxsvmc3gduoxzo5oace
-> * logoImg: bafkreiaktc3j743ghuv3we5vro263y6iczne5rksudo3yashaexrly7gya
 > * userGithub: Bubalu3D
 > * projectGithub: 
 > * projectTwitter: wildfriendsgame

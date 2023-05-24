@@ -40,12 +40,7 @@ The Congo Basin in DRC has one of the richest endowments of natural assets in th
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682099282720
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:789
 > * website: https://www.refidrc.org
-> * bannerImg: bafkreie5pz6yu7exjkncwcqqmaom3bv3ygjm7jjobyjdot3ddmttv5gpqy
-> * logoImg: bafkreichvidesgjwb2hbllps3zzuuzoikcebal3spe42i2rv7osbaup3py
 > * userGithub: 
 > * projectGithub: 
 > * projectTwitter: refiDRC

@@ -188,12 +188,7 @@ Supporting [**Ethereum**](https://blockhead.info/explorer/ethereum) + **layer-2s
 * for supporting **open source software**, **public goods**, **decentralization**, and **resilient financial & internet infrastructure** to last for generations to come! ✨
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682045424869
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:689
 > * website: https://blockhead.info
-> * bannerImg: bafkreic3lg2jhka5s7ci2nf3ukvuc7nyjf7habf5pe673fr3isiw4nqdxy
-> * logoImg: bafkreiha3tmgzc6bhax5noztrge2pqre7jcz3nyamxbnkgscssjpztcvmy
 > * userGithub: darrylyeo
 > * projectGithub: blockhead-io
 > * projectTwitter: 0xBlockhead

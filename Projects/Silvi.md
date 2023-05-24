@@ -55,12 +55,7 @@ We're so happy to be part of dMeter where other awesome dMRV projects like EcoLa
 Please reach out to us if you or anyone you know would like to be an early adopter of our tools and methodology towards hyperlocal reforestation 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1673447166774
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:121
 > * website: https://silvi.earth
-> * bannerImg: bafybeif4gscd7hssgankvzfrs4a4i6tka5ewbc44ydw4bkrwl5zllkyida
-> * logoImg: bafkreia2lxh62vyemnumlun3kzafdqlsuszyvneipn67xacw6nfs445nd4
 > * userGithub: 
 > * projectGithub: 
 > * projectTwitter: SilviProtocol

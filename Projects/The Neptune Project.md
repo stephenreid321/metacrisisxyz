@@ -94,12 +94,7 @@ A documentary series of higher quality — for example by:
 💙 For further information, questions or collaboration requests, please follow us on Twitter @_NeptuneProject or email us at leprojetdeneptune@gmail.com 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1673978883282
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:245
 > * website: https://theneptuneproject.earth/
-> * bannerImg: bafybeifcqxx6iztrnltvqeuu2cxognqlotw56egrvdafbveb3qzvaruqoa
-> * logoImg: bafkreiemsikukyk7n2ojwwsyfzsmq2a3zh2uniatmtbs4feqibqudsdy7q
 > * userGithub: jessicazartler
 > * projectGithub: Curve-Labs
 > * projectTwitter: _NeptuneProject

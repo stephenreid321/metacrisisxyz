@@ -29,7 +29,7 @@ class Project < MarkdownRecord
         body: body
       )
 
-      Project.set_callout(project, 'info', 'Metadata', project.reject { |k, _v| k.in?(%i[title body tags]) }.map { |k, v| "* #{k}: #{v}" }.join("\n"))
+      Project.set_callout(project, 'info', 'Metadata', project.select { |k, _v| k.in?(%i[website userGithub projectGithub projectTwitter]) }.map { |k, v| "* #{k}: #{v}" }.join("\n"))
     end
   end
 end

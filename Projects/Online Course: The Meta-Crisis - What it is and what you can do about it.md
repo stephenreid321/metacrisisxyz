@@ -48,12 +48,7 @@ Part 6: What are some of the organizations doing these things and what specifica
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1681454349252
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:397
 > * website: https://www.enlightenedworldview.com/courses/meta-crisis/
-> * bannerImg: bafkreicfzwafiwwf54coox3qz2vpgnybdcfkgqa3npk4zetd3wmunci4ie
-> * logoImg: bafkreiaeaj6r7aflqpwlyyg2zxswbabavdwt7n3vblixldbkf3wnvpgrme
 > * userGithub: enli10ment
 > * projectGithub: 
 > * projectTwitter: EWorldview

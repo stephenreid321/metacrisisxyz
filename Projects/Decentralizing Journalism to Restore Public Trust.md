@@ -25,12 +25,7 @@ When fully deployed and decentralized, we could envision newsrooms worldwide ope
 While our mission is to revitalize journalism and our first use case is to develop a decentralized reporting stack, we believe that this protocol could also find applications in just about any space where there is a need for information and data production, sharing, documentation and verification. Possible uses cases could include compliance, small governments, elections, deepfake / AI detection and project management.
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1681934536814
-> * id: 10:0x8e1bD5Da87C14dd8e08F7ecc2aBf9D1d558ea174:186
 > * website: https://mirror.xyz/journodao.eth/xSoIa3w25C42ewpakpNIm-qDGnJ-KCoerwJMlP4yaNA
-> * bannerImg: bafkreih6nmwn6jl6f3q6dmbf64nbdhbi7baxqvj6iuowhaf6gkgbx4rtie
-> * logoImg: bafkreie6c6kneg2cbfru5hbkrfoonq6jpcehuuw23ews77t3ah4vpknhcy
 > * userGithub: kaxline
 > * projectGithub: JournoDAO
 > * projectTwitter: journodao

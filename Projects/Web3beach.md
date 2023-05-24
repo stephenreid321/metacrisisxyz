@@ -64,12 +64,7 @@ Use of Grant Funding:
 We'll continue to use all of our funding for our community programs and will begin compensating our community leaders for their work. Web3beach founder (Carlos Melgar) will continue to work without pay or benefits from grant funding.
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1673336291159
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:93
 > * website: https://web3beach.io/
-> * bannerImg: bafkreiatmypzrrw6rrnxdxs6wzkubzr7eskm243t3b4kfuz6g3k3bwerqa
-> * logoImg: bafkreih4es2d5t6twhario7f2xopopz77f3pqpux46so4xgvjzhaos632y
 > * userGithub: 
 > * projectGithub: 
 > * projectTwitter: web3beach

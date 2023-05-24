@@ -72,12 +72,7 @@ Behind this campaign there is a group of 16 motivated, seasoned and committed fo
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682112981029
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:836
 > * website: https://www.refidao.com/community/local-/refi-costa-rica/r/rechcJzZUiAbvk3tI
-> * bannerImg: bafkreid6sjss6jckmexjyrvqwt3ihfskepz6u2rtwn2gi5aowm47dj6a2i
-> * logoImg: bafkreidnkr3n2xbjrv4nj3aihwcnctthinofwh6mkkqwxzzplfzsqtbvpm
 > * userGithub: 
 > * projectGithub: 
 > * projectTwitter: ReFiSanJose

@@ -86,12 +86,7 @@ ReFi Mexico City, as part of the ReFi DAO Local Node Prize, is dedicated to driv
 Every dollar counts! Thank you for your support.
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682105706095
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:805
 > * website: https://refidao.com/mexicocity
-> * bannerImg: bafkreib3yuhwwxrjxrcoiwcv6wnu3lk224v4ngnoic74x34jb6wpq5iwqa
-> * logoImg: bafkreihygz4pgrv7653ayrmzj7t5xp2jjrxxkfndncqetofy556xkf2w4i
 > * userGithub: olahworld
 > * projectGithub: refistarter
 > * projectTwitter: refimexicocity

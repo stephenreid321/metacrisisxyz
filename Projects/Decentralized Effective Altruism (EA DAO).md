@@ -48,12 +48,7 @@ b. To create a more efficient, resilient, and sustainable EA movement by leverag
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682033300725
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:672
 > * website: https://www.mixo.io/site/decentralized-effective-altruism-847b4/index.html
-> * bannerImg: 
-> * logoImg: bafkreib46z2g65xrdx76ppewnb4iyfe5l2y46ngucffjatkvpcyhfq3tci
 > * userGithub: 
 > * projectGithub: 
 > * projectTwitter: 

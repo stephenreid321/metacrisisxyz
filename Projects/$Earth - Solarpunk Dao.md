@@ -66,12 +66,7 @@ We are incredibly grateful for all the love and support all yall Solarpunk showe
  
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1673249480048
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:81
 > * website: https://www.solarpunkdao.earth/
-> * bannerImg: bafybeiedqfk4rvzsw4tezhpq4shiy372mfacbnafvomig6o47spnj4zitu
-> * logoImg: bafkreic7sr4vs7bql7ta3tcrerrl5rkxjf4sduen4eebgk2si43rg6bohe
 > * userGithub: peacefulprogress25
 > * projectGithub: Solarpunk Dao
 > * projectTwitter: solarpunkdao

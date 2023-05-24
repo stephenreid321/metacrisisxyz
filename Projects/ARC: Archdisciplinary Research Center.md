@@ -44,12 +44,7 @@ The funding will mainly be used to create one low-salary full-time position over
 Join us, help us discover the big picture, the unified theory of everything. Check out the website &/or download Foundations of Archdisciplinarity.
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682107163103
-> * id: 10:0x8e1bD5Da87C14dd8e08F7ecc2aBf9D1d558ea174:271
 > * website: https://www.arc.voyage/
-> * bannerImg: bafkreidk7wup346t3yw5blw7zzs33zcnmg7rsegzkee566zmc3r6234zpy
-> * logoImg: bafkreidaggn46evcof5jm27hntvizyjhthj4bcd2b74r5vovoku3op26qu
 > * userGithub: 
 > * projectGithub: 
 > * projectTwitter: 

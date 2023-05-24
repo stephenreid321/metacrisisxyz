@@ -76,12 +76,7 @@ Gitcoin has been instrumental in helping us get to where we are.  You can read a
 If you want to dig in more to the why, how, or what of .basin, including but not limited to the basinStack, the HOP model and the Climate Lease, more can be found at docs.basin.global.
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1681968538539
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:607
 > * website: https://www.basin.global
-> * bannerImg: bafybeie7xmrdcrngonbmnjtmju7wqqckt3feli3tfr2foje2h6x3pvdyny
-> * logoImg: bafkreidmcuzmptalo5mrou5rkundqlp7fl226wa74pzr24n4ioziikzwqa
 > * userGithub: tmoindustries
 > * projectGithub: basin-global
 > * projectTwitter: dot_basin

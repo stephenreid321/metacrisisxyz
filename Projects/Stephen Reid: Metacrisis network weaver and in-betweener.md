@@ -35,12 +35,7 @@ Previously, I founded [The Psychedelic Society](https://psychedelicsociety.org.u
 Your support is much appreciated and will encourage me to continue the weaving in the months ahead 🧙‍♂️ 🙏
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682083367400
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:735
 > * website: https://stephenreid.net
-> * bannerImg: bafkreiekoqxhftdk4r3eucofg3sboz5nb43tuvcliarfi2qpwfucnwokkq
-> * logoImg: bafkreidrpmqxi7nwpvhda6agcucze27i4xirig4vzo5a3bwf5zksfigmnq
 > * userGithub: stephenreid321
 > * projectGithub: 
 > * projectTwitter: lunarpunk_0x

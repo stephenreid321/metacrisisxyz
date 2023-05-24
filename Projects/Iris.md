@@ -39,12 +39,7 @@ Addressing Existential Threats: By facilitating collective decision-making and a
 Overall, the project aims to create a more harmonious, resilient, and equitable society by leveraging the power of Irises to foster collective learning, collaboration, and decision-making. By providing social proof of impact and promoting pro-social behavior, the project seeks to drive positive change and make a meaningful contribution to the well-being of communities and society at large.
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1681510125144
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:412
 > * website: https://www.cognicism.org
-> * bannerImg: 
-> * logoImg: 
 > * userGithub: speakerjohnash
 > * projectGithub: 
 > * projectTwitter: 

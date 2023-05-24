@@ -71,12 +71,7 @@ Sergio Martinez was involved in the crypto world since the end of 2016, in charg
 We believe that through ReFi Medellín, we can create a more socially inclusive and ecologically regenerative urbanism. Your support will enable us to make a significant impact on the lives of young people in our community, and we appreciate your donation.
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682119006188
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:855
 > * website: https://linktr.ee/refimedellin
-> * bannerImg: bafkreifh77yn3nzqu32s42vjkyngpcqfslgyzlh4q5o7qkqeunap75e5lu
-> * logoImg: bafkreibfkd4bknrtk66kbjgjvcaisqnpxfr7p3vp4jpaikeif75qyjzwxe
 > * userGithub: 
 > * projectGithub: 
 > * projectTwitter: refimedellin

@@ -74,12 +74,7 @@ For more information about SpiritDAO see https://docs.spiritdao.org
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682111483922
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:827
 > * website: https://spiritdao.org
-> * bannerImg: bafybeiadvot5e4hwneh4err6kwbihepmzighrto4volvy6hokkgov3lf5u
-> * logoImg: bafkreiaxvufuhfzpnqk4ry6khh66umtmnoypxylvaxtqqrl34lrgwde6bm
 > * userGithub: 
 > * projectGithub: 
 > * projectTwitter: thespiritdao

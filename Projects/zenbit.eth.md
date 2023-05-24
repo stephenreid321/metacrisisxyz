@@ -56,12 +56,7 @@ All the funds will be used on the following activities:
 3. Public test on LATAM, starting in Querétaro city with the collaboration of local governments, Ethereum LATAM communities and city labs working on LATAM cities.
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1681891429065
-> * id: 10:0x8e1bD5Da87C14dd8e08F7ecc2aBf9D1d558ea174:165
 > * website: https://zenbit.mx
-> * bannerImg: bafkreibrihpgp7kmsk4wafxbqef3g2jfn7w2liq3q22dcepdcluleyft5e
-> * logoImg: bafkreiftfnfpm23weogoaa6thvj4wdyewdzqbwddl2qs24yaamvtdczv5y
 > * userGithub: HabacucMX
 > * projectGithub: zenbitETH
 > * projectTwitter: zenbitMX

@@ -40,12 +40,7 @@ Your support now could also be an excellent investment that helps the project gr
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682094942817
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:767
 > * website: https://prepchain.net
-> * bannerImg: bafkreidnh4l2xuwgwmnwmhvvyuenqjmrzmu26pljwwmpmemdwzmv2ki4iy
-> * logoImg: bafkreieg4un7jqncbj6vp3msripdh32ttp5e5ppj4i3v2ur2d5usxrv4nu
 > * userGithub: 
 > * projectGithub: 
 > * projectTwitter: PREPchain

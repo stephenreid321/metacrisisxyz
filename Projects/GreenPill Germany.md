@@ -63,12 +63,7 @@ Website - https://greenpill.party/ and https://greenpillger.party/
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682014486124
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:645
 > * website: https://www.greenpillger.party/
-> * bannerImg: bafkreicfoc3dbfpgqywlfrlwo2ag7cxowkqwjifox5cye43kvyhc7z23uy
-> * logoImg: bafkreic6erqefm6doq6xhbuqldq6wuoiqpbgqbefdqf4k2u6b5qqb6ygze
 > * userGithub: 
 > * projectGithub: 
 > * projectTwitter: GreenPillGER

@@ -201,12 +201,7 @@ A: To pay for equipment (powerful computing equipment is needed for development)
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1670848603039
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:25
 > * website: https://lunco.space
-> * bannerImg: bafybeihoc7rxlnbwp32e7d2h2pavhrv4rbblg2oz6f6fo4fmrayioocbvu
-> * logoImg: bafkreigggvubpdcmpznt6dg5oyjsgw55xg5ju5cc76brhysxcvkbjgzbuy
 > * userGithub: Difint
 > * projectGithub: LunCoSim
 > * projectTwitter: LunCoSim

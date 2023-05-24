@@ -95,12 +95,7 @@ A non-profit NGO recognized as being in the public interest in Switzerland that 
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1680591816481
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:296
 > * website: https://cosmosforhumanity.eu/en
-> * bannerImg: bafybeihw6lsoddo3oivlpvmc6duehzgnfa2k33i36ezy267d3hfpszebie
-> * logoImg: bafkreicqeap3lsrquxtjjiuk7s76fjibff4jltklsc7lfzyctihyyfkicm
 > * userGithub: CosmosForHumanity
 > * projectGithub: CosmosForHumanity
 > * projectTwitter: cosmos4humanity

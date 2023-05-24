@@ -239,12 +239,7 @@ Stephen Reid is a **facilitator, [coach](https://stephenreid.net/coaching) and R
 - [(Film) Embrace of the Serpent, Ciro Guerra](https://www.imdb.com/title/tt4285496/);
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1681948126969
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:582
 > * website: https://linktr.ee/mycelia
-> * bannerImg: bafkreiep5loogehwpgnyagqdceyyq3tuocywietu62u3x6gxf2oyjopcvy
-> * logoImg: bafkreickeilap2vh62leimd6agnyk6uxmqtgujgso6bnn3ym2n5sqrsnfu
 > * userGithub: Dagda-uni
 > * projectGithub: mycelia-uni
 > * projectTwitter: mycelia_uni

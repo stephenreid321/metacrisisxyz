@@ -35,12 +35,7 @@ The only way to move forward with enough speed and to exceed these perils is to 
 Thanks for your attention² & WAGMI.
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682088616249
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:747
 > * website: https://scyber.notion.site/KI-LIFE-Project-Metacrisis-Grant-Proposal-c46cfbee137e46d29db8ba6dc846f700
-> * bannerImg: bafkreiefrkwyd57gijpcvctia5vczef6nsa4pytlg5gxnnbwxtjdqckbty
-> * logoImg: bafkreiamez6upgipnaa5z7m25vp4vesi4zp2emv56ltfxsrakl5gfq5fty
 > * userGithub: cog-data
 > * projectGithub: 
 > * projectTwitter: soto31415

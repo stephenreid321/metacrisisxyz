@@ -76,12 +76,7 @@ Additionally, donations to our project will fund the development of an open-sour
 Thank you for your generosity! 🙏
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1673833666188
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:218
 > * website: https://commonsstack.org/
-> * bannerImg: bafkreick5f3lez5vbbnwevsk3wgdp5fg4n6z4ts5uz7iyaafriy5jwgtfe
-> * logoImg: bafkreiajbf7swocekdtnevjir67videhgxjtjk3vnwumubazvdejli7h5a
 > * userGithub: iviangita
 > * projectGithub: commons-stack
 > * projectTwitter: commonsstack

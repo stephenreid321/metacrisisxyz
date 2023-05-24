@@ -23,12 +23,7 @@ LifeShip is a way to be part of humanity's future in space. People get a vote in
 LifeShip already has launched two capsules on SpaceX rockets to space, is on two upcoming missions to the Moon, and has 3000 customers who have added their DNA. Now we are going decentralized and onboarding a new community to Web3.
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682096733609
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:776
 > * website: https://lifeship.com
-> * bannerImg: bafkreidwhr2lln7cugojhkdgvk64qbuzr24qbslnhabcpidr6kkbl5fkmm
-> * logoImg: bafkreieg4t267jmzdqj5nhaijebzqg3gvd5azvmhhpnv2j5chlyx7amx64
 > * userGithub: 
 > * projectGithub: 
 > * projectTwitter: golifeship

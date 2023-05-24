@@ -88,12 +88,7 @@ We are excited to share that we are currently working on developing new features
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1681745102244
-> * id: 10:0x8e1bD5Da87C14dd8e08F7ecc2aBf9D1d558ea174:120
 > * website: https://givepraise.xyz
-> * bannerImg: bafkreigxk6hzmqi5isaxu3zahdovkyq4jkvlrhpvhcdnvw7go2wq5l42tq
-> * logoImg: bafkreid5gqvk3uek6vgs42lnkn3tapknmasuwsdlgnnluet33lngiqkch4
 > * userGithub: justi0
 > * projectGithub: givepraise
 > * projectTwitter: givepraise

@@ -178,12 +178,7 @@ If you want to know more ask us in [Twitter](https://twitter.com/0xUrbanika), [L
 **Then, please support Urbánika's traveling school with a donation, as well as sharing this campaign with your friends!!**
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1681940177694
-> * id: 10:0x8e1bD5Da87C14dd8e08F7ecc2aBf9D1d558ea174:192
 > * website: https://urbanika.notion.site/
-> * bannerImg: bafkreidshijqnrnqbvnqxuyyecfgko7m625rfnip3v55q5ph2and3ms3pu
-> * logoImg: bafkreidou6renn4niey6xfyzfprvvv5jz2tdqpwt4tfnjjrii44xti6mlm
 > * userGithub: HBesso31
 > * projectGithub: Urbanika
 > * projectTwitter: 0xUrbanika

@@ -43,12 +43,7 @@ Thank you to all our donors, past and new for believing in us. We’re a team of
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1673453147140
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:122
 > * website: https://impactdaos.xyz
-> * bannerImg: bafybeigb5kwsz3ruq3sla3vyuhg52t6qm3d6hkbdhh62eihfd5jwamogzm
-> * logoImg: bafkreifleszbxqdsgtkib7cacfkvk6hvwgmu3vfeja7scjrpzke2jtw66e
 > * userGithub: deeparocks
 > * projectGithub: 
 > * projectTwitter: impactdaos

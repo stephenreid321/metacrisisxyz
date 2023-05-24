@@ -55,12 +55,7 @@ The Council of Eight is a diverse group of women leaders here on the Osa Peninsu
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682043053662
-> * id: 10:0x8e1bD5Da87C14dd8e08F7ecc2aBf9D1d558ea174:241
 > * website: https://regenerosa.wixsite.com/regenerosacollective
-> * bannerImg: 
-> * logoImg: 
 > * userGithub: regenerosa
 > * projectGithub: 
 > * projectTwitter: regenerosa

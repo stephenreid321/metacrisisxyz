@@ -99,12 +99,7 @@ In this fantastical new world, the power of collective cultural curation serves 
 Embrace the magic of collective cultural curation, and together, we will embark on a breathtaking journey toward a new dawn of imagination and connection.
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1681229673412
-> * id: 10:0x8e1bD5Da87C14dd8e08F7ecc2aBf9D1d558ea174:79
 > * website: https://cultureblocks.world
-> * bannerImg: bafkreif6ub4lbadwasp7bjmq2izcmtvsvpz52gzdvraxzdkiovolkc7qwm
-> * logoImg: bafkreigri5ddowdjhvgbet2jdca3s7fax5bixejivn4aqdwgjsj62snaem
 > * userGithub: freo42069
 > * projectGithub: culture-blocks
 > * projectTwitter: Culture_Blocks

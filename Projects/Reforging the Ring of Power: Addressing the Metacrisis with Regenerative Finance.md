@@ -124,12 +124,7 @@ Reforging the Ring of Power is a critical component for addressing the Metacrisi
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682111148501
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:824
 > * website: https://linktr.ee/reforgethering
-> * bannerImg: bafkreifgjdjefxr5ewjaz4abjc4ynacvht2fbru2fefvyapuimnlj7o3ei
-> * logoImg: bafkreieabrlsockcqqdekqt3btcsfjo5d32vednus4fctbrimdtwajqxqq
 > * userGithub: 
 > * projectGithub: 
 > * projectTwitter: ReforgeTheRing

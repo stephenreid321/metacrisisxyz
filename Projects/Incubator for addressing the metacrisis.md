@@ -38,12 +38,7 @@ About me:
 I have been working in DAOs for two years, my expertise is in meta-governance where i offer my opinions and lead strategic initiatives in DAOs such as BanklessDAO, 1inch, VitaDAO etc...
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1681393060597
-> * id: 10:0x8e1bD5Da87C14dd8e08F7ecc2aBf9D1d558ea174:93
 > * website: https://tinyurl.com/metacrisis-incubator
-> * bannerImg: 
-> * logoImg: bafkreiawva2i4c27sth35kjyjt67ef7v3e7pfspthomnnd4z4xm2ivcwz4
 > * userGithub: 
 > * projectGithub: 
 > * projectTwitter: 

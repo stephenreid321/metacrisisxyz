@@ -29,12 +29,7 @@ The videos we will create will do the following.
 We are confident that once enough individuals are well inspired and educated on these subjects, institutions and public administration will follow and completely restructure society to empower everybody to live fulfilling and happy lives of sustainable abundance. 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682085194333
-> * id: 250:0x8e1bD5Da87C14dd8e08F7ecc2aBf9D1d558ea174:179
 > * website: https://prosocialise.org
-> * bannerImg: 
-> * logoImg: bafkreigvcpdpyk6qlszbdgusnwayrpd6gv4b7i4mplirrzztqn3ex7jcwm
 > * userGithub: Prosocialise
 > * projectGithub: 
 > * projectTwitter: prosocialisefnd

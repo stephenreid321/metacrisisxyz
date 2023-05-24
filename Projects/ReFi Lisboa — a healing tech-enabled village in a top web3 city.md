@@ -167,12 +167,7 @@ As of today, all funds are managed by a fresh multi-sig on Ethereum:
 Please support regeneration in Lisbon!
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682092645129
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:759
 > * website: https://twitter.com/ReFiLisboa
-> * bannerImg: bafkreietzuoejv5ojrihbjvnfxdf4qpudxjbz6vj3mu7td25zdix53f6lm
-> * logoImg: bafkreif5nzo3xi3fo2fj3lqs2cjdrp3qkhl3skuhyugkjaxjjuiff6sdqu
 > * userGithub: 
 > * projectGithub: 
 > * projectTwitter: ReFiLisboa

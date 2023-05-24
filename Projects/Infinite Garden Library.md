@@ -41,12 +41,7 @@ As a Creative Director with Gitcoin, my art helped fundraise over half a million
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1681939759382
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:572
 > * website: https://www.infinitegarden.art/cards
-> * bannerImg: bafkreiaomqv6ppasiefusycw7oaksrymrcnjh7mnixg2tftt3sp6uo6nzq
-> * logoImg: bafkreibn4glbencv75xr7tfesllmk5xobxtgzniiybv7o7h23mue3vubom
 > * userGithub: 
 > * projectGithub: 
 > * projectTwitter: mettahead

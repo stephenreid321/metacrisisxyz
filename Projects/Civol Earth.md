@@ -43,12 +43,7 @@ Civol intends to fully embody the spirit of web3. Built on the Internet Computer
 We're now raising a seed round to cover the project through Beta launch and CVL token distribution. We would very much like funding to come from the Metacrisis community, and all who understand that Moloch is actually the greatest threat to human existence.
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1681948416000
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:585
 > * website: https://civol.earth
-> * bannerImg: bafkreibityyjzs6modomvqgqormpdmzlhr63necz35dmcrsvvi63dc6phm
-> * logoImg: bafkreibwiy4urnkwogl3gg4gmnilx7eavoepku7xzmvt67rbcyeuxaq2uu
 > * userGithub: CarlCarpenter
 > * projectGithub: 
 > * projectTwitter: civolian

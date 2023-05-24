@@ -32,12 +32,7 @@ The second release will add zero knowledge property. Assuming the response is st
  libchokepoint enables a buyer on chokepoint.exchange to prove to verifiers that he has sent the seller x amount of CBDC, without disclosing any other information. The slight problem here is that it implements an interactive protocol, thus smart contracts can't be a verifier. We mitigate this problem by utilizing EigenLayer restaking. Each restaked node will play the interactive game with buyers as a verifier, verify whether or not the the buyer has actually sent the seller CBDC, vote for the verification result on the chain. The restaked nodes who have voted for the majority will be paid transaction fees. Those who have voted against the majority will be slashed.
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1681761283669
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:453
 > * website: https://chokepoint.exchange
-> * bannerImg: bafkreieku2kopspxqvlvr4hpj6tnrjegkxny5vaqcjoka6oca7xqhdztey
-> * logoImg: bafkreid6xbaom37fnurpouwz5wckdodnciv3bzeipph36uk27ay6lmzaau
 > * userGithub: chokepoint-exchange
 > * projectGithub: chokepoint-dao
 > * projectTwitter: chokepoint_dao

@@ -62,12 +62,7 @@ By supporting the Glo Foundation, you help fund our operational costs towards gr
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1679057727413
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:284
 > * website: https://glodollar.org
-> * bannerImg: bafybeihh625dxury6vaw5hhczmtmwaqj62vg2yzaj4lcngp5n5aavqmrve
-> * logoImg: bafkreie6dgcfv4jz4zoqvbq5shcu4vt45ddijyah5zcfpoqjhusztvg4yq
 > * userGithub: gglucass
 > * projectGithub: Glo-Foundation
 > * projectTwitter: glodollar

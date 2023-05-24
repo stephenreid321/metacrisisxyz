@@ -73,12 +73,7 @@ LFG!
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1681768393347
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:459
 > * website: https://gospelofchange.com/
-> * bannerImg: bafkreigjec5fkeynhwyxrqaidqudfbwmthdrkj35napjs4pjxokuhbbdte
-> * logoImg: bafkreierfr4572uvn6lzcaqepyk47xhrotg34ftw5q2kpvy5dgsxgfiaqu
 > * userGithub: gospelofchange
 > * projectGithub: Wise-Crowds-Liberating-Structures
 > * projectTwitter: WiseCrowdsLSDAO

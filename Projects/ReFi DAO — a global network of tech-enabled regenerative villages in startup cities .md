@@ -252,12 +252,7 @@ Find yourself at home in a local node event near you. Every third Thursday of ev
 Let’s. F*cking. Go. 🔥
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1682102335495
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:797
 > * website: https://www.refidao.com/
-> * bannerImg: bafkreig35z6xqi2glirajxwsyuja6ukm367gd6aroriamypbbx5mi2a5uy
-> * logoImg: bafkreidgvrng4kk4nyezqwjfjjfgdzjbeghm3txvhwe2fj7kk7jiqtvkzm
 > * userGithub: 
 > * projectGithub: 
 > * projectTwitter: refidaoist

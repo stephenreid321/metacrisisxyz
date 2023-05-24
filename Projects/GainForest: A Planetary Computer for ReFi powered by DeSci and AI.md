@@ -29,12 +29,7 @@ Explore our Green Globe Hub at https://maps.gainforest.app and check out our Hug
 
 
 > [!info] Metadata
-> * lastUpdated: 0
-> * createdAt: 1681786809517
-> * id: 1:0x03506eD3f57892C85DB20C36846e9c808aFe9ef4:474
 > * website: https://gainforest.earth
-> * bannerImg: bafkreihq3qxjvo53rxnixr6b62u6aztmp6etgq7crdmxycfwo7mmiudoue
-> * logoImg: bafkreic57lp653takivr66ihxtgu4r4xcgwmonk3aaxt53rl2pclp6szdi
 > * userGithub: daviddao
 > * projectGithub: GainForest
 > * projectTwitter: gainforestnow
