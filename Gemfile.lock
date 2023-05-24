@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/stephenreid321/markdown_record.git
-  revision: 2be4c0e537678022fb63b18fd1bf9fbf6235b7a0
+  revision: 27e5871c2a3242d172c8510b1be6336c642452ee
   specs:
-    markdown_record (0.0.1)
+    markdown_record (0.0.2)
       activesupport
       faraday
       nokogiri
@@ -10,25 +10,25 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (7.0.4.2)
+    activesupport (7.0.4.3)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
       tzinfo (~> 2.0)
     ast (2.4.2)
-    concurrent-ruby (1.2.0)
+    concurrent-ruby (1.2.2)
     dotenv (2.8.1)
-    faraday (2.7.4)
+    faraday (2.7.5)
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (3.0.2)
-    i18n (1.12.0)
+    i18n (1.13.0)
       concurrent-ruby (~> 1.0)
     json (2.6.3)
-    mini_portile2 (2.8.1)
-    minitest (5.17.0)
-    nokogiri (1.14.2)
-      mini_portile2 (~> 2.8.0)
+    mini_portile2 (2.8.2)
+    minitest (5.18.0)
+    nokogiri (1.15.1)
+      mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     parallel (1.22.1)
     parser (3.2.1.0)
