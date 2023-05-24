@@ -1,6 +1,6 @@
 This is a Ruby/OpenAI-enhanced Obsidian knowledgebase for [metacrisis.xyz](https://metacrisis.xyz/).
 
-💬 Questions/comments? Email hello@metacrisis.xyz
+💬 Questions/comments? Email hello@metacrisis.xyz  
 👾 Github repo for this knowledgebase (PRs welcome): https://github.com/stephenreid321/metacrisisxyz
 
 You can find definitions of metacrisis-related terms with links to where they are used in podcasts under:
