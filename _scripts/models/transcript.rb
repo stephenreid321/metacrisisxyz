@@ -26,7 +26,7 @@ class Transcript < MarkdownRecord
       puts "#{i + 1}/#{YOUTUBE_IDS.count}"
       puts youtube_id
 
-      if t = Transcript.all.find { |t| t[:youtube_id] == youtube_id }
+      if (t = Transcript.all.find { |t| t[:youtube_id] == youtube_id })
         title = t[:title]
         published_at = t[:published_at]
         puts "found #{title}"
