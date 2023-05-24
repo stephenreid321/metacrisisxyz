@@ -2,6 +2,7 @@
 tags: transcript
 aliases:
 youtube_id: SkItTnRJ_1M
+published_at: '2021-06-09'
 ---
 
 <div class="yt-container"><iframe src="https://www.youtube.com/embed/SkItTnRJ_1M"></iframe></div>

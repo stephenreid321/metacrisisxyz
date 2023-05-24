@@ -12,6 +12,19 @@ Please note definitions are currently AI-generated and not always accurate.
 
 Find transcripts of relevant podcasts including timestamped links under `Transcripts`.
 
+## Most recent podcasts
+
+  * [[Daniel Schmachtenberger: "Artificial Intelligence and The Superorganism" – The Great Simplification]] 2023-05-17
+  * [[Daniel Schmachtenberger: Ai Wars & The Metacrisis]] 2023-05-16
+  * [[DO 140  - Gregory Landua and Daniel Schmachtenberger]] 2023-05-12
+  * [[Daniel Schmachtenberger – Developing a Deeper Understanding of Life]] 2023-04-20
+  * [[Misalignment, AI & Moloch – Daniel Schmachtenberger and Liv Boeree]] 2023-03-30
+  * [[Podcast: Why we can still avoid imminent extinction with Daniel Schmachtenberger]] 2023-03-15
+  * [[Transforming Education to Prevent Catastrophe – Zak Stein, ep92]] 2023-03-08
+  * [[Deep Ocean Mining and De-Carbonization (M. Bozesan: D. Schmachtenberger, G. Barron, A. Smitsman)]] 2023-02-11
+  * [[Summary of the 'Third Attractor Framework' by Daniel Schmachtenberger]] 2023-02-06
+  * [[MetacrisisDAO with Daniel Schmachtenberger – Green Pill 84]] 2023-01-31
+
 ## Daniel's appearances on the GreenPill podcast
 
 ![[Pasted image 20230215151717.png]]

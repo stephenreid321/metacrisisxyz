@@ -2,7 +2,17 @@ class Transcript < MarkdownRecord
   TITLE_REQUIREMENTS = nil # ['game b', 'daniel schmachtenberger']
 
   def self.fields
-    %w[tags aliases youtube_id]
+    %w[tags aliases youtube_id published_at]
+  end
+
+  def self.get_title(r: nil, youtube_id: nil)
+    r ||= Faraday.get("https://www.youtube.com/watch?v=#{youtube_id}")
+    CGI.unescapeHTML(r.body.match(%r{<title>(.+)</title>})[1]).force_encoding('UTF-8').gsub('|', '–').gsub('/', ' ').gsub('#', '').gsub(' - YouTube', '')
+  end
+
+  def self.get_published_at(r: nil, youtube_id: nil)
+    r ||= Faraday.get("https://www.youtube.com/watch?v=#{youtube_id}")
+    r.body.match(/<meta itemprop="datePublished" content="([\d-]+)">/)[1]
   end
 
   def self.existing_youtube_ids
@@ -18,10 +28,12 @@ class Transcript < MarkdownRecord
 
       if t = Transcript.all.find { |t| t[:youtube_id] == youtube_id }
         title = t[:title]
+        published_at = t[:published_at]
         puts "found #{title}"
       else
         r = Faraday.get("https://www.youtube.com/watch?v=#{youtube_id}")
-        title = CGI.unescapeHTML(r.body.match(%r{<title>(.+)</title>})[1]).force_encoding('UTF-8').gsub('|', '–').gsub('/', ' ').gsub('#', '').gsub(' - YouTube', '')
+        title = get_title(r: r)
+        published_at = get_published_at(r: r)
         puts "fetched #{title}"
       end
 
@@ -41,7 +53,7 @@ class Transcript < MarkdownRecord
       body = Nokogiri::XML(xml.gsub('</text><text', '</text> <text')).text
 
       body = %(<div class="yt-container"><iframe src="https://www.youtube.com/embed/#{youtube_id}"></iframe></div>\n\n#{body})
-      transcript = Transcript.create(title: title, tags: 'transcript', youtube_id: youtube_id, body: body)
+      transcript = Transcript.create(title: title, tags: 'transcript', youtube_id: youtube_id, published_at: published_at, body: body)
       transcript = Transcript.tidy(transcript)
       transcript = Transcript.backlink(transcript, concepts_with_aliases)
 

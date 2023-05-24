@@ -2,6 +2,7 @@
 tags: transcript
 aliases:
 youtube_id: MRV-ESY6Obs
+published_at: '2021-06-28'
 ---
 
 <div class="yt-container"><iframe src="https://www.youtube.com/embed/MRV-ESY6Obs"></iframe></div>

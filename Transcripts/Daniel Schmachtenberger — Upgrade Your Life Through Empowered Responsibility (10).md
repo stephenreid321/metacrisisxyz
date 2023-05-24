@@ -2,6 +2,7 @@
 tags: transcript
 aliases:
 youtube_id: DcNG-gGxroY
+published_at: '2018-02-26'
 ---
 
 <div class="yt-container"><iframe src="https://www.youtube.com/embed/DcNG-gGxroY"></iframe></div>

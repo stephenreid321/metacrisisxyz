@@ -2,6 +2,7 @@
 tags: transcript
 aliases:
 youtube_id: pyJJ-mNcmK0
+published_at: '2023-03-15'
 ---
 
 <div class="yt-container"><iframe src="https://www.youtube.com/embed/pyJJ-mNcmK0"></iframe></div>

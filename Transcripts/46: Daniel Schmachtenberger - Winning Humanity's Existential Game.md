@@ -2,6 +2,7 @@
 tags: transcript
 aliases:
 youtube_id: IfoPitvLY7c
+published_at: '2017-10-16'
 ---
 
 <div class="yt-container"><iframe src="https://www.youtube.com/embed/IfoPitvLY7c"></iframe></div>

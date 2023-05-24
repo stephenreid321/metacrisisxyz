@@ -2,6 +2,7 @@
 tags: transcript
 aliases:
 youtube_id: dLrwk_fKtco
+published_at: '2023-02-11'
 ---
 
 <div class="yt-container"><iframe src="https://www.youtube.com/embed/dLrwk_fKtco"></iframe></div>

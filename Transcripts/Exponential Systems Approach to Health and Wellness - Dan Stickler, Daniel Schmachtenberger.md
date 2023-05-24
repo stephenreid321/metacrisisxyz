@@ -2,6 +2,7 @@
 tags: transcript
 aliases:
 youtube_id: BIKDNStlnL4
+published_at: '2020-07-19'
 ---
 
 <div class="yt-container"><iframe src="https://www.youtube.com/embed/BIKDNStlnL4"></iframe></div>

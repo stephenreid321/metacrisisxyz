@@ -2,6 +2,7 @@
 tags: transcript
 aliases:
 youtube_id: QAd9O6a6R5w
+published_at: '2018-07-17'
 ---
 
 <div class="yt-container"><iframe src="https://www.youtube.com/embed/QAd9O6a6R5w"></iframe></div>

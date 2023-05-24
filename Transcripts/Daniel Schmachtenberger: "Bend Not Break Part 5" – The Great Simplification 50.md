@@ -2,6 +2,7 @@
 tags: transcript
 aliases:
 youtube_id: Kep8Fi_rUUI
+published_at: '2022-12-19'
 ---
 
 <div class="yt-container"><iframe src="https://www.youtube.com/embed/Kep8Fi_rUUI"></iframe></div>

@@ -2,6 +2,7 @@
 tags: transcript
 aliases:
 youtube_id: mPHUN18BbNo
+published_at: '2022-09-11'
 ---
 
 <div class="yt-container"><iframe src="https://www.youtube.com/embed/mPHUN18BbNo"></iframe></div>

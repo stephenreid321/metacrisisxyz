@@ -2,6 +2,7 @@
 tags: transcript
 aliases:
 youtube_id: XQpoGL0yIFE
+published_at: '2021-05-28'
 ---
 
 <div class="yt-container"><iframe src="https://www.youtube.com/embed/XQpoGL0yIFE"></iframe></div>
