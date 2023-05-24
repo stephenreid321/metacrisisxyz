@@ -11,4 +11,4 @@ An embedded growth obligation is a structural requirement for a civilization to 
 > [!info] Podcasts mentioning this term most frequently
 > * [[Daniel Schmachtenberger: Bend not Break: Maximum Power & Hyper Agents – The Great Simplification 20]] (7)
 > * [[Daniel Schmachtenberger “Bend Not Break Part 1: Energy Blindness” – The Great Simplification 05]] (6)
-> * [[Daniel Schmachtenberger: "Bend Not Break Part 5" – The Great Simplification 50]] (4)
+> * [[DO 140  - Gregory Landua and Daniel Schmachtenberger]] (4)

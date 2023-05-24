@@ -9,6 +9,6 @@ The printing press is one of the most important inventions in history and has re
 > [[printing press]], [[industrial revolution]], [[tool making]], [[factory farm]], [[social structure]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * [[Daniel Schmachtenberger –– Towards a Radical Cultural Enlightenment]] (4)
+> * [[Daniel Schmachtenberger: Ai Wars & The Metacrisis]] (5)
 > * [[Superstructures with Daniel Schmachtenberger – Green Pill 32]] (4)
-> * [[Parallax: Deep Future - with Daniel Schmachtenberger and Alexander Bard]] (3)
+> * [[Daniel Schmachtenberger –– Towards a Radical Cultural Enlightenment]] (4)

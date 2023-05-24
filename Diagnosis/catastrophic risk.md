@@ -10,5 +10,5 @@ Catastrophic risk is the possibility of a single event or series of events leadi
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 1)]] (34)
+> * [[Daniel Schmachtenberger: Ai Wars & The Metacrisis]] (14)
 > * [[Daniel Schmachtenberger: Steering Civilization Away from Self-Destruction – Lex Fridman Podcast 191]] (10)
-> * [[Daniel Schmachtenberger – Existential Risk and Phase Shifting to a New World System]] (9)

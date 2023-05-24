@@ -11,3 +11,4 @@ Regenerative agriculture is a holistic, systems-based approach to farming, that 
 > [!info] Podcasts mentioning this term most frequently
 > * [[59: Daniel Schmachtenberger - New Civilization Design Beyond Existential Risks, Pt 3]] (1)
 > * [[Digital Porch: Session 4 w  Daniel Schmachtenberger]] (1)
+> * [[DO 140  - Gregory Landua and Daniel Schmachtenberger]] (1)

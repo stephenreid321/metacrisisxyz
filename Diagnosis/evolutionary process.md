@@ -11,4 +11,4 @@ An evolutionary process is a holistic conception of adaptation, growth, and lear
 > [!info] Podcasts mentioning this term most frequently
 > * [[Civilization as a Paperclip Maximizer - Daniel Schmachtenberger]] (4)
 > * [[Norrsken Sessions l Daniel Schmachtenberger]] (3)
-> * [[SURVIVING the God-Like Technology That Can Kill Us All – Daniel Schmachtenberger on AMP]] (3)
+> * [["Learning to be in the world" Dinner&Talk @NAV with Nora Bateson & Daniel Schmachtenberger  HD1080p]] (3)

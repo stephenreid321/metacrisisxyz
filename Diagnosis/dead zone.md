@@ -11,4 +11,4 @@ Dead zones refer to regions of the ocean depleted of the dissolved oxygen necess
 > [!info] Podcasts mentioning this term most frequently
 > * [[The Power of Gods with Daniel Schmachtenberger S2 [Ep 16]]] (5)
 > * [[The Metacrisis with Daniel Schmachtenberger – Part 1 – Green Pill 26]] (4)
-> * [[57: Daniel Schmachtenberger - What Causes Existential Risks? Pt. 1]] (3)
+> * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 1)]] (3)

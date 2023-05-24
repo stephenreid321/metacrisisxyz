@@ -11,4 +11,4 @@ Mistake Theory is an ethical framework that conceives of outcomes resulting from
 > [!info] Podcasts mentioning this term most frequently
 > * [[Superstructures with Daniel Schmachtenberger – Green Pill 32]] (13)
 > * [[DarkHorse Podcast with Daniel Schmachtenberger & Bret Weinstein]] (6)
-> * [[EXPONENTIAL TECHNOLOGY, TRANSITIONARY SYSTEMS, AND GAME B WITH DANIEL SCHMACHTENBERGER]] (5)
+> * [[Markets, Exponential Technology & Transitionary Systems - Daniel Schmachtenberger]] (5)

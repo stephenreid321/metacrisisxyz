@@ -10,5 +10,5 @@ Social structure is a pattern of relations between different entities in a socie
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[Superstructures with Daniel Schmachtenberger – Green Pill 32]] (18)
+> * [[DO 140  - Gregory Landua and Daniel Schmachtenberger]] (14)
 > * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 2)]] (10)
-> * [[Norrsken Sessions l Daniel Schmachtenberger]] (10)

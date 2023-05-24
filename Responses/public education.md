@@ -11,4 +11,4 @@ Public education is the provision of publicly funded or publicly sponsored educa
 > [!info] Podcasts mentioning this term most frequently
 > * [[A Republic, If You Can Keep It w  Daniel Schmachtenberger @ Zion 2.0]] (11)
 > * [[rp daily: a conversation that will blow your mind with Daniel Schmachtenberger]] (5)
-> * [[Homegrown Humans - Daniel Schmachtenberger - Collective Intelligence - 10-11-22]] (3)
+> * [[War on Sensemaking V, Daniel Schmachtenberger]] (3)

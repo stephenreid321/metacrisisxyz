@@ -11,4 +11,4 @@ Conflict Theory is a sociological analytical framework which examines how human 
 > [!info] Podcasts mentioning this term most frequently
 > * [[Superstructures with Daniel Schmachtenberger – Green Pill 32]] (14)
 > * [[DarkHorse Podcast with Daniel Schmachtenberger & Bret Weinstein]] (4)
-> * [[The Last Campfire: Highlights (our final film!)]] (3)
+> * [[EP80 Daniel Schmachtenberger on Better Sensemaking]] (3)

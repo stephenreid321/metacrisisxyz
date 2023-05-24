@@ -11,4 +11,4 @@ Global Governance refers to the actions and decisions of global institutions, or
 > [!info] Podcasts mentioning this term most frequently
 > * [[Daniel Schmachtenberger: "Modeling the Drivers of the Metacrisis” – The Great Simplification 42]] (5)
 > * [[Daniel Schmachtenberger – Existential Risk and Phase Shifting to a New World System]] (5)
-> * [[What went wrong when society grew beyond Dunbar's number – Daniel Schmachtenberger and Lex Fridman]] (4)
+> * [[Podcast: Why we can still avoid imminent extinction with Daniel Schmachtenberger]] (4)

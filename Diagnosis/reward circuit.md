@@ -10,5 +10,5 @@ A reward circuit, also known as the hedonic circuit, is a set of neural pathways
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[Saving Civilization: Healthcare, Tech, Democracy (w Daniel Schmachtenberger)]] (23)
-> * [[Social media is a democracy killer (Daniel Schmachtenberger & Bret Weinstein)]] (16)
 > * [[DarkHorse Podcast with Daniel Schmachtenberger & Bret Weinstein]] (16)
+> * [[Social media is a democracy killer (Daniel Schmachtenberger & Bret Weinstein)]] (16)

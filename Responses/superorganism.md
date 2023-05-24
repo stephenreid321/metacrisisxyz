@@ -10,5 +10,5 @@ A superorganism can be described as a complex social or ecological system compos
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[Daniel Schmachtenberger: Bend not Break: Maximum Power & Hyper Agents – The Great Simplification 20]] (20)
+> * [[Daniel Schmachtenberger: "Artificial Intelligence and The Superorganism" – The Great Simplification]] (19)
 > * [[Daniel Schmachtenberger: "Modeling the Drivers of the Metacrisis” – The Great Simplification 42]] (15)
-> * [[Daniel Schmachtenberger “Bend Not Break Part 1: Energy Blindness” – The Great Simplification 05]] (12)

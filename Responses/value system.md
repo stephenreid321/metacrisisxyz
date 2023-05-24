@@ -9,6 +9,6 @@ A ‘value system’ is the myriad of beliefs, attitudes, and cultural norms whi
 > [[collective intelligence]], [[systems thinking]], [[thought experiment]], [[social structure]], [[decision making]]
 
 > [!info] Podcasts mentioning this term most frequently
+> * [[Daniel Schmachtenberger: Ai Wars & The Metacrisis]] (9)
 > * [[Superstructures with Daniel Schmachtenberger – Green Pill 32]] (8)
 > * [[Saving Civilization: Healthcare, Tech, Democracy (w Daniel Schmachtenberger)]] (6)
-> * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 2)]] (6)

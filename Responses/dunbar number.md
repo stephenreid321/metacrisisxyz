@@ -10,5 +10,5 @@ The Dunbar Number refers to the cognitive limit to the number of social relation
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[Daniel Schmachtenberger on The Portal (with host Eric Weinstein), Ep. 027 - On Avoiding Apocalypses]] (7)
-> * [[Daniel Schmachtenberger: Steering Civilization Away from Self-Destruction – Lex Fridman Podcast 191]] (4)
 > * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 1)]] (4)
+> * [[Daniel Schmachtenberger: Steering Civilization Away from Self-Destruction – Lex Fridman Podcast 191]] (4)

@@ -11,4 +11,4 @@ The term 'superstructure' can be used to refer to the collective set of cultural
 > [!info] Podcasts mentioning this term most frequently
 > * [[Superstructures with Daniel Schmachtenberger – Green Pill 32]] (18)
 > * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 2)]] (14)
-> * [[SURVIVING the God-Like Technology That Can Kill Us All – Daniel Schmachtenberger on AMP]] (7)
+> * [[DO 140  - Gregory Landua and Daniel Schmachtenberger]] (9)

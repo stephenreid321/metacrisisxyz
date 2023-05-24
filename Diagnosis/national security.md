@@ -11,4 +11,4 @@ National security refers to the integrity of a state, its interests, its citizen
 > [!info] Podcasts mentioning this term most frequently
 > * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 1)]] (8)
 > * [[Covid 19 Situational Assessment, Risk Landscape & Possible Solutions, Daniel Schmachtenberger]] (6)
-> * [[Converting Moloch from Sith to Jedi w  Daniel Schmachtenberger]] (5)
+> * [[rp daily: a conversation that will blow your mind with Daniel Schmachtenberger]] (5)

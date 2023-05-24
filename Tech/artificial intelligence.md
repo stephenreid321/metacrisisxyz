@@ -9,6 +9,6 @@ Artificial Intelligence (AI) is an interdisciplinary field of study that seeks t
 > [[decision making]], [[network dynamics]], [[complexity science]], [[game theory]], [[exponential tech]]
 
 > [!info] Podcasts mentioning this term most frequently
+> * [[Daniel Schmachtenberger: "Artificial Intelligence and The Superorganism" – The Great Simplification]] (15)
 > * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 1)]] (10)
 > * [[Civilization as a Paperclip Maximizer - Daniel Schmachtenberger]] (9)
-> * [[Misalignment, AI & Moloch – Daniel Schmachtenberger and Liv Boeree]] (8)

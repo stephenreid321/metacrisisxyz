@@ -11,4 +11,4 @@ A bioweapon is a weapon of mass destruction created through the deliberate use o
 > [!info] Podcasts mentioning this term most frequently
 > * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 1)]] (4)
 > * [[Misalignment, AI & Moloch – Daniel Schmachtenberger and Liv Boeree]] (3)
-> * [[Making Sense of Sensemaking: Daniel Schmachtenberger, Jamie Wheal, Jordan Hall]] (2)
+> * [[Daniel Schmachtenberger: Ai Wars & The Metacrisis]] (3)

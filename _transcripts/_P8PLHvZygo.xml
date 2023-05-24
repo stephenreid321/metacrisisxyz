@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="utf-8" ?><transcript><text start="0.0" dur="7.62">Artificial intelligence is in the news. We hear 
+about ChatGPT, making people more efficient,  </text><text start="7.62" dur="9.78">learning quicker. We hear about AI replacing 
+artists and mid-level programmers. We see deep  </text><text start="17.4" dur="8.82">fakes and fake beautiful baby peacocks that are 
+much cuter than real baby peacocks. And lots of  </text><text start="26.22" dur="4.86">people are debating about the benefits 
+and risks of artificial intelligence.  </text><text start="32.16" dur="5.16">But today&apos;s guest is my colleague 
+and friend, Daniel Schmachtenberger,  </text><text start="37.32" dur="10.26">who is back for a deep dive on how artificial 
+intelligence accelerates the superorganism dynamic  </text><text start="47.58" dur="8.46">with respect to extraction, climate and many 
+of the planetary boundary limits that we face.
+ </text><text start="57.78" dur="3.78">I have not heard this angle on 
+artificial intelligence before.  </text><text start="62.16" dur="7.74">I think it&apos;s really important to have this 
+conversation and throughout this talk with Daniel,  </text><text start="69.9" dur="7.5">we talked about AI, but underpinning it all was 
+what is intelligence and how has intelligence  </text><text start="78.84" dur="7.26">in groups in human history out-competed wisdom 
+restraint of different cultures and different  </text><text start="86.1" dur="8.7">groups of humans? This is an intense, dense 
+three and a half hour conversation and we  </text><text start="94.8" dur="5.46">weren&apos;t even done. We&apos;ll be back in the next 
+month or so to have the follow on questions.  </text><text start="102.78" dur="4.5">It&apos;s probably one of the better conversations 
+I&apos;ve ever had on The Great Simplification,  </text><text start="108.54" dur="6.78">and I think it&apos;s really important to merge 
+the environmental consequences of AI into  </text><text start="115.32" dur="4.62">our cultural discourse. Here&apos;s my 
+friend Daniel Schmachtenberger.
+ </text><text start="131.76" dur="3.84">Hello my friend.
+Hey Nate. Good to be back with you.
+ </text><text start="135.6" dur="6.42">I prepare a lot for my podcasts. I read people&apos;s 
+stuff, I prepare questions, I think about it,  </text><text start="142.02" dur="5.94">but with you, I&apos;m like, I got a appointment with 
+Daniel at 4:00 PM. I go for a bike ride, I go play  </text><text start="147.96" dur="5.1">with my chickens and I just show up and we have a 
+conversation. So I&apos;m hoping this&apos;ll work because  </text><text start="153.06" dur="9.96">this conversation actually is the culmination of 
+how our relationship started a couple, three years  </text><text start="163.02" dur="9.24">ago. Remember we came to Washington, DC for a 
+five or six day meeting where I wanted to discuss  </text><text start="172.26" dur="7.86">energy, money, technology and how this combined 
+into a superorganism. And you were focused  </text><text start="180.12" dur="11.22">on existential risks and particularly oncoming 
+innovation in artificial intelligence and how that  </text><text start="191.34" dur="8.04">led to a lot of potential unknown destabilizing 
+risks for society. And now we&apos;ve educated each  </text><text start="199.38" dur="8.82">other after a couple years. And today rather than 
+continue our bend versus break series, I thought  </text><text start="208.2" dur="8.82">we would merge these two lines of thought on 
+artificial intelligence and the superorganism.
+ </text><text start="217.68" dur="6.36">You and I have done five parts so far in 
+this bend versus break series. Given all  </text><text start="224.04" dur="5.1">the things that are in the public attention 
+on AI, we decided to do this one. I imagine  </text><text start="229.14" dur="5.76">some of the people will have heard that series 
+and we can reference the concepts for anyone  </text><text start="234.9" dur="6.3">who hasn&apos;t. Do you want to give a quick recap 
+on superorganism so we can relate it and maybe  </text><text start="242.22" dur="4.74">superorganism and metacrisis? And those are kind 
+of frames we&apos;ve established that we&apos;re going to  </text><text start="246.96" dur="10.98">be bringing into thinking about AI now?
+Sure. So humans are a social species and in  </text><text start="257.94" dur="9.84">the modern world, we self-organize as family 
+units, as small businesses, as corporations,  </text><text start="267.78" dur="7.92">as nation states, as an entire global economic 
+system around profits. Profits are our goal  </text><text start="275.7" dur="10.62">and profits lead to GDP or GWP globally. And 
+what we need for that GDP is three things. We  </text><text start="286.32" dur="6.78">need energy, we need materials, and we need 
+technology or in your terms, information.  </text><text start="294.3" dur="9.0">And we have outsourced the wisdom and the decision 
+making of this entire system to the market.  </text><text start="304.14" dur="6.78">And the market is blind to 
+the impacts of this growth.  </text><text start="312.18" dur="9.84">We represent this by money, and money is a claim 
+on energy. And energy from fossil hydrocarbons is  </text><text start="322.02" dur="8.82">incredibly powerful, indistinguishable from magic 
+effectively on human time scales. It&apos;s also not  </text><text start="332.28" dur="8.34">infinite. And as a society we are drawing down the 
+bank account of fossil carbon and non-renewable  </text><text start="341.4" dur="6.3">inputs like cobalt and copper and 
+neodymium and water aquifers and forests,  </text><text start="350.46" dur="2.76">millions of times faster 
+than they were sequestered.
+ </text><text start="353.82" dur="7.32">So there is a recognition that we&apos;re impacting 
+the environment and all of the risk associated  </text><text start="361.14" dur="5.64">with this, you label the meta crisis or 
+the poly crisis or the human predicament,  </text><text start="366.78" dur="6.84">but they&apos;re all tied together. The system fits 
+together, human behavior, energy, materials,  </text><text start="373.62" dur="9.84">money, climate, the environment, governance, 
+the economic system, et cetera. So right now,  </text><text start="383.46" dur="9.06">our entire economic imperative as nations and as 
+a world is to grow the economy partially because  </text><text start="392.52" dur="6.06">that&apos;s what our institutions are set up to 
+do, partially because when we create money  </text><text start="399.3" dur="6.66">primarily from commercial banks, increasingly from 
+central banks, when governments deficit spend,  </text><text start="407.58" dur="7.8">there is no biophysical tether and the interest is 
+not created. So if the interest is not created, it  </text><text start="415.38" dur="8.28">creates a growth imperative for the whole system 
+and we require growth. Now so far the market has  </text><text start="423.66" dur="7.92">dictated this growth, but suddenly there&apos;s a new 
+kid on the block which is artificial intelligence  </text><text start="431.58" dur="4.38">created by prior intelligence, by humans. And 
+that&apos;s what we&apos;re going to talk about today.
+ </text><text start="437.94" dur="5.82">That&apos;s a good frame.
+I&apos;m an educator. I&apos;ve recently been a college  </text><text start="443.76" dur="8.7">professor. My whole role today is to inform and 
+lightly inspire humans towards self-governance,  </text><text start="452.46" dur="10.32">better decisions, better pathways forward. 
+And my trade deals with science and facts  </text><text start="462.78" dur="6.06">and systems ecology. And I&apos;m afraid that AI 
+will spell the end of what we know is true.  </text><text start="470.28" dur="6.72">And on both sides we won&apos;t know what&apos;s true and 
+there will be things that people can grab on  </text><text start="477.0" dur="4.32">the internet that many of which are fake 
+or influenced by artificial intelligence  </text><text start="481.32" dur="7.98">that destroys the social discourse. So that&apos;s one 
+thing I&apos;m worried about AI. The other is will AI  </text><text start="491.22" dur="6.18">accelerate climate change because 
+it will make the superorganism,  </text><text start="497.4" dur="6.0">it would be like playing Super Mario or Donkey 
+Kong or something like that and pressing the turbo  </text><text start="503.4" dur="8.34">button and it makes processes more efficient 
+and it&apos;s just speeds things up, which means  </text><text start="511.74" dur="5.94">more carbon either directly or indirectly 
+more efficiency. It feeds Jevons paradox.
+ </text><text start="519.66" dur="10.74">Another one of my worries is a lot of jobs are 
+going to disappear from AI and how does that  </text><text start="530.4" dur="7.38">factor into the superorganism? So it seems 
+to me that AI both simultaneously makes the  </text><text start="537.78" dur="7.26">superorganism hungrier and more voracious, 
+but also runs the risk of killing the host  </text><text start="546.72" dur="7.32">in several ways. So these are just some of 
+my naive questions, but I think before we get  </text><text start="554.04" dur="8.04">into artificial intelligence, maybe we&apos;ll 
+just start with intelligence and humans,  </text><text start="562.8" dur="6.3">I think previous conversation you and I had, 
+that&apos;s what differentiates us from the rest of  </text><text start="569.1" dur="8.94">the biosphere is our ability to problem solve and 
+use intelligence to grow the scale of our efforts  </text><text start="579.3" dur="8.94">that is coupled with energy and materials 
+always. So maybe you could just unpack how  </text><text start="588.24" dur="5.22">you see the historical role of intelligence 
+before we get to artificial intelligence.
+ </text><text start="594.06" dur="6.54">So I might start in a slightly different place, 
+which is to actually start with a couple cases of  </text><text start="600.6" dur="5.04">AI that are obvious and then we&apos;ll go back 
+to intelligence. The relationship between  </text><text start="605.64" dur="5.94">intelligence and the superorganism itself. Why 
+human intelligence has made a superorganism that  </text><text start="611.58" dur="7.74">is different than animal and natural intelligence 
+made in terms of the nature of ecosystems  </text><text start="619.92" dur="4.32">and then how artificial intelligence relates 
+to those types of human intelligence,  </text><text start="624.24" dur="3.78">not just individually but collectively as 
+you mentioned, mediated by markets or larger  </text><text start="628.02" dur="13.2">types of human collective intelligence systems. 
+And then get to what has to guide direct bind  </text><text start="641.22" dur="6.18">intelligence that it is in service of something 
+that is actually both sustainable and desirable.  </text><text start="648.36" dur="4.86">So let&apos;s talk about just artificial intelligence 
+for a moment to give a couple examples because  </text><text start="653.22" dur="7.02">people have heard since, and the reason it&apos;s 
+up so much since artificial intelligence was  </text><text start="661.62" dur="3.72">kind of innovated in the fifties and 
+some could argue precursors before that.
+ </text><text start="666.6" dur="5.16">The reason it is in the conversation so much 
+currently is the deployment of large language  </text><text start="671.76" dur="7.08">models publicly. And we&apos;re starting with GPT-3 and 
+the speed of the deployment of those relative to  </text><text start="678.84" dur="6.24">any other technologies. GPT-3 getting a hundred 
+million users in, forget exact exactly what  </text><text start="685.08" dur="5.04">it was now six weeks or something, which was 
+radically faster than TikTok&apos;s adoption curve,  </text><text start="690.12" dur="4.26">Facebook&apos;s, YouTube&apos;s, cell phones, anything 
+which were already radically faster than the  </text><text start="694.38" dur="9.3">adoption curve of oil or the plow or anything 
+else. So world changingly powerful technologies  </text><text start="703.68" dur="5.7">at a speed of deployment, which then led to 
+other companies deploying similar things,  </text><text start="709.38" dur="3.84">which led to people building companies on top 
+of them, which leads to irretractability.
+ </text><text start="714.12" dur="6.6">And so the speed of what started to happen between 
+the corporate races, the adoption curves and the  </text><text start="720.72" dur="5.4">dependencies is of course understandably 
+changed the conversation and brought it  </text><text start="726.12" dur="5.34">into the center of mainstream conversation 
+where it had been only in the domain of people  </text><text start="731.46" dur="4.98">paying attention to artificial intelligence or 
+the risks or promises associated previously.  </text><text start="738.24" dur="8.04">So when people talk about AI risk or AI 
+promise of which it has a lot of both,  </text><text start="747.06" dur="5.28">there&apos;s a few things about cognitive bias worth 
+addressing here first, which is a topic you always  </text><text start="752.34" dur="8.34">address on why people come to misunderstand the 
+superorganism and get kind of choice making wrong,  </text><text start="760.68" dur="3.42">get sense making wrong.
+Thank you. That means you  </text><text start="764.1" dur="1.62">actually have watched-
+Of course I have watched and  </text><text start="765.72" dur="6.0">read your things, this is why we&apos;re friends.
+You&apos;re so damn busy that I&apos;m like, Hey Daniel,  </text><text start="771.72" dur="3.72">watch this. And you&apos;re like, oh, I 
+will. But you and I have not talked  </text><text start="775.44" dur="4.68">about cognitive biases, but you&apos;re right, 
+I do talk about them a lot. So carry on.
+ </text><text start="780.96" dur="7.26">So let&apos;s take, there are clusters of 
+cognitive biases that go together to  </text><text start="788.22" dur="4.98">define default worldviews. And they&apos;re not 
+a single cognitive bias, they&apos;re a kind of  </text><text start="793.2" dur="3.36">bunch of them. And you don&apos;t even have 
+to think of it as bias. It&apos;s just like,  </text><text start="798.0" dur="6.54">I mean it&apos;s a strong sounding word, though it&apos;s 
+true. It&apos;s a default basis for the sense making  </text><text start="804.54" dur="5.88">and meaning making on new information people are 
+likely to do first. And so one of them that I  </text><text start="810.42" dur="6.12">think is really worth addressing when it comes to 
+AI is a general orientation to techno optimism or  </text><text start="816.54" dur="9.66">techno pessimism, which is a subset of a general 
+orientation to the progress narrative. And I would  </text><text start="826.2" dur="4.86">argue, and we&apos;ll not spend too long on this, so 
+it actually warrants a whole big discussion.
+ </text><text start="833.04" dur="5.76">I would argue that there are naive versions of 
+the progress narrative. Capitalism is making  </text><text start="838.8" dur="4.8">everything better and better. Democracy 
+is, science is, technology is. Don&apos;t we  </text><text start="843.6" dur="3.9">all like the world much better now that there&apos;s 
+novocaine in antibiotics and infant mortality&apos;s  </text><text start="847.5" dur="4.86">down and so many more total people are fed 
+and we can go to the stars and blah, blah,  </text><text start="853.8" dur="3.12">blah. Obviously there are true 
+parts in everything I just said,  </text><text start="856.92" dur="5.16">but there is a naive version of that that does 
+not factor all the costs that were associated  </text><text start="862.68" dur="5.22">adequately. And there&apos;s a naive 
+version of techno pessimism.  </text><text start="868.86" dur="5.1">So first on the naive version of techno 
+optimism, when we look at the progress narrative,  </text><text start="873.96" dur="5.22">there&apos;s so much that has progressed that if you 
+want to cherry pick those metrics, you can write  </text><text start="879.18" dur="4.14">lots and lots of books about however everything&apos;s 
+getting better and better and nobody would want to  </text><text start="883.32" dur="5.46">be alive at any other time in human history.
+There&apos;s two things that the naive progress is  </text><text start="888.78" dur="7.44">missing. One is the costs like climate change 
+and the oceans and insects and the other is the  </text><text start="896.22" dur="9.24">one time subsidy of non-renewable energy and 
+inputs and the source capacity of the earth,  </text><text start="905.46" dur="6.3">and those are not finite. So those are the 
+two blind spots I think in that narrative.
+ </text><text start="912.36" dur="11.82">So we could say the costs and the sustainability 
+of the story. And so if you talk about the story  </text><text start="924.18" dur="5.04">of progress, particularly like the post 
+modernity version of science technology  </text><text start="929.22" dur="5.4">and the associated social technologies, not 
+just physical tech because capitalism and  </text><text start="934.62" dur="4.5">democracy and international relations are 
+all kind of coordination systems that we  </text><text start="939.12" dur="4.98">can call a social technology, a way of applying 
+intelligence to achieving goals and doing things  </text><text start="944.82" dur="8.58">of which you can consider language in early 
+social technology, which it is. If you ask  </text><text start="954.48" dur="8.04">the many, many indigenous cultures who were 
+genocided or extincted or who have just remnants  </text><text start="962.52" dur="7.38">of their culture left, or if you ask all of the 
+extincted species or all of the endangered species  </text><text start="970.56" dur="5.88">or all of the highly oppressed people, their 
+version of the progress narrative is different.
+ </text><text start="976.44" dur="6.9">And just like the story of history written by 
+winners or losers. But if you add all of those up,  </text><text start="983.34" dur="4.92">the totality of everything that was not the 
+winner&apos;s story is a critique on the progress  </text><text start="988.26" dur="10.2">narrative. And so one way of thinking about it 
+is that the progress narrative is there are some  </text><text start="998.46" dur="3.78">things that we make better. Maybe we make things 
+better for an in-group relative to an out-group.  </text><text start="1003.02" dur="5.04">Maybe we make things better for a class relative 
+to another class for a race relative to another  </text><text start="1008.06" dur="7.2">race for our species relative to the biosphere 
+and the rest of species. Or for some metrics like  </text><text start="1015.8" dur="4.8">whatever metric our organization is 
+tasked with upregulating or GDP or  </text><text start="1020.6" dur="3.6">something relative to lots of other metrics 
+that we are not tasked with optimizing.
+ </text><text start="1025.4" dur="3.66">Or for our generation versus 
+future generations.
+ </text><text start="1029.06" dur="8.1">Exactly. Short term versus long term. And so 
+the question is where it is not a synergistic  </text><text start="1037.16" dur="5.1">satisfier where there are zero sum dynamics that 
+are happening, the things that are progressing  </text><text start="1042.26" dur="4.86">are at the cost of which other things. And we&apos;re 
+not saying that nothing could progress in this  </text><text start="1047.12" dur="5.76">inquiry we&apos;re saying are we calculating that 
+well? And if we factor all of the stakeholders,  </text><text start="1052.88" dur="5.88">meaning not just the ones in the in group but all 
+of the people, and not just all the people but  </text><text start="1058.76" dur="5.04">all the people into the future, and not just all 
+the people but all the other life forms and all  </text><text start="1063.8" dur="7.5">of the definitions of what is worthwhile and then 
+what is a meaningful life, not just GDP, then are  </text><text start="1071.3" dur="3.84">the things that are creating progress, actually 
+creating progress across that whole scope.
+ </text><text start="1075.14" dur="6.78">So I have two replies to that. My first is 
+amen. And my second is you&apos;re advocating for  </text><text start="1081.92" dur="4.5">a wide boundary definition of progress 
+as opposed to a narrow boundary one.
+ </text><text start="1086.42" dur="4.62">And the definition between wide boundary and 
+narrow boundaries. Very related to the topic  </text><text start="1091.04" dur="5.7">of intelligence too. Are our goals narrow 
+goals or are they very inclusive goals?  </text><text start="1097.46" dur="2.7">If we have a goal to improve something,  </text><text start="1101.84" dur="7.26">for whom? Is it for a small set of stakeholders? 
+Is it for a set of stakeholders for a small period  </text><text start="1109.1" dur="6.36">of time? Is it measured in a small set of metrics 
+where in optimizing that, in being effective at  </text><text start="1115.46" dur="5.46">goal achievement, we can actually externalize 
+harm to a lot of other things that also matter.  </text><text start="1121.7" dur="10.38">And whether we&apos;re talking about technology itself 
+or nation state decision making or capitalism or  </text><text start="1132.08" dur="7.14">whatever, we can talk about something where all of 
+the problems in our world we could say have to do,  </text><text start="1139.22" dur="4.2">the human induced problems have to do 
+do with the capacity to innovate at  </text><text start="1143.42" dur="5.64">goal achieving decoupled from picking 
+long-term wide definition good goals.
+ </text><text start="1150.08" dur="5.04">And that doesn&apos;t mean that there is nothing 
+good about the goal. It means that the goal  </text><text start="1155.12" dur="6.6">achievement process is fragmented the world 
+enough that, and sometimes it&apos;s not even perverse,  </text><text start="1161.72" dur="4.74">right? I&apos;m going to get ahead economically and 
+I&apos;m going to fuck the environment and the people  </text><text start="1166.46" dur="4.56">doing slave labor in the mines and I know it and 
+I&apos;m just a sociopath. So I do it. Sometimes it&apos;s  </text><text start="1171.02" dur="7.86">not that. Sometimes it&apos;s we are, the world is 
+complex, nobody can focus on the whole thing.  </text><text start="1178.88" dur="4.38">So we&apos;re going to make say a government that has 
+different branches that focus on different things  </text><text start="1183.26" dur="4.5">so they can specialize in specialization and 
+division of labor allow more total capacity.  </text><text start="1187.76" dur="6.36">And so this group is focused on national security 
+of this type or focused on whatever it is, let&apos;s  </text><text start="1194.12" dur="9.54">say focused on if it&apos;s the UN, world hunger.
+Now is it possible to have a solution to world  </text><text start="1203.66" dur="5.4">hunger - that is where now my organization 
+has specific metrics, how many people are fed,  </text><text start="1209.06" dur="6.96">et cetera, and whether how much of the budget we 
+get next year to be able to do stuff and whether  </text><text start="1216.02" dur="4.68">we get appointed again or elected again, have 
+to do with specific metrics where it is possible  </text><text start="1220.7" dur="7.08">to damage the top soil. It&apos;s possible to use 
+fertilizers and pesticides that will harm the  </text><text start="1227.78" dur="4.38">environment and cause dead zones and oceans and 
+destroy pollinators that advance harm metric. But  </text><text start="1232.16" dur="5.34">if we don&apos;t, there is actually no way to continue 
+within that power structure. This is an example  </text><text start="1237.5" dur="6.36">where it&apos;s not even necessarily perverse 
+in a knowing way, but the structure of it,  </text><text start="1243.86" dur="5.52">the institutional choice making architecture 
+is such that what is being measured for and  </text><text start="1249.38" dur="6.06">optimized and tasked can&apos;t not prioritize some 
+things over others. And that with increasing  </text><text start="1255.44" dur="5.4">capacity to goal achieve what is externalized 
+to the goal is increasingly problematic.
+ </text><text start="1261.86" dur="14.7">So is the narrow boundary focus versus the wide 
+boundary focus, could that itself be a basic  </text><text start="1276.56" dur="8.16">fundamental difference between intelligence and 
+wisdom? And then building on that, if an entity,  </text><text start="1284.72" dur="10.08">a tribe, a nation, a culture focuses on the narrow 
+boundary goals, won&apos;t that out-compete a nation  </text><text start="1295.7" dur="8.28">tribe, a culture that focuses just on the wide 
+boundary, broader multi-variable things, like  </text><text start="1303.98" dur="7.32">fairness or environment or future generations.
+So let&apos;s come back to that definition of wisdom  </text><text start="1311.3" dur="2.34">and the relationship between 
+wisdom and intelligence.  </text><text start="1315.2" dur="5.16">But let&apos;s address that we were saying earlier, 
+there&apos;s a naive version of the progress narrative  </text><text start="1320.36" dur="5.82">or the kind of techno capital optimist narrative. 
+There&apos;s also naive version of the techno pessimist  </text><text start="1326.18" dur="5.88">narrative. The techno pessimist narrative over 
+focuses on all of the costs and externalities  </text><text start="1332.66" dur="5.58">who lost in that system and basically 
+orients in a Luddite way and is like,  </text><text start="1339.92" dur="4.62">no, fuck tech and new things. It was better 
+before. There&apos;s various versions. One is there  </text><text start="1344.54" dur="5.34">was more wisdom before. And this is a dissent 
+from wisdom in terms of cleverness that is  </text><text start="1351.68" dur="7.2">somewhere between less wise and evil.
+The benefits that come from this will be  </text><text start="1358.88" dur="4.74">more like hyper normal stimuli that actually 
+cause more net harm that we&apos;re moving towards  </text><text start="1363.62" dur="5.28">tipping points of catastrophic boundaries for 
+the planet, et cetera. So let&apos;s just not tech  </text><text start="1368.9" dur="11.94">and extreme versions of that look like the Amish. 
+But Unabomber wrote a lot of things on this topic  </text><text start="1383.84" dur="5.46">and they were not dumb things. He was doing a 
+real critique of the advancement of technology  </text><text start="1389.3" dur="6.96">and then being like, how do we not destroy 
+everything if we keep it on this track? Now,  </text><text start="1397.04" dur="4.74">and we&apos;ll also see that there have been indigenous 
+perspectives that wanted to keep indigenous ways,  </text><text start="1401.78" dur="5.76">that wanted to resist certain kinds of adoption 
+of things that would, as far as technological  </text><text start="1407.54" dur="6.9">implementation is considered a non-embrace 
+of progress. Now, you were just mentioning  </text><text start="1415.16" dur="7.5">if tech is associated with goal achieving and 
+some goals have to do with how to upregulate  </text><text start="1422.66" dur="3.36">the benefits of an in-group relative to 
+an out-group, doesn&apos;t tech mean power?
+ </text><text start="1426.02" dur="4.86">Yes. Doesn&apos;t a group that rejects some of it 
+mean less power in the short term? So where  </text><text start="1430.88" dur="5.22">those competitive interests come, particularly 
+if the other side both has tech and the mindset  </text><text start="1436.1" dur="5.88">to use it, does that end up meaning that 
+that doesn&apos;t forward? And we can see that  </text><text start="1443.12" dur="6.9">when China went into Tibet and it was kind 
+of the end of Tibetan culture as it had been,  </text><text start="1452.24" dur="8.7">was that because Tibet was a less good culture, 
+meaning provided less fulfilling life for all of  </text><text start="1460.94" dur="4.44">its people than China and nature was selecting 
+for the truly good thing for the people or the  </text><text start="1465.38" dur="6.06">world or no, we can see that whether we&apos;re talking 
+about Genghis Khan&apos;s intersection with all of the  </text><text start="1472.22" dur="3.42">people he intersected with or Alexander 
+the Greats or whatever that...
+ </text><text start="1475.64" dur="6.42">But that was tech too.
+Yes, yes. That those who innovated  </text><text start="1482.06" dur="6.66">in the technology of warfare, the technology 
+of extraction, the technology of surplus,  </text><text start="1488.72" dur="4.02">the technology of growing populations, 
+coordinating them and being able to use those  </text><text start="1492.74" dur="3.96">growing coordinated populations to continue 
+to advance that thing relative to others.  </text><text start="1497.54" dur="6.18">There were cultures that might have lived in more 
+population sustainability with their environment,  </text><text start="1503.72" dur="4.08">maybe more long-term harmony maybe said, 
+let&apos;s make all our decisions factoring  </text><text start="1507.8" dur="3.12">seven generations ahead and they were 
+just going to lose in war every time.  </text><text start="1511.7" dur="11.46">And so the naive techno negative direction just 
+chooses to not actually influence the future. It&apos;s  </text><text start="1523.16" dur="3.18">going to say, I&apos;m going to choose something 
+because it seems more intrinsically right,  </text><text start="1526.34" dur="4.14">even if it guarantees, we actually have no 
+capacity for enactment of that for the world.  </text><text start="1531.2" dur="3.18">And that&apos;s why I&apos;m calling it naive.
+I don&apos;t understand that.
+ </text><text start="1535.76" dur="2.28">If...
+That last thing. Could you give an example?
+ </text><text start="1538.04" dur="5.76">Yeah. If someone says, I think a particular 
+advancement of, I think advancement of tech  </text><text start="1543.8" dur="6.06">in general focuses on the upsides that are easy 
+to measure. Cause we intended it for that purpose  </text><text start="1549.86" dur="4.08">doesn&apos;t focus on all the long-term, second, 
+third, fourth order downsides that are going  </text><text start="1553.94" dur="3.96">to happen. I don&apos;t want to do that. We want to 
+have a much slower process that pays attention  </text><text start="1557.9" dur="4.56">to those downsides. Only incorporates the things 
+with the right use and guidance and incentives.  </text><text start="1564.14" dur="5.64">It will lose in a war, it will lose in 
+an economic growth to the other cultures  </text><text start="1569.78" dur="3.54">that do the other thing. If you want 
+to take a classic example and go back  </text><text start="1574.7" dur="6.6">to and in, it didn&apos;t happen exactly this way 
+anywhere because it happened in such a different  </text><text start="1581.3" dur="6.54">ways in the Fertile Crescent and in India and 
+whatever. But as a kind of thought experiment  </text><text start="1587.84" dur="4.8">illustration, the plow emerges animal 
+husbandry for being able to use the plow.
+ </text><text start="1592.64" dur="9.0">Now we have to domesticate a bull, or a buffalo, 
+turn it into an oxen. And that involves all the  </text><text start="1601.64" dur="4.2">things it does. It involves castrating it involves 
+having a whip and you stand behind it to get it  </text><text start="1605.84" dur="6.66">to pull the plow for row cropping, whatever. So 
+certain animistic cultures were like, I don&apos;t want  </text><text start="1612.5" dur="5.04">to do this. We&apos;ll hunt a buffalo, but we also will 
+protect the baby buffaloes. We&apos;ll make sure that  </text><text start="1617.54" dur="4.38">our body goes into the ground to become grass 
+for the future ones. We&apos;re part of a circle of  </text><text start="1621.92" dur="3.06">life. We believe in the spirit of the buffalo.
+I can&apos;t believe in the spirit of the buffalo  </text><text start="1624.98" dur="4.98">and beat one all day long and do things to it 
+where I wouldn&apos;t want to trade places with it.  </text><text start="1629.96" dur="4.74">But the culture that says now we&apos;re not going to 
+do that thing is not going to get huge caloric  </text><text start="1634.7" dur="3.66">surplus. It&apos;s not going to grow its population 
+as much. It&apos;s not going to make it through the  </text><text start="1639.56" dur="7.02">hard weather times as well. And so when the 
+new technology emerges, those who use it,  </text><text start="1647.84" dur="7.2">if the technology confers competitive advantage, 
+it becomes obligate because whoever doesn&apos;t use it  </text><text start="1655.04" dur="5.52">or use at least some comparable technologies loses 
+when you get into rival risk interactions.
+ </text><text start="1660.56" dur="10.86">Let me take a brief rabbit hole side step here. 
+But while it&apos;s fresh in my mind, I think this  </text><text start="1671.42" dur="3.42">dynamic that you&apos;re talking about now, and I know 
+we&apos;re going to get to artificial intelligence,  </text><text start="1675.74" dur="11.16">but in my public discussions, people are 
+recognizing the validity of the systemic  </text><text start="1686.9" dur="6.18">risk that I&apos;m discussing and that we&apos;re headed 
+for at least potentially a great simplification.  </text><text start="1693.08" dur="10.74">Simplification is the down slope of a century plus 
+of intensive complexification based on energy.  </text><text start="1704.78" dur="7.62">But those communities, and you could 
+talk about countries that simplify first  </text><text start="1713.12" dur="5.52">because it&apos;s the right long-term thing to do. In 
+the meantime, they&apos;re going to be out-competed by  </text><text start="1718.64" dur="6.3">communities that don&apos;t because those communities 
+will have more access to government stimulus and  </text><text start="1724.94" dur="5.64">money and technology and other things. But it 
+almost becomes a tortoise and the hare sort  </text><text start="1730.58" dur="6.96">of story. Had a podcast a few weeks ago with 
+Antonio Turiel from Spain and he said Europe  </text><text start="1737.54" dur="4.44">is in much worse shape than the United States.
+Cause the United States has 90% of its own energy.  </text><text start="1742.76" dur="6.6">So Europe is going to face this simplification 
+first in a worse way. So the United States  </text><text start="1749.36" dur="4.14">has another decade. So you guys are off 
+the hook. And I was thinking to myself  </text><text start="1754.16" dur="8.76">really because yes, the United States is mostly 
+energy independent, but Europe will be forced to  </text><text start="1762.92" dur="8.76">make these changes first and maybe they will have 
+some learnings and adaptations that will serve  </text><text start="1771.68" dur="5.88">them in the longer run when we just ride high 
+in the superorganism for a while longer. I mean  </text><text start="1777.56" dur="5.46">that&apos;s really a complicated speculation, but what 
+do you think about all that? Is that relevant?
+ </text><text start="1786.32" dur="2.76">So this is why we talk about the  </text><text start="1791.66" dur="6.06">need to be able to make agreements that get 
+out of the race to the bottom type dynamics,  </text><text start="1797.72" dur="6.66">the multipolar trap, the social trap. Because 
+of course if anybody starts to cost resources  </text><text start="1804.38" dur="5.52">properly, price resources properly, meaning pay 
+for what it would cost to produce that thing  </text><text start="1809.9" dur="6.3">renewably via recycling and whatever it is, and 
+not produce pollution in the environment through  </text><text start="1816.2" dur="4.08">known existing technology, they would price 
+themselves out of the market completely relative  </text><text start="1820.28" dur="6.3">to anyone else not doing that. So either everybody 
+has to or nobody can, right? And whether we&apos;re  </text><text start="1826.58" dur="6.18">talking about pricing carbon or pricing copper or 
+pricing, anything as you say, well we price things  </text><text start="1832.76" dur="5.4">at the cost of extraction plus a tiny margin 
+defined by competition. And that was not what it  </text><text start="1838.16" dur="5.4">cost the earth to produce those things or the cost 
+to the ecosystem and other people of doing it.
+ </text><text start="1843.56" dur="6.3">So the proper pricing at pricing is really 
+very deep to the topic of perverse incentive.  </text><text start="1851.24" dur="5.16">And yet if we talked about how do we ensure 
+that in our, and this is core to the progress  </text><text start="1856.4" dur="3.9">narrative, right? Because the thing that 
+we&apos;re advancing that drives the revenue  </text><text start="1860.3" dur="6.42">or the profit is the progress thing, the cost to 
+the environment of that we&apos;re extracting something  </text><text start="1866.72" dur="3.6">unrenewably that is going to cap out, that we&apos;re 
+turning it into pollution and waste on the other  </text><text start="1870.32" dur="3.36">side. And we&apos;re doing it for differential 
+advantage of some people over other people  </text><text start="1873.68" dur="9.12">and affecting other species in the process.
+If you were to, the stakeholders that benefit, you  </text><text start="1882.8" dur="4.62">get a progress narrative. The stakeholders that 
+don&apos;t benefit you get a non progress narrative.  </text><text start="1888.62" dur="6.3">But until industrial tech, like it&apos;s 
+important to get that before industrial tech,  </text><text start="1896.72" dur="5.4">we did extinct species, right? We over 
+hunted species in an area and extincted  </text><text start="1902.12" dur="6.84">them. We did cut down all of the trees and 
+caused desertification that then changed  </text><text start="1908.96" dur="4.92">local ecosystems led to flooding, ruined 
+the top soil we did over farm areas. So  </text><text start="1913.88" dur="4.92">environmental destruction causing the end of 
+civilizations is a thousands of year old story,  </text><text start="1919.4" dur="2.28">but it could only be...
+It&apos;s just now global.
+ </text><text start="1922.7" dur="6.72">So until we had industrial tech, we could not 
+actually, we just weren&apos;t powerful enough to mess  </text><text start="1929.42" dur="6.42">up the entire biosphere. So how powerful we are is 
+proportional to our tech because we can see that  </text><text start="1935.84" dur="4.38">a polar bear cannot mess up the entire biosphere 
+no matter how powerful it is. Corporally, right?  </text><text start="1940.22" dur="6.12">The thing that can mess up the entire biosphere is 
+our massive supply chain, technologically mediated  </text><text start="1946.34" dur="7.86">things starting with industrial tech. And so given 
+that we are for the first time ever running up on  </text><text start="1954.2" dur="4.56">the end of the planetary boundaries because 
+we figured out how to extract stuff from the  </text><text start="1958.76" dur="4.14">environment much faster than it could reproduce 
+and turn it into pollution and waste much faster  </text><text start="1962.9" dur="3.84">than it could be processed. And we&apos;re hitting 
+planetary boundaries on both sides of that,  </text><text start="1967.4" dur="7.38">on almost every type of thing you can think 
+about in terms of biodiversity, in terms of  </text><text start="1975.32" dur="3.06">trees, in terms of fish, in terms 
+of pollinators, in terms of energy,  </text><text start="1978.38" dur="5.88">in terms of physical materials, in terms of 
+the chemical pollution, planetary boundary.  </text><text start="1984.98" dur="4.62">So the things that are getting worse are 
+getting very near tipping points that were  </text><text start="1989.6" dur="4.86">never true before. Those tipping points will make 
+it to where the things that are getting better,  </text><text start="1994.46" dur="5.58">won&apos;t matter even for the stakeholders they&apos;re 
+intended. And that&apos;s a key change to the story is,  </text><text start="2000.04" dur="4.38">it can no longer be that the winners can win 
+at the expense of everybody else. It is that  </text><text start="2004.42" dur="4.2">we&apos;re actually winning at the expense of the 
+life support systems of the planet writ large.  </text><text start="2009.22" dur="5.1">And when that cascade starts, obviously you can&apos;t 
+keep winning that way, which is optimized narrow  </text><text start="2014.32" dur="9.72">goals at the expense of very wide values.
+You&apos;ve described the naive progress optimist  </text><text start="2024.04" dur="6.3">and the naive progress pessimist. Is there 
+such a thing as a progress realist?
+ </text><text start="2032.2" dur="8.34">Yes. So I am a techno optimist, meaning 
+there are things that I feel hopeful about  </text><text start="2040.54" dur="4.56">that require figuring out new ways to do things. 
+New technae both social tech and physical tech.  </text><text start="2045.64" dur="8.1">But I&apos;m cognizant that the market versions of 
+that tech are usually not the best versions  </text><text start="2055.0" dur="6.18">because of the incentive landscape. In the same 
+way that if Facebook hadn&apos;t had an ad model, it  </text><text start="2061.18" dur="3.48">would&apos;ve been a totally different thing, right? If 
+we&apos;re just talking about the technology of being  </text><text start="2064.66" dur="5.4">able to do many to many communication, but you had 
+something that was not a market force driving it,  </text><text start="2070.06" dur="4.98">could you have had something that was much 
+better that was not trying to turn people into  </text><text start="2076.0" dur="5.76">a commodity for advertisers, which means 
+behaviorally nudge them in ways that manufacture  </text><text start="2081.76" dur="6.66">demand and drive the emotions that manufacture 
+demand, maximize engagement which causes the  </text><text start="2088.42" dur="4.92">externality of every young person having 
+body dysmorphia and ubiquitous loneliness and  </text><text start="2094.24" dur="6.12">confusion about base reality and polarization.
+Could we have done it where rather than drive  </text><text start="2100.36" dur="5.88">engagement, the goal was to actually look 
+at metrics of cognitive and psychological  </text><text start="2106.24" dur="3.66">development and interconnectedness across 
+ideological divides and do that thing?
+ </text><text start="2109.9" dur="3.72">Yeah, of course.
+So the same technology can be applied to  </text><text start="2113.62" dur="5.22">wider goals rather than more narrow goals, and you 
+get a very different thing. So the base technae,  </text><text start="2119.74" dur="5.34">it&apos;s the technology and the motivational 
+landscape that develops its application space  </text><text start="2125.08" dur="6.9">we have to think about together. So there are 
+ways that we can repurpose existing technologies  </text><text start="2131.98" dur="4.86">and develop new ones, both social and physical 
+technologies that can solve a lot of problems,  </text><text start="2136.84" dur="7.08">but it does require us getting this narrow goal 
+definition versus wide goal definition. And  </text><text start="2144.64" dur="8.52">if intelligence guiding technology is as powerful 
+as it is and actually exponentially powerful,  </text><text start="2154.12" dur="5.76">and we&apos;re defining intelligence here as the 
+ability to achieve goals, what is it that  </text><text start="2159.88" dur="6.66">defines what good enough goals are that being 
+able to optimize them exponentially is not  </text><text start="2166.54" dur="6.9">destructive? That&apos;s how you would get a progress 
+narrative that is post naive and post cynical.
+ </text><text start="2174.1" dur="7.68">In contrast, I&apos;m probably a techno pessimist or 
+at least a mild one because I see how technology  </text><text start="2181.78" dur="9.12">is acted as a vector for more energy and more 
+climate, CO2 and degradation of nature at the same  </text><text start="2190.9" dur="7.68">time, I think it&apos;s how we choose what technology 
+we use. Like a golden retriever is probably the  </text><text start="2198.58" dur="5.1">best technological invention ever of our species, 
+even though it&apos;s really more of a co-evolution.  </text><text start="2203.68" dur="10.44">But you know what I mean? It&apos;s something that 
+we came about and sexually selected and for  </text><text start="2214.12" dur="6.54">companionship and they give us the complete suite 
+of evolutionary neurotransmitters for not a lot  </text><text start="2220.66" dur="6.0">of resource input. And there&apos;s lots of other 
+technologies that are appropriate that help us  </text><text start="2226.66" dur="7.38">meet basic needs and give us wellbeing that don&apos;t 
+destroy the biosphere. But this gets back to,  </text><text start="2234.04" dur="3.9">I don&apos;t think individuals chose...
+Wait, this is important.  </text><text start="2241.24" dur="10.68">The superorganism thesis that you put forward 
+shows that the superorganism is oriented on a path  </text><text start="2252.58" dur="6.42">that does kill its host and thus itself, 
+right? It does destroy the space reality,  </text><text start="2259.0" dur="5.64">the substrate that it depends upon. The meta 
+crisis narrative that I put forward says a  </text><text start="2264.64" dur="5.46">similar thing is why we did this whole five series 
+to kind of show the relationships. And so I would  </text><text start="2270.1" dur="6.9">say as long as the axioms of that thing are still 
+in place, yes, I am a techno pessimist, meaning I  </text><text start="2277.0" dur="5.22">think that the good things that come from the new 
+tech don&apos;t outweigh the fact that the new tech  </text><text start="2282.22" dur="6.54">is in general more often than not, accelerating 
+movement towards catastrophic outcomes factoring  </text><text start="2288.76" dur="6.06">the totality of its effects. But this is why 
+I said there is a post naive and post cynical  </text><text start="2294.82" dur="4.32">version in which I&apos;m a techno optimist, but it 
+requires not being on that trajectory anymore.  </text><text start="2299.14" dur="4.98">It requires that the technology is not being 
+built by the superorganism in service of itself,  </text><text start="2304.12" dur="4.26">but is being built by something different 
+in service of something different.
+ </text><text start="2309.94" dur="7.02">Well, in that way I&apos;m also a techno optimist 
+because after growth ends and after super-organism  </text><text start="2316.96" dur="7.56">is no longer in control, efficiency will 
+no longer be a vector for Jevons paradox  </text><text start="2324.52" dur="8.4">because then efficiency&apos;s going to save our 
+vegetarian bacon. Because as the economy is  </text><text start="2334.0" dur="5.04">shrinking, efficiency&apos;s going to be really 
+important and innovation. Just right now,  </text><text start="2339.04" dur="3.18">it&apos;s feeding more energy and 
+stuff into the hungry maw.
+ </text><text start="2342.22" dur="5.22">For the people who haven&apos;t heard the previous 
+stuff on Jevons paradox, will you do that briefly?  </text><text start="2348.4" dur="5.1">Why efficiency? Because obviously AI can 
+cause radical efficiencies which can help  </text><text start="2353.5" dur="4.5">the environment. That&apos;s part of the story of why 
+it&apos;s an environmental hope. So would you explain  </text><text start="2358.0" dur="10.26">why as long as Jevons paradox is the case?
+Yeah, so humans get smarter on how we use energy  </text><text start="2368.26" dur="6.78">around 1.1% a year. So we get more energy 
+efficient every year because we&apos;re smarter.  </text><text start="2375.04" dur="5.76">Coal plants use less coal to generate the same 
+amount of electricity. We invent solar panels,  </text><text start="2382.84" dur="5.28">our televisions are a little bit more energy 
+efficient and our laundry machines and one  </text><text start="2388.12" dur="5.58">would think on the surface that that would allow 
+us to use less energy. But what ends up happening  </text><text start="2393.7" dur="9.72">is that money savings gets spent on other things 
+that use energy and writ large new innovation ends  </text><text start="2403.42" dur="8.46">up system-wide requiring a lot more energy.
+Since 1990, we&apos;ve had a 36% increase in energy  </text><text start="2411.88" dur="7.14">efficiency at over the same time we have a 
+63% increase in energy use. So as long as  </text><text start="2419.02" dur="9.36">growth is our goal and our cultural aspiration 
+is profits in GDP, more energy efficiency will  </text><text start="2428.38" dur="5.22">paradoxically unfortunately result in 
+more energy and environmental damage.  </text><text start="2435.34" dur="5.76">That&apos;s called Jevons paradox. It was based 
+after a 19th century economist who observed  </text><text start="2441.1" dur="6.24">this Walter Stanley Jevons who observed this in 
+steam engines, that steam engines wouldn&apos;t reduce  </text><text start="2447.34" dur="4.56">our energy use but they would scale because 
+they helped everyone and were so useful.
+ </text><text start="2451.9" dur="4.8">So let&apos;s talk about first versus second, third, 
+nth order effects here. Because Jevons paradox  </text><text start="2457.66" dur="5.88">is, it&apos;s important to understand that.
+Daniel, what are the odds that we  </text><text start="2463.54" dur="3.06">actually don&apos;t get to artificial 
+intelligence on this conversation?
+ </text><text start="2468.46" dur="2.4">Low.
+Okay,  </text><text start="2471.82" dur="2.64">keep going. First, second, 
+third, order. Go for it.
+ </text><text start="2475.78" dur="5.94">So if we create a new technology that 
+creates more energy efficiency on something,  </text><text start="2481.72" dur="6.96">whether it&apos;s a steam engine or a more energy 
+efficient energy generation or transportation  </text><text start="2488.68" dur="4.02">or storage technology, the first order 
+effect of it is we use less energy.  </text><text start="2494.02" dur="8.82">The second order effect is now that it takes less, 
+now that we have more available energy and energy  </text><text start="2502.84" dur="6.3">costs less, there&apos;s a bunch of areas where there 
+was not positive energy return, profit return that  </text><text start="2509.14" dur="4.2">now become profitable. And so now we open up 
+a whole bunch of new industries and use more  </text><text start="2513.34" dur="4.08">total energy, but it&apos;s a second order effect or 
+even a third order effect because it makes some  </text><text start="2517.42" dur="4.02">other technology possible that does that.
+This is one of the asymmetries that we have  </text><text start="2521.44" dur="5.7">to focus on in the progress narrative is the 
+progress narrative is and technology in general,  </text><text start="2527.14" dur="5.76">when we make a new technology, and by technology 
+I mean a physical technology or even say a law  </text><text start="2532.9" dur="7.38">or a business to achieve a goal, we&apos;re generally 
+making something that is trying to have a first  </text><text start="2540.28" dur="7.98">order effect on a narrow goal that is definable 
+in a finite number of metrics for a small set  </text><text start="2548.26" dur="6.48">of stakeholders. The stakeholders are called 
+the total addressable market of that thing  </text><text start="2556.0" dur="5.7">and very rarely is the total 
+addressable market everything. And so  </text><text start="2564.04" dur="5.28">we&apos;re making things, whatever it is. So I&apos;m 
+using technology in the broadest sense of  </text><text start="2569.32" dur="6.84">human innovations towards goal achievement 
+here. We&apos;re making technologies to achieve  </text><text start="2576.16" dur="6.3">first order effects, meaning direct effects 
+for a defined goal, for a defined population.  </text><text start="2583.72" dur="3.96">Even if we&apos;re talking about a nonprofit trying 
+to do something for coral, it&apos;s still focused on  </text><text start="2587.68" dur="6.72">coral and not the Amazon and everything else. 
+And so it can optimize that at the expense of  </text><text start="2594.4" dur="4.08">something else through in terms of the second, 
+third order effects of whatever putting that thing  </text><text start="2598.48" dur="8.28">through does. And so we put out a communication to 
+appeal to people to do a thing politically. Well,  </text><text start="2606.76" dur="3.78">it appeals to some people, it really disappeals 
+to other people. One of the second order  </text><text start="2610.54" dur="4.26">effects is you just drove a counter response.
+The counter response is people who think that the  </text><text start="2614.8" dur="4.98">thing you&apos;re benefiting harms something they care 
+about and now you just up-regulated that. Is that  </text><text start="2619.78" dur="5.82">being factored? And so the progress narrative, 
+the technology narrative and all the way down to  </text><text start="2625.6" dur="4.08">the science narrative, and this is where we get to 
+the human intelligence versus wisdom and then how  </text><text start="2629.68" dur="7.62">this relates to artificial intelligence is it is 
+easier to think about a problem this way. Here&apos;s  </text><text start="2637.3" dur="6.6">a definable problem. It affects these people or 
+these beings. It is definable in these metrics.  </text><text start="2643.9" dur="5.1">We can measure the result of this and we can 
+produce a direct effect to achieve it. We did,  </text><text start="2649.0" dur="5.64">we got progress. Awesome. And the progress 
+was more GDP. The progress was people who  </text><text start="2654.64" dur="3.48">could communicate faster. The progress was 
+less dead people in the ER, the progress  </text><text start="2658.12" dur="3.36">was less starving people. The progress was 
+whatever the thing was that we were focused on,  </text><text start="2661.48" dur="9.0">even if it seems to be a virtuous goal.
+But that same thing that you did maybe polarized  </text><text start="2670.48" dur="3.54">some people who are now going to do other 
+stuff. That is a second order and maybe third  </text><text start="2674.02" dur="6.9">order effect, maybe it had an effect on supply 
+chains. So the second, third, nth order effects  </text><text start="2682.78" dur="5.52">on a very wide number of metrics that you don&apos;t 
+even know what they are to measure on a very wide  </text><text start="2688.3" dur="4.2">number of stakeholders that you don&apos;t even know 
+how to factor is harder in kind to think about.  </text><text start="2693.22" dur="5.82">So it is logically, cognitively easier as 
+we talk about intelligence to figure out how  </text><text start="2699.04" dur="3.6">to achieve a goal than it is to make sure 
+that goal doesn&apos;t fuck other stuff up.
+ </text><text start="2703.84" dur="7.26">So efficiency too has a narrow boundary and a 
+wide boundary lens with which to be viewed.
+ </text><text start="2712.24" dur="5.58">Yes.
+But here&apos;s one of the challenges though.  </text><text start="2719.2" dur="8.52">It&apos;s easy for a group of humans or a full culture 
+to optimize one thing. It&apos;s very difficult to  </text><text start="2727.72" dur="6.42">optimize multiple things at once. Multi-variable 
+inputs and outputs are incredibly complex.  </text><text start="2734.98" dur="7.32">So optimizing dollar profits tethered to energy, 
+tethered to carbon, combining technology,  </text><text start="2742.3" dur="6.96">materials and energy, that is a thing that was 
+very easy akin to the maximum power principle.  </text><text start="2751.24" dur="6.6">So what do you think about that?
+I think that optimization is actually  </text><text start="2757.84" dur="5.52">the wrong framework. When you think about 
+everything that matters, you&apos;re not thinking  </text><text start="2763.36" dur="5.64">about optimization anymore, you&apos;re thinking 
+about a different thing. So optimization is...  </text><text start="2769.54" dur="7.32">Now let&apos;s come back to what is distinct to human 
+intelligence. Why did that cause a meta crisis or  </text><text start="2776.86" dur="8.76">a superorganism? How does AI relate to that? And 
+then what it would take other than intelligence is  </text><text start="2785.62" dur="5.52">also relevant to ensure that the intelligence is 
+in service to what it needs to be in service to.  </text><text start="2791.74" dur="4.8">So we&apos;re not saying that humans are the only 
+intelligent thing in nature. Obviously not. Nobody  </text><text start="2797.14" dur="4.8">reasonably would say that, but there is something 
+distinct about human intelligence. So how do we  </text><text start="2801.94" dur="7.26">define intelligence? It&apos;s fascinating. Go look up 
+on a bunch of encyclopedias and you&apos;ll see that  </text><text start="2809.2" dur="4.44">there are a lot of different schools of thought 
+that define intelligence differently. Some do  </text><text start="2813.64" dur="4.14">it in terms of formal logic and reason.
+Some do it in terms of pragmatics, which  </text><text start="2817.78" dur="6.06">is the ability to process information to achieve 
+goals. Some do it just kind of from a information  </text><text start="2823.84" dur="4.56">theoretic point of view of the ability to intake 
+information, process it and make sense of it.  </text><text start="2829.78" dur="4.44">And all of these are related. I&apos;m not going to try 
+to formalize it right now, but I&apos;m going to focus  </text><text start="2834.22" dur="6.42">on the applied side because it ends up being 
+the thing that&apos;s selected for and it ends up  </text><text start="2840.64" dur="6.66">being the thing that wins short term goals and 
+that obviously we&apos;re building AI systems for.  </text><text start="2847.3" dur="10.2">So there we can say intelligence is the ability to 
+figure out how to achieve goals more effectively.
+ </text><text start="2861.04" dur="4.2">Or we can just say the ability to achieve goals. 
+We can see that a slime mold has the ability  </text><text start="2865.24" dur="4.8">to achieve goals and it will figure out and 
+reconfigure itself. A termite colony figures out  </text><text start="2870.04" dur="5.22">how to achieve goals and it reconfigures itself. 
+There&apos;s some element of learning and when you  </text><text start="2875.26" dur="6.06">watch a chimpanzee figuring out using this stick 
+versus this stick to get larvae out of a thing,  </text><text start="2881.32" dur="7.44">you can watch it innovating and learning how to 
+achieve goals. So all of nature has intelligence.  </text><text start="2889.66" dur="6.78">What is unique about human intelligence 
+relative to other things? Relative to other,  </text><text start="2896.44" dur="3.36">let&apos;s just say animals. We could 
+talk about plants, funguses,  </text><text start="2899.8" dur="3.72">all the kingdoms, but that gets harder. 
+So let&apos;s just stick with other animals.  </text><text start="2905.56" dur="3.84">Well first we realize that we can&apos;t talk about 
+this properly because from an evolutionary  </text><text start="2909.4" dur="4.62">perspective, there were things between the other 
+animals that we look at now and humans meaning  </text><text start="2914.86" dur="4.92">earlier hominids and so where do we 
+call humans in that distinction?
+ </text><text start="2919.78" dur="5.16">So since they&apos;re not around, we can mostly talk 
+about sapiens versus everything else on the planet  </text><text start="2924.94" dur="4.68">that we&apos;re aware of at this point. But we can 
+say that the thing we&apos;re calling human starts  </text><text start="2929.62" dur="5.64">before homo sapien probably with homo habilis or 
+Australopithecus or somewhere around there.
+ </text><text start="2938.38" dur="4.08">We are the ninth homo. And perhaps 
+the last, we don&apos;t know.
+ </text><text start="2944.68" dur="8.04">So people might question what kind of weird 
+anthropocentrism is it that would have you  </text><text start="2952.72" dur="3.84">say that you know that you have some kind of 
+intelligence the whales don&apos;t have or the chimps  </text><text start="2956.56" dur="6.12">don&apos;t have or whatever. And I think it&apos;s very 
+fair to say what it is like to be a whale, we  </text><text start="2962.68" dur="6.72">really don&apos;t know. And what about the experience 
+of whaleness? The quality of the sentience of it  </text><text start="2971.32" dur="8.46">might even be deeper than ours, might be more 
+interesting in some ways. Totally. Right. That&apos;s  </text><text start="2979.78" dur="6.54">a harder problem in kind to address. But we can 
+in observing their behavior, say there are types  </text><text start="2986.32" dur="5.1">of goal achieving that they clearly don&apos;t have 
+the ability to do in a prima facie evidenced way  </text><text start="2992.2" dur="3.42">that we obviously have the ability to 
+do. They have not figured out how to  </text><text start="2995.62" dur="3.18">innovate the tech that makes them work 
+in all environments the way we have.
+ </text><text start="2998.8" dur="4.86">They have not even figured out how to stay 
+away from boats that are wailing boats.  </text><text start="3004.32" dur="5.46">And so from their most obvious evolutionary 
+motive, how to figure out that thing is not a  </text><text start="3009.78" dur="6.9">thing that they&apos;ve really done. And so we can see 
+in a prima facie sense that they&apos;re not innovating  </text><text start="3016.68" dur="5.16">in technology and changing their environment, 
+making the equivalent of an Anthropocene in a  </text><text start="3021.84" dur="4.68">similar way, even when we see the way that 
+beavers make beaver dams and changes their  </text><text start="3026.52" dur="5.34">environment or ants do, they do it roughly the 
+same way they did it 10,000 years ago. Humans  </text><text start="3031.86" dur="4.98">don&apos;t do it roughly the way we did it 10,000 
+years ago. So we can see something unique about  </text><text start="3036.84" dur="5.28">humans in our behavior related to the innovation 
+in technology and environment modification.
+ </text><text start="3044.4" dur="4.38">In whales&apos; defense, they don&apos;t have 
+opposable thumbs and they&apos;re underwater.  </text><text start="3049.8" dur="3.3">But I&apos;m with you. Keep going.
+Well this is not putting whales down.  </text><text start="3053.1" dur="4.98">I think opposable thumbs are pretty significant 
+to the story. I think there are things about the  </text><text start="3058.74" dur="6.24">evolution of homo sapiens that probably have to 
+do with the combination of narrower hips from  </text><text start="3064.98" dur="5.22">uprightness that allowed us to de-weight the hands 
+that allowed them to be more nimble and opposable  </text><text start="3070.2" dur="4.86">with the larger heads that involved neotenous 
+birth. And there&apos;s this whole complex of things.  </text><text start="3077.28" dur="5.16">And so in no way does saying that humans have 
+more of this particular kind of innovative  </text><text start="3082.44" dur="5.58">intelligence mean have a more meaningful right 
+to exist. Those are totally separate things,  </text><text start="3088.02" dur="5.46">right? Doesn&apos;t mean have a deeper experience 
+of the world. Those are different things.
+ </text><text start="3093.48" dur="6.36">So let me get back to something you just said a 
+minute ago, unless this is where you were heading.  </text><text start="3099.84" dur="9.84">But you said intelligence is problem solving 
+on route to a goal. And most animals in nature,  </text><text start="3109.68" dur="5.52">their goal is, well it&apos;s security and 
+mating and reproduction, but energy  </text><text start="3116.7" dur="6.24">return is a primary goal in nature to invest 
+some energy and get a higher amount back because  </text><text start="3122.94" dur="6.12">that enables all sorts of other optionality. 
+Energy, calories in nature are optionality for  </text><text start="3129.06" dur="7.56">organisms. So the problem with humans isn&apos;t 
+the intelligence per se, it&apos;s the goal?
+ </text><text start="3136.62" dur="3.9">I don&apos;t even want to call it a problem yet. 
+I want to call it a difference. We&apos;ll get to  </text><text start="3140.52" dur="9.24">the problem in a minute. So I want to say 
+something, because this is related here,  </text><text start="3149.76" dur="5.4">about modeling because human intelligence, 
+all forms of intelligence have something to  </text><text start="3155.16" dur="5.52">do with modeling. They can take in information 
+from the environment and be able to forecast  </text><text start="3160.68" dur="5.28">what happens if they do something enough to be 
+able to inform their next choice. Which choice  </text><text start="3165.96" dur="4.74">is more likely to achieve some future goal, 
+even if the future goal&apos;s a second, right?
+ </text><text start="3170.7" dur="9.18">So let me interrupt there. Does that differentiate 
+humans that if we model something that we have the  </text><text start="3179.88" dur="3.84">perception and ability to consider time and 
+how does time factor into intelligence?
+ </text><text start="3183.72" dur="7.2">We&apos;re not the only animal that has a relationship 
+to time, but we definitely have the ability to  </text><text start="3190.92" dur="5.88">have abstractions on time that seem to be 
+unique from what we can tell. And we also  </text><text start="3196.8" dur="4.62">have the ability to have abstractions on space 
+and abstractions on other agents. And there&apos;s  </text><text start="3201.42" dur="8.04">something about the nature of abstraction itself 
+that is related to the what is novel in human  </text><text start="3209.46" dur="8.76">intelligence, the type of recursive abstraction. 
+But there&apos;s reason, to talk about modeling.  </text><text start="3222.42" dur="6.18">A model of reality is taking a limited amount 
+of information from reality and trying to  </text><text start="3230.52" dur="8.34">put together a proxy of that that will inform 
+us for the purpose of forecasting and ultimately  </text><text start="3238.86" dur="7.74">choice making, ultimately goal achieving insofar 
+as the model gives us accurate enough forecasts  </text><text start="3246.6" dur="4.68">that it informs actions that achieve our 
+goal. We consider it useful. That doesn&apos;t  </text><text start="3251.28" dur="5.46">mean that it is actually comprehensively, 
+right. The models end up being that they&apos;re  </text><text start="3256.74" dur="4.14">optimizing for a narrow set of sense making 
+just like what we were talking about before,  </text><text start="3260.88" dur="5.52">that we optimize for a narrow set of goals.
+And the reason I bring this up is because all of  </text><text start="3266.4" dur="4.26">our models that can be useful, even in trying to 
+understand the meta crisis and whatever themselves  </text><text start="3270.66" dur="6.54">can also end up blinding us to being able to 
+perceive outside of those models. So when Laozi  </text><text start="3277.2" dur="6.6">started the Tao Te Ching with the Tao that is 
+speakable in words or understandable conceptually  </text><text start="3283.8" dur="7.44">is not the eternal Tao. It was saying keep your 
+sensing of base reality open and not mediated  </text><text start="3291.24" dur="4.26">by the model you have of reality. Otherwise 
+your sensing will be limited to your previous  </text><text start="3295.5" dur="3.9">understanding and your previous understanding 
+is always smaller than the totality of what is.  </text><text start="3300.96" dur="6.18">I would even argue that thou shall have no false 
+idols, a model of reality that says here&apos;s how  </text><text start="3307.14" dur="4.68">reality works, is the false idol which messes 
+up our ability to be in direct perception of new  </text><text start="3311.82" dur="6.6">things where our previous model was inadequate.
+So I say this because there are places where a  </text><text start="3318.42" dur="3.9">particular thing we&apos;re going to say is useful, 
+but it is not the whole story and it&apos;s important  </text><text start="3322.32" dur="6.3">to get where it&apos;s not the whole story. So for 
+instance, if we talk about energy that doesn&apos;t  </text><text start="3328.62" dur="6.24">include the parts about materiality and the 
+parts about intelligence. And even if we talk  </text><text start="3334.86" dur="4.26">about those three, that&apos;s actually not the whole 
+story. So it&apos;s useful, but I&apos;m wanting to call  </text><text start="3339.12" dur="5.4">this out. If an animal is eating, are they eating 
+only for energy? No, they&apos;re also eating for  </text><text start="3345.84" dur="7.44">minerals and for enzymes and for vitamins and for 
+proteins and for fats, and not just fats that will  </text><text start="3353.28" dur="4.32">get consumed as energy, but that will become part 
+of the phospholipid membrane of cells and they&apos;re  </text><text start="3357.6" dur="4.74">eating for materiality as well, right? And so 
+it&apos;s not true that all energy is fungible. I  </text><text start="3362.34" dur="5.4">can&apos;t really feed an elephant meat product well, 
+even though there&apos;s plenty of energy in it.
+ </text><text start="3367.74" dur="8.1">So hold on a second. So elephants also 
+have what I refer to as the trinity,  </text><text start="3375.84" dur="7.14">which is energy, materials and technology. They 
+try to get acacia trees, they use their trunk  </text><text start="3382.98" dur="7.74">or some other tool. And in the acacia leaves 
+are energy, the photosynthesis from the sun,  </text><text start="3390.72" dur="8.014">but also as you said, atoms, minerals, materials. 
+So it&apos;s the same for animals as humans?
+ </text><text start="3398.734" dur="3.626">And they&apos;re non-fungible. There&apos;s a reason why-
+How so?
+ </text><text start="3402.36" dur="4.08">I can&apos;t make certain amino acids from other 
+amino acids. I can&apos;t make some minerals from  </text><text start="3406.44" dur="4.44">other minerals no matter how much calcium I 
+get, I get no magnesium from them and I need  </text><text start="3410.88" dur="6.36">a certain amount of magnesium. So of course if 
+I don&apos;t get enough dietary input of vitamin D,  </text><text start="3417.24" dur="4.08">we get rickets and die even if we get plenty 
+of B vitamins and vitamin C and other things.  </text><text start="3421.32" dur="5.16">And so those nutrients are non-fungible to 
+each other and you need all of them. You  </text><text start="3426.48" dur="7.44">need the whole suite that a thing needs, which 
+is why there&apos;s very interesting health studies  </text><text start="3433.92" dur="4.2">that show people who are dying of obesity are 
+actually dying of diseases of malnutrition.
+ </text><text start="3439.2" dur="6.72">Because we have a diet that has basically 
+optimized for calories while stripping all  </text><text start="3445.92" dur="5.16">the micronutrients out of them. So you can 
+be eating tens of thousands of calories a  </text><text start="3451.08" dur="5.34">day and actually becoming profoundly deficient 
+in minerals and phytochemicals and other things  </text><text start="3456.42" dur="4.98">like that where then your body is wanting to 
+keep eating because it&apos;s actually starving and  </text><text start="3461.4" dur="5.34">you continue to give it something that creates 
+a neurochemical stimulus that says you ate and  </text><text start="3466.74" dur="4.02">satiates the hunger thing for a moment, but what 
+you&apos;re actually starving for is not in that food.
+ </text><text start="3473.1" dur="6.3">And so I don&apos;t want to oversimplify 
+that energy is a part of the story.  </text><text start="3480.6" dur="6.24">Everything we say is a part of the story, but the 
+totality of the story is more complex than however  </text><text start="3486.84" dur="4.38">we talk about it, right? There&apos;s something 
+so important and sacred about that because  </text><text start="3491.22" dur="6.66">what is wrong about our narrow goal achieving is 
+what&apos;s upstream from that is our narrow modeling  </text><text start="3497.88" dur="6.0">of reality and what even equals progress. Who 
+is worth paying attention to? How is it all  </text><text start="3503.88" dur="4.68">connected? When I make a model that separates it 
+all, then I can up-regulate this, harm something  </text><text start="3508.56" dur="2.94">else, but I don&apos;t even realize I&apos;m harming 
+something else because that&apos;s not in my model.  </text><text start="3515.46" dur="3.84">I don&apos;t even realize that that thing that 
+I&apos;m optimizing for isn&apos;t the actual thing  </text><text start="3521.82" dur="6.36">or is only a part of the whole thing.
+And then probably by definition we choose models  </text><text start="3528.18" dur="5.7">or inputs into the models that kind of confirm 
+our own built identity up until that moment.
+ </text><text start="3535.02" dur="7.5">And, or, win in some game theoretic way. So if 
+it achieves, if the model damages lots of things,  </text><text start="3542.52" dur="5.4">but makes me win the war, that model will 
+probably win. And you notice how it&apos;s like,  </text><text start="3549.18" dur="5.16">okay, so we get the inquisition, we get 
+the crusades, we get some fucking gnarly,  </text><text start="3554.34" dur="3.78">violent, cruel like figuring out 
+how to optimize torture stuff  </text><text start="3559.5" dur="4.92">in the name of the guy who said, let he who 
+has no sins among you cast the first stone  </text><text start="3566.46" dur="6.54">and you&apos;re like, how the fuck did we go 
+from principles of forgiveness and let he  </text><text start="3573.0" dur="3.66">who has no sins cast the first stone into 
+this version that says the inquisition is  </text><text start="3576.66" dur="4.44">the right way to do that. What you see 
+is the interpretations - there&apos;s lots  </text><text start="3581.1" dur="4.38">of interpretations - the interpretations that 
+lead to kill all your enemies and proselytize  </text><text start="3586.14" dur="5.88">win, end up winning in short term warfare. Not 
+because they&apos;re more true or more good, but  </text><text start="3592.02" dur="4.02">because they orient themselves to get rid of all 
+of the enemies and have more people come into them  </text><text start="3596.64" dur="2.76">and have nobody ever leave the religion 
+because they&apos;re afraid of hell and whatever.  </text><text start="3601.74" dur="8.1">And this is an example of there are models that 
+win in the short term but that actually move  </text><text start="3609.84" dur="6.24">towards comprehensively worse realities and, or 
+even self extinction. Evolutionary cul-de-sacs.  </text><text start="3616.08" dur="5.28">And I would argue that humanity is in the process 
+of pursuing evolutionary cul-de-sacs where the  </text><text start="3621.36" dur="4.38">things that look like they are forward are forward 
+in a way that does not get to keep forwarding.  </text><text start="3625.74" dur="6.06">And at the heart of that is optimizing for 
+narrow goals. And at the heart of that is  </text><text start="3631.8" dur="7.38">perceiving reality in a fragmented way and then 
+getting attached to subsets of the metrics that  </text><text start="3639.18" dur="5.28">matter. Models. Which leads to us wanting 
+to optimize those models and those metrics.  </text><text start="3645.18" dur="4.38">And now I would start to define the distinction 
+between intelligence and wisdom here.  </text><text start="3650.46" dur="5.76">And that wisdom is related to holes and 
+wholeness. Intelligence is related to the  </text><text start="3656.22" dur="5.04">relevance realization of how do I achieve a goal?
+A goal will be a narrow thing for a narrow set of  </text><text start="3661.26" dur="12.54">agents bound in time, modifying a fixed number 
+of parameters. And so then I would say if  </text><text start="3675.18" dur="5.46">human intelligence distinct from other types of 
+animal intelligence where we don&apos;t just have the  </text><text start="3681.18" dur="7.02">ability to work within a range of behaviors 
+that are in capacities that are mostly built  </text><text start="3688.2" dur="7.32">into where the primary physical technology is our 
+bodies, the animals evolved to have claws, to have  </text><text start="3696.12" dur="5.64">blubber for the cold, to have whatever it 
+was that was a technological innovation to be  </text><text start="3701.76" dur="5.52">effective within its environment. And it can&apos;t 
+become radically more of that thing by choice,  </text><text start="3707.28" dur="4.74">by its own understanding. It becomes more of 
+that thing through genetic selection, which  </text><text start="3712.02" dur="6.18">is super slow and it doesn&apos;t control. And the 
+mutation that makes the giraffe have the slightly  </text><text start="3718.2" dur="5.1">longer neck or the cheetah a little faster or 
+whatever it is, is happening as the rest of the  </text><text start="3723.3" dur="3.6">environment is going through similar mutations.
+So the cheetah&apos;s getting a little faster,  </text><text start="3726.9" dur="3.72">but so are the gazelles and there&apos;s co-selective 
+pressure so that if the cheetah gets a little  </text><text start="3730.62" dur="5.28">faster first and eats the slower gazelle&apos;s, then 
+what&apos;s left is the faster gazelle&apos;s whose genes  </text><text start="3735.9" dur="6.6">inbreed. So you have tiny changes happening 
+across the whole system and co-op regulating  </text><text start="3742.5" dur="6.36">each other. So there&apos;re cemeteries in the rivalry 
+that lead to the entire system still maintaining  </text><text start="3748.86" dur="6.36">its meta stability, not stability, meaning a fixed 
+equilibrium, a homeo-dynamic, not a homeostasis,  </text><text start="3755.22" dur="6.72">that continues to increase in complexity over 
+time, but that meta stability is the result  </text><text start="3761.94" dur="8.46">of that type of corporeal evolution. But then 
+humans&apos; adaptive capacity is not mostly corporeal,  </text><text start="3770.4" dur="4.38">it&apos;s mostly extra corporeal. You call it 
+extra somatic, meaning outside of just our  </text><text start="3774.78" dur="5.58">body and it&apos;s both, we can use a lot of calories 
+outside of our body, which started with fire.
+ </text><text start="3783.06" dur="4.2">Fire was the beginning of us being able 
+to warm ourselves and all of a sudden make  </text><text start="3787.26" dur="5.22">new environments possible and make foods edible 
+that weren&apos;t edible before. But that&apos;s calories,  </text><text start="3792.48" dur="9.78">right? That&apos;s extra somatic calories. Then our 
+ability to get more calories from the environment,  </text><text start="3802.26" dur="5.64">meaning gather more stuff, kill more 
+things, involve the innovation of tools,  </text><text start="3807.9" dur="6.36">right? Those spears, those stone tools allowed a 
+little group of primates to take down a mastodon.  </text><text start="3814.86" dur="4.26">The combination of their coordination technologies 
+with each other because a single person couldn&apos;t  </text><text start="3819.12" dur="5.7">do it and their stone tools together was able 
+to do that. You get more caloric surplus. The  </text><text start="3824.82" dur="5.34">agricultural revolution really advanced that, 
+the oil revolution really advanced that. But at  </text><text start="3830.16" dur="3.9">the heart of how did we figure out how to get 
+oil and how to use it was intelligence. It was  </text><text start="3834.06" dur="5.88">this kind of recursive intelligence that figures 
+out I can use this in service of my goals.
+ </text><text start="3841.92" dur="9.84">I wonder if 30,000 years ago some Neanderthal 
+interbreeding with a human could ever imagine that  </text><text start="3851.76" dur="4.74">30,000 years later there would be a brain 
+evolved like Daniel Schmachtenberger&apos;s.
+ </text><text start="3856.5" dur="7.8">Well check this out. Tyson Yunkaporta. I don&apos;t 
+know if he&apos;s been on your show yet or not.
+ </text><text start="3865.44" dur="3.18">Two weeks from now.
+Okay, so great. Then you  </text><text start="3868.62" dur="7.86">can follow this conversation up with some things 
+I learned from Tyson and other indigenous people  </text><text start="3876.48" dur="7.2">who hold some indigenous wisdom, knowledge have 
+told me similar things that one, date back more  </text><text start="3883.68" dur="5.94">than the standard current archeological narrative 
+of when humans knew certain shit but also with  </text><text start="3889.62" dur="7.44">kinds of wisdom that have definitely been lost in 
+the progress narrative. And one of the things that  </text><text start="3897.06" dur="6.54">Samantha Sweetwater told me originally, and 
+then Tyson said something similar was that many  </text><text start="3903.6" dur="4.02">of the indigenous cultures had a story that 
+when humans developed the first stone tools,  </text><text start="3908.34" dur="7.08">the apex predator of the environment, Samantha&apos;s 
+version was the sabertooth, came to the human.
+ </text><text start="3915.42" dur="4.32">Obviously this is a story, right? But you get 
+what it would mean that the early people had  </text><text start="3919.74" dur="5.52">made the story and they said we were the ones 
+who were taking care of and maintaining the  </text><text start="3925.26" dur="4.8">complex diversity of the whole system in this 
+kind of apex predator role you now clearly are  </text><text start="3930.06" dur="4.86">and we&apos;re turning over the mantle of stewardship 
+of the whole to you, your job. Because now you  </text><text start="3934.92" dur="3.96">have the ability to destroy the whole ecosystem. 
+You must be the steward of the whole thing.
+ </text><text start="3940.8" dur="7.68">And imagine that even recognizing because maybe 
+those stone tools were 2 million years ago  </text><text start="3949.38" dur="3.6">and maybe we already had 
+killed a bunch of megafauna,  </text><text start="3952.98" dur="4.56">extincted them, extincted some of our 
+other hominoid cousins through gruesome,  </text><text start="3957.54" dur="4.56">kind of inter-species genocidal tribal warfare, 
+destroyed some environments and already had time  </text><text start="3962.1" dur="1.514">to learn those mythos and be like, no, no, no.
+Destroyed some environments and already had time  </text><text start="3963.614" dur="2.086">to learn those myths and be like, no, no, no, 
+we&apos;re not going to maximum power principle kale,  </text><text start="3965.7" dur="3.84">take everything. We&apos;re going to live in 
+sustainability. Think seven generations  </text><text start="3969.54" dur="7.02">ahead. And there was wisdom about appropriate use 
+of technology and restraint 40,000 years ago.
+ </text><text start="3978.72" dur="4.92">That was my question is, we are 
+homo sapiens, our appellation,  </text><text start="3983.64" dur="8.82">which is wise man, but any small percentage 
+of tribes or individuals or nation states  </text><text start="3992.46" dur="7.38">or warring clans that pursued a narrow 
+boundary goal would have out-competed  </text><text start="3999.84" dur="3.84">those tribes with wisdom.
+Not any of them...
+ </text><text start="4003.68" dur="5.16">And here we are with the superorganism.
+Any of them above a certain threshold, right?
+ </text><text start="4011.3" dur="2.76">What do you mean?
+Let&apos;s say that we had  </text><text start="4016.1" dur="4.56">a number of tribes in an area that had 
+all developed some kind of wisdom by which  </text><text start="4020.66" dur="4.26">they bound intelligence. And I&apos;m not saying we 
+don&apos;t do that today. It&apos;s called law, right?
+ </text><text start="4026.6" dur="3.54">Right.
+And it&apos;s supposedly also what religion is about,  </text><text start="4030.86" dur="6.12">the development of wisdom of what is the 
+good life, what is worth pursuing and not  </text><text start="4036.98" dur="5.04">pursuing in which you get things like religious 
+law. You&apos;re not going to work on the Sabbath.  </text><text start="4043.04" dur="3.72">You&apos;re going to take that day to do 
+different things. For instance, if you  </text><text start="4048.2" dur="4.74">want to think about that as a example, 
+you could think about the Sabbath as  </text><text start="4052.94" dur="6.54">an example of law binding a multipolar trap, 
+associated with a naive version of progress.  </text><text start="4060.68" dur="6.06">If you don&apos;t have a Sabbath, some people will work 
+seven days a week in the short term before they  </text><text start="4066.74" dur="4.86">burn out. They&apos;ll get ahead. They will get so much 
+ahead because they&apos;ll be able to keep investing  </text><text start="4071.6" dur="4.92">that differential advantage in rent-seeking 
+behavior that anyone who doesn&apos;t will have no  </text><text start="4076.52" dur="4.74">relevance to be able to guide their own lives.
+And now you have a world where no one spends any  </text><text start="4081.26" dur="4.2">time with their kids. No one reflects on the 
+religion, nobody enjoys their life. Everything  </text><text start="4085.46" dur="4.5">sucks for everyone because somebody did that thing 
+and the name of progress because they moved ahead  </text><text start="4089.96" dur="4.74">faster. We say, &quot;No, no, no, you&apos;re going to 
+have a day where you don&apos;t progress stuff.&quot;  </text><text start="4094.7" dur="4.62">That&apos;s actually the gist. You&apos;re not going to be 
+focused on external progress in the world. And so  </text><text start="4099.32" dur="4.62">there&apos;s 27 or 29 ways in Leviticus that you can 
+violate the Sabbath and you&apos;ll be killed if you  </text><text start="4103.94" dur="5.82">violate it. Which seems like just whackadoodle 
+religious nonsense. But if you&apos;re like, wait, no,  </text><text start="4110.6" dur="5.52">you never have to actually do that. If you hold 
+that law that extremely, and it&apos;s everyone&apos;s like,  </text><text start="4116.12" dur="2.52">&quot;All right, we&apos;re not going to with the 
+Sabbath. Now what do I get to do that day?&quot;
+ </text><text start="4118.64" dur="5.16">I get to reflect rather than achieve goals, 
+I reflect on what are good goals. So I get  </text><text start="4123.8" dur="4.26">to spend time with my family, I get to spend 
+time with nature, I get to read the scripture,  </text><text start="4128.06" dur="5.34">I get to meditate and I don&apos;t get to achieve 
+goals. I get to experience the fullness of life  </text><text start="4133.4" dur="6.12">outside of goal achieving. And I get to reflect on 
+what goals are truly worthwhile and in doing so,  </text><text start="4139.52" dur="4.5">binding the multipolar trap that I don&apos;t have 
+to because everybody else is rushing ahead.
+ </text><text start="4144.02" dur="5.52">That would be an example of the way religions 
+were supposed to have something like wisdom  </text><text start="4149.54" dur="4.32">that created something like law and 
+restraint to bind naive versions of  </text><text start="4153.86" dur="2.76">progress in a way that was actually 
+better for the whole long term.
+ </text><text start="4159.38" dur="6.72">Two comments there. One, when I was much younger, 
+I had some Jewish friends and I didn&apos;t ridicule  </text><text start="4166.1" dur="6.42">them, but I was kind of, &quot;Ha ha, you guys have 
+Sabbath today, I&apos;m going to go to the arcade or  </text><text start="4172.52" dur="5.52">go on a boat ride or go fishing or whatever.&quot; 
+But now as I&apos;m older, everything you just said  </text><text start="4178.82" dur="6.0">about the good life and spending time with family 
+and reading and spending time in nature and not  </text><text start="4184.82" dur="5.16">using the internet on a Saturday or whatever 
+sounds freaking wise and makes sense and  </text><text start="4189.98" dur="6.36">appealing to me. Maybe with age and maturity, 
+I&apos;m flipping from intelligence to wisdom.
+ </text><text start="4196.34" dur="4.14">And then the second thing, the implication, 
+and maybe this is where you&apos;re heading,  </text><text start="4200.48" dur="11.04">is to muzzle or forestall the risk singularity 
+that is coming from the superorganism. We have to  </text><text start="4211.52" dur="10.8">have some Sabbath equivalent applied to AI.
+It&apos;s not just Sabbath equivalent, but almost  </text><text start="4222.32" dur="5.82">all of law is about restraint, right? Things 
+that you don&apos;t do in the presence of having  </text><text start="4228.14" dur="6.24">incentive to achieve narrow goals. What are the 
+things that for the collective wellbeing, which  </text><text start="4234.38" dur="4.32">also means the capacity for your own individual 
+wellbeing for all individuals into the future,  </text><text start="4239.42" dur="5.94">what are the things that we say we don&apos;t do? If 
+you have Samantha on this is a topic she&apos;ll talk  </text><text start="4245.36" dur="4.62">about cares a lot about, which is there&apos;s 
+no definition of wisdom worth anything that  </text><text start="4249.98" dur="7.62">is not bound to the concept of restraint.
+Yeah, I don&apos;t know how our culture approaching  </text><text start="4257.6" dur="6.18">a biophysical Wiley coyote moment 20 
+or 30 or 40 years ago before all this  </text><text start="4263.78" dur="4.74">over leverage and different systemic 
+risk, we could have added restraints,  </text><text start="4268.52" dur="8.4">but now our restraint would almost default create 
+this rubber band snapback in the economic systems.  </text><text start="4276.92" dur="4.62">But we can talk about that another time.
+Well, so this is where you end up having  </text><text start="4284.42" dur="2.34">the embedded growth obligation of a system,  </text><text start="4286.76" dur="7.08">the embedded continuity of a system, 
+the kind of institutional momentum that,  </text><text start="4296.24" dur="5.46">a partner Zach was writing something recently, a 
+couple of people on the team were contributing,  </text><text start="4301.7" dur="6.06">and in the beginning it was talking about where 
+do we find ourselves now? And it says we find  </text><text start="4307.76" dur="4.26">ourselves in the relationship between the life 
+giving nature of the biosphere and the life giving  </text><text start="4312.02" dur="2.88">nature of the civilizational system.
+Yeah.
+ </text><text start="4314.9" dur="7.08">And the unique point in time at which the 
+latter is threatening the ongoing continuity  </text><text start="4321.98" dur="5.22">of the former upon which it depends. 
+And that what it takes to maintain that  </text><text start="4327.2" dur="4.92">civilizational system will destroy the biosphere 
+the civilizational system depends on, so we must  </text><text start="4332.12" dur="5.76">remake the civilizational system fundamentally.
+We do need civilizational systems. We do need  </text><text start="4337.88" dur="4.14">technological systems, but we need ones that don&apos;t 
+have embedded exponential growth obligations.  </text><text start="4342.02" dur="5.04">We do need ones that have restraint. We do need 
+ones that don&apos;t optimize narrow interests at the  </text><text start="4347.06" dur="5.88">expense of driving arms, races and externalities. 
+We do need ones where the intelligence in the  </text><text start="4352.94" dur="4.86">system is bound by and directed by wisdom.
+Right. Which is the equivalent of  </text><text start="4357.8" dur="8.22">sabbath plus law plus emergence.
+Now come back to for a moment to the &quot;ha ha,  </text><text start="4366.02" dur="4.56">what idiot&apos;s&quot; reaction you had when you were 
+young. I had a similar one and lots of young  </text><text start="4370.58" dur="3.84">people, probably even many people who were 
+raised Jewish have a similar one before.  </text><text start="4374.42" dur="4.5">They understand the full depth of it. So let&apos;s 
+talk about Chesterton&apos;s fences for a moment.
+ </text><text start="4381.32" dur="4.14">Never heard of that.
+I don&apos;t know actually the  </text><text start="4385.46" dur="5.16">history of why I&apos;ve got that name, but there&apos;s a 
+thought experiment in philosophy that says called  </text><text start="4390.62" dur="6.12">Chesterton&apos;s fence, which is there&apos;s a fence up 
+and you think, the purpose of that fence was X.  </text><text start="4396.74" dur="5.46">That&apos;s no longer here. The fence is ugly and in 
+the way, let&apos;s cut, let&apos;s take the fence down.  </text><text start="4402.98" dur="4.5">Is there a chance that the purpose for the fence 
+included several other things that you don&apos;t know  </text><text start="4407.48" dur="3.0">and you don&apos;t know that you don&apos;t know it? 
+And before you take the fucking fence down,  </text><text start="4410.48" dur="6.42">you better make sure you actually understand why 
+it was put up. And now this comes to a very deep  </text><text start="4416.9" dur="5.58">intuition. We were talking about biases earlier in 
+the progress narrative. Progressives, it&apos;s funny  </text><text start="4422.48" dur="6.3">how right now that is somehow associated with left 
+in some weird way. But progressive and traditional  </text><text start="4428.78" dur="3.84">is a deep dialectic and neither one 
+are supposed to be the one you choose.
+ </text><text start="4432.62" dur="4.2">It&apos;s a dialectic. You&apos;re supposed 
+to hold them in balance, right? And  </text><text start="4438.02" dur="5.04">very much in the same way. This is an important 
+point and it relates to wholes and wisdom versus  </text><text start="4443.06" dur="5.58">narrow goals. Narrow value sets are as 
+bad as narrow goals. They&apos;re part of it.  </text><text start="4449.9" dur="7.38">Any value that is a real value exists 
+in a dynamic tension with other values.
+ </text><text start="4457.28" dur="4.86">A dialectical one oftentimes, but other 
+values. Where if you optimize the one at  </text><text start="4462.14" dur="4.08">the expense of everything else, you optimize 
+it, you get these reductoabsurdum, right?  </text><text start="4467.66" dur="7.02">Meaning the optimization of any value by itself 
+can end up looking like evil. So if I want to  </text><text start="4474.68" dur="3.9">optimize truthfulness and all I&apos;m going to do is 
+speak the truth all the time, then when the Nazis  </text><text start="4478.58" dur="5.94">come and ask me are there any Jews inside? I say, 
+&quot;Yes,&quot;... No! I don&apos;t - truthfulness is not the  </text><text start="4484.52" dur="4.08">only value at that point to the preservation of 
+life and kindness and other things are.&quot; We can  </text><text start="4488.6" dur="8.34">even see an example where it&apos;s like if someone 
+in a naive sense says, my value is honesty,  </text><text start="4497.84" dur="3.72">there&apos;s a bunch of places where you can see 
+a person who in the name of honesty is just  </text><text start="4501.56" dur="6.9">an asshole. And they just say kind of mean 
+things and say it&apos;s in the name of honesty.
+ </text><text start="4508.46" dur="7.44">We can see that in the name of say kindness. 
+People will lie to say flattering things and  </text><text start="4515.9" dur="5.28">avoid painful things. We can see that 
+if you hold them in dialectical tension,  </text><text start="4523.04" dur="4.86">you actually get a truth that is more truthful 
+and you get kindness that is more effective  </text><text start="4527.9" dur="3.0">because the kindness that doesn&apos;t want to 
+tell the person they&apos;re an addict when they  </text><text start="4530.9" dur="3.96">are and nobody does or tell the emperor they 
+have no clothes or say anything painful that  </text><text start="4534.86" dur="6.72">is necessary feedback isn&apos;t even kind. Sometimes 
+for that value to even understand itself fully,  </text><text start="4541.58" dur="4.02">there&apos;s this kind of dialectical 
+relationship that helps that come about.
+ </text><text start="4545.6" dur="4.56">Now here&apos;s where I&apos;m coming to Chesterton&apos;s 
+fence and then I want to hear.
+ </text><text start="4550.16" dur="2.58">Okay.
+There is a dialectic between  </text><text start="4553.82" dur="4.86">a traditional impulse and a progressive 
+impulse. The traditional impulse basically says,  </text><text start="4558.68" dur="4.74">I think there were a lot of wise people 
+for a long time wise and smart people  </text><text start="4563.42" dur="4.92">who thought about some of these things more 
+deeply than I have who fought and argued.
+ </text><text start="4568.34" dur="5.22">And that the systems that made it through 
+evolution that made it through, made it  </text><text start="4573.56" dur="4.08">through for some reasons that have some embedded 
+wisdom in it that I might not understand fully  </text><text start="4577.64" dur="6.3">and it makes sense for me to have as my null 
+hypothesis, my default trusting those systems,  </text><text start="4584.84" dur="3.72">they wouldn&apos;t have made it through if they 
+weren&apos;t successful, didn&apos;t work. And likely  </text><text start="4588.56" dur="3.72">the total amount of embedded intelligence in 
+them is more than I&apos;ve thought about this thing.  </text><text start="4594.02" dur="4.92">Without knowing it, that&apos;s the traditional 
+intuition. The progress intuition is,  </text><text start="4600.68" dur="5.34">collective intelligence is advancing, built on all 
+that we have known. We&apos;re discovering new things  </text><text start="4606.02" dur="5.28">and we&apos;re we&apos;re moving into new problem sets where 
+the previous solutions could not possibly be the  </text><text start="4611.3" dur="3.78">right solutions because we have new problems. 
+We need to have fundamentally new thinking.  </text><text start="4615.08" dur="5.88">Obviously these are both true. Now on the 
+traditional side, the Chesterton&apos;s fence thing is  </text><text start="4622.16" dur="6.42">I might have as a kid, or you might have as a kid 
+thrown out the Sabbath and said, that&apos;s dumb.
+ </text><text start="4628.58" dur="4.14">Before we actually understood it because 
+we understood a straw manned version of it,  </text><text start="4632.72" dur="6.42">said it was stupid and threw it out. And so when 
+we&apos;re talking about wisdom and restraint and all  </text><text start="4639.14" dur="6.66">like that, there is something around are we 
+seeking to, because in the name of progress  </text><text start="4645.8" dur="4.44">there will always be something that is focused on 
+restraint that seems like it&apos;s up that progress  </text><text start="4650.24" dur="4.02">I could get. And if I don&apos;t understand all the 
+reasons for the restraint that factor second,  </text><text start="4654.26" dur="5.04">third, fourth, nth order effects long into the 
+future in the short term, I should do the thing.  </text><text start="4660.38" dur="6.06">In the short term, no, of course I should 
+advance the AI applied to genomics to solve  </text><text start="4666.44" dur="4.08">cancer without thinking through the fact that 
+the fourth order effects might involve increasing  </text><text start="4670.52" dur="4.14">bioweapons capability for everyone in destruction 
+of the world, so even the cancer solutions don&apos;t  </text><text start="4674.66" dur="5.64">matter in the course of those people&apos;s lives.
+And so this is there a whole enough perspective  </text><text start="4680.3" dur="5.64">to be able to see how the things that are actually 
+wise from a narrow perspective look stupid?
+ </text><text start="4687.44" dur="9.3">Two questions, one, is the metaphor the same 
+as when I was younger, I thought those things  </text><text start="4696.74" dur="6.18">were stupid and now I recognize the validity of 
+them. That&apos;s where we are as a culture? We are  </text><text start="4702.92" dur="8.76">the younger version of Nate in the intelligence 
+versus wisdom dynamic? I&apos;m just speculating. I  </text><text start="4711.68" dur="6.96">think that&apos;s probably the case. And then 
+two, you and all the people that I know,  </text><text start="4718.64" dur="6.96">I know a lot of smart people, you&apos;re certainly up 
+there, but you also have wisdom and I don&apos;t know  </text><text start="4725.6" dur="8.58">as many people that have both intelligence and 
+wisdom and you in my sphere rank near the top. But  </text><text start="4734.18" dur="10.32">is it in our genome? Is it in the human behavioral 
+repertoire to hold more than those single values  </text><text start="4744.5" dur="9.06">to hold multiple values and wide boundary views 
+of the world? What do you think about that?
+ </text><text start="4754.46" dur="6.42">We said that there is something unique about 
+the types of recursive intelligence that lead  </text><text start="4760.88" dur="5.64">to technology innovation and the anthrop scene, 
+the superorganism et cetera in human intelligence  </text><text start="4766.52" dur="13.02">relative to other species. Let&apos;s talk about the 
+genetic predisposition and what the predisposition  </text><text start="4779.54" dur="7.14">is actually for and the nature nurture thing a 
+little bit I would say. And again, everything  </text><text start="4786.68" dur="5.82">I&apos;m going to say here will be at a high level that 
+is hopefully pointing in the right direction, but  </text><text start="4793.22" dur="7.62">totally inadequate to a deeper analysis 
+of all the topics. Our nature in terms of  </text><text start="4802.1" dur="9.84">the genetic fitness of humans, homosapiens, 
+it would be fair to say that our nature  </text><text start="4812.9" dur="7.08">selected for being more quickly and recursively 
+changeable by nurture than anything else.
+ </text><text start="4823.52" dur="1.68">As individual humans?
+ </text><text start="4827.18" dur="4.8">In the individual human is not the unit of 
+selection and evolution, the tribe is.
+ </text><text start="4833.6" dur="3.12">Right? Well, both.
+The tribe or the band, the group of humans.
+ </text><text start="4839.48" dur="6.24">Both, sometimes individuals, sometimes tribes.
+I don&apos;t think there is much of a case for  </text><text start="4845.72" dur="3.36">individual humans surviving in the 
+early evolutionary environment by  </text><text start="4849.08" dur="5.76">themselves very well. And the behavior of them as 
+individuals separate from social behavior leading,  </text><text start="4854.84" dur="4.62">there are certainly some animals that are 
+largely solitary and they have a different set  </text><text start="4859.46" dur="3.84">of selection criteria than primarily social 
+animals. Humans are a primarily social-
+ </text><text start="4863.3" dur="9.72">But I mean this was EO Wilson, David Sloan 
+Wilson&apos;s paper that selfish individuals out  </text><text start="4873.02" dur="9.42">compete within groups and cooperative groups, out 
+compete selfish groups. I think both are hardwired  </text><text start="4883.04" dur="6.0">in us, but let&apos;s not get detracted by that.
+Actually what I&apos;m saying holds with this,  </text><text start="4889.82" dur="5.04">the individual, there are some selection of 
+an individual within a social environment,  </text><text start="4894.86" dur="5.4">but there&apos;s no selection of an individual 
+outside of other sapiens, right?
+ </text><text start="4900.26" dur="3.9">Right.
+And so the unit of selection that is  </text><text start="4904.16" dur="7.26">driving the dominant feature for sapiens, the unit 
+of selection is a group. That&apos;s actually a really  </text><text start="4911.42" dur="4.02">important thing to think about. As opposed to that 
+the unit of selection&apos;s an individual because we  </text><text start="4915.44" dur="6.42">have such an individualistically focused culture 
+today, and we think in terms of individual focus  </text><text start="4921.86" dur="6.84">way excessively to the actual evolutionary 
+fitness of an individual outside of a tribe  </text><text start="4928.7" dur="5.22">was dead in almost every environment for most of 
+history. A set of behaviors that made you alienate  </text><text start="4933.92" dur="5.52">the tribe was not an evolutionary strategy for 
+most of the evolutionary basis of humans.
+ </text><text start="4939.44" dur="6.24">And the problem now is our tribe is 8 billion 
+strong pursuing profits tethered to carbon-</text></transcript>

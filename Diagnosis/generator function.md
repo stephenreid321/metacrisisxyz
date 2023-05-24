@@ -11,4 +11,4 @@ A generator function, in the context of failed civilizations, is a method of ana
 > [!info] Podcasts mentioning this term most frequently
 > * [[51 Daniel Schmachtenberger: Meta Existential Risk]] (20)
 > * [[Utopia or Bust Designing a Non Self Terminating Civilization   Daniel Schmachtenberger - on Emerge.]] (19)
-> * [[57: Daniel Schmachtenberger - What Causes Existential Risks? Pt. 1]] (10)
+> * [[EP7 Daniel Schmachtenberger and the Evolution of Technology]] (10)

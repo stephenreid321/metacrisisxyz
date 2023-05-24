@@ -10,5 +10,5 @@ Hypernormal stimuli is an evolutionary concept that proposes that certain patter
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[Advancing Collective Intelligence – Daniel Schmachtenberger & Phoebe Tickell, Consilience Project]] (11)
-> * [[Digital Porch: Session 2 w  Daniel Schmachtenberger]] (8)
+> * [[EP80 Daniel Schmachtenberger on Better Sensemaking]] (8)
 > * [[Supercharge Your Mind With Neurohacker Collective, Feat. Daniel Schmachtenberger  118]] (8)
