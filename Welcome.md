@@ -1,6 +1,6 @@
 This is a Ruby/OpenAI-enhanced Obsidian knowledgebase for [metacrisis.xyz](https://metacrisis.xyz/).
 
-💬 Telegram group: https://t.me/+gyNXeGLnh71kYmMx
+💬 Questions/comments? Email hello@metacrisis.xyz
 👾 Github repo for this knowledgebase (PRs welcome): https://github.com/stephenreid321/metacrisisxyz
 
 You can find definitions of metacrisis-related terms with links to where they are used in podcasts under:
@@ -19,8 +19,6 @@ Find transcripts of relevant podcasts including timestamped links under `Transcr
 * [[The Metacrisis with Daniel Schmachtenberger – Part 1 – Green Pill 26]]
 * [[Superstructures with Daniel Schmachtenberger – Green Pill 32]]
 * [[MetacrisisDAO with Daniel Schmachtenberger – Green Pill 84]]
-
-The initial work of the DAO is likely to be oriented around [[Daniel's prompts from GreenPill 84]].
 
 ## Other great resources
 
