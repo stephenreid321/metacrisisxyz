@@ -367,7 +367,7 @@ clear design constraint the design constraint is   [1799](https://www.youtube.
 
 that the number one imperative of the world of 
 civilization if they are paying any damn attention   needs to be the development the development and 
-implementation of the new emerging categories   of exponential technologies to making new social 
+implementation of the new emerging categories   of [[exponential tech|exponential technologies]] to making new social 
 technologies to making democracy 2.0 republic 2.0   [[open society|open societies]] that are both aligned with 
 the kinds of values that we care about   they'll be different right and they should 
 be different the idea that you just vote on   propositions or the propositions you have no 
@@ -382,8 +382,8 @@ in the crafting of the propositions themselves   so we can come up with better
 don't have such unnecessary theory of trade-offs   and so it's not that we're trying to make exactly 
 the same structure but a digital version we're   trying to make something that's aligned with the 
 same values of uh both maximizing the integrity of   the commons and maximizing individual freedoms and 
-creative expression and like that within that and   so how do we engage exponential technology to make 
-new social technologies new [[open society|open societies]] that   can preserve the right and advance the 
+creative expression and like that within that and   so how do we engage [[exponential tech|exponential technology]] to make 
+new [[social tech|social technologies]] new [[open society|open societies]] that   can preserve the right and advance the 
 right types of civil liberties and values   and guide the [[exponential tech]] safely so 
 that it doesn't cause [[catastrophic risk]]   to me that's the only imperative worth 
 anything because if we don't do that the   other things won't matter they won't end 
@@ -420,7 +420,7 @@ enough that we start thinking about oh wow   we're powerful enough now that de
 civilization from scratch is a possible thing   well let's design this one from scratch 
 differently what would that look like so how do we how do we and then you know 
 you may want to uh dive into the consistence   project which is your project which i i highly 
-i'm fired up about it so how do we begin to   design a new social technology and 
+i'm fired up about it so how do we begin to   design a new [[social tech|social technology]] and 
 re-engineer society basically what are the   i think the best words or what are the the best 
 levers to implement that i mean how do we begin   i i think just like elon musk is uh using his idea 
 to go to mars as a means to achieve the technology   [2097](https://www.youtube.com/watch?v=zQ0l56vjTss&t=2097.76s)
@@ -591,7 +591,7 @@ then that kind of emerged into certain dominant   types of empires and feudali
 for so long that like the idea of something like   [[nation state|nation states]] and markets was that wasn't even 
 an idea that that would that it would go that   direction and that new thing and then obviously 
 post world war ii not just [[nation state|nation states]] but like   intergovernmental organizations at a global 
-scale and multinational corporations so the   world does evolve at social technology and we 
+scale and multinational corporations so the   world does evolve at [[social tech|social technology]] and we 
 can see that when the founding fathers of the us   were founding the constitution they 
 didn't have ai as an issue to worry about   [2996](https://www.youtube.com/watch?v=zQ0l56vjTss&t=2996.16s)
 
@@ -619,7 +619,7 @@ people it might be helpful um i'm guessing that most of the people 
 who are listening to this are aware   [3119](https://www.youtube.com/watch?v=zQ0l56vjTss&t=3119.92s)
 
 of many of the types of [[existential risk]] that 
-exponential technology makes possible if not   go watch nick bostrom give a 
+[[exponential tech|exponential technology]] makes possible if not   go watch nick bostrom give a 
 short overview of it on ted but uh you know briefly things like nukes are 
 hard to make not that many places have uranium   it's hard to enrich uranium you can see who has 
 it because it's radioactive from a satellite   it's not hard to make drone weapons commercial 
@@ -760,7 +760,7 @@ where that 70 trillion a day of human activity is   [3814](https://www.youtube
 incented in a different direction how i build that 
 new thing is not going to be what's incentivized   by the current thing so it's going to be some 
 people who make an evolution in their values   first who are willing to build new technologies 
-in new ways social and physical technologies   together in new ways that create new systems 
+in new ways social and [[physical tech|physical technologies]]   together in new ways that create new systems 
 of incentives that make it easier for other   people to onboard into those values but the 
 the beginning of a new civilization is always   not winning at the previous one it is always 
 willing to fight a revolutionary war to take   some real sacrifice to migrate to something 
@@ -770,8 +770,8 @@ goal of the convenience project i didn't even do   consensus project sorry um 
 me back the goal of the consultants project is to   [3878](https://www.youtube.com/watch?v=zQ0l56vjTss&t=3878.4s)
 
 help this zeitgeist that the one thing that 
-civilization needs to be centrally focused on   is the development of new social technologies that 
-both employ and direct exponential technology the   goal is to not only get that zeitgeist out 
+civilization needs to be centrally focused on   is the development of new [[social tech|social technologies]] that 
+both employ and direct [[exponential tech|exponential technology]] the   goal is to not only get that zeitgeist out 
 there but to get enough understanding about   what those new systems must be that the design 
 criteria for decentralized innovation can happen   so you know we're writing a bunch of articles 
 we have a we have a research team of people that   have been thinking about these things in novel 

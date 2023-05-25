@@ -666,7 +666,7 @@ if there was a lot less people, we could make
 it. and if we don't, then we'll end up doing things
 that end up leading to no people and a lot of harm to the rest of the species. so, i started thinking about technological
 population reduction solutions. this is one of the reasons that i'm concerned
-about decentralized exponential technologies like tabletop crispr and stuff is because
+about decentralized [[exponential tech|exponential technologies]] like tabletop crispr and stuff is because
 i know there are other people thinking about those things and the technology to be able
 to act on it is getting much easier than it was back all those years ago when i was 15. even then, i was able to think about some
 things. daniel schmachtenberger:

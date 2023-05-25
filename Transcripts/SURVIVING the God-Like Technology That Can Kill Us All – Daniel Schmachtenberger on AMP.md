@@ -101,7 +101,7 @@ built-in they have a built-in kind of incentive and a built-in way about them th
 
 yet um because that's what it's it is a tool intentionally designed to do that right like the intention of the tool is to take all of the world's content and curate it uniquely based off of personalized tracking of my behaviors in a way that optimizes my behaviors for for purposes right for engagement and advertisers and [1233](https://www.youtube.com/watch?v=p4NlLuNj0v8&t=1233.919s)
 
-like that and so it's using exponential technology specifically personalized data harvesting decentralized content curation and [[artificial intelligence]] to affect certain outcomes of behavior mod and this is why it's important to [1252](https://www.youtube.com/watch?v=p4NlLuNj0v8&t=1252.559s)
+like that and so it's using [[exponential tech|exponential technology]] specifically personalized data harvesting decentralized content curation and [[artificial intelligence]] to affect certain outcomes of behavior mod and this is why it's important to [1252](https://www.youtube.com/watch?v=p4NlLuNj0v8&t=1252.559s)
 
 understand these companies are different in kind than big agriculture or big pharma or even big defense is that those are not intended to be multi-billion person ai empowered personalized behavior modification systems right this is actually a behavior modification system [1273](https://www.youtube.com/watch?v=p4NlLuNj0v8&t=1273.84s)
 

@@ -363,7 +363,7 @@ past time so you could either not answer this or be brief with it i think a foll
 
 so look at people who were not born into great wealth or power and became very powerful and study their biographies specifically the biographies of their psychology and the steps they took and what will be interesting is you'll be studying genghis khan and alexander the great napoleon and carnegie and elon musk and [4144](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4144.64s)
 
-whoever and you'll be like how the  __  would i apply some of those actually kind of dreadful game theoretic tactics to something better but that's just a kind of a very superficial assessment as you go deeper you're like how did they empower themselves not coming from it what were the things that did that and what would it look like to [4165](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4165.12s)
+whoever and you'll be like how the  __  would i apply some of those actually kind of dreadful [[game theory|game theoretic]] tactics to something better but that's just a kind of a very superficial assessment as you go deeper you're like how did they empower themselves not coming from it what were the things that did that and what would it look like to [4165](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4165.12s)
 
 be able to do that towards a different set of goals um there's a whole big conversation here but uh yeah look look at people who increased their agency radically and then look at the commonalities of what is involved in increasing agency thank you cool um [4188](https://www.youtube.com/watch?v=jUn7_85R0M4&t=4188.96s)
 

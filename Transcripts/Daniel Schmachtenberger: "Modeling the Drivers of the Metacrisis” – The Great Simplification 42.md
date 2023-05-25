@@ -85,7 +85,7 @@ what generates profit for a company or a country or an individual often does so 
 of another company or country or other individuals or the environment as a whole. [507](https://www.youtube.com/watch?v=tQkQrc3Ant4&t=507.18s)
 
 and so then when that profit equals not just
-security and survivability but also game theoretic advantage of their ability to influence their
+security and survivability but also [[game theory|game theoretic]] advantage of their ability to influence their
 own fate in the world and whatever mechanisms they use to generate more profit than somebody
 else, i.e better technology, that that can be re-engineered and employed by others, so
 you get these kind of races. whether it's a [[arms race]] militarily or just

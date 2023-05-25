@@ -252,7 +252,7 @@ situation and the trajectories towards existential and
 global [[catastrophic risk]] in particular, the solutions to those that involve control
 mechanisms that create trajectories towards dystopias, and the consideration of what a world that
 is neither in the attractor basin of catastrophe or [[dystopia]] looks like, a kind of [[third attractor]]. what would it take to have a civilization
-that could steward the power of exponential technology much better than we have stewarded all of
+that could steward the power of [[exponential tech|exponential technology]] much better than we have stewarded all of
 our previous technological power? what would that mean in terms of culture and
 in terms of political economies and governance and things like that? so, thinking about those things and acting
 on specific cases of near-term [[catastrophic risk|catastrophic risks]] that we were hoping to ameliorate and helping
@@ -410,7 +410,7 @@ their own near-term optimum creates a shitty term global minimum for everybody, 
 against that, that's a lot of centralized power. and where are the checks and balances on that
 power? otherwise, how do you create decentralized
 coordination? and similarly, if you're looking at things
-like in an age where terrorism can get exponential technologies and you don't want exponentially
+like in an age where terrorism can get [[exponential tech|exponential technologies]] and you don't want exponentially
 empowered terrorism with [[catastrophe weapon|catastrophe weapons]] for everyone, to be able to see what's being
 developed ahead of time, does that look like [1795](https://www.youtube.com/watch?v=g7WtcTATa2U&t=1795.64s)
 
@@ -697,7 +697,7 @@ doing the thing recognizes their action as driving that downside, and how do you
 global enforcement of the thing? and if you don't get global enforcement, why
 should anyone let themselves be curtailed when other people aren't being curtailed? [3292](https://www.youtube.com/watch?v=g7WtcTATa2U&t=3292.02s)
 
-and that'll give them game theoretic advantage. so this is actually, there's a handful of
+and that'll give them [[game theory|game theoretic]] advantage. so this is actually, there's a handful of
 asymmetries that are important to understand with regard to risk. all right. we've covered plenty so far. and so it's fruitful to have a brief summary. we've talked about the faulty foundation of
 our monetary system. daniel argues that post-world war ii especially,
 our [[economic system]] has not only encouraged but been dependent on exponential monetary
@@ -2188,7 +2188,7 @@ ought, but that any system of ought is not the philosophy of science. so is, ins
 scope or gibberish, well, then what ends up guiding the power
 of technology? markets do. and to some extent, [10612](https://www.youtube.com/watch?v=g7WtcTATa2U&t=10612.21s)
 
-[[national security]] does. in other words, rival risk game theoretic
+[[national security]] does. in other words, rivalrous [[game theory|game theoretic]]
 kind of interests. and so what gets researched, the thing that
 has the most market potential. and so then, again, it is what is actually
 developing the technology? because as einstein said, like, i was developing science not knowing
@@ -2197,7 +2197,7 @@ for social responsibility. but what ends up, for the most part, the research tha
 funded is r&d towards something that ends up either [10646](https://www.youtube.com/watch?v=g7WtcTATa2U&t=10646.54s)
 
 advancing the interest of a [[nation state]] or
-the interest of a corporation or whatever the metric set, the game theoretic metric set of the
+the interest of a corporation or whatever the metric set, the [[game theory|game theoretic]] metric set of the
 group of people that is doing the thing, right? and so what i would say is that as we get
 to more and more powerful is, more and more powerful science that creates more and more powerful
 tech and exponentially powerful tech, especially as we're already hitting fragility of the planetary
@@ -2504,7 +2504,7 @@ all the feedback loops, produce a virtuous cycle that orients in a direction tha
 catastrophes or dystopias. it's the right way of thinking about it. and ultimately, the direction actually has
 to be the [[superstructure]] informing the [[social structure]], informing or guide, bind, direct
 the infrastructure. sorry. can you repeat that once more? yeah. right now, especially post-[[industrial revolution]],
-physical technology, infrastructure had way faster feedback loops on it than the others
+[[physical tech|physical technology]], infrastructure had way faster feedback loops on it than the others
 did, right? [12121](https://www.youtube.com/watch?v=g7WtcTATa2U&t=12121.8s)
 
 and because of that, it started breaking the
@@ -2593,7 +2593,7 @@ the enlightenment way of thinking about it is that we can impose our own values.
 
 so i like this. i'm in agreement with it. i think we've just been using different terminology. you and i both know that when you, in many
 ways, how to say this, an evolution of cultural worldview and values adequate to steward the
-power of exponential technology in non-catastrophic or non-dystopic ways is happening in some
+power of [[exponential tech|exponential technology]] in non-catastrophic or non-dystopic ways is happening in some
 areas, but a regress is also happening in some areas. right? there is increasing left-right polarization. i thought you were going to say there's a
 regress happening like in demand. [12569](https://www.youtube.com/watch?v=g7WtcTATa2U&t=12569.75s)
 

@@ -235,7 +235,7 @@ have to make sure we are really looking at these [[existential risk|existential 
 
 just quickly just name five i mean i'm sitting here like i wonder what the  __  these guys think is existential because i got my list so i'm guessing your list is better than mine and there and others so just give us five something to think about don't want to take too much right daniel you start with number one [2626](https://www.youtube.com/watch?v=Z_wPQCU5O6w&t=2626.24s)
 
-so some people categorize it by like uh ex exponential technologies who's you can't do you're doing two you have to do one i don't have a taxonomy that i would wait that way and so i was going to do a meta comment on it maybe you want to share your top five and then i will make some comments on that i don't know my top five i would say i mean we kind of [2648](https://www.youtube.com/watch?v=Z_wPQCU5O6w&t=2648.319s)
+so some people categorize it by like uh ex [[exponential tech|exponential technologies]] who's you can't do you're doing two you have to do one i don't have a taxonomy that i would wait that way and so i was going to do a meta comment on it maybe you want to share your top five and then i will make some comments on that i don't know my top five i would say i mean we kind of [2648](https://www.youtube.com/watch?v=Z_wPQCU5O6w&t=2648.319s)
 
 covered it pretty well but i would probably start with the control function on super intelligence um i would then probably talk about and of course this gets to your concept about about self-recursive technologies i would then get to um crispr cast 9 and gene editing and then i would probably get [2667](https://www.youtube.com/watch?v=Z_wPQCU5O6w&t=2667.76s)
 

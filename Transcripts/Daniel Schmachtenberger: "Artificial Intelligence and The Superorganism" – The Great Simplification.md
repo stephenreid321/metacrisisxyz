@@ -164,11 +164,11 @@ inputs and the source capacity of the earth,   and those are not finite. so th
 two blind spots i think in that narrative.
   so we could say the costs and the sustainability 
 of the story. and so if you talk about the story   of progress, particularly like the post 
-modernity version of science technology   and the associated social technologies, not 
+modernity version of science technology   and the associated [[social tech|social technologies]], not 
 just [[physical tech]] because capitalism and   democracy and international relations are 
-all kind of coordination systems that we   can call a social technology, a way of applying 
+all kind of coordination systems that we   can call a [[social tech|social technology]], a way of applying 
 intelligence to achieving goals and doing things   of which you can consider language in early 
-social technology, which it is. if you ask   the many, many indigenous cultures who were 
+[[social tech|social technology]], which it is. if you ask   the many, many indigenous cultures who were 
 genocided or extincted or who have just remnants   of their culture left, or if you ask all of the 
 extincted species or all of the endangered species   or all of the highly oppressed people, their 
 version of the progress narrative is different.
@@ -317,7 +317,7 @@ do that thing is not going to get huge caloric   surplus. it's not going to gr
 as much. it's not going to make it through the   hard weather times as well. and so when the 
 new technology emerges, those who use it,   if the technology confers competitive advantage, 
 it becomes obligate because whoever doesn't use it   or use at least some comparable technologies loses 
-when you get into rival risk interactions.
+when you get into rivalrous interactions.
   let me take a brief rabbit hole side step here. 
 but while it's fresh in my mind, i think this   [1660](https://www.youtube.com/watch?v=_P8PLHvZygo&t=1660.56s)
 
@@ -493,7 +493,7 @@ a whole bunch of new industries and use more   total energy, but it's a second
 even a third order effect because it makes some   other technology possible that does that.
 this is one of the asymmetries that we have   to focus on in the progress narrative is the 
 progress narrative is and technology in general,   when we make a new technology, and by technology 
-i mean a physical technology or even say a law   or a business to achieve a goal, we're generally 
+i mean a [[physical tech|physical technology]] or even say a law   or a business to achieve a goal, we're generally 
 making something that is trying to have a first   order effect on a narrow goal that is definable 
 in a finite number of metrics for a small set   [2540](https://www.youtube.com/watch?v=_P8PLHvZygo&t=2540.28s)
 
@@ -710,7 +710,7 @@ i don't even realize that that thing that 
 i'm optimizing for isn't the actual thing   or is only a part of the whole thing.
 and then probably by definition we choose models   or inputs into the models that kind of confirm 
 our own built identity up until that moment.
-  and, or, win in some game theoretic way. so if 
+  and, or, win in some [[game theory|game theoretic]] way. so if 
 it achieves, if the model damages lots of things,   but makes me win the war, that model will 
 probably win. and you notice how it's like,   okay, so we get the inquisition, we get 
 the crusades, we get some fucking gnarly,   violent, cruel like figuring out 
@@ -739,7 +739,7 @@ wholeness. intelligence is related to the   relevance realization of how do i 
 a goal will be a narrow thing for a narrow set of   agents bound in time, modifying a fixed number 
 of parameters. and so then i would say if   human intelligence distinct from other types of 
 animal intelligence where we don't just have the   ability to work within a range of behaviors 
-that are in capacities that are mostly built   into where the primary physical technology is our 
+that are in capacities that are mostly built   into where the primary [[physical tech|physical technology]] is our 
 bodies, the animals evolved to have claws, to have   blubber for the cold, to have whatever it 
 was that was a technological innovation to be   [3696](https://www.youtube.com/watch?v=_P8PLHvZygo&t=3696.12s)
 

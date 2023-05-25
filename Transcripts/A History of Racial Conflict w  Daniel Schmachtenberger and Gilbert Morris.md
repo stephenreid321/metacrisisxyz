@@ -293,7 +293,7 @@ during that period angola and about four other countries apologized to the diasp
 
 but we should always try to get history in in its proper context because the narrative that we use at that end is going to bleed through when it's come time for the solutions and then we'll have a very difficult time sort of crafting the solutions if we're depending on a narrative which while it feels good is actually inaccurate [3994](https://www.youtube.com/watch?v=mPHUN18BbNo&t=3994.319s)
 
-you know so this is this is profoundly important so so you have that situation now you have the rival risk situations of you know kingdom against kingdom and so on and uh uh you now have the uh the slave trade everybody knows about the slave trade uh uh and uh the ex but now we know about the guns [4022](https://www.youtube.com/watch?v=mPHUN18BbNo&t=4022.319s)
+you know so this is this is profoundly important so so you have that situation now you have the rivalrous situations of you know kingdom against kingdom and so on and uh uh you now have the uh the slave trade everybody knows about the slave trade uh uh and uh the ex but now we know about the guns [4022](https://www.youtube.com/watch?v=mPHUN18BbNo&t=4022.319s)
 
 for commodities for slaves and commodities and so on in a triangle that uh that that moved people uh 12 and a half million people to the united states what was that america um but it moved close to uh four or five times that uh to places like brazil the starting point was actually one of [4045](https://www.youtube.com/watch?v=mPHUN18BbNo&t=4045.76s)
 
@@ -391,7 +391,7 @@ there's a woman representing her and she's in beautiful colors like wearing a yo
 
 it's filling in the aristotle and the aquinas you know this open category that they've left based on civilizational advancement and all these sorts of things plus there's the dominance that's going on in west africa at the moment and nobody is saying hey [5344](https://www.youtube.com/watch?v=mPHUN18BbNo&t=5344.32s)
 
-it's a guns for the enslave for commodities trade and there's a rival risk proposition that's being exacerbated on the continent so they're not actually losing or they're not actually just a bunch of disagreeable people who can't behave something is happening to them no one says that it just says those [5369](https://www.youtube.com/watch?v=mPHUN18BbNo&t=5369.52s)
+it's a guns for the enslave for commodities trade and there's a rivalrous proposition that's being exacerbated on the continent so they're not actually losing or they're not actually just a bunch of disagreeable people who can't behave something is happening to them no one says that it just says those [5369](https://www.youtube.com/watch?v=mPHUN18BbNo&t=5369.52s)
 
 people are always warring and so on killing each other but here we are you know living in a a great civilization and so we have advanced more than they have because again you know here we are then how does this get refined who what happens here well it turns out that david hume part of the scottish enlightenment right great philosopher david hume it tells a story that a man is said to be very intelligent but the fact that he is black is a clear proof that he is merely parroting what he's [5417](https://www.youtube.com/watch?v=mPHUN18BbNo&t=5417.199s)
 
@@ -755,7 +755,7 @@ says all we have to do is be arrested for an indefinite period of time and now w
 
 had more power that used that good faith to then me over every time that i was a sucker yes and this is where you start to see the hip-hop community adopting the 48 laws of power as a bible and being like come on don't if you don't know who the sucker in the room is it's you right and so one of the things we've talked about is [10552](https://www.youtube.com/watch?v=mPHUN18BbNo&t=10552.56s)
 
-you have kind of naive good faith in which case if you have less power and you engage in good faith you get then you're cynical and you're at the 48 laws level but in here there is no good answer for the world it is game theoretic in a way that with more tech does in than a war of all against all right and then you have to become post-cynical [10571](https://www.youtube.com/watch?v=mPHUN18BbNo&t=10571.279s)
+you have kind of naive good faith in which case if you have less power and you engage in good faith you get then you're cynical and you're at the 48 laws level but in here there is no good answer for the world it is [[game theory|game theoretic]] in a way that with more tech does in than a war of all against all right and then you have to become post-cynical [10571](https://www.youtube.com/watch?v=mPHUN18BbNo&t=10571.279s)
 
 so there's a kind of post-cynical good faith where you can tell if someone is really good faith or not but you're oriented towards how do we create it right it seems that the thing we have to do is be able to walk through those steps into a kind of post-cynical good faith that can look at all of the really bad faith and the fact that like it's not [10590](https://www.youtube.com/watch?v=mPHUN18BbNo&t=10590.319s)
 

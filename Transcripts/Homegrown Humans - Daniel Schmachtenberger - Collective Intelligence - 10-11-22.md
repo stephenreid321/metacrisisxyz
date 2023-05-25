@@ -859,7 +859,7 @@ to find what's wrong with any possible solution i was talking with a different f
 
 find something possibly wrong with it that's a bias you're running because why don't you wonder what could be why don't you just as rigorously analyze the [[catastrophic risk]] of why that probably won't happen there's a and so i and if one is oriented to catastrophize they won't coordinate with other people for because they'll catastrophize [9717](https://www.youtube.com/watch?v=fowcm7b8Dlw&t=9717.479s)
 
-the relationships and assume that everyone is them and just doing it for game theoretic power just virtue signaling and everything else and so you actually have to overcome catastrophizing in one's own self to actually be in service to catastrophe as well to be able to think through them and yet be oriented to solutions and oriented to [9733](https://www.youtube.com/watch?v=fowcm7b8Dlw&t=9733.8s)
+the relationships and assume that everyone is them and just doing it for [[game theory|game theoretic]] power just virtue signaling and everything else and so you actually have to overcome catastrophizing in one's own self to actually be in service to catastrophe as well to be able to think through them and yet be oriented to solutions and oriented to [9733](https://www.youtube.com/watch?v=fowcm7b8Dlw&t=9733.8s)
 
 collaborate with other people so it's weird to be in a place of like no we really want to understand all the things that are so we can address them but it is so we can address them and that's both the show we not so i and the address rather than just leaving takes ability to save a planet it's just fun jamie this was really fun today yeah yeah yeah well listen so so [9757](https://www.youtube.com/watch?v=fowcm7b8Dlw&t=9757.62s)
 

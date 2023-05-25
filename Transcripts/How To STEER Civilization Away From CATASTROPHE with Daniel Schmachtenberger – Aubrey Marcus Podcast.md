@@ -211,7 +211,7 @@ and the corporations have the money to keep paying for lobbying that is and lawy
 
 choose not to participate with it you're really not participating in society it became an obligate thing and so now we have to say okay that's very powerful is there a way that it is bound to the good of society or is it just unchecked power and what would check that power anytime a new power comes it's really powerful we have [2308](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=2308.079s)
 
-to say does it differentially serve some over others or does it is it tending to the good of the whole if it isn't how do we check it and that's a core question with all of the exponential technologies is they make rapidly more power and much faster than any previous technology did that [2326](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=2326.48s)
+to say does it differentially serve some over others or does it is it tending to the good of the whole if it isn't how do we check it and that's a core question with all of the [[exponential tech|exponential technologies]] is they make rapidly more power and much faster than any previous technology did that [2326](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=2326.48s)
 
 and they are not being developed mostly for kind of comprehensive commons integrity as their as their basis right and and that's you know that's i think a key challenge here because of course as we set up as the forefathers set up the government they understood the absolute necessity of checks and balances and this is that thing that [2351](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=2351.119s)
 
@@ -525,7 +525,7 @@ epistemic training to be able to know what is a sock puppet and what isn't and t
 
 most people that you could talk to was like the people that could hear you speak when you were standing somewhere and so so do we want to censor russian propaganda in our media space do we want to so most people think that there are certain actors that don't have the interest of whatever the in group we're paying attention to [5889](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=5889.119s)
 
-is that could share information that is false but with a higher degree of game theoretic capacity than the general public has they could beat them and they're like no we actually have to deal with that so it's tricky right it's it's uh there's a there's a nuanced argument here and because there's a nuanced argument it's the kind [5905](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=5905.119s)
+is that could share information that is false but with a higher degree of [[game theory|game theoretic]] capacity than the general public has they could beat them and they're like no we actually have to deal with that so it's tricky right it's it's uh there's a there's a nuanced argument here and because there's a nuanced argument it's the kind [5905](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=5905.119s)
 
 of thing that you need the right kind of conversation around um what does when we talk about free speech a right what is the responsibility that's associated with a right and what does that look like in the digital amplification age and then when the ai optimization algorithms take whatever the stickiest [5929](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=5929.28s)
 

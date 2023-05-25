@@ -69,7 +69,7 @@ use this technology to make even better technology. with each decade we observe 
 breakthroughs. and normally that’s ok. we want innovations, new medical procedures,
 more computational power, novel forms of communication, more efficient powerhouses. but alongside all that clearly beneficial
 tech, we have developments that pose grave danger to the future of entire human civilization. we not only have a few national superpowers
-armed with [[nuclear weapon|nuclear weapons]], but we’re witnessing the emergence of new kinds of technology. we’re talking about exponential technology
+armed with [[nuclear weapon|nuclear weapons]], but we’re witnessing the emergence of new kinds of technology. we’re talking about [[exponential tech|exponential technology]]
 — the technology that we use to make better forms of technology, that are also easier
 to use by smaller groups. that would include genetic engineering with
 the possibility of creating deadly viruses, [[artificial intelligence]] aimed at optimizing
@@ -96,7 +96,7 @@ things we can convert into currency. but economy makes it impossible to value or
 optimize for many non-exchangeable goods, such as songbirds, nature, personal enjoyment. currency as a metric doesn’t capture many
 otherwise valuable goods, goods that are shared [564](https://www.youtube.com/watch?v=9TQHtaRXntQ&t=564.62s)
 
-by all of us. when this system acquires exponential technology,
+by all of us. when this system acquires [[exponential tech|exponential technology]],
 it becomes a [[self-terminating]] one, because it can’t leave the natural resources alone
 — they have to be converted into things, measurable by currency. the solution now that we know the state of our global civilization,
 the root cause and the prediction based on the current trajectory, we can ask “what

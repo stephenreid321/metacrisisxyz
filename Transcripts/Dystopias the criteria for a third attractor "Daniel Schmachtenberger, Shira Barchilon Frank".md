@@ -23,7 +23,7 @@ of the energy economy you have [[climate change]] on the other side you have act
 
 pegged to like global gdp and global energy being nearly one for one pegged right and an exponential [[embedded growth obligation]] on currency that means you have an exponential need to grow the total amount of energy in the system while having a diminishing return on energy availability so we can see like [[catastrophic risk]] across [181](https://www.youtube.com/watch?v=1r2TSpSNjDI&t=181.519s)
 
-trying to run exponential linear [[materials economy]] on a finite planet and then you add the x exponential technologies to that the exponential technologies basically radically centralize and decentralize power at the same time the decentralization of power looks like decentralized catastrophic capability so [202](https://www.youtube.com/watch?v=1r2TSpSNjDI&t=202.959s)
+trying to run exponential linear [[materials economy]] on a finite planet and then you add the x [[exponential tech|exponential technologies]] to that the [[exponential tech|exponential technologies]] basically radically centralize and decentralize power at the same time the decentralization of power looks like decentralized catastrophic capability so [202](https://www.youtube.com/watch?v=1r2TSpSNjDI&t=202.959s)
 
 the ability to build drone weapons cyber weapons [[bioweapon|bioweapons]] ai weapons in basements non-state actors having that where you can't use un style [[mutually assured destruction]] of everyone yeah so the the [[catastrophe weapon|catastrophe weapons]] for everyone world the main solution to solve that is things like kind of the china model which is ubiquitous surveillance to be able to prevent that [227](https://www.youtube.com/watch?v=1r2TSpSNjDI&t=227.84s)
 

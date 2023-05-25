@@ -105,7 +105,7 @@ had a follow-up question um so i had two sort of follow-ups it's good to see you
 
 that you might see in media where certain things are highlighted and certain things aren't in a way that allows the culture to ignore things that uh might stop it or make it second guess itself um and then the second one is uh kind of related to that how do you set up your personal empathy stack like what emotionally valent content do [1269](https://www.youtube.com/watch?v=tWfyOU07vgE&t=1269.36s)
 
-you bring into your life intentionally um to kind of relate to the world the first topic i've talked about on a lot of podcasts of how um how [[arms race|arms races]] work and the cultures that do the more uh effectively game theoretic things get selected so i won't say too much on that i think one thing i'll say [1305](https://www.youtube.com/watch?v=tWfyOU07vgE&t=1305.039s)
+you bring into your life intentionally um to kind of relate to the world the first topic i've talked about on a lot of podcasts of how um how [[arms race|arms races]] work and the cultures that do the more uh effectively [[game theory|game theoretic]] things get selected so i won't say too much on that i think one thing i'll say [1305](https://www.youtube.com/watch?v=tWfyOU07vgE&t=1305.039s)
 
 is because you brought up media specifically one very easy way to do one of the easiest ways for a whole culture to buy into evil is to believe that it's righteous and all you have to do to commit an act of evil and believe it's righteous is believe the other to to be evil [1327](https://www.youtube.com/watch?v=tWfyOU07vgE&t=1327.76s)
 

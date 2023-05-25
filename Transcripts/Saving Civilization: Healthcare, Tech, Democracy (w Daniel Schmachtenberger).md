@@ -1915,7 +1915,7 @@ so much less caloric surplus and whatever than the
 tribe that does that. so this is an example
 of how the tools change the [[value system|value systems]]. there are other examples where you can make [[value system]] changes independent of tools
 that will in turn change how we use the tools, like the sabbath was kind
-of a social technology for how do we not use the
+of a [[social tech|social technology]] for how do we not use the
 tools for some period of time, [6291](https://www.youtube.com/watch?v=_7aIgHoydP8&t=6291.545s)
 
 not to be hijacked by productivity, orient towards the value
@@ -2106,12 +2106,12 @@ much of this do you think is gonna require new technology that enables this kind
 that can generate these lectical scores, versus how much of it is more related to your sabbath point, which is- - daniel that's a technology. [6960](https://www.youtube.com/watch?v=_7aIgHoydP8&t=6960.277s)
 
 depending upon how you
-wanna think of it, right? - zubin yeah. - daniel that's a social technology in the same way that whether
+wanna think of it, right? - zubin yeah. - daniel that's a [[social tech|social technology]] in the same way that whether
 it's institutional marriage, or whether it's tribal council, or whether it's, you know, sabbath, it's basically that is a technique. - zubin right, right, right, right- - daniel that can be, that
 also requires abstraction to understand why it's an important thing, [6981](https://www.youtube.com/watch?v=_7aIgHoydP8&t=6981.4s)
 
 and that can be taught and passed down. - zubin right. - daniel so i think when
-i say social technology, i'm not referring to things like facebook. i'm referring to things like sweat lodges-
+i say [[social tech|social technology]], i'm not referring to things like facebook. i'm referring to things like sweat lodges-
 - zubin right, so that's what i was, that's what i was getting at. does it require that sort of technology, meaning self-awareness, self-realization, [6999](https://www.youtube.com/watch?v=_7aIgHoydP8&t=6999.505s)
 
 self-improvement technologies, like sweat lodges, psychedelics,
@@ -2132,7 +2132,7 @@ and he can't control his mind- - zubin yeah.
 - daniel or he doesn't think it's safe, and he was
 willing to save himself, and bail on everybody.
 - zubin wow. - daniel so you could see
-there was a social technology- - zubin yeah, yeah, yeah-
+there was a [[social tech|social technology]]- - zubin yeah, yeah, yeah-
 - daniel right, where it's gonna get hot
 enough that you know, [7077](https://www.youtube.com/watch?v=_7aIgHoydP8&t=7077.386s)
 
@@ -2255,7 +2255,7 @@ do choice-making individually and together, so that a
 comprehensively educated, informed, capable of post-cynical, good faith communication
 population engaging with each other can create and oversight
 and watchdog institutions that have the capacity to
-engage and bind the technology, so that we are safe stewards for the power of exponential technology. - zubin all of those things
+engage and bind the technology, so that we are safe stewards for the power of [[exponential tech|exponential technology]]. - zubin all of those things
 have to kind of happen. that's the thing, they have to happen [7510](https://www.youtube.com/watch?v=_7aIgHoydP8&t=7510.042s)
 
 interwoven, interpenetrating. it can't just be one, or the other, and again, i feel like, you know, i'm gonna quote iain mcgilchrist, who's written a book,

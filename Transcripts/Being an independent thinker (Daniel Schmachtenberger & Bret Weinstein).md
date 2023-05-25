@@ -53,7 +53,7 @@ focused on that which could be productive for an ancestor but of course we are n
 
 in the end of our lineage and that that is something that evolution were it capable of um upgrading would certainly have us concerned about because the hazard is very real and our tendency not to think about it is a big part of the danger i think [575](https://www.youtube.com/watch?v=H0ocPsqBKS4&t=575.12s)
 
-temporal myopia and the [[collective action]] collective coordination problem is a good way to describe all of the problems we face or one of the [[generator function|generator functions]] of all the problems we face that you have a bunch of game theoretic situations where each agent within their own agency pursuing [595](https://www.youtube.com/watch?v=H0ocPsqBKS4&t=595.44s)
+temporal myopia and the [[collective action]] collective coordination problem is a good way to describe all of the problems we face or one of the [[generator function|generator functions]] of all the problems we face that you have a bunch of [[game theory|game theoretic]] situations where each agent within their own agency pursuing [595](https://www.youtube.com/watch?v=H0ocPsqBKS4&t=595.44s)
 
 the choice that makes most rational sense to them pursues local optimums where the collective body of that drives local global minimums but if anyone tries to orient towards the longer term global maximum they just lose in the short term that's an [[arms race]] that's a tragedy of the commons and so [611](https://www.youtube.com/watch?v=H0ocPsqBKS4&t=611.76s)
 

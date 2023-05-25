@@ -95,7 +95,7 @@ bunch of people who live life with compersion they probably don't seek public at
 
 sorry to go to small tangent but like you're speaking how society should function but i feel like if you optimize for that metric in your own personal life you're going to live a truly fulfilling life i don't know what the right word to use but that's a really good way to live life you will also [939](https://www.youtube.com/watch?v=_Oflv3u0HEA&t=939.12s)
 
-learn what gets in the way of it and how to work with it that if you wanted to help try to build systems at scale or apply facebook or exponential technologies to do that you would have more actual depth of real knowledge of what that takes and this is you know as you mentioned that there's this virtuous cycle between when you get stoked on other [959](https://www.youtube.com/watch?v=_Oflv3u0HEA&t=959.519s)
+learn what gets in the way of it and how to work with it that if you wanted to help try to build systems at scale or apply facebook or [[exponential tech|exponential technologies]] to do that you would have more actual depth of real knowledge of what that takes and this is you know as you mentioned that there's this virtuous cycle between when you get stoked on other [959](https://www.youtube.com/watch?v=_Oflv3u0HEA&t=959.519s)
 
 people doing well and then they have a similar relationship to you and everyone is in the process of building each other up and this is what i would say the healthy version of competition is versus the unhealthy version the healthy version right the the root i believe it's a latin word that means to strive together [977](https://www.youtube.com/watch?v=_Oflv3u0HEA&t=977.68s)
 

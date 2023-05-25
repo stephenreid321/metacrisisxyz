@@ -311,7 +311,7 @@ sure we're in this protracted process of anticipating second and third order neg
 
 or to do a job where you do some box ticking thing that says oh we did due diligence but you really don't want to know anything that's going to mess up the speed to market and so this is where things that are actually [[conflict theory]] get to hide as if they're [[mistake theory]] and this is where you have to factor the relationship between the those topics [3711](https://www.youtube.com/watch?v=WRohQKNNuM4&t=3711.28s)
 
-well but when you're thinking about new technologies in say the web 3 space you want to be able to think about what new types of [[conflict theory]] dynamics does this actually enable like where does it enable the people who are better at this technology to have more game theoretic ability over the people who are less [3731](https://www.youtube.com/watch?v=WRohQKNNuM4&t=3731.039s)
+well but when you're thinking about new technologies in say the web 3 space you want to be able to think about what new types of [[conflict theory]] dynamics does this actually enable like where does it enable the people who are better at this technology to have more [[game theory|game theoretic]] ability over the people who are less [3731](https://www.youtube.com/watch?v=WRohQKNNuM4&t=3731.039s)
 
 good at it where does having this type of spear or chainsaw incentivize thinking in certain ways you know what are the effects of those things does this how can this increase or decrease the underlying basis of conflict in the space um and of course when we're trying to [3747](https://www.youtube.com/watch?v=WRohQKNNuM4&t=3747.52s)
 

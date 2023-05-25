@@ -301,11 +301,11 @@ to change the source code of life by editing the genome directly do i think you'
 
 orders of magnitude less than is necessary to ensure no externalities in the future and yet the market forces of birth to market have us use it when we know enough to do something but not enough to ensure long-term brightness of strategy so when i look at mostly everything happening in [3533](https://www.youtube.com/watch?v=Z7-Od0e0gq0&t=3533.119s)
 
-in technology and exponential technologies there are exciting possibilities and applications but i'm more concerned than excited because there's plenty of financial motive to use the thing in destructive ways something that's built for good purposes can be weaponized and there's a lot of actual incentive and basis to weaponize it and [3554](https://www.youtube.com/watch?v=Z7-Od0e0gq0&t=3554.0s)
+in technology and [[exponential tech|exponential technologies]] there are exciting possibilities and applications but i'm more concerned than excited because there's plenty of financial motive to use the thing in destructive ways something that's built for good purposes can be weaponized and there's a lot of actual incentive and basis to weaponize it and [3554](https://www.youtube.com/watch?v=Z7-Od0e0gq0&t=3554.0s)
 
 just even through mistakes we mostly don't uh we don't take considerate enough approaches and so again like if i think about okay look at the roman empire look at the aztec empire look at just humans throughout the whole course of human history do i are those beings the way they [3572](https://www.youtube.com/watch?v=Z7-Od0e0gq0&t=3572.48s)
 
-behave safe vessels for exponential power not yet and so one way of framing up what i think about a lot is that what what exponential technology is giving us is exponential power and in a mesopoetic way we can say the power of gods when you hear descriptions of zeus's [3597](https://www.youtube.com/watch?v=Z7-Od0e0gq0&t=3597.68s)
+behave safe vessels for exponential power not yet and so one way of framing up what i think about a lot is that what what [[exponential tech|exponential technology]] is giving us is exponential power and in a mesopoetic way we can say the power of gods when you hear descriptions of zeus's [3597](https://www.youtube.com/watch?v=Z7-Od0e0gq0&t=3597.68s)
 
 lightning bolt or you know what any of the power of kind of ancient god descriptions is like and then you look at the power of the nuclear bomb or you look at the fact that we can actually make new life forms with genetic engineering or destroy whole ecosystems it's the power of gods but without the love and the wisdom of gods to properly [3615](https://www.youtube.com/watch?v=Z7-Od0e0gq0&t=3615.119s)
 
@@ -325,7 +325,7 @@ automation or it makes possible totally new economic thinking because it removes
 
 there's a lot of places where the axiom sets are changing and so there are more people starting to say can we do deeper re-imagining and redesign of the most foundational parts of civilization because maybe within capitalism and maybe within governments like democracies we don't have adequate answers but we [3821](https://www.youtube.com/watch?v=Z7-Od0e0gq0&t=3821.599s)
 
-don't have to be stuck with those axiom sets and retrofitting them and that doesn't mean we go regressive to a previous horse thing but maybe they're maybe innovation in the social technology space is actually possible and so the people that are focused in that i would say one of the things that is most exciting to me [3839](https://www.youtube.com/watch?v=Z7-Od0e0gq0&t=3839.92s)
+don't have to be stuck with those axiom sets and retrofitting them and that doesn't mean we go regressive to a previous horse thing but maybe they're maybe innovation in the [[social tech|social technology]] space is actually possible and so the people that are focused in that i would say one of the things that is most exciting to me [3839](https://www.youtube.com/watch?v=Z7-Od0e0gq0&t=3839.92s)
 
 nice nice powerful stuff and i have a i have a final uh a final main question for you um based on everything i mean you a lot today uh based on everything that you've learned in your life relationships business your own spiritual you know practice [3862](https://www.youtube.com/watch?v=Z7-Od0e0gq0&t=3862.16s)
 

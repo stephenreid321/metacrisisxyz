@@ -285,7 +285,7 @@ do lab work in your basement i mean that's how simple this technology is but it'
 
 time i mean you're going to be looking at computer ai bioinformatics systems you're going to be looking at that can compute much greater amounts of details than the human brain can process as a clinician so you're going to have them running the show for these things and and i think it's going to be an exciting [2985](https://www.youtube.com/watch?v=BIKDNStlnL4&t=2985.76s)
 
-time yeah so when we think about exponential technology and medicine so thing technology that enables more technology of its kind on [[exponential curve|exponential curves]] so we think of nanotechnology synthetic biology crispr genome editing ai et cetera one of the interesting things is of course you're getting so much more rate of change right so much more change per [3007](https://www.youtube.com/watch?v=BIKDNStlnL4&t=3007.119s)
+time yeah so when we think about [[exponential tech|exponential technology]] and medicine so thing technology that enables more technology of its kind on [[exponential curve|exponential curves]] so we think of nanotechnology synthetic biology crispr genome editing ai et cetera one of the interesting things is of course you're getting so much more rate of change right so much more change per [3007](https://www.youtube.com/watch?v=BIKDNStlnL4&t=3007.119s)
 
 unit time and continuously so that we can't have the same adaptive time periods we've had in the past and our intuitions from the past are less and less adequate at the same at the same time our chance of things up increases exponentially too because any increased power and we've seen this [3026](https://www.youtube.com/watch?v=BIKDNStlnL4&t=3026.319s)
 

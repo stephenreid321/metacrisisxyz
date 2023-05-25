@@ -37,7 +37,7 @@ the information ecology and the [[metacrisis]] that we find ourselves in came ab
 
 phenomenon where you're looking at many many complex causal pathways into this phenomenon which is in a sense of emergent phenomenon from the many subsidiary crises and the [[generator function|generator functions]] of those so there really are very truly distinct and and comparably adequate perspectives on the issue one one perspective would be yes this is primarily about [389](https://www.youtube.com/watch?v=Hll1rcc84nM&t=389.819s)
 
-exponential technology brought into the context of societies that are kind of operating the way societies always have and then you bring exponential technology and you've changed everything uh there's also one that this is fundamentally more about technologies of media which is this technologies of [409](https://www.youtube.com/watch?v=Hll1rcc84nM&t=409.979s)
+[[exponential tech|exponential technology]] brought into the context of societies that are kind of operating the way societies always have and then you bring [[exponential tech|exponential technology]] and you've changed everything uh there's also one that this is fundamentally more about technologies of media which is this technologies of [409](https://www.youtube.com/watch?v=Hll1rcc84nM&t=409.979s)
 
 communication so there's a clue and ask type characterization of this which sees it as essentially the [[metacrisis]] being some kind of inevitability of the digital um and then there are other ones and i'm a philosopher of education so i see this as a compounding educational crisis which is to say a [434](https://www.youtube.com/watch?v=Hll1rcc84nM&t=434.18s)
 

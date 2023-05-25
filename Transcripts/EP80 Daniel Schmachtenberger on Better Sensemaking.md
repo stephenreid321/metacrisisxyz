@@ -155,7 +155,7 @@ good old days weren't necessarily so good remember there was a book called the b
 
 it's been replaced by nothing probably we don't want to replace it with a single definitive authority the status quo that was so powerful in the top heyday of broadcast say 1965 seems as close as any of the high water mark let's see what other comment that i want to have on that uh oh the other is that of course [1697](https://www.youtube.com/watch?v=3lil4invvSI&t=1697.2s)
 
-this network world that we've created that has emerged i think again i can continue to say that nobody planned this thing it just emerged co-evolved in a game theoretic sense with a bunch of players that were operating around maximizing money on money return in the context of what is technologically and economically [1714](https://www.youtube.com/watch?v=3lil4invvSI&t=1714.32s)
+this network world that we've created that has emerged i think again i can continue to say that nobody planned this thing it just emerged co-evolved in a [[game theory|game theoretic]] sense with a bunch of players that were operating around maximizing money on money return in the context of what is technologically and economically [1714](https://www.youtube.com/watch?v=3lil4invvSI&t=1714.32s)
 
 possible has resulted in a lot of good things we have now high dimensional exploration of the design space of possible alternative civilizations people i have on my show the peer-to-peer network people in fact i have michelle bauwens coming on tomorrow again for the [1729](https://www.youtube.com/watch?v=3lil4invvSI&t=1729.76s)
 
@@ -183,9 +183,7 @@ there will be maximum incentive for all of the power players to try to corrupt i
 
 so even if say a piece of science is technically accurate it's not wrong it might be that only certain topics within a domain that have roi more associated get funded other ones don't like for instance you know patentable small molecules and pharma compared to peptides or biologics or plant-based [1954](https://www.youtube.com/watch?v=3lil4invvSI&t=1954.08s)
 
-things and so then the preponderance of research doesn't actually map to the overall space well so even things that are true can still be misrepresentative or misleading so this problem of that legitimate authority within a economic game theoretic environment [1972](https://www.youtube.com/watch?v=3lil4invvSI&t=1972.96s)
-
-will always get captured or influenced to various degrees and so how do we address that yep i think that's getting damn close to the center of the problem and as people listen to podcasts no i consider myself a madisonian james madison the somewhat neglected but my mind deepest of all the founding fathers who [1993](https://www.youtube.com/watch?v=3lil4invvSI&t=1993.44s)
+things and so then the preponderance of research doesn't actually map to the overall space well so even things that are true can still be misrepresentative or misleading so this problem of that legitimate authority within a economic [[game theory|game theoretic]] environment will always get captured or influenced to various degrees and so how do we address that yep i think that's getting damn close to the center of the problem and as people listen to podcasts no i consider myself a madisonian james madison the somewhat neglected but my mind deepest of all the founding fathers who [1993](https://www.youtube.com/watch?v=3lil4invvSI&t=1993.44s)
 
 set up our system of checks and balances probably not quite the optimal system for the 21st century but his fundamental belief was sooner or later you're going to have bad people capture the levers of power and you better build that into your design or you'll regret it you know in the same way when you talk about one world government [2012](https://www.youtube.com/watch?v=3lil4invvSI&t=2012.72s)
 
@@ -283,7 +281,7 @@ to have a sense of how different the [[problem space]] of the things that we nee
 
 dealing with as much in the way of complexity and hyper objects our sense-making was actually usually still adequate to solve local problems in ways that very often caused other problems somewhere else or down the road and this is an important part of understanding this is like the model that we can look at all of our problems [3128](https://www.youtube.com/watch?v=3lil4invvSI&t=3128.64s)
 
-as a result of either [[conflict theory]] or [[mistake theory]] [[conflict theory]] meaning we know we're going to cause harm somewhere and we're doing it anyways for game theoretic purposes [[mistake theory]] as you were mentioning with facebook we didn't know this was going to happen and it was simply an unintended externality so we have to [3141](https://www.youtube.com/watch?v=3lil4invvSI&t=3141.76s)
+as a result of either [[conflict theory]] or [[mistake theory]] [[conflict theory]] meaning we know we're going to cause harm somewhere and we're doing it anyways for [[game theory|game theoretic]] purposes [[mistake theory]] as you were mentioning with facebook we didn't know this was going to happen and it was simply an unintended externality so we have to [3141](https://www.youtube.com/watch?v=3lil4invvSI&t=3141.76s)
 
 deal with both moving forward how do we remove the basis of [[conflict theory]] so no one is motivated to do things that will knowingly harm something else and how do we also deal with the [[mistake theory]] of being able to anticipate externalities and internalize them into the design processes better [3158](https://www.youtube.com/watch?v=3lil4invvSI&t=3158.96s)
 
@@ -339,7 +337,7 @@ moving slow and doing really good safety analysis and um yeah that's that's a pr
 
 to make a move every quarter at least that shows they're making progress drive their market cap or the world's perception of their importance etc and usually the moves aren't that big you know gpt-3 which is the buzz in ai at the moment it's a pretty good sized move but it's not huge but it's incremental and nobody stops to really [3772](https://www.youtube.com/watch?v=3lil4invvSI&t=3772.96s)
 
-think what a whole series of incremental moves over 10 years is going to result in there is no meta system to evaluate these kinds of risks and to keep people from playing the hill climber game theoretic game of incremental moves okay so this is interesting let's let's look at kind of the [3792](https://www.youtube.com/watch?v=3lil4invvSI&t=3792.079s)
+think what a whole series of incremental moves over 10 years is going to result in there is no meta system to evaluate these kinds of risks and to keep people from playing the hill climber [[game theory|game theoretic]] game of incremental moves okay so this is interesting let's let's look at kind of the [3792](https://www.youtube.com/watch?v=3lil4invvSI&t=3792.079s)
 
 ascendancy or return to power depending upon the perspective you want to take that china's going through and the kind of um increasing fragmentation and descendancy you can see uh in the u.s descendancy and coherence at least so term limits make long-term planning quite difficult [3813](https://www.youtube.com/watch?v=3lil4invvSI&t=3813.92s)
 
