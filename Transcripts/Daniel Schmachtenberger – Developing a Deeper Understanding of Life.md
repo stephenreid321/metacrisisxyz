@@ -395,7 +395,7 @@ influencing everything but not in a way that is absolutely deterministic because
 
 and so of course we're always talking about that so i think seeing the top level frame of how all those fit together is worthwhile so if people haven't i'll just reference talked about in a bunch of places uh good friend nate higgins who's very good thinker on um specifically the relationship between the environment and energy and the [5011](https://www.youtube.com/watch?v=iAcB0yBtXLM&t=5011.56s)
 
-financial system and i just did a five-part series on his podcast and then the fourth part we do a kind of an overview of the [[metacrisis]] that covers this the third part unintentionally just because it came up we ended up covering how does one like emotionally psychologically and spiritually deal with the reality of the [5032](https://www.youtube.com/watch?v=iAcB0yBtXLM&t=5032.08s)
+[[financial system]] and i just did a five-part series on his podcast and then the fourth part we do a kind of an overview of the [[metacrisis]] that covers this the third part unintentionally just because it came up we ended up covering how does one like emotionally psychologically and spiritually deal with the reality of the [5032](https://www.youtube.com/watch?v=iAcB0yBtXLM&t=5032.08s)
 
 [[metacrisis]] given that there's so much to care about beyond what we feel like we have a sense of agency about those are ones that people might find interesting the fifth one we talk about frameworks to things through solutions confidently so with all that prefacing i'll say some things here that i think maybe have not said as much other places [5050](https://www.youtube.com/watch?v=iAcB0yBtXLM&t=5050.02s)
 
@@ -403,7 +403,7 @@ that are relevant to what in the interiority of human psyches and experiences an
 
 give a tiny couple examples um we know that there are a lot of species that have gone extinct at somewhere between 100 and a thousand times the background rate of extinction since the [[industrial revolution]] as a result of human activity those species are not just in the world externally there is a [5096](https://www.youtube.com/watch?v=iAcB0yBtXLM&t=5096.88s)
 
-similar biodiversity loss in [[species extinction]] in the microbiome of the human being and the microbiome of the human being produces some of the necessary chemicals for us to work our genome doesn't actually produce all the things some aspects of the macrophage binding protein and various things like that are not adequately coded in the genome [5119](https://www.youtube.com/watch?v=iAcB0yBtXLM&t=5119.5s)
+similar [[biodiversity loss]] in [[species extinction]] in the microbiome of the human being and the microbiome of the human being produces some of the necessary chemicals for us to work our genome doesn't actually produce all the things some aspects of the macrophage binding protein and various things like that are not adequately coded in the genome [5119](https://www.youtube.com/watch?v=iAcB0yBtXLM&t=5119.5s)
 
 without a microbiome and um and so extinction of some of those is pretty humongous it's like deleting chunks of our genome right and but if you start having ubiquitous antibiotics and chlorine in the water and pesticide exposure and all those types of things so how much when you realize that somewhere between 50 and 80 percent of [5141](https://www.youtube.com/watch?v=iAcB0yBtXLM&t=5141.94s)
 

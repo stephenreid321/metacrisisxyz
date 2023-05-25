@@ -641,7 +641,7 @@ insight. because i was homeschooled, i didn't have
 a curriculum. i got to study whatever i wanted. when i got deeply into... i got into the animal activism stuff when
 i was nine, but from 12 to 15, i was working with greenpeace and peta and whatever, lots
 of orgs, and just kind of full time studying all of the metrics that i could of species
-extinction and soil erosion and biodiversity loss and [[planetary boundary|planetary boundaries]] and all those
+extinction and soil erosion and [[biodiversity loss]] and [[planetary boundary|planetary boundaries]] and all those
 things. i had enough of a sense of science and math
 to be able to do some forecasting. nate hagens:
 when you were 12 to 15. [3174](https://www.youtube.com/watch?v=kTFqnPEyweE&t=3174.71s)
@@ -940,7 +940,7 @@ american democracy or facebook. it's, now, i'm perceiving the world with more
 nuance and more complexity and from a different place, whereby maybe the local pta issue that
 i'm about to deal with, i'll have new insights on. all the things still needed tending. all the local things need tending. daniel schmachtenberger:
 there will be some people who are listening who are institutional... who work at major institutions, who are oriented
-to how do we change the financial system and legal system and regulate tech. [4572](https://www.youtube.com/watch?v=kTFqnPEyweE&t=4572.04s)
+to how do we change the [[financial system]] and legal system and regulate tech. [4572](https://www.youtube.com/watch?v=kTFqnPEyweE&t=4572.04s)
 
 most of the people won't be working in those
 domains, but that doesn't mean that it's irrelevant to understand the world we live in better. there's a relevance to have a better understanding

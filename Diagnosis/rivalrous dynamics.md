@@ -9,6 +9,6 @@ Rivalrous dynamics refer to behaviors, interactions, or relationships that are c
 > [[game theory]], [[race to the bottom]], [[conflict theory]], [[narrative warfare]], [[mutually assured destruction]]
 
 > [!info] Podcasts mentioning this term most frequently
+> * [[Utopia or Bust Designing a Non Self Terminating Civilization   Daniel Schmachtenberger - on Emerge.]] (6)
 > * [[Civilization as a Paperclip Maximizer - Daniel Schmachtenberger]] (6)
-> * [[Utopia or Bust Designing a Non Self Terminating Civilization   Daniel Schmachtenberger - on Emerge.]] (5)
-> * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 1)]] (1)
+> * [[51 Daniel Schmachtenberger: Meta Existential Risk]] (5)

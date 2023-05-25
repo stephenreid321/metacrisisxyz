@@ -9,6 +9,6 @@ Game Theory is an interdisciplinary field of study that seeks to understand huma
 > [[decision making]], [[network theory]], [[collective action]], [[superstructure]], [[game theory]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 1)]] (13)
-> * [[HomeGrown Humans - Daniel Schmachtenberger - Sensemaking - Hosted by Jamie Wheal]] (11)
-> * [[Daniel Schmachtenberger: Bend not Break: Maximum Power & Hyper Agents – The Great Simplification 20]] (9)
+> * [[The War on Sensemaking, Daniel Schmachtenberger]] (19)
+> * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 1)]] (17)
+> * [[Daniel Schmachtenberger: Bend not Break: Maximum Power & Hyper Agents – The Great Simplification 20]] (16)

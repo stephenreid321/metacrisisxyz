@@ -115,7 +115,7 @@ that uh it seems to be an inexorable process and when i say every civilization i
 
 influence whatever but we'll just bind all those together and say power concentration and so we'll see wealth inequality get larger and larger and other types of power asymmetries and you know if you read uh picati capital in the 21st century his data sets said that's inexorable in any kind of market-based system [1257](https://www.youtube.com/watch?v=E8cSGX02bqA&t=1257.44s)
 
-it really it wasn't even mark is any system that has private property ownership those who have more stuff will actually do better at continuing to accrue more stuff um obviously he was looking at that in general the kind of interest rates available to private pools of capital grow faster [1276](https://www.youtube.com/watch?v=E8cSGX02bqA&t=1276.0s)
+it really it wasn't even mark is any system that has [[private property]] ownership those who have more stuff will actually do better at continuing to accrue more stuff um obviously he was looking at that in general the kind of interest rates available to private pools of capital grow faster [1276](https://www.youtube.com/watch?v=E8cSGX02bqA&t=1276.0s)
 
 than the overall growth of the economy so those who have more will continue even if they don't do anything all that smart to raise above those who don't obviously those who don't have enough and they go into debt get matriculating interest on debt and others get matriculating interest on investment or credit but it's also that people have [1294](https://www.youtube.com/watch?v=E8cSGX02bqA&t=1294.96s)
 
@@ -205,7 +205,7 @@ have been made in the past or see if the coordination processes are right but it
 
 because of a better education system meaning how much better their tech was and then after sputnik we're like okay issue of [[national security]] we need people who are very well trained in stem so we can kind of rationalize why they'd want to like double down on stem but i think that's a part of the story there's another part which is having so we want to find all the smart people so let's standardize sats tests like that to find them and then drive them in the hyper specialization where they will be useful to the current system without having the kind of thinking that threatens it and let's not have really smart people [2295](https://www.youtube.com/watch?v=E8cSGX02bqA&t=2295.92s)
 
-go into the social sciences in a meaningful way that questions the dominant system and so we can see basically institutional decay that's happened in [[public education]] we can see radical institutional decay that's happened in the news and the you know the [[fourth estate]] the kind of media that can inform people [2316](https://www.youtube.com/watch?v=E8cSGX02bqA&t=2316.72s)
+go into the social sciences in a meaningful way that questions the dominant system and so we can see basically [[institutional decay]] that's happened in [[public education]] we can see radical [[institutional decay]] that's happened in the news and the you know the [[fourth estate]] the kind of media that can inform people [2316](https://www.youtube.com/watch?v=E8cSGX02bqA&t=2316.72s)
 
 and so you go around and just ask citizens what's going on in the world and you'll see that the the level of sense-making that people have relative to the actual complexity of the issues is so many orders of magnitude off they have no possible chance of civic engagement the only thing that they can [2337](https://www.youtube.com/watch?v=E8cSGX02bqA&t=2337.839s)
 

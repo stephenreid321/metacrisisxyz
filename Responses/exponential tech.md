@@ -9,6 +9,6 @@ Exponential technology is a term used to refer to the high speed of technologica
 > [[exponential growth]], [[network dynamics]], [[systems thinking]], [[complexity science]], [[nonlinear dynamics]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * [[Daniel Schmachtenberger: Steering Civilization Away from Self-Destruction – Lex Fridman Podcast 191]] (19)
-> * [[Daniel Schmachtenberger –– Towards a Radical Cultural Enlightenment]] (17)
-> * [[SURVIVING the God-Like Technology That Can Kill Us All – Daniel Schmachtenberger on AMP]] (15)
+> * [[Daniel Schmachtenberger: Steering Civilization Away from Self-Destruction – Lex Fridman Podcast 191]] (22)
+> * [[Daniel Schmachtenberger –– Towards a Radical Cultural Enlightenment]] (21)
+> * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 1)]] (18)

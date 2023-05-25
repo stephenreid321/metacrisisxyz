@@ -411,7 +411,7 @@ power they have to do well at the game of power and there's a lot of things that
 
 attention to the news directly remembered world war ii in their life experience right and that had a a kind of unifying basis a patriotic um and unifying basis and an empirical basis we had to really double down on science and technology to uh be able to win the war and but then there starts to be an [4573](https://www.youtube.com/watch?v=3lil4invvSI&t=4573.36s)
 
-institutional decay where not that many people who are live paying attention to the news now or very large numbers of them weren't around in world war ii and they don't have any real embodied sense of what breakdown in the developed world could look like and so similarly they have much more sense of the enemy that [4591](https://www.youtube.com/watch?v=3lil4invvSI&t=4591.28s)
+[[institutional decay]] where not that many people who are live paying attention to the news now or very large numbers of them weren't around in world war ii and they don't have any real embodied sense of what breakdown in the developed world could look like and so similarly they have much more sense of the enemy that [4591](https://www.youtube.com/watch?v=3lil4invvSI&t=4591.28s)
 
 is near than the enemy that is far and those types of things and then when we so when we look at vaccines for instance it's actually a bit of a complex topic because if you're making something that is a drug that's intended to have long-term effects as opposed to most small molecule drugs that stop [4609](https://www.youtube.com/watch?v=3lil4invvSI&t=4609.92s)
 

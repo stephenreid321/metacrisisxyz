@@ -838,7 +838,7 @@ revising their international
 financial agreements, some people-- perhaps this
 isn't your area of expertise, i suspect. but we're going to be
 rewriting the rules of our international
-financial system. we're going to be
+[[financial system]]. we're going to be
 rewriting the back code. so your guys' capacity to think
 meta systemically and identify the rule sets that are going
 to genuinely be sustainable is hugely important. if, for example, in

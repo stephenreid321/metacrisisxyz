@@ -254,7 +254,7 @@ mechanisms that create trajectories towards dystopias, and the consideration of 
 is neither in the attractor basin of catastrophe or [[dystopia]] looks like, a kind of [[third attractor]]. what would it take to have a civilization
 that could steward the power of [[exponential tech|exponential technology]] much better than we have stewarded all of
 our previous technological power? what would that mean in terms of culture and
-in terms of political economies and governance and things like that? so, thinking about those things and acting
+in terms of [[political economy|political economies]] and governance and things like that? so, thinking about those things and acting
 on specific cases of near-term [[catastrophic risk|catastrophic risks]] that we were hoping to ameliorate and helping
 with various projects on how to transition institutions to be more intelligent and things
 like that. what are some of these near-term catastrophic
@@ -348,7 +348,7 @@ on the environment. so you didn't have the [[perverse incentive]]
 to externalize costs onto nature's balance sheet, which nobody enforces. obviously, we'd have none of those environmental
 issues, right? that would be a totally different situation. so can we address [[perverse incentive]] writ
 large that would require fundamental changes in what we think of as economy and how we
-enact that, so political economy? so we think about those things. so i would say with the [[metacrisis]] assessment,
+enact that, so [[political economy]]? so we think about those things. so i would say with the [[metacrisis]] assessment,
 we would say that we're in a very novel position with regard to [[catastrophic risk]], global catastrophic
 risk, because until world war ii, there was no technology big enough to cause a global
 [[catastrophic risk]] as a result of dumb human choices or human failure quickly. and then with the bomb, there was. it was the beginning. and that's a moment ago in evolutionary time,
@@ -457,11 +457,9 @@ dynamics where you have money making on money mean that you expand the monetary 
 an [[exponential curve]], which was based on the idea that there is a natural [[exponential curve]]
 of population anyways and there is a natural growth of goods and services correlated. but that was true at an early part of the
 curve that was supposed to be an s curve, right? so we have an [[exponential curve]] that inflects,
-goes into an x curve, but we don't have the s curve part of the financial system planned. the financial system has to keep doing exponential
-growth or it breaks. [1999](https://www.youtube.com/watch?v=g7WtcTATa2U&t=1999.89s)
-
-and not only is that key to the financial
-system, because what does it mean to have a financial system without interest? say it's a very deeply different system. that formalizing that was also key to our
+goes into an x curve, but we don't have the s curve part of the [[financial system]] planned. the [[financial system]] has to keep doing exponential
+growth or it breaks. and not only is that key to the financial
+system, because what does it mean to have a [[financial system]] without interest? say it's a very deeply different system. that formalizing that was also key to our
 solution to not have world war iii, right? the history of the world in terms of war does
 not look great, that the major empires and major nations don't stay out of violent conflict
 with each other very long. and world war i was supposed to be the war
@@ -519,7 +517,7 @@ which is for – let's go ahead and say [2296](https://www.youtube.com/watch?v=g
 
 software in particular. does software have to run on hardware where
 the computer systems and server banks and satellites and et cetera require massive mining,
-which also requires a financial system and police and courts to maintain the entire cybernetic
+which also requires a [[financial system]] and police and courts to maintain the entire cybernetic
 system that runs all that? yes, it does. does a lot more compute require more of that,
 more atoms, adjacent services, energy? yes. but also, for us to consider software valuable,
 it's either because we're engaging with what's – we're engaging with what it's doing
@@ -1241,9 +1239,7 @@ and antagonistic. i don't understand the details of it. i'm apolitical, at least
 that can be accelerated, amplified. well, one point that we bring up is that any
 proposed system of coordination, governance, whatever, is not going to work the same way
 after it's been running for a long time as when it was initially developed because all
-of the systems have a certain kind of institutional [5866](https://www.youtube.com/watch?v=g7WtcTATa2U&t=5866.52s)
-
-decay or entropy built in. it has to be considered because every vested
+of the systems have a certain kind of [[institutional decay]] or entropy built in. it has to be considered because every vested
 interest that is being bound has a vested interest in figuring out how to break the
 control system or capture or corrupt it or something. and so it's not just how do we build a system
 that does that, but it's also how do we build a system that continues to upregulate itself
@@ -2097,7 +2093,7 @@ it has an amount of data about me that can
 model my future behavior better than a lawyer or a psychotherapist or anybody else could. so there are provisions in law of privileged information, right? if you have privileged information, what are
 you allowed to do with it? and there are provisions in law about undue
 influence. so we could argue that the platforms are gathering privileged information,
-that they have undue influence. as a result, there should be a fiduciary responsibility. this is one of the things that we do when there's a radical asymmetry of power. because if there's a symmetry of power, we
+that they have undue influence. as a result, there should be a [[fiduciary responsibility]]. this is one of the things that we do when there's a radical asymmetry of power. because if there's a symmetry of power, we
 say caveat emptor buyer beware. it's kind of on you to make sure that you
 don't get sold a shitty thing or engage with. but if there's a radical asymmetry of power,
 can you tell the kid buyer beware about an adult that is playing them? no, you can't, right? [10157](https://www.youtube.com/watch?v=g7WtcTATa2U&t=10157.479s)
@@ -2267,7 +2263,7 @@ new capability they're bringing into the world [10989](https://www.youtube.com/w
 that didn't exist, not just how they want
 to use it, but the totality of use that will happen by
 them having brought it into the world that wouldn't have they not. there is no current – when i say there's
-an ethical responsibility, there is no legal responsibility. there is no fiduciary responsibility where
+an ethical responsibility, there is no legal responsibility. there is no [[fiduciary responsibility]] where
 you are liable for the harms that get produced by a thing that you bring about that someone
 else reverses and uses a different way. but there is financial incentive and nobel
 prizes for developing the thing for your purpose and then, again, socializing the losses of
@@ -2613,7 +2609,7 @@ relatively small percentage. and in the same way that – like it is true
 that when there's a market [[race to the bottom]] that we saw in food, which hostess and mcdonald's,
 et cetera, kind of won, which is how do we make the food more and more combinations of
 salt, fat, and sugar and texture and palatability that maximize kind of stickiness and addiction,
-which of course, if i have a fiduciary responsibility to shareholder maximization and the key to
+which of course, if i have a [[fiduciary responsibility]] to shareholder maximization and the key to
 that is to optimize the lifetime value of [12655](https://www.youtube.com/watch?v=g7WtcTATa2U&t=12655.01s)
 
 a customer, addiction is awesome. it's actually not awesome. it's legally obligate because of maximized

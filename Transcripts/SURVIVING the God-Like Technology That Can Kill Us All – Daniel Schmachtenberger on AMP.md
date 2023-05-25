@@ -29,7 +29,7 @@ energy beyond the food that i eat the average person right now averaging the fac
 
 affluent west it's way more than that to average so way more people way more resource consumption per capita with industrial tech we're coming up to a time period where the cumulative effect of a few hundred years of that is hitting [[planetary boundary|planetary boundaries]] right overfishing of the oceans excessive pollution in [310](https://www.youtube.com/watch?v=p4NlLuNj0v8&t=310.32s)
 
-terms of nitrogen runoff and [[dead zone|dead zones]] and um and so we have all these environmental issues whether we're talking about total loss of biodiversity loss of forests uh loss of uh key species and also running out of key resources on one side of a linear [[materials economy]] where we extract stuff from nature [330](https://www.youtube.com/watch?v=p4NlLuNj0v8&t=330.56s)
+terms of nitrogen runoff and [[dead zone|dead zones]] and um and so we have all these environmental issues whether we're talking about total loss of [[biodiversity loss]] of forests uh loss of uh key species and also running out of key resources on one side of a linear [[materials economy]] where we extract stuff from nature [330](https://www.youtube.com/watch?v=p4NlLuNj0v8&t=330.56s)
 
 faster than nature can make it to turn it into trash faster than nature can process it we try to do that exponentially because we try to exponentiate our monetary supply because you have to make interest the interest means that i need more money next year in the total monetary supply than there is yet this [347](https://www.youtube.com/watch?v=p4NlLuNj0v8&t=347.84s)
 

@@ -67,7 +67,7 @@ stewardship of well the information commons is what is the what is the space of 
 
 most of what is being put into the information commons is pollution to me schmacktenberger's metaphor of the commons feels somewhat confused and in such a manner that it reveals some of the flaws at the heart of his thinking if information within the so-called information commons is mostly pollution that implies someone's manufacturing [639](https://www.youtube.com/watch?v=9LquQ4GgY5Y&t=639.12s)
 
-information as pollution is best understood as a byproduct of manufacturing therefore it would seem that whatever information landscape he's discussing is not solely the commons as the information pollution is being produced by private property the information smokestack which we have little to no control over [659](https://www.youtube.com/watch?v=9LquQ4GgY5Y&t=659.2s)
+information as pollution is best understood as a byproduct of manufacturing therefore it would seem that whatever information landscape he's discussing is not solely the commons as the information pollution is being produced by [[private property]] the information smokestack which we have little to no control over [659](https://www.youtube.com/watch?v=9LquQ4GgY5Y&t=659.2s)
 
 furthermore if we apply the lens of capitalist logic and enclosure to schmacktenberger's vague articulation of the commons several aspects snap into sharper focus first there's the fact that we don't actually have shared stewardship of the information commons in fact we have media monopolies and [678](https://www.youtube.com/watch?v=9LquQ4GgY5Y&t=678.64s)
 

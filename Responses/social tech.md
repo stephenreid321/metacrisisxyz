@@ -9,6 +9,6 @@ Social Tech can be thought of as a term encompassing tools, methods, and practic
 > [[social media]], [[network dynamics]], [[collective intelligence]], [[network theory]], [[decision making]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * [[The Power of Gods with Daniel Schmachtenberger S2 [Ep 16]]] (20)
-> * [[Daniel Schmachtenberger: Steering Civilization Away from Self-Destruction – Lex Fridman Podcast 191]] (16)
-> * [[Will exponential technology growth destroy the world or save it? – Daniel Schmachtenberger]] (15)
+> * [[The Power of Gods with Daniel Schmachtenberger S2 [Ep 16]]] (24)
+> * [[Daniel Schmachtenberger: Steering Civilization Away from Self-Destruction – Lex Fridman Podcast 191]] (23)
+> * [[Will exponential technology growth destroy the world or save it? – Daniel Schmachtenberger]] (17)

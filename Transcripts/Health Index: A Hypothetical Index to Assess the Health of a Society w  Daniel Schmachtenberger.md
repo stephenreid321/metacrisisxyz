@@ -139,7 +139,7 @@ what it there's a natural proclivity to be able to condition that but it gets co
 
 jealousy almost no jealousy show up in their culture and when it does happen it's a tiny phenomena that someone just kind of recognizes and corrects for would be shameful for it to be anything else but they have a whole culture that's conditioning a different set of things now you'll notice [1490](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=1490.799s)
 
-these cultures don't have private ownership of property like lots of tribal cultures don't they're all sharing everything well that means that they don't have a primary concept of mine related to private property what does jealousy mean if i don't have mine as a foundational concept [1505](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=1505.52s)
+these cultures don't have private ownership of property like lots of tribal cultures don't they're all sharing everything well that means that they don't have a primary concept of mine related to [[private property]] what does jealousy mean if i don't have mine as a foundational concept [1505](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=1505.52s)
 
 right if there's ours as a foundational concept we we're all sharing our resources as a tribe and sharing access to things but you see that we condition mine into little kids the reason it's a such it's almost like one of the first words many little kids say because they were watching their parents and everybody on tv say it because of a [1526](https://www.youtube.com/watch?v=Kr2nhiNCOXo&t=1526.24s)
 

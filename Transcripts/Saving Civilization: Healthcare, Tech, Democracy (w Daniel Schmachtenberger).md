@@ -227,7 +227,7 @@ multi-female mating, but the whole tribe raised all the kids. - zubin uh-huh.
 
 left as a single mom, because
 she lived with her family, not with her, not with her primary, not with the partner that inseminated her. all of the fathers, 'cause there was low paternity certainty, all of the fathers were
-contributing to all of the kids. you actually didn't have a primarily private property based system, but commons based system.
+contributing to all of the kids. you actually didn't have a primarily [[private property]] based system, but commons based system.
 - zubin uh-huh. - daniel so you can't
 extract that one part [716](https://www.youtube.com/watch?v=_7aIgHoydP8&t=716.64s)
 
@@ -2064,9 +2064,7 @@ but you want a process that what you're optimizing for is itself being continuou
 of what's being harmed by the optimization are
 continuously being internalized. but that means you also
 need a governance system that can do that, which
-means you can't be bound to something like fiduciary responsibility [6824](https://www.youtube.com/watch?v=_7aIgHoydP8&t=6824.774s)
-
-for profit maximization. - zubin okay, okay, so
+means you can't be bound to something like [[fiduciary responsibility]] for profit maximization. - zubin okay, okay, so
 to internalize the harms that are being generated, man, that requires a whole different
 way of doing things, right? because if the fossil fuel
 industry had to internalize the environmental harm of their actions, it would be a very different industry. i mean, how do you even begin
@@ -2371,7 +2369,7 @@ it progressively better. - zubin yes.
 (zubin laughs) how do we not have metrics that
 create optimization systems that then bind us, right, where now the board wants to hold the ceo to quarterly profit metrics to be able to get the money back to the
 shareholders who invested, so we create a law for the
-fiduciary responsibility for profit maximization. and now, even if you see
+[[fiduciary responsibility]] for profit maximization. and now, even if you see
 there's an externality, [7924](https://www.youtube.com/watch?v=_7aIgHoydP8&t=7924.883s)
 
 you can't do anything about it, because you're already bound to the metrics you're optimizing. - zubin yeah.

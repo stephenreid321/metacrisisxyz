@@ -89,7 +89,7 @@ them to not just do the immediate advantageous thing to them for people that are
 
 it is and it can err in the side of in order to have everybody participate with that order becoming increasingly uh tyrannical increasingly dictatorial if it doesn't do that people end up orienting towards tribalism naturally um and fragmenting kind of towards each other and you end up getting the thing [1132](https://www.youtube.com/watch?v=U0YJ0C81n4s&t=1132.16s)
 
-failing in the direction of chaos the only other answer is how do you get order without it being imposed how do you get emergent order and this was the kind of idea of democracies and republics and [[open society|open societies]] is maybe we could actually get emergent order if we and it was based on the idea of a [1148](https://www.youtube.com/watch?v=U0YJ0C81n4s&t=1148.88s)
+failing in the direction of chaos the only other answer is how do you get order without it being imposed how do you get [[emergent order]] and this was the kind of idea of democracies and republics and [[open society|open societies]] is maybe we could actually get [[emergent order]] if we and it was based on the idea of a [1148](https://www.youtube.com/watch?v=U0YJ0C81n4s&t=1148.88s)
 
 culture that invested in the people enough that the people didn't just believe different things and want different things and be willing to defect into war you had to actually develop a people that could all come to understand the world similarly can everybody understand the philosophy of science well enough that they can all come to understand base objective reality that they share similarly can they all have something like hegelian dialectic capacities where they can notice not just their own values but other people's values and recognize that only solutions that meet everybody's values will end up working can they understand things like [1182](https://www.youtube.com/watch?v=U0YJ0C81n4s&t=1182.4s)
 
@@ -139,7 +139,7 @@ the [[perverse incentive]] markets okay so if that only works where the state ca
 
 people those people are economic actors they're in there for whatever short period of time and it's they will be liked about the same whether they do corporate interests or not because nobody's really going to know and so of course you end up getting regulatory capture where the market captures the regulatory apparatus and you get crony capitalism and that kind [1629](https://www.youtube.com/watch?v=U0YJ0C81n4s&t=1629.279s)
 
-of institutional decay and as the founding fathers in the u.s said and anyone who paid attention as soon as a couple generations pass and the people forget what it means to fight a revolutionary war and be under oppression they won't keep investing and being educated enough and actively being [1646](https://www.youtube.com/watch?v=U0YJ0C81n4s&t=1646.96s)
+of [[institutional decay]] and as the founding fathers in the u.s said and anyone who paid attention as soon as a couple generations pass and the people forget what it means to fight a revolutionary war and be under oppression they won't keep investing and being educated enough and actively being [1646](https://www.youtube.com/watch?v=U0YJ0C81n4s&t=1646.96s)
 
 engaged in government because they'd rather keep up with the joneses or party or like some other some other thing and so how do you keep the intergenerational transfer of not of not just the knowledge but the civic virtues necessary to uphold a democracy which is not a trivial thing and especially as time goes on in the [1663](https://www.youtube.com/watch?v=U0YJ0C81n4s&t=1663.44s)
 
@@ -179,7 +179,7 @@ taxpayer money to do to to utilize taxpayer money to do the thing they're doing 
 
 [[third attractor]] is that the [[exponential tech]] just causes x-risk and we're right so you have x-risk feudalism and authoritarianism as the current dominant attractors in the presence of [[exponential tech]] or there's not 17 sustainable development goals that really matter because we can't achieve any of [2132](https://www.youtube.com/watch?v=U0YJ0C81n4s&t=2132.0s)
 
-them without better coordination there's figuring out coordination that it becomes the central goal of the world figuring out a kind of coordination that is emergent order that is neither chaos nor oppression that is able to utilize the [[exponential tech|exponential technologies]] and also to bind and direct them so that [2151](https://www.youtube.com/watch?v=U0YJ0C81n4s&t=2151.28s)
+them without better coordination there's figuring out coordination that it becomes the central goal of the world figuring out a kind of coordination that is [[emergent order]] that is neither chaos nor oppression that is able to utilize the [[exponential tech|exponential technologies]] and also to bind and direct them so that [2151](https://www.youtube.com/watch?v=U0YJ0C81n4s&t=2151.28s)
 
 they do not either directly or through externality create x-risk and that they don't erode that they don't create authoritarian systems or kind of feudal systems that erode civil liberties in the process so we need to have an innova a kind of global innovation zeitgeist of how to apply all develop and apply [2171](https://www.youtube.com/watch?v=U0YJ0C81n4s&t=2171.52s)
 

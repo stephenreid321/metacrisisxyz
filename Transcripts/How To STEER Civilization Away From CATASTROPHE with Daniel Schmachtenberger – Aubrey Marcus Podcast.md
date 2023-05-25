@@ -175,7 +175,7 @@ so we don't want that we don't want paper cuts ah but a nice little dopamine hit
 
 how historically it almost always looks wrong and so does everybody else's certainty that isn't on our side and so those are things we want to overcome not drive and make worse in the same way that everybody has addictive tendencies but to make a healthy society you want to help people overcome addictive [1937](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=1937.12s)
 
-tendencies not push on them and make them worse and yet if i'm a business and i let's say i have a fiduciary responsibility to my shareholders to maximize profit from a public business right then i maximize the value of my business by increasing the total addressable market and increasing the lifetime value per customer and i increase the total addressable market by trying to make products or services that are relevant to everybody to increasingly more people and i increase the lifetime value of a customer by having them want to keep coming back to whatever the thing that i do is [1971](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=1971.679s)
+tendencies not push on them and make them worse and yet if i'm a business and i let's say i have a [[fiduciary responsibility]] to my shareholders to maximize profit from a public business right then i maximize the value of my business by increasing the total addressable market and increasing the lifetime value per customer and i increase the total addressable market by trying to make products or services that are relevant to everybody to increasingly more people and i increase the lifetime value of a customer by having them want to keep coming back to whatever the thing that i do is [1971](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=1971.679s)
 
 and there's no way to do that better than addiction and so the supply side motive benefits from addiction the the society and this is where we understand that war makes gdp go up right military spending makes gdp go up sick people spending a lot of money on medical care makes in pharma industry [1990](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=1990.559s)
 
@@ -573,7 +573,7 @@ force that has order so we're going to get the order through imposing it we're g
 
 that authoritarian state whatever it is i mean control of the behavior but then that's a failed state and its own purpose because it's not actually serving and liberating the people and as a result it ends up getting a homogeny of thinking which doesn't have the creativity to actually innovate for new problems in the world and usually fails for those [6366](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=6366.08s)
 
-reasons and doesn't doesn't have a high enough [[collective intelligence]] because of it doing that homogenizing thing so what we need is order that is not imposed so we don't fail on the chaos side or the oppression side how do we get emergent order well if the order is to be emergent rather than imposed it means [6384](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=6384.32s)
+reasons and doesn't doesn't have a high enough [[collective intelligence]] because of it doing that homogenizing thing so what we need is order that is not imposed so we don't fail on the chaos side or the oppression side how do we get [[emergent order]] well if the order is to be emergent rather than imposed it means [6384](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=6384.32s)
 
 everybody has to be able to make sense of the world similarly and has to be able to reason about not just what is but what ought so ethics and morals similarly and have enough respect for each other that you have a conversation where you want to hear what other people think and you don't want to just beat them and then [6400](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=6400.96s)
 
@@ -635,7 +635,7 @@ um or you at least go nihilistic and don't get in the way and similarly people c
 
 so it's weaponized uncertain it's what is weaponized uncertainty you can't know therefore do the thing that i have an incentive to do as opposed to really try to do deep risk analysis and say what would what are the possibilities of what could happen what is the best risk analysis we could do what's the best design we can do and then what's the best iterative [7063](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=7063.599s)
 
-design process that when we realize things we didn't realize we can change the design and not be bound to shareholder fiduciary responsibility or things that make an autopoetic machine that nobody can control um so now in terms of psychedelics and i would say the thing [7080](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=7080.56s)
+design process that when we realize things we didn't realize we can change the design and not be bound to shareholder [[fiduciary responsibility]] or things that make an autopoetic machine that nobody can control um so now in terms of psychedelics and i would say the thing [7080](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=7080.56s)
 
 that you're saying that i totally agree with and find is true is that people's ability to increase their [[sensemaking]] adequately the [[open society|open societies]] can coordinate to solve the problems of the world doesn't start with [[sensemaking]] it actually starts with something like virtue [7105](https://www.youtube.com/watch?v=LLgv2QJRYSg&t=7105.04s)
 

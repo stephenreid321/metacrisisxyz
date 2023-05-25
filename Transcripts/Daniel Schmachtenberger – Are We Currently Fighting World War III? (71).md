@@ -449,7 +449,7 @@ and chaos right so we say how do we get out   [2230](https://www.youtube.com/w
 
 of that how do we have something that is not 
 oppression and is not chaos well we need order   but we want the order to not be imposed so we need 
-order that's emergent how would we possibly have   emergent order this is the idea of a democracy 
+order that's emergent how would we possibly have   [[emergent order]] this is the idea of a democracy 
 or a republic or an [[open society]] of participatory   governance and you notice that they were aligned 
 whenever they emerged in the world they were   aligned with some idea of an enlightenment of some 
 kind a social enlightenment that had the idea and   if we look at modern democracies emerging 
@@ -497,13 +497,13 @@ of the u.s something to the effect of the death   [2432](https://www.youtube.c
 
 the voting is the death of democracy because 
 it means that we didn't have a good enough   conversation to come to shared understanding and 
-then the vote was a way to sublimate violence um but the idea of can we get emergent order well 
+then the vote was a way to sublimate violence um but the idea of can we get [[emergent order]] well 
 if we can unify our [[sensemaking]] that we can make   sense of reality similarly and we can unify our 
 values can i try to understand your perspective   you can try to understand mine well enough that 
 we say now let's put all these values together   and then let's use design process to design a 
 solution that will meet everybody's values as   best as possible maybe not perfectly but as best 
 as possible factoring the physical constraints   that our [[sensemaking]] shows us that's the right 
-kind of direction to be able to get emergent order   well we can see that since the modern democracies 
+kind of direction to be able to get [[emergent order]]   well we can see that since the modern democracies 
 have emerged the world has gotten much more   complex technologically ecologically etc and 
 our capacity for shared [[sensemaking]] and shared   [[meaning making]] meaning our training in civic 
 virtue to listen to each other well with good   faith and our training in the relevant areas to 

@@ -119,7 +119,7 @@ um and but it's important to understand that this jealousy envy thing is of cour
 
 just kind of recognizes and corrects for would be shameful for it to be anything else but they have a whole culture that's conditioning a different set of things now you'll notice these cultures don't have private ownership of property like lots of tribal cultures don't they're all sharing everything well that means that they don't have a [1497](https://www.youtube.com/watch?v=17KFrJj1sMQ&t=1497.2s)
 
-primary concept of mine related to private property what does jealousy mean if i don't have mine as a foundational concept right if there's a ours as a foundational concept we we are all sharing our resources as a tribe and sharing access to things but you see that we condition mine into little kids the reason it's a such it's [1519](https://www.youtube.com/watch?v=17KFrJj1sMQ&t=1519.679s)
+primary concept of mine related to [[private property]] what does jealousy mean if i don't have mine as a foundational concept right if there's a ours as a foundational concept we we are all sharing our resources as a tribe and sharing access to things but you see that we condition mine into little kids the reason it's a such it's [1519](https://www.youtube.com/watch?v=17KFrJj1sMQ&t=1519.679s)
 
 almost like one of the first words many little kids say because they're watching their parents and everybody on tv say it because of a mindset that was so oriented around possession and possessiveness and advancing through getting more things so we think of it as natural because it's been ubiquitously conditioned here's where i would offer uh [1537](https://www.youtube.com/watch?v=17KFrJj1sMQ&t=1537.44s)
 

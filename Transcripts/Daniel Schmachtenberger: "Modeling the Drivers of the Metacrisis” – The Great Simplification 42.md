@@ -72,7 +72,7 @@ together and how does that inform the possible choices and changes and governanc
 of the future? that was a mouthful. does that make sense? daniel schmachtenberger:
 yeah. i think you and i got connected because friend
 connected us who recognized that we were both trying to look at some of the dynamics that
-were underneath the various types of risks humanity faces. and not look at biodiversity loss and species
+were underneath the various types of risks humanity faces. and not look at [[biodiversity loss]] and species
 extinction and ocean acidification and [[climate change]] and all the [[planetary boundary|planetary boundaries]] and
 war and [[supply chain]] risks as separate issues, but see what they have in common that is driving
 them. you talked about this in terms of dynamics
@@ -497,7 +497,7 @@ well, for one reason, because if you to use ecological economics terms, if you i
 all the externalities, most industries on [2455](https://www.youtube.com/watch?v=tQkQrc3Ant4&t=2455.68s)
 
 the planet would be unprofitable. so if you try to close loop this stuff, who
-bears the cost of that? because the closed loop stuff is going to
+bears the cost of that? because the [[closed loop]] stuff is going to
 be a lot more costly and so either the governments bear that cost or consumers bear it with much
 higher prices or using less stuff and we're not going to voluntarily on mass choose that. daniel schmachtenberger:
 yeah. that's another way of stating the multipolar
@@ -825,7 +825,7 @@ understood by a first grader. [4051](https://www.youtube.com/watch?v=tQkQrc3Ant4
 daniel schmachtenberger:
 yes. and it is, i think it's a fair thing to say. let's get everybody to understand that and
 start to wrestle with it. so let's say it again. so originally the financial, what does originally
-mean with the financial system? we can go back to shell's mediating barter,
+mean with the [[financial system]]? we can go back to shell's mediating barter,
 the idea of having a currency that was not the value itself but was an accepted mediation
 for things that have value for goods and services, it's supposed to be that money equals access
 to an ability to exchange goods and services. what we're ultimately interested in is goods
@@ -840,14 +840,14 @@ had had i kept it, which all seems reasonable. now we get a situation where the 
 system has its own physics, right? there is a compounding interest of you're
 going to make whatever percent return you get and then if you leave it in there the
 next year you're going to make compounding return on that much. again, compounding return curves give you
-[[exponential growth]] rate. so the whole global financial system has an
+[[exponential growth]] rate. so the whole global [[financial system]] has an
 [[embedded growth obligation]] that is exponential, meaning there has to be exponentially more
 total currency in the system every year than previous. and then to not debase the value of the currency,
 that means there has to be exponentially more goods and services that it's related to. otherwise you debase the value of the currency
-and the financial system collapses. so now the physics of the financial system,
-rather than the financial system being indexed to the real goods and services now the real
-goods and services are indexed to the financial system where the [[embedded growth obligation]],
-just to keep up with interest let alone the many other aspects of the financial system
+and the [[financial system]] collapses. so now the physics of the [[financial system]],
+rather than the [[financial system]] being indexed to the real goods and services now the real
+goods and services are indexed to the [[financial system]] where the [[embedded growth obligation]],
+just to keep up with interest let alone the many other aspects of the [[financial system]]
 that create [[embedded growth obligation]], mean that there is a demand for exponential extraction
 and exponential energy moving through the [4199](https://www.youtube.com/watch?v=tQkQrc3Ant4&t=4199.64s)
 

@@ -13,9 +13,7 @@ arda music hey welcome back to the radical brilliance podcast you know when i wa
 
 and i did an additional about 30 interviews for radical brilliance so by the time i was done i'd done about 450 interviews and people used to ask okay you've written this book radical brilliance it's about brilliance so who is the most brilliant person you've ever interviewed and you know i never hesitated [97](https://www.youtube.com/watch?v=z2rYFnDx6nQ&t=97.439s)
 
-very much when people would ask me that question in that way my answer would always be without a moment's hesitation daniel schmacktenberger and you're about to find out why sometimes it feels to me when i talk to daniel about any topic i've talked to about the judicial system about the financial system i've talked [120](https://www.youtube.com/watch?v=z2rYFnDx6nQ&t=120.0s)
-
-to him about nootropics about nutrition about the way food's grown i've talked about relationships about monogamy about everything um i've spent a lot of time with him i stay frequently at his house and we talk for hours almost any topic i can think of to talk with daniel about it's like [140](https://www.youtube.com/watch?v=z2rYFnDx6nQ&t=140.56s)
+very much when people would ask me that question in that way my answer would always be without a moment's hesitation daniel schmacktenberger and you're about to find out why sometimes it feels to me when i talk to daniel about any topic i've talked to about the judicial system about the [[financial system]] i've talked to him about nootropics about nutrition about the way food's grown i've talked about relationships about monogamy about everything um i've spent a lot of time with him i stay frequently at his house and we talk for hours almost any topic i can think of to talk with daniel about it's like [140](https://www.youtube.com/watch?v=z2rYFnDx6nQ&t=140.56s)
 
 it's like you're transporting 30 or 50 years into the future and speaking with someone with that more evolved perspective it's like speaking to a time traveler and it really goes across the board it's and he actually will even talk about that he will talk about what he calls lateral thinking which means the capacity to take insights from [169](https://www.youtube.com/watch?v=z2rYFnDx6nQ&t=169.04s)
 
@@ -31,7 +29,7 @@ are potentially heading towards crisis i mean if we if we go all the way back to
 
 i've noticed and i'm interested to know if you're aware of this too that in the news in in casual conversation at conferences this is becoming much more now of a mainstream collective conversation hey we have little time left to dramatically change our ways and upgrade the software that we're running together [337](https://www.youtube.com/watch?v=z2rYFnDx6nQ&t=337.52s)
 
-in being human there's definitely been a increase in awareness of certain phenomena in recent years and even months [[climate change]] and other environmental issues like plastic in the ocean and [[dead zone|dead zones]] in the ocean and [[species extinction]] and biodiversity loss have moved from pretty fringy topics to [364](https://www.youtube.com/watch?v=z2rYFnDx6nQ&t=364.72s)
+in being human there's definitely been a increase in awareness of certain phenomena in recent years and even months [[climate change]] and other environmental issues like plastic in the ocean and [[dead zone|dead zones]] in the ocean and [[species extinction]] and [[biodiversity loss]] have moved from pretty fringy topics to [364](https://www.youtube.com/watch?v=z2rYFnDx6nQ&t=364.72s)
 
 more widely understood to more widely actually really cared about and sources of concern and add to that significant geopolitical shifts where in recent years large-scale war became a more eminent topic than it had been a long time where [[climate change]] induced refugee crises at [388](https://www.youtube.com/watch?v=z2rYFnDx6nQ&t=388.72s)
 

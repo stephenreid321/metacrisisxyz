@@ -109,7 +109,7 @@ ago and you're right you can use technology to ex to access those pools of of po
 
 berries and stuff more storable means you can make it through the famine and grow the population faster and then if you grow the population faster you can win a tribal warfare and now you also have more stuff that is worth invading for another tribe so now you have to do defense and military and all the things that go along with having that surplus [1328](https://www.youtube.com/watch?v=3bxzo79SjpE&t=1328.0s)
 
-and now for the first time the economics of needing to deal with surplus come about so private property ownership and inheritance and all those things it was like it was a big deal that particular um transition was when that was when our species ate the apple in the garden of eden it's interesting you know just if it's [1347](https://www.youtube.com/watch?v=3bxzo79SjpE&t=1347.12s)
+and now for the first time the economics of needing to deal with surplus come about so [[private property]] ownership and inheritance and all those things it was like it was a big deal that particular um transition was when that was when our species ate the apple in the garden of eden it's interesting you know just if it's [1347](https://www.youtube.com/watch?v=3bxzo79SjpE&t=1347.12s)
 
 not clear that was also kind of in one way the beginning of the anthropocene because before that you want nature to be pretty much the way it is to hunt and gather from this the first time you want to start clear cutting an area to turn it into agriculture land for lots of grain because in a gather environment there's not enough grain to be useful you've got to row crop it to then be [1366](https://www.youtube.com/watch?v=3bxzo79SjpE&t=1366.0s)
 
@@ -229,7 +229,7 @@ was devoted to some process or some future outside of the [[superorganism]] like
 
 on so we're at this place where there's this this pegging between gdp and energy we're getting a diminishing return on our energy source and there's an exponential requirement on capital simply because of interest right we have to have more capital next year than we have the capital this year for the nature of the [2868](https://www.youtube.com/watch?v=3bxzo79SjpE&t=2868.319s)
 
-how we set up the financial system so then there starts to become this larger delta of need to keep having more capital which means need to keep having more energy have less and less easy to access energy so have to technologically innovate offshore oil drilling and fracking and things but eventually you kind of run out of that and then there's a great [2885](https://www.youtube.com/watch?v=3bxzo79SjpE&t=2885.28s)
+how we set up the [[financial system]] so then there starts to become this larger delta of need to keep having more capital which means need to keep having more energy have less and less easy to access energy so have to technologically innovate offshore oil drilling and fracking and things but eventually you kind of run out of that and then there's a great [2885](https://www.youtube.com/watch?v=3bxzo79SjpE&t=2885.28s)
 
 reckoning so this is what you call it there's not yet a great reckoning because the intermediate step is you paper over that with central bank guarantees and and bailouts and and things like that but yes eventually there's a great reckoning which i'm referring to as the great simplification and yes eventually by definition [2906](https://www.youtube.com/watch?v=3bxzo79SjpE&t=2906.4s)
 
@@ -355,7 +355,7 @@ that we are so dependent on taiwan because making computer ships is so goddamn h
 
 [[supply chain|supply chains]] can we have more regional local [[supply chain|supply chains]] for some things the market is giving us the signal because of the financial response to the pandemic that you know globalization and profits and everything will continue forward but i i do think that's a big risk getting back to your your point uh your question i have a couple of uh asterisks [4580](https://www.youtube.com/watch?v=3bxzo79SjpE&t=4580.239s)
 
-there first of all right now um yes on the global level we recycle around nine percent of the material input and that's actually gotten worse rather than better and ultimately yes we have to have a closed or more closed loop system but how could that evolve because i think a a system away from economic growth and [4605](https://www.youtube.com/watch?v=3bxzo79SjpE&t=4605.84s)
+there first of all right now um yes on the global level we recycle around nine percent of the material input and that's actually gotten worse rather than better and ultimately yes we have to have a closed or more [[closed loop]] system but how could that evolve because i think a a system away from economic growth and [4605](https://www.youtube.com/watch?v=3bxzo79SjpE&t=4605.84s)
 
 like you say there's no way that in a system right now that requires debt and central bank support and rule changes and deficit spending by governments they're not going to add a big tax on on renewable uh non-renewable inputs right now because that would hurt the system so i think we have to anticipate [4629](https://www.youtube.com/watch?v=3bxzo79SjpE&t=4629.6s)
 

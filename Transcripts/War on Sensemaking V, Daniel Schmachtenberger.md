@@ -471,7 +471,7 @@ curate if there's a perfect educational piece that really does a very good job o
 
 say we're talking here about the facebook issues and there's stuff trending in the news around what's happening with fake news and facebook whatever so if someone's read marshall mcluhan they're going to understand things about media theory that other people aren't going to have but not everybody's going to go read mcluhan [5141](https://www.youtube.com/watch?v=0v5RiMdSqwk&t=5141.52s)
 
-and we want to be able to reference mcluhan for media theory but also lake off for media theory and then gerard for [[conflict theory]] and other types of [[conflict theory]] and poetry for institutional decay but also strauss howe and tainter for institutional decay there's a lot of things where those epistemic frames give you [5156](https://www.youtube.com/watch?v=0v5RiMdSqwk&t=5156.56s)
+and we want to be able to reference mcluhan for media theory but also lake off for media theory and then gerard for [[conflict theory]] and other types of [[conflict theory]] and poetry for [[institutional decay]] but also strauss howe and tainter for [[institutional decay]] there's a lot of things where those epistemic frames give you [5156](https://www.youtube.com/watch?v=0v5RiMdSqwk&t=5156.56s)
 
 the ability to understand stuff better but people aren't going to go read all those books so can we take the critical model that gives a lot of help in that book and make a three or ten page essay that kind of gives the most epistemic reifying power in the easiest information compression [5173](https://www.youtube.com/watch?v=0v5RiMdSqwk&t=5173.52s)
 

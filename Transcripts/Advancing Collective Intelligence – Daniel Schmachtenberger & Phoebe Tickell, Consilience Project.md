@@ -235,7 +235,7 @@ articles are kind of long and kind of in-depth so they're not something that we 
 
 antifa supporter at the same time very well um and yet we obviously have to fix that issue if we're going to have a democracy and be able to coordinate well enough to do anything and this we've talked about this issue before but you know china has already implemented high-speed trains all around the world [2793](https://www.youtube.com/watch?v=SioR1jgdhnk&t=2793.28s)
 
-and the us hasn't built one yet and we're like what the why like that's just a one example we could talk about it with regard to building transistors and and lithography or [[supply chain|supply chains]] or lots of things but it's like why can't we build a high-speed train and wait and it has to do with institutional decay and specifically in a democracy uh [2813](https://www.youtube.com/watch?v=SioR1jgdhnk&t=2813.28s)
+and the us hasn't built one yet and we're like what the why like that's just a one example we could talk about it with regard to building transistors and and lithography or [[supply chain|supply chains]] or lots of things but it's like why can't we build a high-speed train and wait and it has to do with [[institutional decay]] and specifically in a democracy uh [2813](https://www.youtube.com/watch?v=SioR1jgdhnk&t=2813.28s)
 
 in an autocracy as we can see in china you can get rid of the problem of internal infighting and just have everybody kind of do the same thing or you can get rid of a lot of it through imposition of top-down control you can also do long-term planning if you have one person in rule for a very long time and in the [2836](https://www.youtube.com/watch?v=SioR1jgdhnk&t=2836.24s)
 
@@ -249,7 +249,7 @@ chaos kind of thing and what they're seeking is order and the order is either im
 
 fact about covid hydroxychloroquine viral origins [[climate change]] the reality of systemic racism anything like the base understanding of fact based understanding of values almost completely fractured so inability to coordinate so if you want to have order that is not imposed it has to be [2950](https://www.youtube.com/watch?v=SioR1jgdhnk&t=2950.48s)
 
-emergent how do you get emergent order now this is why we get to culture in emergent order is does everyone have the capacity to make sense of the world in a similar way do they have the capacity training orientation interest to seek to understand how other people are making sense of the world do they have the ability to share what their [2970](https://www.youtube.com/watch?v=SioR1jgdhnk&t=2970.079s)
+emergent how do you get [[emergent order]] now this is why we get to culture in [[emergent order]] is does everyone have the capacity to make sense of the world in a similar way do they have the capacity training orientation interest to seek to understand how other people are making sense of the world do they have the ability to share what their [2970](https://www.youtube.com/watch?v=SioR1jgdhnk&t=2970.079s)
 
 values are seek to understand what other people's values are and find then synthesis of what are all the values to then try to find design solutions that meet all of the values simultaneously this those capacities which is collective [[sensemaking]] collective [[meaning making]] are what allow collective choice making in an emergent way to [2987](https://www.youtube.com/watch?v=SioR1jgdhnk&t=2987.359s)
 
