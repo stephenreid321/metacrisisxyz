@@ -6,7 +6,7 @@ aliases: climate changes
 Climate change is an encompassing term used to describe changes in global weather patterns caused by increased concentrations of greenhouse gases in the atmosphere, resulting in a rise in average global temperature. These changes, caused primarily by human-based activities, are expected to have significant impacts on the global environment, agricultural production, and human health, leading to significant ecological, social, and economic disruption around the world.
 
 > [!example] See also
-> [[climate change]], [[global governance]], [[systems thinking]], [[network theory]], [[complexity science]]
+> [[climate change]], [[exponential growth]], [[biodiversity loss]], [[planetary boundary]], [[catastrophic risk]]
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[rp daily: a conversation that will blow your mind with Daniel Schmachtenberger]] (23)
