@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/stephenreid321/markdown_record.git
-  revision: 4ca89a9e67313265a5f6bf6a105fb360a86b7224
+  revision: fc4db763f434af67add536cd4dcef8ef083189d9
   specs:
-    markdown_record (0.0.3)
+    markdown_record (0.0.5)
       activesupport
       faraday
       nokogiri

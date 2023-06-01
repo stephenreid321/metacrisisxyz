@@ -1,5 +1,5 @@
 class Diagnosis < MarkdownRecord
   def self.dir
-    'Diagnosis'
+    '1. Diagnosis'
   end
 end

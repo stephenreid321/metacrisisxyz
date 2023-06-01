@@ -6,7 +6,7 @@ aliases: existential risks
 An existential risk is a type of global catastrophic risk that could result in the permanent and irreversible destruction of the human species or its potential in the future. It is a risk created by human actions or inaction that has a greater than zero probability of causing the extinction of the human race, or irreversibly damaging its potential for future progress. It is unlike other global risks because of its high probability and potential for global scope, making it a critical issue for humanity to mitigate.
 
 > [!example] See also
-> [[existential risk]], [[catastrophic risk]], [[climate change]], [[human nature]], [[nuclear weapon]]
+> [[species extinction]], [[nuclear weapon]], [[catastrophic risk]], [[climate change]], [[bioweapon]]
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[46: Daniel Schmachtenberger - Winning Humanity's Existential Game]] (12)

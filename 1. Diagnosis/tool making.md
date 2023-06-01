@@ -6,7 +6,7 @@ aliases: tool makings
 Tool making is the process of constructing and using tools to aid in cognitive work. Specifically, these tools can be considered as ‘mechanisms of thought’ and are used to help focus attention and to more efficiently integrate data across multiple domains. At the postgraduate level, tool making includes conceptual tools (e.g. models of thinking and explanation), technological tools (e.g. collaboration tools and information filtering systems), and physical tools (e.g. pens, paper, and other physical instruments used to more accurately and efficiently record and analyse data). By careful design of these tools, we can achieve greater learning outcomes and a more effective synthesis of our thoughts and experiences.
 
 > [!example] See also
-> [[tool making]], [[liquid democracy]], [[collective intelligence]], [[physical tech]], [[network theory]]
+> [[human nature]], [[materials economy]], [[financial system]], [[industrial revolution]]
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[Civilization as a Paperclip Maximizer - Daniel Schmachtenberger]] (7)

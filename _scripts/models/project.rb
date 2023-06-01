@@ -1,4 +1,8 @@
 class Project < MarkdownRecord
+  def self.dir
+    '3. Projects'
+  end
+
   def self.fields
     %w[lastUpdated createdAt id website bannerImg logoImg userGithub projectGithub projectTwitter]
   end
