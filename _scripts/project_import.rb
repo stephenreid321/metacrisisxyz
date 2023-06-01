@@ -56,7 +56,7 @@ models_with_titles.each do |model, titles|
 end
 
 YOUTUBE_IDS = Transcript.existing_youtube_ids
-Transcript.populate(skip_existing: false)
+# Transcript.populate(skip_existing: false)
 
 models_with_titles.keys.each do |model|
   model.all.each do |attributes|
