@@ -7,12 +7,15 @@ models_with_titles = {
                end,
 
   Response => %(
+    microgrid
   ).strip.split("\n").map do |t|
                 t = t.strip
                 t == t.pluralize ? t : [t, t.pluralize]
               end,
 
   LandBased => %(
+    community supported agriculture
+    agroforestry
   ).strip.split("\n").map do |t|
                  t = t.strip
                  t == t.pluralize ? t : [t, t.pluralize]
@@ -25,6 +28,7 @@ models_with_titles = {
                          end,
 
   CoordinationMechanism => %(
+    mesh network
   ).strip.split("\n").map do |t|
                              t = t.strip
                              t == t.pluralize ? t : [t, t.pluralize]
