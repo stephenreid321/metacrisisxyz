@@ -1,5 +1,5 @@
 ---
-tags: tech
+tags: response
 aliases: artificial intelligences
 ---
 

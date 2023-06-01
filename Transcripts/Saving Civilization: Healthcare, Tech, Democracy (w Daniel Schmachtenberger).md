@@ -478,7 +478,7 @@ wrong about everything." - zubin which is the worst
 feeling (laughs), right? [1486](https://www.youtube.com/watch?v=_7aIgHoydP8&t=1486.611s)
 
 - daniel and then you're like, "oh, wow, "i learned something,"
-and it's very much like the [[reward circuit]] of exercising. like at first, exercise
+and it's very much like the [[reward circuit]] of exercising. like at first, [[exercise]]
 doesn't give you the hit that just eating the chocolate
 cake in the moment does. i get an instant hit of increased pleasure from the chocolate cake-
 - zubin yeah. - daniel whereas with working out, like i'm sweating, and it's painful, and my muscles hurt, and whatever, [1505](https://www.youtube.com/watch?v=_7aIgHoydP8&t=1505.283s)
@@ -492,7 +492,7 @@ types of things, right? so the chocolate cake
 that i'm low blood sugar, 'cause the insulin overcompensated, now i'm craving more sugar. [1524](https://www.youtube.com/watch?v=_7aIgHoydP8&t=1524.871s)
 
 as that keeps going, my baseline erodes. - zubin it's a downward
-spiral into entropy, yeah. - daniel with exercise,
+spiral into entropy, yeah. - daniel with [[exercise]],
 it's the other one. the same is true, 'cause
 what you just said is when you listen to the point of view you disagree with long enough and earnestly enough
 that you understand it, you get a reward on the other side, but the reward actually
@@ -527,7 +527,7 @@ this addiction circuit where you get a reward, but
 then you drop to a baseline that's below the original baseline, and then it's a downward spiral, [1627](https://www.youtube.com/watch?v=_7aIgHoydP8&t=1627.618s)
 
 versus hormesis, which
-is more like exercise. can you explain hormesis?
+is more like [[exercise]]. can you explain hormesis?
 - daniel yeah. and i just wanna say, because
 you have an educated audience, we're simplifying
 everything for model purpose and speed purpose. obviously, it's not just dopamine, right? you can have a limbic hijack that is more around fear, or outrage, and it's epinephrine, and
@@ -541,7 +541,7 @@ all the models are models. - daniel useful to start
 to help understand the thing, and then don't idolize 'em.
 - zubin yes. [1679](https://www.youtube.com/watch?v=_7aIgHoydP8&t=1679.287s)
 
-- daniel okay, hormesis, so the idea with exercise
+- daniel okay, hormesis, so the idea with [[exercise]]
 that if you're moving an amount of weight that
 is really, really easy, you're probably not gonna
 get that much muscle growth, because there's no reason
@@ -558,9 +558,7 @@ we might actually not be safe "if we don't increase adaptive capacity, "'cause w
 to engage in situations "that need all of the
 capacity we currently have. "let's generate more," right? so hormesis is the property
 of systems to upregulate their capacity and response to stress that is near the boundary
-of what they can handle. and exercise is a classic example, [1725](https://www.youtube.com/watch?v=_7aIgHoydP8&t=1725.209s)
-
-but that's why you do hot-cold therapy is, one of the reasons for hot-cold therapy is you're creating a kind
+of what they can handle. and [[exercise]] is a classic example, but that's why you do hot-cold therapy is, one of the reasons for hot-cold therapy is you're creating a kind
 of metabolic hormesis, and as you're exposing
 yourself to more variance of temperature, the
 body actually regulates. it has an impetus to
@@ -1973,7 +1971,7 @@ have done videos on this, do a thing called screen-free sunday, where we turn of
 - daniel right. [6503](https://www.youtube.com/watch?v=_7aIgHoydP8&t=6503.051s)
 
 - zubin and i went on a
-meditation retreat recently, six days, where i was
+[[meditation]] retreat recently, six days, where i was
 completely unplugged, and i'll tell you, if we think we've permanently damaged
 ourself, we're wrong. - daniel yeah.
 - zubin because i've never, i mean, i was wide open,
@@ -2023,7 +2021,7 @@ because it's hacking into the capitalist incentive
 of this is how you make money through ads, and so on, and it just became self-replicating that way. but like sometimes, youtube's
 algorithm will do that. it's quite remarkable. it will actually point, and i get this, and this is why, because people who, [6695](https://www.youtube.com/watch?v=_7aIgHoydP8&t=6695.136s)
 
-i do some meditation,
+i do some [[meditation]],
 awakening type content, consciousness content, and
 youtube's algorithm seems to feed that content to people who have a vague interest in it, but also may overlap
 slightly with healthcare. it kind of knows this in some way, and people will message me, and go, "i don't know what, i don't
@@ -2051,7 +2049,7 @@ optimize for lectical score. that's why i said it's just
 the beginning of a thinking, because if a lectical
 score is the only thing you optimize for, someone who has more
 advanced theory of mind- - zubin yeah.
-- daniel without necessarily more advanced compassion, or embodiment, can be a more effective sociopath- [6783](https://www.youtube.com/watch?v=_7aIgHoydP8&t=6783.022s)
+- daniel without necessarily more advanced compassion, or [[embodiment]], can be a more effective sociopath- [6783](https://www.youtube.com/watch?v=_7aIgHoydP8&t=6783.022s)
 
 - zubin psychopath, yeah.
 - daniel yeah. - zubin exactly. - daniel and so, i don't think you want to optimize for anything measurable, right? the thing that is measurable
@@ -2112,8 +2110,8 @@ and that can be taught and passed down. - zubin right. - daniel so i think when
 i say [[social tech|social technology]], i'm not referring to things like facebook. i'm referring to things like sweat lodges-
 - zubin right, so that's what i was, that's what i was getting at. does it require that sort of technology, meaning self-awareness, self-realization, [6999](https://www.youtube.com/watch?v=_7aIgHoydP8&t=6999.505s)
 
-self-improvement technologies, like sweat lodges, psychedelics,
-guided psychedelic therapy, meditation, spirituality of
+self-improvement technologies, like sweat lodges, [[psychedelics]],
+guided psychedelic therapy, [[meditation]], spirituality of
 any kind, that sort of thing? do you think that's necessary
 for humanity to survive? - daniel just you'll appreciate this. the first time i got to do a sweat lodge, i was invited to do it on a reservation. the shaman leading it,
 there was one point where, it was my first time there. there was another white guy there [7035](https://www.youtube.com/watch?v=_7aIgHoydP8&t=7035.021s)
@@ -2162,7 +2160,7 @@ like this whole ceremony, like, "let's just go
 have a civil ceremony. "this is just dumb." boy, was i completely wrong. the older i get, the more i realize these are crucial interwoven fabrics of human development
 and social development [7156](https://www.youtube.com/watch?v=_7aIgHoydP8&t=7156.212s)
 
-and all the things you just said. so, and again, i constantly talk about this meditation retreat,
+and all the things you just said. so, and again, i constantly talk about this [[meditation]] retreat,
 because it's the most, it's the easiest thing i can talk about, it's the most recent. this idea that you get 30 people together, there was a small group, and a lot of them were my
 supporters on the show, but they'd been drawn to it, because they feel the
 call to do this thing, [7175](https://www.youtube.com/watch?v=_7aIgHoydP8&t=7175.223s)

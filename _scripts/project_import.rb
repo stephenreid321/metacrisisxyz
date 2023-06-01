@@ -1,21 +1,41 @@
 models_with_titles = {
+
+  Diagnosis => %(
+  ).strip.split("\n").map do |t|
+                 t = t.strip
+                 t == t.pluralize ? t : [t, t.pluralize]
+               end,
+
   Response => %(
   ).strip.split("\n").map do |t|
                 t = t.strip
                 t == t.pluralize ? t : [t, t.pluralize]
               end,
 
-  Tech => %(
-  ).strip.split("\n").map do |t|
-            t = t.strip
-            t == t.pluralize ? t : [t, t.pluralize]
-          end,
-
-  Diagnosis => %(
+  LandBased => %(
   ).strip.split("\n").map do |t|
                  t = t.strip
                  t == t.pluralize ? t : [t, t.pluralize]
+               end,
+
+  PersonalDevelopment => %(
+  ).strip.split("\n").map do |t|
+                           t = t.strip
+                           t == t.pluralize ? t : [t, t.pluralize]
+                         end,
+
+  CoordinationMechanism => %(
+  ).strip.split("\n").map do |t|
+                             t = t.strip
+                             t == t.pluralize ? t : [t, t.pluralize]
+                           end,
+
+  Aesthetic => %(
+                          ).strip.split("\n").map do |t|
+                 t = t.strip
+                 t == t.pluralize ? t : [t, t.pluralize]
                end
+
 }
 
 models_with_titles.each do |model, titles|
@@ -28,17 +48,17 @@ models_with_titles.each do |model, titles|
     definition = model.get_definition(title)
     # r = Faraday.get("https://stephenreid.net/k/daniel/terms/#{URI.encode(title)}")
     # definition = Nokogiri::HTML(r.body).search('p.lead').first.text
-    attributes = model.create(title: title, tags: model.to_s.downcase, aliases: aliases, body: definition)
+    attributes = model.create(title: title, tags: model.to_s.underscore.dasherize, aliases: aliases, body: definition)
     attributes = model.set_callout(attributes, 'example', 'See also', 'x, y, z')
     attributes = model.set_callout(attributes, 'info', 'Podcasts mentioning this term most frequently', "* x\n* y\n* z")
-    model.set_see_also(attributes, Concept.all.map { |c| c[:title] })
+    model.set_see_also(attributes, (Concept.all.map { |c| c[:title] } - [title]))
   end
 end
 
 YOUTUBE_IDS = Transcript.existing_youtube_ids
 Transcript.populate(skip_existing: false)
 
-[Tech, Response, Diagnosis].each do |model|
+models_with_titles.keys.each do |model|
   model.all.each do |attributes|
     mentions = Transcript.mentions(attributes)
     # model.set_see_also(attributes, Concept.all.map { |c| c[:title] })

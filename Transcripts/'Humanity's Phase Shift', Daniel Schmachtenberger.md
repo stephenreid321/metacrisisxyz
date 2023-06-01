@@ -89,7 +89,7 @@ connectedness with everything is not actually a trivial thing to do it's a it's 
 
 there is this kind of narcissism that we're stuck in almost all the time thinking about me i and it's not even it's not even a good thought it's like it's not even a rational way to optimize my own life let alone the fact that it creates depression just thinking cognitively about the interconnectivity of everything actually helps a lot how to get a more embodied sense [932](https://www.youtube.com/watch?v=nQRzxEobWco&t=932.86s)
 
-go spend time in nature do psychedelics do any kind of state practice that creates expanded states see how you can have more intimate relationships with more people all those things and when you sketch it out like that it seems immense the challenge are you are you hopeful or are you pessimistic i think that the shift that we are on the precipice of is not like the shift from [964](https://www.youtube.com/watch?v=nQRzxEobWco&t=964.11s)
+go spend time in nature do [[psychedelics]] do any kind of state practice that creates expanded states see how you can have more intimate relationships with more people all those things and when you sketch it out like that it seems immense the challenge are you are you hopeful or are you pessimistic i think that the shift that we are on the precipice of is not like the shift from [964](https://www.youtube.com/watch?v=nQRzxEobWco&t=964.11s)
 
 the dark ages to the enlightenment or even the agricultural revolution it's like more like a shift from single cell to multicellular life it's like a really deep fundamental shift in the level and type of complexity in the nature of reality that we're talking about evolution brought about [[rivalrous dynamics]] but then it also brought about our prefrontal cortices our capacity for [994](https://www.youtube.com/watch?v=nQRzxEobWco&t=994.98s)
 
@@ -157,4 +157,4 @@ what is what are the new structures what does that look like for an individual t
 
 young humans to be healthy sovereign humans is really their focus and there's certain things are going to focus on for that or health care or the new [[materials economy]] or whatever it is if one is wanting to become comprehensively more educated about civilization changes needed writ large pay attention to the people in this video that you resonate with and go find more of their work and [1798](https://www.youtube.com/watch?v=nQRzxEobWco&t=1798.33s)
 
-then pay attention to the footnotes in problem music you
+then pay attention to the footnotes in problem [[music]] you

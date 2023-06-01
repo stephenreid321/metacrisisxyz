@@ -1,7 +1,7 @@
 # a convenience class which combines diagnoses, responses and tech
 class Concept
   def self.all
-    Tech.all + Response.all + Diagnosis.all
+    Diagnosis.all + Response.all + LandBased.all + PersonalDevelopment.all + CoordinationMechanism.all + Aesthetic.all
   end
 
   def self.discover

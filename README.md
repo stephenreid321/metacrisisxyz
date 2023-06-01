@@ -6,7 +6,10 @@ This is a Ruby/OpenAI-enhanced Obsidian knowledgebase for [metacrisis.xyz](https
 You can find definitions of metacrisis-related terms with links to where they are used in podcasts under:
 * `Diagnosis`: diagnosing the metacrisis
 * `Responses`: broad ways in which we could usefully respond to the metacrisis
-* `Tech`: specific technologies that could be relevant
+* `Responses/Personal development`: potentially relevant individual practises
+* `Responses/Coordination mechanisms`: potentially relevant ways of organising and decision-making
+* `Responses/Land based`: potentially relevant techniques related to food, farming and ecological restoration 
+* `Responses/Aesthetics`: potentially relevant aesthetic movements
 
 Please note definitions are currently AI-generated and not always accurate.
 

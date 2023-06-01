@@ -405,7 +405,7 @@ kind so we're not selling ads we're not selling the content we're not selling pe
 
 it's all non-restricted support yeah the donor wants to be able to say that they're supporting us great that's true if they would like to have some place on our site or whatever where we discuss who our donors are we're probably open to that we haven't got there yet if they want to [4429](https://www.youtube.com/watch?v=LetPkDGIyy0&t=4429.28s)
 
-influence our editorial process in any way then it's an absolute no we won't take their money and that's already come up so far music and like it would just that is antithetical to the goal of the whole thing so of course the support has to be that people actually believe in the [4446](https://www.youtube.com/watch?v=LetPkDGIyy0&t=4446.08s)
+influence our editorial process in any way then it's an absolute no we won't take their money and that's already come up so far [[music]] and like it would just that is antithetical to the goal of the whole thing so of course the support has to be that people actually believe in the [4446](https://www.youtube.com/watch?v=LetPkDGIyy0&t=4446.08s)
 
 project and that's it and so what that means is it's  harder to fund this thing because i foreclose most of the funding methods and so we are actively seeking people who believe in it and want to support it we won't make compromises on this to be able to have scale like that's a very easy [4463](https://www.youtube.com/watch?v=LetPkDGIyy0&t=4463.679s)
 

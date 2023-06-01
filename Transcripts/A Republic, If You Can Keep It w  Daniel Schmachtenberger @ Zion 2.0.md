@@ -11,7 +11,7 @@ what's up everybody welcome to another episode of zion 2.0 i'm your host colin m
 
 uh might as well [[open source]] the process this podcast doesn't there's i don't really have a brand the brand of this podcast is figuring out what the brand is this is a process oriented podcast and it'll be finished when there's some sort of answer i suppose or maybe i'll just keep questioning who knows people who are regular listeners [42](https://www.youtube.com/watch?v=E8cSGX02bqA&t=42.079s)
 
-of the show may have noticed that the past few episodes haven't had any music no intro i have some audio clips that i want to use i basically want to i want to commission a musician to create an intro that weaves in some audio clips so if you're a musician and uh you want to contribute to the show uh [61](https://www.youtube.com/watch?v=E8cSGX02bqA&t=61.359s)
+of the show may have noticed that the past few episodes haven't had any [[music]] no intro i have some audio clips that i want to use i basically want to i want to commission a musician to create an intro that weaves in some audio clips so if you're a musician and uh you want to contribute to the show uh [61](https://www.youtube.com/watch?v=E8cSGX02bqA&t=61.359s)
 
 let me know shoot me an email call in zionpod.me check out the website zionpod.me but that website's going to be getting a makeover here pretty soon i have some things in the works right now right now it's just a podcast right now it's just right now the website basically just [82](https://www.youtube.com/watch?v=E8cSGX02bqA&t=82.0s)
 
@@ -23,9 +23,9 @@ daniel daniel's like uh daniel's like the best version of an uber the ubermensch
 
 and uh did not disappoint we talk about a bunch of different things we talk about aesthetics we talk about [[public education]] we talk about secret societies we talk about how to keep going how to not harden into a not bitter nihilist when you look out into the world yeah there's like this um there's this [163](https://www.youtube.com/watch?v=E8cSGX02bqA&t=163.44s)
 
-section at the end where where he's where daniel just sort of goes off on his own sort of like personal sovereignty stack and uh i i think i'm gonna pull that clip and musicians out there i want you to put music behind it calling home musicians i could like i [181](https://www.youtube.com/watch?v=E8cSGX02bqA&t=181.92s)
+section at the end where where he's where daniel just sort of goes off on his own sort of like personal sovereignty stack and uh i i think i'm gonna pull that clip and musicians out there i want you to put [[music]] behind it calling home musicians i could like i [181](https://www.youtube.com/watch?v=E8cSGX02bqA&t=181.92s)
 
-can write music but i wanted to be i wanted to be somebody who's really  good at music okay without further ado ladies and gentlemen i present to you daniel schmucktenberger one of the first things i wanted to ask you is i'm thinking a lot about the role that aesthetics plays in a lot of these conversations about [201](https://www.youtube.com/watch?v=E8cSGX02bqA&t=201.36s)
+can write [[music]] but i wanted to be i wanted to be somebody who's really  good at [[music]] okay without further ado ladies and gentlemen i present to you daniel schmucktenberger one of the first things i wanted to ask you is i'm thinking a lot about the role that aesthetics plays in a lot of these conversations about [201](https://www.youtube.com/watch?v=E8cSGX02bqA&t=201.36s)
 
 face transition and [[game b]] and i wonder what what role aesthetics plays in your in your world because aesthetics is is presentation or orientation to to um to beauty and and different different aesthetic interpretations or presentations are going to draw different personality types or different [224](https://www.youtube.com/watch?v=E8cSGX02bqA&t=224.239s)
 
@@ -39,7 +39,7 @@ abstraction mediated that gives rise to wanting to understand it better through 
 
 choice will be off like that that's ultimately where the and obviously we don't mean beauty as apprehended by the eyeball but as apprehended by the self right through all of the methods of apprehension so that's one thought another thought is there's this there's a statement aphorism in the [341](https://www.youtube.com/watch?v=E8cSGX02bqA&t=341.199s)
 
-balinese culture it says uh the art museum is the sign of a dead culture because they've relegated art to a place and that in a live culture humans don't make anything that isn't art that if you're going to bother converting a part of nature to something other than nature it's very hard to not make it uglier [366](https://www.youtube.com/watch?v=E8cSGX02bqA&t=366.56s)
+balinese culture it says uh the [[art]] museum is the sign of a dead culture because they've relegated [[art]] to a place and that in a live culture humans don't make anything that isn't [[art]] that if you're going to bother converting a part of nature to something other than nature it's very hard to not make it uglier [366](https://www.youtube.com/watch?v=E8cSGX02bqA&t=366.56s)
 
 than it was to like nature's beautiful you should only do that if you're actually adding beauty to life and of course that also can include adding function but they shouldn't be separate and when we think about the way that all animals are made fit to their environment the way [387](https://www.youtube.com/watch?v=E8cSGX02bqA&t=387.52s)
 
@@ -83,7 +83,7 @@ world religions is probably not going to happen the idea that they might lead to
 
 and so it's relevant to see you know and obviously they're appealing to the authority of bible over quran or the origin of species is going to be more relevant right you can think of that as an aesthetic if you want so i think there is definitely something to being able to speak to people both in a language that they can connect [871](https://www.youtube.com/watch?v=E8cSGX02bqA&t=871.44s)
 
-with and in music towards transitional steps that are actually doable if one is wanting to do things like prevent war from groups that are otherwise moving in that direction i think in terms of the preferences of [892](https://www.youtube.com/watch?v=E8cSGX02bqA&t=892.88s)
+with and in [[music]] towards transitional steps that are actually doable if one is wanting to do things like prevent war from groups that are otherwise moving in that direction i think in terms of the preferences of [892](https://www.youtube.com/watch?v=E8cSGX02bqA&t=892.88s)
 
 how i've communicated in podcasts and like that and any strategy of how i choose to communicate i think it's actually shifting right now i only started doing public communication in the last couple years in any meaningful way and when i'm talking about the [[generator function|generator functions]] of [[existential risk]] and the need for comprehensive civilization redesign and those types of things i was looking for the people who would resonate with that thinking to be able to see what projects were out there and what people could participate in meaningful kinds of projects aligned with that type of thinking so i knew that it was not going [938](https://www.youtube.com/watch?v=E8cSGX02bqA&t=938.88s)
 
@@ -295,7 +295,7 @@ incongruencies and work to resolve those and look at what the basis of them is s
 
 deeper and they could ask themselves what is it that i care what do i care about and why do i care about it what do i care most about what on my deathbed will i care most about and will i feel most proud of and was a right use of my life and what will i wish that [3400](https://www.youtube.com/watch?v=E8cSGX02bqA&t=3400.48s)
 
-i had engaged in differently even deeper what is sacred to me that is worthy of the devotion of my life music and what is worth more to me than my own life and and why and not just think about it but feel it feel the situations in which one would sacrifice [3432](https://www.youtube.com/watch?v=E8cSGX02bqA&t=3432.799s)
+i had engaged in differently even deeper what is sacred to me that is worthy of the devotion of my life [[music]] and what is worth more to me than my own life and and why and not just think about it but feel it feel the situations in which one would sacrifice [3432](https://www.youtube.com/watch?v=E8cSGX02bqA&t=3432.799s)
 
 life and or quality of life for something that matters more and where that comes from and then write about it and write what is sacred and what my values are what my highest values are that's the first part the next part would be reflect and write on what do i understand to be the current situation [3460](https://www.youtube.com/watch?v=E8cSGX02bqA&t=3460.559s)
 

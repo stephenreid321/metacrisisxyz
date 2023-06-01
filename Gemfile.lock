@@ -24,6 +24,9 @@ GEM
     faraday-net_http (3.0.2)
     i18n (1.13.0)
       concurrent-ruby (~> 1.0)
+    io-console (0.6.0)
+    irb (1.6.2)
+      reline (>= 0.3.0)
     json (2.6.3)
     mini_portile2 (2.8.2)
     minitest (5.18.0)
@@ -36,6 +39,8 @@ GEM
     racc (1.6.2)
     rainbow (3.1.1)
     regexp_parser (2.7.0)
+    reline (0.3.2)
+      io-console (~> 0.5)
     rexml (3.2.5)
     rubocop (1.45.1)
       json (~> 2.3)
@@ -62,6 +67,7 @@ PLATFORMS
 
 DEPENDENCIES
   dotenv
+  irb
   markdown_record!
   rubocop
   rubocop-daemon

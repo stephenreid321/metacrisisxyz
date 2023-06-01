@@ -1,5 +1,5 @@
 ---
-tags: tech
+tags: coordination-mechanism
 aliases: liquid democracies
 ---
 

@@ -173,7 +173,7 @@ as such that we do have to recondition ourself to be able to seek instantaneous 
 and in instantaneous solutions less and be able to take the time to go deep enough in
 the thing that you really get the insights of what the many different causes are and
 not a singular cause. and what solutions- nate hagens:
-is that a skill like meditation? how does someone develop that? daniel schmachtenberger:
+is that a skill like [[meditation]]? how does someone develop that? daniel schmachtenberger:
 when we're talking about the [[social media]] thing, and obviously this is not only social
 media, there are different kinds of [[reward circuit|reward circuits]]. this is also why it's interesting to think
 about it in terms of brain and evolutionary biology versus conditioning. there are one-marshmallow [[reward circuit|reward circuits]]
@@ -483,11 +483,9 @@ all that stuff. daniel schmachtenberger:
 it might seem like i'm forcing things as a fit here, but i believe that the ancient wisdom
 traditions had wise people that saw similar things and encoded them differently. it's said by many vedic philosophers that
 the bhagavad gita, the great kind of scripture, one of them, of hinduism, chapter two, verse
-48 is fundamental. established in yoga. perform action. yoga means union with all that is, "yogastha
-kuru karmani" is the quote. and it says, "established in yoga, or union
-with all that is, from the place where you [2404](https://www.youtube.com/watch?v=kTFqnPEyweE&t=2404.54s)
-
-recognize that your existence doesn't exist
+48 is fundamental. established in [[yoga]]. perform action. [[yoga]] means union with all that is, "yogastha
+kuru karmani" is the quote. and it says, "established in [[yoga]], or union
+with all that is, from the place where you recognize that your existence doesn't exist
 without everything else and from the place where you cognitively but also experientially
 get that, where there's an intimacy with all life, and act from there. spontaneous right action emerges from that
 place." when, in the bible, it says, "seek ye first
@@ -499,11 +497,11 @@ which sense-making and meaning-making happen differently and inform choice-makin
 
 nate hagens:
 well, i'm beginning to get a suspicion that we may have an episode four and five, but
-let me just ask you a follow-up to that. you know me pretty well by now. i have very limited experience with psychedelics. i had a magic mushroom omelet on koh samui,
+let me just ask you a follow-up to that. you know me pretty well by now. i have very limited experience with [[psychedelics]]. i had a magic mushroom omelet on koh samui,
 thailand. i remember an 18-inch tall jesus christ running
 up my leg and i have not really done it since. but i do have spiritual epiphanies being in
 nature and feeling that oneness that i'm told happens on ayahuasca or some of these other
-psychedelics. mushrooms. some of my most mystical experiences in life
+[[psychedelics]]. mushrooms. some of my most mystical experiences in life
 are seeing the vibrant green in the trees [2495](https://www.youtube.com/watch?v=kTFqnPEyweE&t=2495.92s)
 
 and the birds and the insects. i felt the connection then and i felt my heartbreak
@@ -520,12 +518,10 @@ and interconnectedness and the heartbreak. that's what actually motivates the de
 to figure out how to serve the thing and protect the thing better. it's not just the understanding that resulted
 from what drove that work that has to come across to people. it's the facilitation of those experiences. nate hagens:
 how do you merge that all together in a productive way? daniel schmachtenberger:
-well, first, the fact that you said you're inquiring into psychedelics but that you just
-had experiences in nature... [2578](https://www.youtube.com/watch?v=kTFqnPEyweE&t=2578.99s)
-
-psychedelics are one way to access non-ordinary
+well, first, the fact that you said you're inquiring into [[psychedelics]] but that you just
+had experiences in nature... [[psychedelics]] are one way to access non-ordinary
 states of consciousness. you can do it with deep time in nature, with
-fasting, with meditation, with breathwork, with lots of things. i think psychedelics can be profound tools,
+fasting, with [[meditation]], with [[breathwork]], with lots of things. i think [[psychedelics]] can be profound tools,
 but i also think they can be one-marshmallows to spirituality, where you get the high state
 hit without any of the work of really communing with nature or learning to calm the mind. getting a false sense of knowingness independent
 of some of the other important parts. so, the depth of time in nature i generally

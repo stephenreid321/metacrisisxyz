@@ -7,7 +7,7 @@ published_at: '2020-09-03'
 
 <div class="yt-container"><iframe src="https://www.youtube.com/embed/GPumhxH3JHA"></iframe></div>
 
-music welcome to heart based medicine's heart of health care podcast featuring daniel schmacktenberger co-founder at neurohacker collective a systemic approach to heart-based medicine thank you daniel thank you for being with us today thanks for putting this together we had a chance today to talk about [19](https://www.youtube.com/watch?v=GPumhxH3JHA&t=19.119s)
+[[music]] welcome to heart based medicine's heart of health care podcast featuring daniel schmacktenberger co-founder at neurohacker collective a systemic approach to heart-based medicine thank you daniel thank you for being with us today thanks for putting this together we had a chance today to talk about [19](https://www.youtube.com/watch?v=GPumhxH3JHA&t=19.119s)
 
 heart-based medicine during the board meeting and during the opening ceremony and i just wonder what does heart-based medicine look like for you if you were to describe it in your own terms now the first kind of sense that i have is that people are called to a life path in the [45](https://www.youtube.com/watch?v=GPumhxH3JHA&t=45.28s)
 
@@ -119,7 +119,7 @@ and so yet if i see very high homeodynamic capacity across lots of axes that's a
 
 uni causal association is is a degree of simplification and that silly is really not very helpful um i mean for some things in the knife wound case it's fine yeah except we need to ask you know are they clumsy or are they getting in knife fights for dumb reasons so there [1349](https://www.youtube.com/watch?v=GPumhxH3JHA&t=1349.84s)
 
-might be something upstream but so for some things unicausal is fine but for most anything that emerged not immediately following an obvious causation event this is why we don't actually have real cures we have symptomatic treatments and um you know ameliorative treatments for most complex chronic disease music so the etiology of disease we will more likely find answers for what is the real cause of disease if we look at nonlinear models and we look at the the period before the disease started before the symptoms occur and see what what are the different factors that have built up and reached that threshold yeah [1399](https://www.youtube.com/watch?v=GPumhxH3JHA&t=1399.44s)
+might be something upstream but so for some things unicausal is fine but for most anything that emerged not immediately following an obvious causation event this is why we don't actually have real cures we have symptomatic treatments and um you know ameliorative treatments for most complex chronic disease [[music]] so the etiology of disease we will more likely find answers for what is the real cause of disease if we look at nonlinear models and we look at the the period before the disease started before the symptoms occur and see what what are the different factors that have built up and reached that threshold yeah [1399](https://www.youtube.com/watch?v=GPumhxH3JHA&t=1399.44s)
 
 when you speculate about what might be the areas that affect the human body what are the areas that if they stack up will lead to an imbalance of dysregulation that becomes symptomatic yeah what do you believe are those areas you know there's some actual pretty simple models we can start to look at this comprehensively through so [1433](https://www.youtube.com/watch?v=GPumhxH3JHA&t=1433.36s)
 
@@ -139,7 +139,7 @@ going to say oh yes i have lead poisoning well lead poisoning is at this thresho
 
 throat cancer things like that for those few that we've found recently it's pretty safe to assume that there's lots more like that where the correlations are just not as clear yet and that's one of the things that again some of the infectious study and environmental toxicology studies that functional medicine is doing i think are really [1656](https://www.youtube.com/watch?v=GPumhxH3JHA&t=1656.88s)
 
-interesting um so too much of various things not enough of and obviously we can look at things like not enough exercise not enough sleep not enough music human contact the none of human contact is actually profound because [1676](https://www.youtube.com/watch?v=GPumhxH3JHA&t=1676.88s)
+interesting um so too much of various things not enough of and obviously we can look at things like not enough [[exercise]] not enough sleep not enough [[music]] human contact the none of human contact is actually profound because [1676](https://www.youtube.com/watch?v=GPumhxH3JHA&t=1676.88s)
 
 that ends up being one of the most profound drivers of addiction which is then going to cause so many other health issues but also not enough of specific nutrients and we see that we have a you know modern american diet or modern industrial world diet is very high in macronutrients and often [1702](https://www.youtube.com/watch?v=GPumhxH3JHA&t=1702.399s)
 
@@ -213,7 +213,7 @@ books and computers we should augment human computational process with computati
 
 better it allows the doctors to be less focused on just memory and computation and more focused on actual connection to them know how to use that system and to relate to the person but there's still going to be a pretty big gap between the doctor relating with the person using the system and the system acting on the person [2519](https://www.youtube.com/watch?v=GPumhxH3JHA&t=2519.28s)
 
-directly so you now you know music juxtaposing the human experience and the development of machine learning or the availability of machine learning capacity and we can run this on databases as you say but we can also turn them into we can we can inform [2547](https://www.youtube.com/watch?v=GPumhxH3JHA&t=2547.599s)
+directly so you now you know [[music]] juxtaposing the human experience and the development of machine learning or the availability of machine learning capacity and we can run this on databases as you say but we can also turn them into we can we can inform [2547](https://www.youtube.com/watch?v=GPumhxH3JHA&t=2547.599s)
 
 objects that we call robots with machine learning abilities so they're able to provide services so what we're seeing is that increasingly now there are kind of robots evolving that are involved in what we typically would cause called services of care so for example they would help in in household activities they would help in you know basic getting dressed washing ourselves very basic um day-to-day activities and they are helpful for people who have um incubus you know are somehow um don't have the capacity to perform certain activities but they're fundamentally different to a [2599](https://www.youtube.com/watch?v=GPumhxH3JHA&t=2599.44s)
 
@@ -243,7 +243,7 @@ kind of outside of the pack then then that is something to be addressed and is w
 
 doesn't mean nobody can be a hermit but it doesn't mean that in the presence of decentralizable catastrophe level technology we have to think about some things differently than we did previously and the disposition and well-being of people matters more to everyone because the [2906](https://www.youtube.com/watch?v=GPumhxH3JHA&t=2906.24s)
 
-one-to-many capacity of a person is much much higher and so the coupling is higher which means that the care needs to be higher music we're coming back to care again and again and again so now we're looking at care as a group phenomenon so a group caring for the group and caring for individuals for the sake [2928](https://www.youtube.com/watch?v=GPumhxH3JHA&t=2928.079s)
+one-to-many capacity of a person is much much higher and so the coupling is higher which means that the care needs to be higher [[music]] we're coming back to care again and again and again so now we're looking at care as a group phenomenon so a group caring for the group and caring for individuals for the sake [2928](https://www.youtube.com/watch?v=GPumhxH3JHA&t=2928.079s)
 
 of the group and for the sake of the individual and for the sake of the individual so if i'm just translating this to the health care setting now where we have a group of people working together and we have individuals walking in and out of this setting and we look at the current i want to call it epidemic of [2949](https://www.youtube.com/watch?v=GPumhxH3JHA&t=2949.359s)
 

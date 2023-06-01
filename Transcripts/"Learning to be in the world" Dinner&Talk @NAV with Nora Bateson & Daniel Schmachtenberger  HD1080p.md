@@ -41,7 +41,7 @@ escalation pathways to large-scale war environmentalists look at environmental r
 
 [[exponential tech]] risks risks that could have never happened when we didn't have as powerful a technologies emerging like the risks associated with synthetic biology and ai and nanotech and cyber and drones so each of these risks also acts also acts like a force multiplier for the other ones so if we look at the nature of the [[social media]] algorithms optimizing for engagement and the optimization for engagement often looks like things that scare us or upset us or drive tribal identities it's pretty easy to see that the [[social media]] algorithms drive polarization the polarized population in a democratic society ends up electing a polarized representative class causes gridlock and [534](https://www.youtube.com/watch?v=zi5-90TnI3Y&t=534.839s)
 
-[[open society|open societies]] closed societies authoritarian societies don't have that issue so you end up getting a net movement as a result of that towards autocracies being more effective music um but you can see that the [[social media]] issue is like a crisis in itself but it's also a force multiplier for all the [553](https://www.youtube.com/watch?v=zi5-90TnI3Y&t=553.68s)
+[[open society|open societies]] closed societies authoritarian societies don't have that issue so you end up getting a net movement as a result of that towards autocracies being more effective [[music]] um but you can see that the [[social media]] issue is like a crisis in itself but it's also a force multiplier for all the [553](https://www.youtube.com/watch?v=zi5-90TnI3Y&t=553.68s)
 
 other issues because we can't solve [[climate change]] of half the population disagrees with anything the other half the population wants to do or covet or anything you can look at [[climate change]] as a risk in and of itself but also as a force multiplier because as soon as you look at not just total venusification of the planet but things like extreme weather [571](https://www.youtube.com/watch?v=zi5-90TnI3Y&t=571.62s)
 
@@ -305,7 +305,7 @@ of that kind of perception starts at home and if if you don't have the habit of 
 
 but the perceiving of systemic relational complex processes in the kitchen extend to the possibility of being able to see them in other places at different you know scales in different sizes and so i think for me this is where i feel like it's not the answer i don't think it's the answer but what it is is [4156](https://www.youtube.com/watch?v=zi5-90TnI3Y&t=4156.199s)
 
-music um this question of how are we going to allow these next generations to actually perceive the world differently so they can respond differently so they can actually help make it different in ways that actually i don't know that we can even [4177](https://www.youtube.com/watch?v=zi5-90TnI3Y&t=4177.679s)
+[[music]] um this question of how are we going to allow these next generations to actually perceive the world differently so they can respond differently so they can actually help make it different in ways that actually i don't know that we can even [4177](https://www.youtube.com/watch?v=zi5-90TnI3Y&t=4177.679s)
 
 generate the ideas for because we're so deeply informed by the structures that we have been within i have a couple thoughts on that but i think he said five minutes so is this should we wrap two more thoughts okay two more thoughts so you're mentioning [4202](https://www.youtube.com/watch?v=zi5-90TnI3Y&t=4202.219s)
 
@@ -331,7 +331,7 @@ happen so he looked at the super geniuses of the past to see are there any stati
 
 newton there they were born into aristocracy where they had exceptionally good tutors not a traditional educational system and like one of the dalai lama is a great example right if you're the dalai lama the best llamas in tibet are tutoring you and not only all of buddhist wisdom and history and politics and culture about how to be a human and you're like [4439](https://www.youtube.com/watch?v=zi5-90TnI3Y&t=4439.58s)
 
-yeah i mean i think anybody could be the dalai lama if they had that tutoring but that's you can't democratize that right there's and you read meditations by marcus aurelius and marcus aurelius was kind of you know the closest thing to a philosopher king maybe the world has had and the whole first chapter he dedicates to his tutors you're like why did he do that and it's because when you're being [4461](https://www.youtube.com/watch?v=zi5-90TnI3Y&t=4461.179s)
+yeah i mean i think anybody could be the dalai lama if they had that tutoring but that's you can't democratize that right there's and you read [[meditation|meditations]] by marcus aurelius and marcus aurelius was kind of you know the closest thing to a philosopher king maybe the world has had and the whole first chapter he dedicates to his tutors you're like why did he do that and it's because when you're being [4461](https://www.youtube.com/watch?v=zi5-90TnI3Y&t=4461.179s)
 
 raised in the height of the hellenistic period to be the emperor of rome the top mathematician in all of rome is your private tutor as a kid and the top poet and the top historian in the top and you're like well and then this brings up a real interesting question there's another study i saw on world-class mathematicians and it said [4480](https://www.youtube.com/watch?v=zi5-90TnI3Y&t=4480.1s)
 
@@ -365,7 +365,7 @@ and so you know the fact that the governesses were mathematicians is really sign
 
 in everything so there's that um let's give you guys a break hang out have a conversation generate some questions our thoughts responses con you know whatever comes up and then we'll come back to this in how many minutes daniel 20 minutes okay okay 20 minutes [4795](https://www.youtube.com/watch?v=zi5-90TnI3Y&t=4795.38s)
 
-in 20 minutes 8 20. okay all right thank you okay so um you're free to share some thoughts and perspectives and okay yeah so music um maybe music do you want to say something you said something interesting in the break yeah yes um you spoke a lot about teaching and being taught between generations parents children uh and uh but uh don't you think there is a [4859](https://www.youtube.com/watch?v=zi5-90TnI3Y&t=4859.28s)
+in 20 minutes 8 20. okay all right thank you okay so um you're free to share some thoughts and perspectives and okay yeah so [[music]] um maybe [[music]] do you want to say something you said something interesting in the break yeah yes um you spoke a lot about teaching and being taught between generations parents children uh and uh but uh don't you think there is a [4859](https://www.youtube.com/watch?v=zi5-90TnI3Y&t=4859.28s)
 
 knowledge in in the newborn child how much should we teach and what should we teach and why i think the biggest opportunity to avoid catastrophe is to activate our innate capacity to distinguish knowledge from opinion and i don't think that's an intellectual thing or an academic thing i think it's i think it's something that every child [4892](https://www.youtube.com/watch?v=zi5-90TnI3Y&t=4892.58s)
 
@@ -569,7 +569,7 @@ spend a genderless time with them where you just come and interact and find out 
 
 problems with epistemologies is they it's hard to know where the edge of your epistemology is you know you get caught in the matrix and um so he was always seeking various experiences and possible relationship with those potential moments where you get a teeny peak outside the [7697](https://www.youtube.com/watch?v=zi5-90TnI3Y&t=7697.639s)
 
-epistemological box right talking to people from other cultures various kinds of of you know he worked with people with mental health issues because they were able to perceive the world differently talking to children in being in relationship with animals and other organisms trance various kinds of psychedelics and any chance he could get to be get a tiny little peek outside the [7725](https://www.youtube.com/watch?v=zi5-90TnI3Y&t=7725.54s)
+epistemological box right talking to people from other cultures various kinds of of you know he worked with people with mental health issues because they were able to perceive the world differently talking to children in being in relationship with animals and other organisms trance various kinds of [[psychedelics]] and any chance he could get to be get a tiny little peek outside the [7725](https://www.youtube.com/watch?v=zi5-90TnI3Y&t=7725.54s)
 
 way that so many ideas have formed around each other that we don't even know how we're holding them stuck together um and so as a child he would he would play i mean he was the agenda was not um the agenda was what's she gonna say what's what's what can we find here [7751](https://www.youtube.com/watch?v=zi5-90TnI3Y&t=7751.96s)
 

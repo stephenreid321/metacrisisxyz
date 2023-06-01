@@ -1,5 +1,5 @@
 ---
-tags: tech
+tags: land-based
 aliases: regenerative agricultures
 ---
 

@@ -335,7 +335,7 @@ um but this the the challenge of communicating this to the broader market and th
 
 we're spending the money and you know we're pro we're we're moving ahead i think in a very precautionary sense but with a commercial imperative because you know this this crisis is not something to think about it's here you know we we really need to be taking uh progressive steps to be dealing with it and you know we tend to be you know we are solutions oriented and we you know [4291](https://www.youtube.com/watch?v=dLrwk_fKtco&t=4291.98s)
 
-we think this is going to be one of the most important um dances certainly to the metal crisis and so yeah daniel one of the things i actually really like about this this particular situation that i find [4310](https://www.youtube.com/watch?v=dLrwk_fKtco&t=4310.82s)
+we think this is going to be one of the most important um [[dance|dances]] certainly to the metal crisis and so yeah daniel one of the things i actually really like about this this particular situation that i find [4310](https://www.youtube.com/watch?v=dLrwk_fKtco&t=4310.82s)
 
 interesting about it that almost all entrepreneurs would find infinitely frustrating as i like that it actually has to pass through a regulatory process that is looking at environmental and social and other forms of externality possibilities first because that's actually something that i propose as necessary for all industries in the world moving forward to make it to the [4330](https://www.youtube.com/watch?v=dLrwk_fKtco&t=4330.679s)
 

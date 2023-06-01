@@ -7,7 +7,7 @@ published_at: '2019-02-21'
 
 <div class="yt-container"><iframe src="https://www.youtube.com/embed/jHxTvvPZUuI"></iframe></div>
 
-music playing terry patten: hi, everybody. i'm excited to be here,
+[[music]] playing terry patten: hi, everybody. i'm excited to be here,
 particularly in the citadel, google, because i think
 the broad cultural force that intelligent,
 rational, technologically sophisticated, scientifically
@@ -428,9 +428,9 @@ higher states of consciousness. particularly, there
 are different species of those higher states that we
 can visit through entheogens [1450](https://www.youtube.com/watch?v=jHxTvvPZUuI&t=1450.8s)
 
-or psychedelics, or that
+or [[psychedelics]], or that
 we can intentionally cultivate through
-practice of meditation, a variety of approaches. that's only one part of what
+practice of [[meditation]], a variety of approaches. that's only one part of what
 evolutionaries bring in. part of what evolutionaries
 are able to see is the way that world views
 define everything we can see. so evolutionaries are

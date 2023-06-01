@@ -67,4 +67,4 @@ have a sense of ai that is separate and maybe even rival ris'n rivalrous competi
 
 emotions and triggers that hijack us from sovereignty because the moment i'm getting pissed in my [[value system]] is not be an angry person i'm actually hijacked right can i pay attention to that and actually have some sovereignty over my own interstate and how i show up in the world and can we figure out how to do that a collective as well [683](https://www.youtube.com/watch?v=aNj8UiPgqqQ&t=683.8s)
 
-you music you
+you [[music]] you

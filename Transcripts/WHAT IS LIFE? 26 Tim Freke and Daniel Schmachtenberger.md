@@ -17,7 +17,7 @@ me having conversations with people that i'm really interested in that so much o
 
 he didn't feel like it had reached the level of clarity or he was concerned about the way things had gone then i'd just keep it private um but i think we had a phenomenally interesting conversation i i loved it and at the end he was more than happy for me to share it as part of this what is life series so i'm going to do that and here it is [102](https://www.youtube.com/watch?v=ammJN0yCCbs&t=102.24s)
 
-music enjoy so um okay so we've got this chance to get to know each other um so the premise that's making me the premise that's making me do the uh this what is life thing and why it gets into all of these spiritual areas for me um i was thinking about it waiting for this [139](https://www.youtube.com/watch?v=ammJN0yCCbs&t=139.04s)
+[[music]] enjoy so um okay so we've got this chance to get to know each other um so the premise that's making me the premise that's making me do the uh this what is life thing and why it gets into all of these spiritual areas for me um i was thinking about it waiting for this [139](https://www.youtube.com/watch?v=ammJN0yCCbs&t=139.04s)
 
 to you know to meet up with you it's that it feels like on your website i read this the line you you said you're interested in civilization design i just thought such a fantastic phrase and i love that and then it seems to me that actually how we see everything eventually lies on what we think reality is and that it and that really to get to those places somehow we have to start with with that hence the kind of like what is life what is existence of coming in on that as a starting place and going okay so what you you you have thought hugely about these areas since making evolution civilization [180](https://www.youtube.com/watch?v=ammJN0yCCbs&t=180.0s)
 
@@ -45,7 +45,7 @@ kind of ism that the philosophy of science is sufficient um the idea that what i
 
 phenomena though there are some examples where it's an epiphenomena that has exerts top-down causation through quantum mechanics or something yeah um but yeah so i mean roughly we can say you have the domain of third-person stuff in the domain of first-person stuff right matter and [458](https://www.youtube.com/watch?v=ammJN0yCCbs&t=458.8s)
 
-music physics uh and then experience whatever you starting to get into words like consciousness subjectivity experience whether we think of those as synonyms are all different this is one of the reasons why i'm a little hesitant here is because i find that a lot of the wrong thinking is because is embedded all the way down to the words the seminar completely agree with you daniel i mean i couldn't agree with you more so i'm going to try and do like a very high level where i'm treating certain words as if they're symptoms where i think actually getting down to where they're not is pretty important [492](https://www.youtube.com/watch?v=ammJN0yCCbs&t=492.96s)
+[[music]] physics uh and then experience whatever you starting to get into words like consciousness subjectivity experience whether we think of those as synonyms are all different this is one of the reasons why i'm a little hesitant here is because i find that a lot of the wrong thinking is because is embedded all the way down to the words the seminar completely agree with you daniel i mean i couldn't agree with you more so i'm going to try and do like a very high level where i'm treating certain words as if they're symptoms where i think actually getting down to where they're not is pretty important [492](https://www.youtube.com/watch?v=ammJN0yCCbs&t=492.96s)
 
 yeah but if we if we just kind of take the classic philosophic dualism thing of this mind stuff and this matter stuff and you've got a kind of philosophy of science that says the matter stuff is primary and then there's correlation between the matter stuff and the mindset it seems because it seems like when people [513](https://www.youtube.com/watch?v=ammJN0yCCbs&t=513.279s)
 
@@ -157,11 +157,11 @@ have to go down this road you know we can go down any road it's just lovely to t
 
 first line um i think i think the terra du chardon line of inquiry kind of intersecting with the bohmian line of inquiry uh is interesting and good and i kind of came up through that and then i think when you start to look [1919](https://www.youtube.com/watch?v=ammJN0yCCbs&t=1919.44s)
 
-at say stuart kaufman's work music some parts get added i think the question around and i heard you uh talk about this i think in a ted talk um is consciousness or mind and [[emergent property]] of biology or life that evolved at a certain point um i think that's a very problematic idea [1950](https://www.youtube.com/watch?v=ammJN0yCCbs&t=1950.24s)
+at say stuart kaufman's work [[music]] some parts get added i think the question around and i heard you uh talk about this i think in a ted talk um is consciousness or mind and [[emergent property]] of biology or life that evolved at a certain point um i think that's a very problematic idea [1950](https://www.youtube.com/watch?v=ammJN0yCCbs&t=1950.24s)
 
 um and so what is fundamental and what's evolving are the constants constant or the laws a priori or are the laws evolving if it's all of all emerging what is the basis of emergence itself right these are is emergence fundamental there's some very deep questions in there um [1974](https://www.youtube.com/watch?v=ammJN0yCCbs&t=1974.08s)
 
-music and the nature of time there's assumptions built into the idea of evolution about the nature of time and so we have to get into that and of course to get into that we have to get into the epistemics of how would we know how would we base that proposition um so what we end up coming to is [1994](https://www.youtube.com/watch?v=ammJN0yCCbs&t=1994.159s)
+[[music]] and the nature of time there's assumptions built into the idea of evolution about the nature of time and so we have to get into that and of course to get into that we have to get into the epistemics of how would we know how would we base that proposition um so what we end up coming to is [1994](https://www.youtube.com/watch?v=ammJN0yCCbs&t=1994.159s)
 
 just a handful of really hard problems like some generally good feeling kinds of things that seem to answer some stuff and some really hard problems at the boundary conditions um the best answers i have seen towards those really hard problems in an integrated fashion so far is this eminent metaphysics that i was telling you about that um [2017](https://www.youtube.com/watch?v=ammJN0yCCbs&t=2017.36s)
 
@@ -173,7 +173,7 @@ forrest landry and i'll connect with him he should be on here but you'll you nee
 
 way we use the words and the way we compound meanings endless i think and uh so there ends up being a lot of concepts that kind of need deconstructed and then um posited and you know what is the minimum axiom set i can't derive the axioms what i can do is reify them afterwards and say did that axiom set give more [2098](https://www.youtube.com/watch?v=ammJN0yCCbs&t=2098.64s)
 
-refined power than any other axiom set um music so yeah so there's part of me that wants to dive in and go hey you know and share with you the ideas i've been exploring around time and and mind and all these things um and it's part of me that wants to [2130](https://www.youtube.com/watch?v=ammJN0yCCbs&t=2130.079s)
+refined power than any other axiom set um [[music]] so yeah so there's part of me that wants to dive in and go hey you know and share with you the ideas i've been exploring around time and and mind and all these things um and it's part of me that wants to [2130](https://www.youtube.com/watch?v=ammJN0yCCbs&t=2130.079s)
 
 to talk to you about civilization because it feels like that's something i i find what you're saying about that absolutely fascinating and i yeah um so so but in terms of the ted talk let me just say a little bit in terms of the ted talk i think what i'm because i come from a uh a kind of a phenomenological inquiry fundamentally which has all been about awakening and you know all of that so for me it's like i look at this the whole time and so what i see when i look at this is time is that one thing changes into another so and i also see that what what happens with when it changes is that every new moment [2171](https://www.youtube.com/watch?v=ammJN0yCCbs&t=2171.76s)
 
@@ -209,7 +209,7 @@ the kind of tear du chardon idea that evolution was increasing the orderly compl
 
 particular way that had [[emergent property]] and that with humans you have a the level of complexity to have abstraction as an [[emergent property]] that can then contemplate evolution and so we are the [[evolutionary process]] wake to itself and then can consciously implement it that kind of our marks hubbard [2524](https://www.youtube.com/watch?v=ammJN0yCCbs&t=2524.88s)
 
-and friends idea uh i think they're i'm not going to say that is true i will say there is truth and there is beauty in that idea music that's very different than saying sentience or consciousness is an epiphenomenon of biology or of neural networks that's very very different um [2548](https://www.youtube.com/watch?v=ammJN0yCCbs&t=2548.839s)
+and friends idea uh i think they're i'm not going to say that is true i will say there is truth and there is beauty in that idea [[music]] that's very different than saying sentience or consciousness is an epiphenomenon of biology or of neural networks that's very very different um [2548](https://www.youtube.com/watch?v=ammJN0yCCbs&t=2548.839s)
 
 like and you at one point i think called it soul is is soul or psyche and this is where we need to define our words um the idea of i would maybe define kind of weak strong and radical emergence as three different types of ideas we talk about emergence weak emergence is where things come together where you get more of an [2577](https://www.youtube.com/watch?v=ammJN0yCCbs&t=2577.44s)
 
@@ -267,7 +267,7 @@ actually comes before the omniscient mode one of the axioms is that a whole clas
 
 a whole class of the omniscient precedes an instance of the transcendent i can't perceive perception itself unless i can notice what is common across lots of perceptions fantastic and then the closure is that a class of the transcendent precedes a single instance of the eminent and this is a little bit harder [3362](https://www.youtube.com/watch?v=ammJN0yCCbs&t=3362.319s)
 
-but um music choice happens as an eminent mode music in an actual choice to do a particular thing happens but the choice is a selection process out of a plurality of potentials the plurality of the potentials existing in the transcendent [3383](https://www.youtube.com/watch?v=ammJN0yCCbs&t=3383.2s)
+but um [[music]] choice happens as an eminent mode [[music]] in an actual choice to do a particular thing happens but the choice is a selection process out of a plurality of potentials the plurality of the potentials existing in the transcendent [3383](https://www.youtube.com/watch?v=ammJN0yCCbs&t=3383.2s)
 
 then moves into action in the eminent um so or i can also say uh a whole series of models are involved in my in the actual neurological processing of any particular eminent mode experience that's occurring so uh yes i'm not just perceiving through the models but my perception is being colored by the models all the time [3411](https://www.youtube.com/watch?v=ammJN0yCCbs&t=3411.44s)
 
@@ -281,7 +281,7 @@ elegant yeah i think um so for if if we define a metaphysics as something that w
 
 define its own axioms and if it's consistent it won't be complete right so then the metaphysics is what is the basis by which we are assessing the adequacy of one phys one set of axioms over another relative to the [[base reality]] there's something that isn't within that set of physics that's giving us the ability to assess the effectiveness of the [3536](https://www.youtube.com/watch?v=ammJN0yCCbs&t=3536.48s)
 
-physics right this is what you were pointing to earlier yeah yeah yeah okay and so um so um while a physics is grounded in the metaphysics in western system that'll be things like formal logic and mathematics and positivism and stuff like that um music a metaphysics can't be grounded in something outside of itself to be a metaphysics if it's supposed to have a kind of closure so it needs to explain reality explain itself and explain the process by which it explained the other two so that no concepts are imported into the explanation process [3576](https://www.youtube.com/watch?v=ammJN0yCCbs&t=3576.88s)
+physics right this is what you were pointing to earlier yeah yeah yeah okay and so um so um while a physics is grounded in the metaphysics in western system that'll be things like formal logic and mathematics and positivism and stuff like that um [[music]] a metaphysics can't be grounded in something outside of itself to be a metaphysics if it's supposed to have a kind of closure so it needs to explain reality explain itself and explain the process by which it explained the other two so that no concepts are imported into the explanation process [3576](https://www.youtube.com/watch?v=ammJN0yCCbs&t=3576.88s)
 
 yeah and that's you get a closure on a metaphysical system so the way that derivation happens there is really quite elegant yeah wow fantastic so i'm i'm i it's been such a delight daniel to connect with you i'm just aware that it's the middle of the night for you um but i i did i get the impression [3596](https://www.youtube.com/watch?v=ammJN0yCCbs&t=3596.48s)
 
