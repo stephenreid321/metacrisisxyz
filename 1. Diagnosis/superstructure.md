@@ -1,5 +1,5 @@
 ---
-tags: response
+tags: diagnosis
 aliases: superstructures
 ---
 
