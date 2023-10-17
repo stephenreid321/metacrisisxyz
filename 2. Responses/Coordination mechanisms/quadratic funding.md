@@ -9,3 +9,4 @@ Quadratic funding is a funding model that encourages the proportional distributi
 > [[exponential growth]], [[financial system]], [[quadratic voting]], [[retroactive public goods funding]], [[zero knowledge]]
 
 > [!info] Podcasts mentioning this term most frequently
+> * [[Who is Moloch and What is the MetaCrisis?]] (1)

@@ -9,6 +9,6 @@ A catastrophe weapon is a tool for force concentration and deployment that, unde
 > [[nuclear weapon]], [[bioweapon]], [[mutually assured destruction]], [[arms race]], [[catastrophic risk]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * [[Daniel Schmachtenberger: Steering Civilization Away from Self-Destruction – Lex Fridman Podcast 191]] (7)
 > * [[Will human civilization destroy itself? – Daniel Schmachtenberger and Lex Fridman]] (7)
-> * [[SURVIVING the God-Like Technology That Can Kill Us All – Daniel Schmachtenberger on AMP]] (6)
+> * [[Daniel Schmachtenberger: Steering Civilization Away from Self-Destruction – Lex Fridman Podcast 191]] (7)
+> * [[The Metacrisis: Making Sense in a Nonsensical World with Daniel Schmachtenberger & Thomas Ermacora]] (6)

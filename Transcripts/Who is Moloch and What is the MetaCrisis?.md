@@ -1,0 +1,74 @@
+---
+tags: transcript
+aliases:
+youtube_id: NOie4GCI40I
+published_at: '2023-08-29T02:59:12-07:00'
+---
+
+<div class="yt-container"><iframe src="https://www.youtube.com/embed/NOie4GCI40I"></iframe></div>
+
+who is moloch and what is the [[metacrisis]] for further research the ideas in this essay were inspired by daniel schmachtenberger's discussions covering the [[metacrisis]] nate hagan's work on the [[superorganism]] scott alexander and his essay [[meditation|meditations]] on moloch alan ginsberg's poem howl kevin owaki's molok education moloch was a mythical and terrifying pagan god who was worshiped by various [27](https://www.youtube.com/watch?v=NOie4GCI40I&t=27.779s)
+
+ancient civilizations according to biblical records to achieve fertility prosperity and protection people offered sacrifices to moloch in the form of burning children alive very grim stuff over time however mallox has come to represent more than a biblical character poets writers and philosophers have used moloch as a symbol to represent the invisible repercussions of the unchecked [51](https://www.youtube.com/watch?v=NOie4GCI40I&t=51.059s)
+
+pursuit of growth we'll unpack this symbolic use of moloch throughout the essay fast forward from medieval times to the 60s one of the most vibrant and influential figures of the counterculture alan ginsburg resurfaced the moloch symbol with his poem howell and more recently writer scott alexander expanded on ginsburg's poem explaining in more detail the traps that society [73](https://www.youtube.com/watch?v=NOie4GCI40I&t=73.439s)
+
+falls into when competition and growth undermine our ability to cooperate and coordinate in his essay [[meditation|meditations]] on moloch most of us prefer to ignore the fact that the human species is currently on crash course with self-termination think about this statement for a second ever considered how it's possible that in the age of self-driving cars and [95](https://www.youtube.com/watch?v=NOie4GCI40I&t=95.159s)
+
+neural implants we still haven't managed to achieve global peace remove the threat of nuclear destruction or reduce a growing loneliness epidemic moloch this essay explores the current state of the world the [[superorganism]] and the [[metacrisis]] why we're lacking the ability to course correct moloch and what we need to do next [115](https://www.youtube.com/watch?v=NOie4GCI40I&t=115.02s)
+
+humans are very very different a good place to begin is an understanding of just how different modern humans are from every other species on earth orcas have been evolving for tens of millions of years they are smarter stronger faster they've even developed the ability to coordinate and hunt in pods they are an [[apex predator]] no other species in their oceanic environment challenges them with one exception of course modern humans we can send vast fleets of trawling ships dragging huge nets across the sea floor extracting all marine wildlife including [[apex predator|apex predators]] and their prey without even getting wet it appears to us as though other species [156](https://www.youtube.com/watch?v=NOie4GCI40I&t=156.599s)
+
+are evolving slowly in comparison orcas chimpanzees and even termites are doing things in roughly the same way they did things 10 000 years ago they are evolving through natural selection in a symbiotic relationship with the rest of nature we humans on the other hand are evolving at warp speed without constraint nature implements checks and balances to [176](https://www.youtube.com/watch?v=NOie4GCI40I&t=176.76s)
+
+ensure a single species doesn't become too destructive or overpowering for whatever reason we've broken free from the checks and balances of the natural world how did we become so different the [[superorganism]] the story of how modern humans separated from the rest of the natural world is complex but the tldr is we got really [198](https://www.youtube.com/watch?v=NOie4GCI40I&t=198.18s)
+
+good at modifying our external environment and using tools and technologies to achieve specific or narrow goals narrow goal achievement is simply the ability humans have developed to plan ahead model modify our external environment and use tools to achieve very specific outcomes other species have the ability to do this but humans have become really [220](https://www.youtube.com/watch?v=NOie4GCI40I&t=220.2s)
+
+good at it narrow goal achievement has enabled many incredible things moon landings and the world wide web heart transplants and penicillin but narrow goal achievement is narrow because it fails to consider the negative side effects narrow goal achievement is a hell of a drug it destroys any who stand in its path it feels great on the way up and horrendous [241](https://www.youtube.com/watch?v=NOie4GCI40I&t=241.319s)
+
+on the way down nuclear warfare genocide [[climate change]] genetically engineered global pandemics these are all associated negative effects of the pursuit of narrow goals for almost the entire story of the human species hundreds of thousands of years we existed in a relatively slow evolution with the rest of the natural world in small tribes [262](https://www.youtube.com/watch?v=NOie4GCI40I&t=262.62s)
+
+in the last fraction of human existence we've commenced evolution warp speed we've developed a unique capacity to model things to innovate to create tools and technologies and figured out how to achieve very narrow goals to make this clear let's take the invention of the plow as a crude example a key development that contributed to the agricultural revolution it facilitated [285](https://www.youtube.com/watch?v=NOie4GCI40I&t=285.66s)
+
+the cultivation of crops on a larger scale enabling more efficient food production and the development of larger more permanent populations but plows required the domestication of animals castration and whips not so great for the buffalo and also not so great for those humans who refused to participate many cultures would hunt buffalo and take what they needed but [307](https://www.youtube.com/watch?v=NOie4GCI40I&t=307.979s)
+
+the thought of whipping castrating and attaching a plow was unimaginable by not adopting new technology and pursuing narrow goals these outlier cultures inevitably end up losing in most cases they were conquered and domesticated by those groups who did pursue narrow goals with this knowledge does it seem likely that any modern nation will choose to stop or slow the [329](https://www.youtube.com/watch?v=NOie4GCI40I&t=329.94s)
+
+development of nuclear or ai technologies it makes absolute sense for the entire world to agree to abolish [[nuclear weapon|nuclear weapons]] but we can't agree because one nation feels that if they stop they will relinquish their power to another who won't and if history has anything to teach us it's that failing to adopt new technology which enables narrow goal achievement does not end [351](https://www.youtube.com/watch?v=NOie4GCI40I&t=351.479s)
+
+well this kind of thing has been referred to as a [[multipolar trap]] or tragedy of the commons individual entities act in their own self-interest against the common good of the collective and ruin things for everyone the modern human species has evolved into a globally interconnected super species lacking the ability to cooperate collectively we've created an [372](https://www.youtube.com/watch?v=NOie4GCI40I&t=372.6s)
+
+invisible [[superorganism]] which extracts relentlessly in the pursuit of narrow goals we live in a fabricated and fragmented reality straying further from [[base reality]] in the natural world each day the [[metacrisis]] the result of relentlessly pursuing narrow goals is the meter crisis we now face the [[metacrisis]] is the totality of risks that we face as a species and planet it refers to the interconnected and complex problems that are systemic in nature and can no longer be solved by themselves [[climate change]] [[biodiversity loss]] nuclear war economic collapse mental health these things all in isolation present [[existential risk]] but the more concerning realization is that fixing one of them [420](https://www.youtube.com/watch?v=NOie4GCI40I&t=420.12s)
+
+without deep consideration could likely lead to the increase of others and ultimately destruction of the human species we can create more efficient systems of food production to increase access to cheap food for a wider population but as a result destroy the soil and biodiversity of regions how does ai fit into the picture [441](https://www.youtube.com/watch?v=NOie4GCI40I&t=441.84s)
+
+not all that long ago the idea of a computer beating a human at chess was ludicrous then ibm's deep blue defeated world chess champion gary kasparov deep blue used machine learning to analyze millions of past games and improve its strategy today google's alpha zero is the most advanced chess player on the planet it taught itself chess by playing millions of games [467](https://www.youtube.com/watch?v=NOie4GCI40I&t=467.099s)
+
+against itself after just four hours of self-play it surpassed all traditional chess engines in just four hours it became so much more advanced than humans that it's impossible to calculate like many other new technologies ai sits on a spectrum of possible outcomes at one end we cure disease increased life expectancy remove the shitty jobs nobody wants to do but [489](https://www.youtube.com/watch?v=NOie4GCI40I&t=489.18s)
+
+at the other end we compound all the risks of the [[metacrisis]] in a tiny fraction of human existence we've pursued narrow goals and evolved into a [[superorganism]] extracting conquering and destroying countless cultures species and biodiversities we've become so radically different from all other species and [[base reality]] that we now face self-extinction [510](https://www.youtube.com/watch?v=NOie4GCI40I&t=510.78s)
+
+do we think it's smart to create something we don't understand that can become incalculably good at achieving narrow goals in four hours considering we still haven't managed to effectively decision make for the collective good there's no reason to think any self-interested actor won't use ai to continue to pursue narrow goals until we accidentally or intentionally nuke or [530](https://www.youtube.com/watch?v=NOie4GCI40I&t=530.76s)
+
+bioinfect ourselves it's an [[arms race]] moloch is [[coordination failure]] back to our friend moloch we know that humans do up things in pursuit of narrow goals not because humans are inherently evil but because the pursuit of narrow goals is a drug imagine a neighborhood with 10 exotic dragon fruit farms each farmer makes 100 a month selling dragon fruits at the local [557](https://www.youtube.com/watch?v=NOie4GCI40I&t=557.76s)
+
+market the lands flourish while everyone is spending ten dollars a month on organic bug spray one farmer bob decides to stop using the spray saving himself ten dollars he has now increased profits to 109 while everyone else's earnings drop to 90 due to increased bugs required payment for additional spray and loss of produce seeing bob's profit others think it and they stop using [581](https://www.youtube.com/watch?v=NOie4GCI40I&t=581.459s)
+
+the spray too the bug issue worsens and all the dragon fruit farmers including bob lose half their dragon fruit produce and profits this scenario exists everywhere it is the pursuit of profit and growth ultimately resulting in a [[race to the bottom]] and self-destruction how do we slay moloch and reverse the [[metacrisis]] human intelligence unbound by wisdom is [605](https://www.youtube.com/watch?v=NOie4GCI40I&t=605.64s)
+
+the cause of the [[superorganism]] and the [[metacrisis]] the human species has become incredibly good at coordinating intelligently to achieve narrow goals but this has come at the expense of creating the [[metacrisis]] moloch represents our inability to coordinate against this force the pursuit of profit and growth slaying moloch requires intelligence bound by wisdom not [628](https://www.youtube.com/watch?v=NOie4GCI40I&t=628.74s)
+
+intelligence alone our inability to apply wisdom to intelligence at collective scale to address and reverse the [[metacrisis]] is moloch we need collective agreements technologies and projects which incentivize and enforce the setting and achievement of good goals which carefully consider the knock-on effects of pursuing and achieving them [649](https://www.youtube.com/watch?v=NOie4GCI40I&t=649.079s)
+
+but what does that actually look like in practice good goals consider the totality of their effects good goals ensure the good things outweigh the negatives for the collective over the long run our world and the [[superorganism]] is powered by goals of narrow growth profit gdp and extraction the big myth is that improving productivity and becoming more [671](https://www.youtube.com/watch?v=NOie4GCI40I&t=671.519s)
+
+intelligent will fix things a prime example of this is the javon's paradox humans improve their energy use by about 1.1 percent each year coal plants use less coal we invent and improve on solar panels and wind farms our washing machines and appliances get more energy efficient you would think this would improve our environmental footprint right but it doesn't what actually [693](https://www.youtube.com/watch?v=NOie4GCI40I&t=693.839s)
+
+happens is the reduction gets spent elsewhere on more energy consumption since 1990 we have had a 30 increase in energy efficiency but a 60 increase in energy use so as long as growth is the goal and gdp for profit we're destroying the planet and ourselves we pursue economic prosperity [[national security]] political stability and environmental sustainability in siled fashion as [719](https://www.youtube.com/watch?v=NOie4GCI40I&t=719.88s)
+
+narrow goals without considering the more complex repercussions we need a dramatic shift in our basic understanding of the universe from fragmented singular egocentric view to a more holistic understanding that we are all in this together and we need them quickly if we look at the [[multipolar trap|multipolar traps]] and the competition dynamics if we look at who has the resources to build [742](https://www.youtube.com/watch?v=NOie4GCI40I&t=742.14s)
+
+things at scale if we look at the speed of those curves it doesn't look good to be honest it doesn't look good if we do not get the restraint wisdom to stop the race then yes these will be the last chapters of humanity daniel schmuchtenberger this is the ultimate potential of new developments in [[blockchain]] and cryptography [763](https://www.youtube.com/watch?v=NOie4GCI40I&t=763.32s)
+
+decentralized [[social media]] [[zero knowledge]] [[quadratic funding]] intent based and privacy preserving peer-to-peer interactions we need to move beyond financial speculation and make the world vividly aware of the technologies which can slay moloch and help us address the [[metacrisis]]

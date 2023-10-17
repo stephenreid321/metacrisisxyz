@@ -17,16 +17,18 @@ Find transcripts of relevant podcasts including timestamped links under `Transcr
 
 ## Most recent podcasts
 
+  * [[What's Important?  Conversation at NAV]] 2023-09-27
+  * [[Daniel Schmachtenberger l An introduction to the Metacrisis l Stockholm Impact Week 2023]] 2023-09-20
+  * [[A World in Meta Crisis: Sarah Wu and Daniel Schmachtenberger (Envision Festival)]] 2023-09-08
+  * [[Who is Moloch and What is the MetaCrisis?]] 2023-08-29
+  * [[DANIEL SCHMACHTENBERGER   FULL – GITA MASTER SERIES]] 2023-07-07
+  * [[Daniel Schmachtenberger: the urgency of planetary and social change to heal the mental health crisis]] 2023-07-04
+  * [[The Metacrisis: Making Sense in a Nonsensical World with Daniel Schmachtenberger & Thomas Ermacora]] 2023-06-23
+  * [[Daniel Schmachtenberger on AI Accelerating the Metacrisis]] 2023-05-28
   * [[Daniel Schmachtenberger: "Artificial Intelligence and The Superorganism" – The Great Simplification]] 2023-05-17
   * [[Daniel Schmachtenberger: Ai Wars & The Metacrisis]] 2023-05-16
   * [[DO 140  - Gregory Landua and Daniel Schmachtenberger]] 2023-05-12
-  * [[Daniel Schmachtenberger – Developing a Deeper Understanding of Life]] 2023-04-20
-  * [[Misalignment, AI & Moloch – Daniel Schmachtenberger and Liv Boeree]] 2023-03-30
-  * [[Podcast: Why we can still avoid imminent extinction with Daniel Schmachtenberger]] 2023-03-15
-  * [[Transforming Education to Prevent Catastrophe – Zak Stein, ep92]] 2023-03-08
-  * [[Deep Ocean Mining and De-Carbonization (M. Bozesan: D. Schmachtenberger, G. Barron, A. Smitsman)]] 2023-02-11
-  * [[Summary of the 'Third Attractor Framework' by Daniel Schmachtenberger]] 2023-02-06
-  * [[MetacrisisDAO with Daniel Schmachtenberger – Green Pill 84]] 2023-01-31
+
 
 ## Daniel's appearances on the GreenPill podcast
 

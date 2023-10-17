@@ -11,4 +11,4 @@ An exponential curve is a mathematical curve defined by a function where the ind
 > [!info] Podcasts mentioning this term most frequently
 > * [[Daniel Schmachtenberger: Ai Wars & The Metacrisis]] (13)
 > * [[Daniel Schmachtenberger: Steering Civilization Away from Self-Destruction – Lex Fridman Podcast 191]] (7)
-> * [[How To STEER Civilization Away From CATASTROPHE with Daniel Schmachtenberger – Aubrey Marcus Podcast]] (4)
+> * [[Covid 19 Situational Assessment, Risk Landscape & Possible Solutions, Daniel Schmachtenberger]] (4)

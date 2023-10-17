@@ -11,4 +11,4 @@ Subjective experience is the experience of conscious thought and feeling that is
 > [!info] Podcasts mentioning this term most frequently
 > * [[A Systemic Approach to Heart Based Medicine with Daniel Schmachtenberger]] (10)
 > * [[Ep10 - Optimizing the Mind with Daniel Schmachtenberger of Neurohacker Collective]] (4)
-> * [[Markets, Exponential Technology & Transitionary Systems - Daniel Schmachtenberger]] (3)
+> * [[EXPONENTIAL TECHNOLOGY, TRANSITIONARY SYSTEMS, AND GAME B WITH DANIEL SCHMACHTENBERGER]] (3)

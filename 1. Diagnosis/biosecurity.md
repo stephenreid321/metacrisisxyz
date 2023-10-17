@@ -11,4 +11,4 @@ Biosecurity refers to the measures taken to prevent unintentional or intentional
 > [!info] Podcasts mentioning this term most frequently
 > * [[Daniel Schmachtenberger: "Bend Not Break Part 5" – The Great Simplification 50]] (2)
 > * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 1)]] (1)
-> * [[51 Daniel Schmachtenberger: Meta Existential Risk]] (1)
+> * [[The Metacrisis: Making Sense in a Nonsensical World with Daniel Schmachtenberger & Thomas Ermacora]] (1)

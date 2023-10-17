@@ -10,5 +10,5 @@ Biodiversity loss is the process of reducing biodiversity due to human activitie
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[The Metacrisis with Daniel Schmachtenberger – Part 1 – Green Pill 26]] (4)
-> * [[Utopia or Bust Designing a Non Self Terminating Civilization   Daniel Schmachtenberger - on Emerge.]] (3)
 > * [[EP7 Daniel Schmachtenberger and the Evolution of Technology]] (3)
+> * [[Utopia or Bust Designing a Non Self Terminating Civilization   Daniel Schmachtenberger - on Emerge.]] (3)

@@ -9,6 +9,6 @@ Hypernormal stimuli is an evolutionary concept that proposes that certain patter
 > [[confirmation bias]], [[exponential growth]], [[reward circuit]], [[subjective experience]]
 
 > [!info] Podcasts mentioning this term most frequently
+> * [[Daniel Schmachtenberger: the urgency of planetary and social change to heal the mental health crisis]] (13)
 > * [[Advancing Collective Intelligence – Daniel Schmachtenberger & Phoebe Tickell, Consilience Project]] (11)
 > * [[EP80 Daniel Schmachtenberger on Better Sensemaking]] (8)
-> * [[Supercharge Your Mind With Neurohacker Collective, Feat. Daniel Schmachtenberger  118]] (8)

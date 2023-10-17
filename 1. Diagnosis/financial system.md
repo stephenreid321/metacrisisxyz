@@ -10,5 +10,5 @@ The Financial System can be defined as the complex system of entities, markets, 
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[Homegrown Humans - Daniel Schmachtenberger - Collective Intelligence - 10-11-22]] (9)
+> * [[The Metacrisis: Making Sense in a Nonsensical World with Daniel Schmachtenberger & Thomas Ermacora]] (7)
 > * [[Daniel Schmachtenberger: "Modeling the Drivers of the Metacrisis” – The Great Simplification 42]] (7)
-> * [[DO 140  - Gregory Landua and Daniel Schmachtenberger]] (7)

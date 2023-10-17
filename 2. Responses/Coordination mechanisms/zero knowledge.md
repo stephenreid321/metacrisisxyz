@@ -11,3 +11,4 @@ Zero Knowledge is a cryptographic protocol that allows two parties to prove to o
 > [!info] Podcasts mentioning this term most frequently
 > * [[Tristan Harris and Daniel Schmachtenberger deep-dive into social media's effects on civilization]] (1)
 > * [[The Metacrisis with Daniel Schmachtenberger – Part 1 – Green Pill 26]] (1)
+> * [[Who is Moloch and What is the MetaCrisis?]] (1)

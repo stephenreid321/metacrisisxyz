@@ -10,5 +10,5 @@ Evolutionary Environment is a concept referring to the context in which adaptati
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[Daniel Schmachtenberger — Upgrade Your Life Through Empowered Responsibility (10)]] (10)
+> * [[Daniel Schmachtenberger: the urgency of planetary and social change to heal the mental health crisis]] (7)
 > * [[Supercharge Your Mind With Neurohacker Collective, Feat. Daniel Schmachtenberger  118]] (7)
-> * [[Saving Civilization: Healthcare, Tech, Democracy (w Daniel Schmachtenberger)]] (4)

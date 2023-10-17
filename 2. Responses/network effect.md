@@ -9,3 +9,5 @@ The Network Effect is a phenomenon in which the value of a particular product or
 > [[network dynamics]], [[exponential growth]], [[social network]], [[game theory]]
 
 > [!info] Podcasts mentioning this term most frequently
+> * [[Daniel Schmachtenberger: Ai Wars & The Metacrisis]] (1)
+> * [[Daniel Schmachtenberger: "Modeling the Drivers of the Metacrisis” – The Great Simplification 42]] (1)

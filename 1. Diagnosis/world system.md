@@ -9,6 +9,6 @@ The term “world system” describes a complex network of complex interconnecte
 > [[global governance]], [[network theory]], [[decision making]], [[financial system]], [[complex system]]
 
 > [!info] Podcasts mentioning this term most frequently
+> * [[The Metacrisis: Making Sense in a Nonsensical World with Daniel Schmachtenberger & Thomas Ermacora]] (11)
 > * [[Daniel Schmachtenberger –– Towards a Radical Cultural Enlightenment]] (6)
 > * [["Learning to be in the world" Dinner&Talk @NAV with Nora Bateson & Daniel Schmachtenberger  HD1080p]] (6)
-> * [[Daniel Schmachtenberger: "Modeling the Drivers of the Metacrisis” – The Great Simplification 42]] (5)

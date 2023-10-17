@@ -9,6 +9,6 @@ Metacrisis is a term often used to describe a complex problem or situation that 
 > [[network theory]], [[nonlinear dynamics]], [[collective intelligence]], [[emergent order]], [[complex system]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * [[The Metacrisis with Daniel Schmachtenberger – Part 1 – Green Pill 26]] (41)
 > * [[MetacrisisDAO with Daniel Schmachtenberger – Green Pill 84]] (41)
+> * [[The Metacrisis with Daniel Schmachtenberger – Part 1 – Green Pill 26]] (41)
 > * [[Superstructures with Daniel Schmachtenberger – Green Pill 32]] (28)

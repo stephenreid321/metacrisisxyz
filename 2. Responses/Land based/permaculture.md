@@ -9,6 +9,6 @@ Permaculture is a design methodology rooted in ecological principles and an etho
 > [[regenerative agriculture]], [[systems thinking]], [[complex system]], [[social structure]], [[climate change]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * [[Daniel Schmachtenberger — Upgrade Your Life Through Empowered Responsibility (10)]] (2)
+> * [[A World in Meta Crisis: Sarah Wu and Daniel Schmachtenberger (Envision Festival)]] (3)
 > * [[SURVIVING the God-Like Technology That Can Kill Us All – Daniel Schmachtenberger on AMP]] (2)
-> * [[Perspectives - Daniel Schmachtenberger, Fedor Holz]] (1)
+> * [[Daniel Schmachtenberger — Upgrade Your Life Through Empowered Responsibility (10)]] (2)

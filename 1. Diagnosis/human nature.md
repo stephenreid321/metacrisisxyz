@@ -9,6 +9,6 @@ Human Nature is a set of universal characteristics that are common among all hum
 > [[collective intelligence]], [[social tech]], [[thought experiment]], [[value system]], [[complex system]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * [[The Metacrisis with Daniel Schmachtenberger – Part 1 – Green Pill 26]] (12)
 > * [[Daniel Schmachtenberger - Building Better Sensemaking – Modern Wisdom Podcast 348]] (12)
+> * [[The Metacrisis with Daniel Schmachtenberger – Part 1 – Green Pill 26]] (12)
 > * [[46: Daniel Schmachtenberger - Winning Humanity's Existential Game]] (9)

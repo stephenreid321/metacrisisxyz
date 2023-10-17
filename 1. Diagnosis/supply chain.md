@@ -9,6 +9,6 @@ Supply chain is the interconnected system of activities, processes, and organisa
 > [[food supply]], [[materials economy]], [[financial system]], [[critical infrastructure]], [[national security]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * [[Daniel Schmachtenberger: "Modeling the Drivers of the Metacrisis” – The Great Simplification 42]] (12)
 > * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 1)]] (12)
+> * [[Daniel Schmachtenberger: "Modeling the Drivers of the Metacrisis” – The Great Simplification 42]] (12)
 > * [[Perspectives - Daniel Schmachtenberger, Fedor Holz]] (11)

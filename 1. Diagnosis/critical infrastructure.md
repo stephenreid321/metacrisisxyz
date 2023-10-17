@@ -11,3 +11,4 @@ Critical infrastructure refers to physical or virtual assets that are critical f
 > [!info] Podcasts mentioning this term most frequently
 > * [[Covid 19 Situational Assessment, Risk Landscape & Possible Solutions, Daniel Schmachtenberger]] (2)
 > * [[rp daily: a conversation that will blow your mind with Daniel Schmachtenberger]] (1)
+> * [[The Metacrisis: Making Sense in a Nonsensical World with Daniel Schmachtenberger & Thomas Ermacora]] (1)

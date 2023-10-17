@@ -11,4 +11,4 @@ Meditation is a practice of sustained, mindful awareness of the present moment t
 > [!info] Podcasts mentioning this term most frequently
 > * [[The Metacrisis with Daniel Schmachtenberger – Part 1 – Green Pill 26]] (9)
 > * [[NOOTROPICS – EMOTIONAL RESILIENCE – OUTSMART THE MODERN WORLD w  Daniel Schmachtenberger – QUALIA]] (7)
-> * [[SURVIVING the God-Like Technology That Can Kill Us All – Daniel Schmachtenberger on AMP]] (4)
+> * [[Saving Civilization: Healthcare, Tech, Democracy (w Daniel Schmachtenberger)]] (4)

@@ -10,5 +10,5 @@ Species extinction is the complete and irreversible loss of an organism species 
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[Daniel Schmachtenberger: Ai Wars & The Metacrisis]] (5)
-> * [[Norrsken Sessions l Daniel Schmachtenberger]] (3)
-> * [[EXPONENTIAL TECHNOLOGY, TRANSITIONARY SYSTEMS, AND GAME B WITH DANIEL SCHMACHTENBERGER]] (3)
+> * [[The Metacrisis: Making Sense in a Nonsensical World with Daniel Schmachtenberger & Thomas Ermacora]] (4)
+> * [[Markets, Exponential Technology & Transitionary Systems - Daniel Schmachtenberger]] (3)

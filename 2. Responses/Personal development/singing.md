@@ -10,3 +10,4 @@ Singing is the art of producing sounds with the human voice, ranging from speech
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[Making Sense of Sensemaking: Daniel Schmachtenberger, Jamie Wheal, Jordan Hall]] (1)
+> * [[A History of Racial Conflict Part 2 w  Daniel Schmacthenberger and Gilbert Morris]] (1)

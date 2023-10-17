@@ -11,4 +11,4 @@ The nervous system can be defined as a complex network of specialized cells, tis
 > [!info] Podcasts mentioning this term most frequently
 > * [[Daniel Schmachtenberger - Neurohacking For Optimal Brain Function]] (15)
 > * [[Nootropics, Nuerohacking and Nutrition ft. Daniel Schmachtenberger - Ep.96]] (5)
-> * [[Ep10 - Optimizing the Mind with Daniel Schmachtenberger of Neurohacker Collective]] (4)
+> * [[Daniel Schmachtenberger — Upgrade Your Life Through Empowered Responsibility (10)]] (4)

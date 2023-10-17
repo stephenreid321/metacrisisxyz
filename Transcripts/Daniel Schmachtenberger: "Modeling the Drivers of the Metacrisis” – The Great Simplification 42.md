@@ -146,7 +146,7 @@ world," then if someone else doesn't do that [789](https://www.youtube.com/watch
 
 and they just say, "oh, the risks aren't that
 bad, the opportunities are awesome," they race ahead, they get first mover advantage
-in the market and they will end up getting the network effects of whatever kind of metcalfe
+in the market and they will end up getting the [[network effect|network effects]] of whatever kind of metcalfe
 law benefits happen. and so they just win economically, and they
 won't financially responsible for the harms that it causes protected by limited liability
 corporation type laws and things like that. so the corporations will get to privatize

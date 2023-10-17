@@ -9,6 +9,6 @@ A closed loop is a system of processes where the output of one process becomes t
 > [[decision making]], [[game theory]], [[exponential growth]], [[supply chain]]
 
 > [!info] Podcasts mentioning this term most frequently
+> * [[DANIEL SCHMACHTENBERGER   FULL – GITA MASTER SERIES]] (10)
 > * [[DO 140  - Gregory Landua and Daniel Schmachtenberger]] (7)
 > * [[Deep Ocean Mining and De-Carbonization (M. Bozesan: D. Schmachtenberger, G. Barron, A. Smitsman)]] (3)
-> * [[Parallax: Deep Future - with Daniel Schmachtenberger and Alexander Bard]] (3)

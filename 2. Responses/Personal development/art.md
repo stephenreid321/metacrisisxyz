@@ -10,5 +10,5 @@ Art is the process of cultivating a deep understanding of the essence of conscio
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[Game B Dialogos w  Jim Rutt, Jordan Hall, Tyson Yunkaporta, and Daniel Schmachtenberger]] (75)
-> * [[A History of Racial Conflict w  Daniel Schmachtenberger and Gilbert Morris]] (5)
 > * [[Advancing Collective Intelligence – Daniel Schmachtenberger & Phoebe Tickell, Consilience Project]] (5)
+> * [[Daniel Schmachtenberger – Developing a Deeper Understanding of Life]] (5)

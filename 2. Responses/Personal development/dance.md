@@ -10,5 +10,5 @@ Dance is the art of movement and expression, which combines physical coordinatio
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[Mimetic Theory of Desire – Daniel Schmachtenberger and Lex Fridman]] (4)
-> * [[Covid 19 Situational Update 2, Daniel Schmachtenberger]] (3)
 > * [[Daniel Schmachtenberger – Developing a Deeper Understanding of Life]] (3)
+> * [[The Last Campfire: Highlights (our final film!)]] (3)

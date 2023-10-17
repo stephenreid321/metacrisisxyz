@@ -10,5 +10,5 @@ Problem Space is a term coined by Herbert Simon to represent the set of all poss
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[Norrsken Sessions l Daniel Schmachtenberger]] (5)
-> * [[Daniel Schmachtenberger – Are We Currently Fighting World War III? (71)]] (4)
-> * [[MetacrisisDAO with Daniel Schmachtenberger – Green Pill 84]] (4)
+> * [[Daniel Schmachtenberger Interview - One Earth Live]] (4)
+> * [[BN 15 – Daniel Schmachtenberger: A Fatal Blow to an Already Dead System]] (4)

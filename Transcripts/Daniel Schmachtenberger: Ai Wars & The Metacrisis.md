@@ -859,7 +859,7 @@ quite a lot to indicate a [[coordination failure]] of this type where each agent
 own near-term rational interest creates a situation that moves the entire global situation
 long-term to a suboptimal equilibrium for everybody. and there's a lot of work in various fields
 of social science on social traps. the first time i'm aware of the term multipolar
-trap entering the conversation was in the great article called meditations on moloch
+trap entering the conversation was in the great article called [[meditation|meditations]] on moloch
 by scott alexander where he – i believe he's the one who coined the term multipolar
 trap there, and it's pretty close to a social [4070](https://www.youtube.com/watch?v=g7WtcTATa2U&t=4070.839s)
 
@@ -1479,7 +1479,7 @@ and having some empathy engendered for it, even though it didn't protect tibet, 
 actually disseminate buddhist ideals to the [6976](https://www.youtube.com/watch?v=g7WtcTATa2U&t=6976.29s)
 
 whole world radically faster? there's a similar conversation as so many
-people become interested in ayahuasca and plant medicines from indigenous cultures that
+people become interested in ayahuasca and [[plant medicine|plant medicines]] from indigenous cultures that
 the economic pressure of that is making what is remnant of those cultures get turned into
 tourism and ayahuasca production or shipibo production or whatever it is. that on one hand it actually looks like a
 destructive act on those cultures. and the other way it's – are the memetics
@@ -1535,7 +1535,7 @@ that have the potential to do some catastrophic things like nuclear, it's very e
 that [[nuclear weapon|nuclear weapons]] don't make better bio weapons. they don't make better cyber weapons. they don't even make better [[nuclear weapon|nuclear weapons]]
 directly. and the same is true for biotechnology. it doesn't automatically make those other
 things. ai is pretty unique in that you can use ai
-to evolve the state of the art in nuclear technology, in delivery technology, and intelligence
+to evolve the state of the [[art]] in nuclear technology, in delivery technology, and intelligence
 technology, and bio and cyber and literally all of them. so it is unique in its omnipurpose potential
 in that way. because of course all those other technologies
 were developed by human intelligence. [7373](https://www.youtube.com/watch?v=g7WtcTATa2U&t=7373.699s)
@@ -1679,7 +1679,7 @@ famous image of, i don't know who had edwin though. so that is a – many of the
 had parents that were very actively involved, [8074](https://www.youtube.com/watch?v=g7WtcTATa2U&t=8074.4s)
 
 scientists, philosophers, thinkers, you know. but if you think about why marcus aurelius
-dedicated the whole first chapter of meditations to his tutors, and if you think about how
+dedicated the whole first chapter of [[meditation|meditations]] to his tutors, and if you think about how
 the dalai lama was conditioned where you find this three-year-old boy and have the top lamas
 in all of tibet to do everything, that is the whole canon of knowledge. of course, if that was applied to everybody,
 we'd have a very different world, right? and i think this is a very interesting insight
@@ -1800,7 +1800,7 @@ into risk assessment, i had times where corporations asked me to come do risk as
 or process. [8708](https://www.youtube.com/watch?v=g7WtcTATa2U&t=8708.52s)
 
 and then when i did an honest risk assessment,
-they were not happy because what they wanted me to do was some kind of box checking exercise
+they were not happy because what they wanted me to do was some kind of box checking [[exercise]]
 that wouldn't cost them very much and wouldn't limit what they were going to do. so they had [[plausible deniability]] to say they
 had done the thing and move forward quickly. because what they didn't want was for me to
 say, actually, there is no way for you to pursue the market viability of this that does
@@ -2595,7 +2595,7 @@ regress happening like in demand. [12569](https://www.youtube.com/watch?v=g7WtcT
 
 so for instance, we generally think like it
 has to be malthusian and the more that we use, the more the demand for that increases. and that's obviously removing some of the
-more scarce objects like art and gold, which their value comes from scarcity. but there is like the largest health trend
+more scarce objects like [[art]] and gold, which their value comes from scarcity. but there is like the largest health trend
 right now is fasting. it's like we've gotten so much food that we're
 like, let's just not have any food. and then there's also recycling. like, just imagine that we think about recycling
 at all. so there is some recognition that, hey, look,
@@ -2726,7 +2726,7 @@ and how it applies to our current unprecedented situation, we at least hope to u
 the interconnectedness of the factors at play in ai development. [13222](https://www.youtube.com/watch?v=g7WtcTATa2U&t=13222.92s)
 
 for instance, addressing ai risks can involve
-analyzing multi-agent systems, considering network effects, and potential feedback loops,
+analyzing multi-agent systems, considering [[network effect|network effects]], and potential feedback loops,
 which iain mcgilchrist would argue greatly benefits from your right hemisphere's contextual
 understanding. we do not think ourselves into a new way of
 living. we live ourselves into a new way of thinking. you could say, and i talked to ian about this,
@@ -2883,7 +2883,7 @@ bound together is adjectival or the intensity is adverbial or the other way arou
 be brought. that is adverbial. [13980](https://www.youtube.com/watch?v=g7WtcTATa2U&t=13980.189s)
 
 that's what john called adverbial consciousness. and he has a whole argument as to why, especially through what's called the pure
-consciousness event that's achieved in meditation and several other things, there's a differentiation but what he calls the indexing function of
+consciousness event that's achieved in [[meditation]] and several other things, there's a differentiation but what he calls the indexing function of
 consciousness, which basically is the framing. you bring, you index, you say that thing without specifying what the thing is. okay, it's the that thing that brings it. [14003](https://www.youtube.com/watch?v=g7WtcTATa2U&t=14003.89s)
 
 and then you then discriminate on the properties. that's the different pixel shapes that give rise to a form, that give rise to an experience quality, and that's the adjectival
@@ -3114,7 +3114,7 @@ biomass of animals and [[factory farm|factory farms]] than there are in the wild
 of [[species extinction]] or what the risks associated with rapid development of decentralizing synthetic
 biology and ai are. you hear these things, you're like, fuck,
 and it connects you to what is most important beyond your own narrow life or even the politics
-that is coming into your stream. or whether it's when you have a deep meditation
+that is coming into your stream. or whether it's when you have a deep [[meditation]]
 or a medicine journey or whatever it is and connect to what is most meaningful. design your life in a way where that experience
 happens regularly. [15253](https://www.youtube.com/watch?v=g7WtcTATa2U&t=15253.81s)
 

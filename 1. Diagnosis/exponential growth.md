@@ -9,6 +9,6 @@ Exponential growth occurs when a population of something, such as a species or a
 > [[exponential tech]], [[nonlinear dynamics]], [[complexity science]], [[network theory]], [[exponential curve]]
 
 > [!info] Podcasts mentioning this term most frequently
+> * [[The Metacrisis: Making Sense in a Nonsensical World with Daniel Schmachtenberger & Thomas Ermacora]] (8)
 > * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 1)]] (7)
-> * [[SURVIVING the God-Like Technology That Can Kill Us All – Daniel Schmachtenberger on AMP]] (5)
 > * [[Daniel Schmachtenberger: Bend not Break: Maximum Power & Hyper Agents – The Great Simplification 20]] (5)

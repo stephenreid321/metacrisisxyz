@@ -9,6 +9,6 @@ Music is an art form consisting of inherent emotional expression through timbre,
 > [[art]], [[network theory]], [[game theory]], [[decision making]], [[social media]]
 
 > [!info] Podcasts mentioning this term most frequently
+> * [[The Last Campfire: Highlights (our final film!)]] (31)
+> * [[What's Important?  Conversation at NAV]] (31)
 > * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 1)]] (19)
-> * [[SURVIVING the God-Like Technology That Can Kill Us All – Daniel Schmachtenberger on AMP]] (12)
-> * [[War on Sensemaking V, Daniel Schmachtenberger]] (11)

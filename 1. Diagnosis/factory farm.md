@@ -11,4 +11,4 @@ Factory Farms are industrial-scale agricultural production facilities that are c
 > [!info] Podcasts mentioning this term most frequently
 > * [["Learning to be in the world" Dinner&Talk @NAV with Nora Bateson & Daniel Schmachtenberger  HD1080p]] (15)
 > * [[Daniel Schmachtenberger: "Sensemaking, Uncertainty, and Purpose” – The Great Simplification 31]] (7)
-> * [[Daniel Schmachtenberger: Ai Wars & The Metacrisis]] (6)
+> * [[The Metacrisis: Making Sense in a Nonsensical World with Daniel Schmachtenberger & Thomas Ermacora]] (7)

@@ -11,4 +11,4 @@ Basic Income is an economic system that guarantees a minimum wage to all citizen
 > [!info] Podcasts mentioning this term most frequently
 > * [[Upgrade Your Consciousness - Daniel Schmachtenberger]] (2)
 > * [[MetacrisisDAO with Daniel Schmachtenberger – Green Pill 84]] (2)
-> * [[A History of Racial Conflict w  Daniel Schmachtenberger and Gilbert Morris]] (1)
+> * [[The Metacrisis: Making Sense in a Nonsensical World with Daniel Schmachtenberger & Thomas Ermacora]] (2)

@@ -55,7 +55,7 @@ humanity actually becomes a thing it actually becomes an [[emergent property]] r
 
 consciously self-organizing if we cherry pick from the huge data sets about where humanity is going right now we can see that things are exponentially changing which means changing it more and more rapid and more and more significant rates and you can cherry pick metrics where things are getting exponentially better and that's true and other things are getting [529](https://www.youtube.com/watch?v=nOnyWZMvkg4&t=529.74s)
 
-exponentially worse and that's also true then that doesn't mean things are getting better or worse it means the current system is destabilizing music and that means [[self-terminating]] and then we either have a discrete phase shift to a lower order entropic system or the emergence of a higher order system that [552](https://www.youtube.com/watch?v=nOnyWZMvkg4&t=552.24s)
+exponentially worse and that's also true then that doesn't mean things are getting better or worse it means the current system is destabilizing [[music]] and that means [[self-terminating]] and then we either have a discrete phase shift to a lower order entropic system or the emergence of a higher order system that [552](https://www.youtube.com/watch?v=nOnyWZMvkg4&t=552.24s)
 
 is foundationally different than the current system we have now what's so interesting is there used to be such a thing as local problems when gandhi was working with home rule for india it was largely in thought of as an indian problem and it didn't directly affect everybody right when people in the u.s wanted to or who founded the u.s wanted to leave british [575](https://www.youtube.com/watch?v=nOnyWZMvkg4&t=575.64s)
 
@@ -65,7 +65,7 @@ infrastructure and technology is made to where we have all global issues and the
 
 those kinds of things the data science the technology that could build something fundamentally new what that means is we have the most significant work that humanity has ever had with the most significant capabilities which also means the most potential to impact the biggest picture that any [634](https://www.youtube.com/watch?v=nOnyWZMvkg4&t=634.74s)
 
-humans have ever had music it's easy to think about that and then get caught back into like you gotta do next as part of to win at the current system that is going extinct but winning at a system that is obsoleting the capability of life on earth to continue winning at a dying system is not an interesting win right if you ever think [655](https://www.youtube.com/watch?v=nOnyWZMvkg4&t=655.38s)
+humans have ever had [[music]] it's easy to think about that and then get caught back into like you gotta do next as part of to win at the current system that is going extinct but winning at a system that is obsoleting the capability of life on earth to continue winning at a dying system is not an interesting win right if you ever think [655](https://www.youtube.com/watch?v=nOnyWZMvkg4&t=655.38s)
 
 about the definition of heaven where you're in heaven and there are people in hell and you're happy you have to be a psychopath you have to be able to separate from the experience of other sentient things enough that you can be totally stoked with that level of suffering well the idea in this world that the level of intensity of suffering that's [677](https://www.youtube.com/watch?v=nOnyWZMvkg4&t=677.519s)
 

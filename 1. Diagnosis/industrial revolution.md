@@ -11,4 +11,4 @@ The Industrial Revolution, a period of rapid advances in industrial production a
 > [!info] Podcasts mentioning this term most frequently
 > * [[Daniel Schmachtenberger: "Modeling the Drivers of the Metacrisis” – The Great Simplification 42]] (6)
 > * [[Daniel Schmachtenberger: Ai Wars & The Metacrisis]] (4)
-> * [[Daniel Schmachtenberger: Steering Civilization Away from Self-Destruction – Lex Fridman Podcast 191]] (3)
+> * [[Daniel Schmachtenberger l An introduction to the Metacrisis l Stockholm Impact Week 2023]] (4)

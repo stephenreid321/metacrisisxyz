@@ -12,7 +12,7 @@ class Transcript < MarkdownRecord
 
   def self.get_published_at(r: nil, youtube_id: nil)
     r ||= Faraday.get("https://www.youtube.com/watch?v=#{youtube_id}")
-    r.body.match(/<meta itemprop="datePublished" content="([\d-]+)">/)[1]
+    r.body.match(/<meta itemprop="datePublished" content="(.+?)">/)[1]
   end
 
   def self.existing_youtube_ids
@@ -44,8 +44,7 @@ class Transcript < MarkdownRecord
 
         xml = File.read("_transcripts/#{youtube_id}.xml")
       else
-        r = Faraday.get("https://youtubetranscript.com/?server_vid=#{youtube_id}")
-        xml = r.body
+        xml = `python _scripts/youtube_transcript.py #{youtube_id}`
         File.write("_transcripts/#{youtube_id}.xml", xml)
       end
 

@@ -9,3 +9,4 @@ Plant medicine is an umbrella term referring to the use of medicinal plants for 
 > [[psychedelics]], [[liquid democracy]], [[permaculture]], [[regenerative agriculture]], [[meditation]]
 
 > [!info] Podcasts mentioning this term most frequently
+> * [[Daniel Schmachtenberger: Ai Wars & The Metacrisis]] (1)

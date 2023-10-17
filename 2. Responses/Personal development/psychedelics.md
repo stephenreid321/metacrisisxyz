@@ -10,5 +10,5 @@ Psychedelics are a class of psychoactive compounds with the ability to induce al
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[43: Daniel Schmachtenberger - Neurohacking & Neurogenesis]] (10)
+> * [[The Last Campfire: Highlights (our final film!)]] (7)
 > * [[SURVIVING the God-Like Technology That Can Kill Us All – Daniel Schmachtenberger on AMP]] (6)
-> * [[Daniel Schmachtenberger: "Sensemaking, Uncertainty, and Purpose” – The Great Simplification 31]] (5)

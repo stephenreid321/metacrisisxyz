@@ -11,4 +11,4 @@ A nuclear weapon is an explosive device that derives its destructive power from 
 > [!info] Podcasts mentioning this term most frequently
 > * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 1)]] (8)
 > * [[Daniel Schmachtenberger: Steering Civilization Away from Self-Destruction – Lex Fridman Podcast 191]] (3)
-> * [[Will human civilization destroy itself? – Daniel Schmachtenberger and Lex Fridman]] (2)
+> * [[Daniel Schmachtenberger: Ai Wars & The Metacrisis]] (2)

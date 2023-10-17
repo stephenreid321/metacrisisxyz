@@ -10,5 +10,5 @@ Institutional decay is the gradual or sudden deterioration of the functioning of
 
 > [!info] Podcasts mentioning this term most frequently
 > * [[rp daily: a conversation that will blow your mind with Daniel Schmachtenberger]] (4)
+> * [[Covid 19 Situational Assessment, Risk Landscape & Possible Solutions, Daniel Schmachtenberger]] (3)
 > * [[Addressing the Sensemaking Crisis: The Consilience Project w  Daniel Schmachtenberger @ Dent]] (3)
-> * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 2)]] (3)

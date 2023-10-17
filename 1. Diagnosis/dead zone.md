@@ -9,6 +9,6 @@ Dead zones refer to regions of the ocean depleted of the dissolved oxygen necess
 > [[dead zone: biodiversity loss]], [[climate change]], [[catastrophic risk]], [[industrial revolution]], [[systems thinking]]
 
 > [!info] Podcasts mentioning this term most frequently
+> * [[The Metacrisis: Making Sense in a Nonsensical World with Daniel Schmachtenberger & Thomas Ermacora]] (5)
 > * [[The Power of Gods with Daniel Schmachtenberger S2 [Ep 16]]] (5)
 > * [[The Metacrisis with Daniel Schmachtenberger – Part 1 – Green Pill 26]] (4)
-> * [[In Search of the Third Attractor, Daniel Schmachtenberger (part 1)]] (3)
