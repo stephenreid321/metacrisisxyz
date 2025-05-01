@@ -1,6 +1,6 @@
 This is a Ruby/OpenAI-enhanced Obsidian knowledgebase for [metacrisis.xyz](https://metacrisis.xyz/).
 
-📰 Sign up the metacrisis.xyz newsletter at https://paragraph.com/@metacrisisxyz
+📰 Sign up the metacrisis.xyz newsletter at https://paragraph.com/@metacrisisxyz  
 💬 Questions/comments? Email hello@metacrisis.xyz  
 👾 Github repo for this knowledgebase (PRs welcome): https://github.com/stephenreid321/metacrisisxyz
 
